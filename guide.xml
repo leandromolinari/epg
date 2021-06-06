@@ -672,26 +672,32 @@
   </channel>
   <channel id="CNN Internacional">
     <display-name lang="pt">CNN Internacional</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnn.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Deutsche Welle">
     <display-name lang="pt">Deutsche Welle</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dwl.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Fox News">
     <display-name lang="pt">Fox News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fne.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Globo News">
     <display-name lang="pt">Globo News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gln.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Tele Sur">
     <display-name lang="pt">Tele Sur</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tls.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band Rede">
     <display-name lang="pt">Band Rede</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ban.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal 21">
@@ -43663,5 +43669,1402 @@
     <desc lang="pt">Um programa com um ambiente propício à confissão que acolhe as figuras mais importantes da política, cultura, ciência, desporto e entretenimento, onde a dignidade do entrevistado nunca será comprometida.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605210000 -0300" stop="20210605213000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605213000 -0300" stop="20210605220000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605220000 -0300" stop="20210605223000 -0300" channel="CNN Internacional">
+    <title lang="pt">Feature Program</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210605223000 -0300" stop="20210605230000 -0300" channel="CNN Internacional">
+    <title lang="pt">Feature Program</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210605230000 -0300" stop="20210605233000 -0300" channel="CNN Internacional">
+    <title lang="pt">Monthly Feature</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210605233000 -0300" stop="20210606000000 -0300" channel="CNN Internacional">
+    <title lang="pt">African Voices</title>
+    <desc lang="pt">African Voices é uma produção única que apresenta, através de entrevistas, as personalidades em destaque no continente africano.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606000000 -0300" stop="20210606003000 -0300" channel="CNN Internacional">
+    <title lang="pt">Inside Africa</title>
+    <desc lang="pt">Programa de meia hora sobre atualidades da semana que proporciona uma visão mais detalhada sobre assuntos africanos nos âmbitos político, econômico, social e cultural.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606003000 -0300" stop="20210606010000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Marketplace Africa</title>
+    <desc lang="pt">Acompanhe as macrotendências que afetam a região e fique por dentro dos perfis das principais indústrias e corporações do continente.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606010000 -0300" stop="20210606013000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606013000 -0300" stop="20210606014500 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606014500 -0300" stop="20210606020000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606020000 -0300" stop="20210606023000 -0300" channel="CNN Internacional">
+    <title lang="pt">Monthly Feature</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606023000 -0300" stop="20210606030000 -0300" channel="CNN Internacional">
+    <title lang="pt">African Voices</title>
+    <desc lang="pt">African Voices é uma produção única que apresenta, através de entrevistas, as personalidades em destaque no continente africano.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606030000 -0300" stop="20210606033000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606033000 -0300" stop="20210606034500 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606034500 -0300" stop="20210606040000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606040000 -0300" stop="20210606043000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606043000 -0300" stop="20210606050000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606050000 -0300" stop="20210606053000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606053000 -0300" stop="20210606060000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606060000 -0300" stop="20210606063000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606063000 -0300" stop="20210606070000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606070000 -0300" stop="20210606073000 -0300" channel="CNN Internacional">
+    <title lang="pt">Monthly Feature</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606073000 -0300" stop="20210606080000 -0300" channel="CNN Internacional">
+    <title lang="pt">African Voices</title>
+    <desc lang="pt">African Voices é uma produção única que apresenta, através de entrevistas, as personalidades em destaque no continente africano.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606080000 -0300" stop="20210606083000 -0300" channel="CNN Internacional">
+    <title lang="pt">New Day</title>
+    <desc lang="pt">Chris Cuomo, Kate Bolduan e Michaela Pereira mostram as últimas notícias e a previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606083000 -0300" stop="20210606090000 -0300" channel="CNN Internacional">
+    <title lang="pt">New Day</title>
+    <desc lang="pt">Chris Cuomo, Kate Bolduan e Michaela Pereira mostram as últimas notícias e a previsão do tempo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606090000 -0300" stop="20210606093000 -0300" channel="CNN Internacional">
+    <title lang="pt">Inside Politics</title>
+    <desc lang="pt">Veja as notícias e reportagens mais destacados no âmbito político mundial.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606093000 -0300" stop="20210606100000 -0300" channel="CNN Internacional">
+    <title lang="pt">Inside Politics</title>
+    <desc lang="pt">Veja as notícias e reportagens mais destacados no âmbito político mundial.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606100000 -0300" stop="20210606103000 -0300" channel="CNN Internacional">
+    <title lang="pt">State of the Union</title>
+    <desc lang="pt">A jornalista da CNN Candy Crowley faz uma análise profunda das entrevistas com políticos e personalidades que fazem as manchetes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606103000 -0300" stop="20210606110000 -0300" channel="CNN Internacional">
+    <title lang="pt">State of the Union</title>
+    <desc lang="pt">A jornalista da CNN Candy Crowley faz uma análise profunda das entrevistas com políticos e personalidades que fazem as manchetes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606110000 -0300" stop="20210606113000 -0300" channel="CNN Internacional">
+    <title lang="pt">Fareed Zakaria GPS</title>
+    <desc lang="pt">Um programa semanal de uma hora que abrange assuntos internacionais e as políticas que governam o nosso mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606113000 -0300" stop="20210606114500 -0300" channel="CNN Internacional">
+    <title lang="pt">Fareed Zakaria GPS</title>
+    <desc lang="pt">Um programa semanal de uma hora que abrange assuntos internacionais e as políticas que governam o nosso mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606114500 -0300" stop="20210606120000 -0300" channel="CNN Internacional">
+    <title lang="pt">Fareed Zakaria GPS</title>
+    <desc lang="pt">Um programa semanal de uma hora que abrange assuntos internacionais e as políticas que governam o nosso mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606120000 -0300" stop="20210606123000 -0300" channel="CNN Internacional">
+    <title lang="pt">Reliable Sources</title>
+    <desc lang="pt">O programa analisa a cobertura da mídia como um todo. As discussões giram em torno da imparcialidade e objetividade da mídia e o apresentador entrevista jornalistas das principais emissoras de televisão e jornais.(n)</desc>
+    <credits>
+      <actor>Brian Stelter</actor>
+      <actor>Howard Kurtz</actor>
+      <actor>Carl Bernstein</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606123000 -0300" stop="20210606130000 -0300" channel="CNN Internacional">
+    <title lang="pt">Reliable Sources</title>
+    <desc lang="pt">O programa analisa a cobertura da mídia como um todo. As discussões giram em torno da imparcialidade e objetividade da mídia e o apresentador entrevista jornalistas das principais emissoras de televisão e jornais.(n)</desc>
+    <credits>
+      <actor>Brian Stelter</actor>
+      <actor>Howard Kurtz</actor>
+      <actor>Carl Bernstein</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606130000 -0300" stop="20210606134500 -0300" channel="CNN Internacional">
+    <title lang="pt">World Sport Live</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20210606134500 -0300" stop="20210606140000 -0300" channel="CNN Internacional">
+    <title lang="pt">Inside Africa</title>
+    <desc lang="pt">Programa de meia hora sobre atualidades da semana que proporciona uma visão mais detalhada sobre assuntos africanos nos âmbitos político, econômico, social e cultural.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606140000 -0300" stop="20210606143000 -0300" channel="CNN Internacional">
+    <title lang="pt">Monthly Feature</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606143000 -0300" stop="20210606150000 -0300" channel="CNN Internacional">
+    <title lang="pt">African Voices</title>
+    <desc lang="pt">African Voices é uma produção única que apresenta, através de entrevistas, as personalidades em destaque no continente africano.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606150000 -0300" stop="20210606153000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606153000 -0300" stop="20210606160000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606160000 -0300" stop="20210606163000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606163000 -0300" stop="20210606164500 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606164500 -0300" stop="20210606170000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606170000 -0300" stop="20210606173000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606173000 -0300" stop="20210606180000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606180000 -0300" stop="20210606183000 -0300" channel="CNN Internacional">
+    <title lang="pt">World Sport Live</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20210606183000 -0300" stop="20210606190000 -0300" channel="CNN Internacional">
+    <title lang="pt">Monthly Feature</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606190000 -0300" stop="20210606193000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606193000 -0300" stop="20210606200000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606200000 -0300" stop="20210606203000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606203000 -0300" stop="20210606210000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606210000 -0300" stop="20210606213000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606213000 -0300" stop="20210606220000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Newsroom</title>
+    <desc lang="pt">Um time de âncoras que inclui nomes como Carol Costello, Drew Griffin e Don Lemon apresenta a cobertura dos principais assuntos do momento.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606220000 -0300" stop="20210606223000 -0300" channel="CNN Internacional">
+    <title lang="pt">Fareed Zakaria GPS</title>
+    <desc lang="pt">Um programa semanal de uma hora que abrange assuntos internacionais e as políticas que governam o nosso mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606223000 -0300" stop="20210606230000 -0300" channel="CNN Internacional">
+    <title lang="pt">Fareed Zakaria GPS</title>
+    <desc lang="pt">Um programa semanal de uma hora que abrange assuntos internacionais e as políticas que governam o nosso mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606230000 -0300" stop="20210606233000 -0300" channel="CNN Internacional">
+    <title lang="pt">Inside Africa</title>
+    <desc lang="pt">Programa de meia hora sobre atualidades da semana que proporciona uma visão mais detalhada sobre assuntos africanos nos âmbitos político, econômico, social e cultural.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606233000 -0300" stop="20210607000000 -0300" channel="CNN Internacional">
+    <title lang="pt">CNN Marketplace Africa</title>
+    <desc lang="pt">Acompanhe as macrotendências que afetam a região e fique por dentro dos perfis das principais indústrias e corporações do continente.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605210000 -0300" stop="20210605213000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Kulturzeit</title>
+    <desc lang="pt">Revista cultural que trata de assuntos culturais e sociopolíticos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210605213000 -0300" stop="20210605220000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Fit Und Gesund</title>
+    <desc lang="pt">Especialistas em saúde apresentam sugestões médicas valiosas e os tratamentos disponíveis para diversas doenças, além de mostrar maneiras de melhorar sua condição física.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20210605220000 -0300" stop="20210605221500 -0300" channel="Deutsche Welle">
+    <title lang="pt">World Stories</title>
+    <desc lang="pt">As histórias mais importantes da semana contadas por repórteres do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605221500 -0300" stop="20210605223000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Shift</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210605223000 -0300" stop="20210605230000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Glaubenssachen</title>
+    <desc lang="pt">A partir do cotidiano de cristãos e do trabalho das instituições religiosas na Alemanha e no exterior, o programa aborda também aspectos religiosos que afetam pessoas de todo o mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20210605230000 -0300" stop="20210605234500 -0300" channel="Deutsche Welle">
+    <title lang="pt">DokFilm</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210605234500 -0300" stop="20210606001500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Euromaxx</title>
+    <desc lang="pt">O Euromaxx é o magazine diário do estilo de vida da DW. O programa mostra a Europa em toda sua diversidade: países e costumes, fatos e imagens, gente e glamour.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606001500 -0300" stop="20210606010000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Europe in Concert</title>
+    <desc lang="pt">Os melhores e mais emocionantes concertos do pop e do rock, gravados sem cortes.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20210606010000 -0300" stop="20210606011500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Reporter</title>
+    <desc lang="pt">Com uma câmera na mão, os repórteres registram sucessos da atualidade, os acontecimentos internacionais ou as curiosidades da vida cotidiana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606011500 -0300" stop="20210606013000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Frag den Lesch</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606013000 -0300" stop="20210606020000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Druckfrisch</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606020000 -0300" stop="20210606030000 -0300" channel="Deutsche Welle">
+    <title lang="pt">ZDF@Bauhaus</title>
+    <credits>
+      <actor>Jo Schück</actor>
+      <actor>Christina Stürmer</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606030000 -0300" stop="20210606031500 -0300" channel="Deutsche Welle">
+    <title lang="pt">DW News</title>
+    <desc lang="pt">Acompanhe as notícias da Europa.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606031500 -0300" stop="20210606033000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Reporter</title>
+    <desc lang="pt">Com uma câmera na mão, os repórteres registram sucessos da atualidade, os acontecimentos internacionais ou as curiosidades da vida cotidiana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606033000 -0300" stop="20210606040000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Euromaxx</title>
+    <desc lang="pt">O Euromaxx é o magazine diário do estilo de vida da DW. O programa mostra a Europa em toda sua diversidade: países e costumes, fatos e imagens, gente e glamour.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606040000 -0300" stop="20210606041500 -0300" channel="Deutsche Welle">
+    <title lang="pt">DW News</title>
+    <desc lang="pt">Acompanhe as notícias da Europa.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606041500 -0300" stop="20210606043000 -0300" channel="Deutsche Welle">
+    <title lang="pt">World Stories</title>
+    <desc lang="pt">As histórias mais importantes da semana contadas por repórteres do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606043000 -0300" stop="20210606050000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Arts.21</title>
+    <desc lang="pt">Programa sobre a cultura de um país que tem mais a oferecer do que os clássicos de Beethoven.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Artes</category>
+  </programme>
+  <programme start="20210606050000 -0300" stop="20210606051500 -0300" channel="Deutsche Welle">
+    <title lang="pt">DW News</title>
+    <desc lang="pt">Acompanhe as notícias da Europa.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606051500 -0300" stop="20210606060000 -0300" channel="Deutsche Welle">
+    <title lang="pt">DocFilm</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606060000 -0300" stop="20210606061500 -0300" channel="Deutsche Welle">
+    <title lang="pt">DW News</title>
+    <desc lang="pt">Acompanhe as notícias da Europa.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606061500 -0300" stop="20210606063000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Shift</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606063000 -0300" stop="20210606070000 -0300" channel="Deutsche Welle">
+    <title lang="pt">The 77 Percent</title>
+    <desc lang="pt">Jovens africanos compartilham suas histórias, seus sonhos e seus desafios.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606070000 -0300" stop="20210606070300 -0300" channel="Deutsche Welle">
+    <title lang="pt">Tagesschau in 100 Sekunden</title>
+    <desc lang="pt">Fique por dentro dos acontecimentos mais importantes do dia em mensagens de poucas palavras.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606070300 -0300" stop="20210606071500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Reporter</title>
+    <desc lang="pt">Com uma câmera na mão, os repórteres registram sucessos da atualidade, os acontecimentos internacionais ou as curiosidades da vida cotidiana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606071500 -0300" stop="20210606073000 -0300" channel="Deutsche Welle">
+    <title lang="pt">World Stories</title>
+    <desc lang="pt">As histórias mais importantes da semana contadas por repórteres do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606073000 -0300" stop="20210606080000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Kulturzeit</title>
+    <desc lang="pt">Revista cultural que trata de assuntos culturais e sociopolíticos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606080000 -0300" stop="20210606090000 -0300" channel="Deutsche Welle">
+    <title lang="pt">ZDF@Bauhaus</title>
+    <credits>
+      <actor>Jo Schück</actor>
+      <actor>Christina Stürmer</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606090000 -0300" stop="20210606093000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Kochen mit Martina &amp; Moritz</title>
+    <desc lang="pt">Os chefs Martina Meuth e "Moritz" Bernd Neuner-Duttenhöfer apresentam seus pratos prediletos e revelam como eles são preparados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20210606093000 -0300" stop="20210606100000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Druckfrisch</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606100000 -0300" stop="20210606100300 -0300" channel="Deutsche Welle">
+    <title lang="pt">Tagesschau in 100 Sekunden</title>
+    <desc lang="pt">Fique por dentro dos acontecimentos mais importantes do dia em mensagens de poucas palavras.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606100300 -0300" stop="20210606103000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Check-in</title>
+    <desc lang="pt">O programa mostra a cada edição uma cidade ou região da Alemanha que merece ser visitada. Conheça ainda o que há de interessante fora da Alemanha.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20210606103000 -0300" stop="20210606110000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Kulturzeit</title>
+    <desc lang="pt">Revista cultural que trata de assuntos culturais e sociopolíticos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606110000 -0300" stop="20210606111500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Frag den Lesch</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606111500 -0300" stop="20210606120000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Auf ein Wort</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606120000 -0300" stop="20210606120300 -0300" channel="Deutsche Welle">
+    <title lang="pt">Tagesschau in 100 Sekunden</title>
+    <desc lang="pt">Fique por dentro dos acontecimentos mais importantes do dia em mensagens de poucas palavras.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606120300 -0300" stop="20210606124500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Gottesdienst</title>
+    <desc lang="pt">Dentre os programas há mais tempo exibido pela televisão alemã, serviços religiosos das igrejas luterana e católica, são transmitidos regularmente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20210606124500 -0300" stop="20210606130000 -0300" channel="Deutsche Welle">
+    <title lang="pt">World Stories</title>
+    <desc lang="pt">As histórias mais importantes da semana contadas por repórteres do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606130000 -0300" stop="20210606133000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Euromaxx</title>
+    <desc lang="pt">O Euromaxx é o magazine diário do estilo de vida da DW. O programa mostra a Europa em toda sua diversidade: países e costumes, fatos e imagens, gente e glamour.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606133000 -0300" stop="20210606140000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Kulturzeit</title>
+    <desc lang="pt">Revista cultural que trata de assuntos culturais e sociopolíticos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606140000 -0300" stop="20210606140300 -0300" channel="Deutsche Welle">
+    <title lang="pt">Heute Xpress</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606140300 -0300" stop="20210606143000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Glaubenssachen</title>
+    <desc lang="pt">A partir do cotidiano de cristãos e do trabalho das instituições religiosas na Alemanha e no exterior, o programa aborda também aspectos religiosos que afetam pessoas de todo o mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20210606143000 -0300" stop="20210606153000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Bares für Rares</title>
+    <desc lang="pt">Lixo para uns, luxo para outros. Veja pessoas vendendo raridades por grandes quantias.(n)</desc>
+    <credits>
+      <actor>Wolfgang Pauritsch</actor>
+      <actor>Horst Lichter</actor>
+      <actor>Ludwig Hofmaier</actor>
+      <actor>Heide Rezepa-Zabel</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606153000 -0300" stop="20210606160000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Kultur.21</title>
+    <desc lang="pt">O Kultur.21 é um programa que reflete um país que tem muito mais a oferecer do que Beethoven e Bayreuth. O cenário cultural da Alemanha no século 21, é avançado, cosmopolita e abriga grandes festivais e feiras.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606160000 -0300" stop="20210606161500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Reporter</title>
+    <desc lang="pt">Com uma câmera na mão, os repórteres registram sucessos da atualidade, os acontecimentos internacionais ou as curiosidades da vida cotidiana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606161500 -0300" stop="20210606163000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Shift</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606163000 -0300" stop="20210606170000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Projekt Zukunft</title>
+    <desc lang="pt">O Projekt Zukunft dá uma visão panorâmica da paisagem científica na Europa. O programa trata de temas relativos a natureza, tecnologia, medicina e meio ambiente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Ciência</category>
+  </programme>
+  <programme start="20210606170000 -0300" stop="20210606173000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Check-in</title>
+    <desc lang="pt">O programa mostra a cada edição uma cidade ou região da Alemanha que merece ser visitada. Conheça ainda o que há de interessante fora da Alemanha.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20210606173000 -0300" stop="20210606183000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Verrückt nach Meer</title>
+    <credits>
+      <director>Jürgen Kinateder</director>
+      <actor>Voxxclub</actor>
+      <actor>Gloria Gray</actor>
+      <actor>Feuerherz</actor>
+      <actor>Julian David</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606183000 -0300" stop="20210606190000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Fit Und Gesund</title>
+    <desc lang="pt">Especialistas em saúde apresentam sugestões médicas valiosas e os tratamentos disponíveis para diversas doenças, além de mostrar maneiras de melhorar sua condição física.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20210606190000 -0300" stop="20210606191500 -0300" channel="Deutsche Welle">
+    <title lang="pt">World Stories</title>
+    <desc lang="pt">As histórias mais importantes da semana contadas por repórteres do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606191500 -0300" stop="20210606193000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Frag den Lesch</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606193000 -0300" stop="20210606200000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Druckfrisch</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606200000 -0300" stop="20210606210000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Bares für Rares</title>
+    <desc lang="pt">Lixo para uns, luxo para outros. Veja pessoas vendendo raridades por grandes quantias.(n)</desc>
+    <credits>
+      <actor>Wolfgang Pauritsch</actor>
+      <actor>Horst Lichter</actor>
+      <actor>Ludwig Hofmaier</actor>
+      <actor>Heide Rezepa-Zabel</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606210000 -0300" stop="20210606220000 -0300" channel="Deutsche Welle">
+    <title lang="pt">ZDF@Bauhaus</title>
+    <credits>
+      <actor>Jo Schück</actor>
+      <actor>Christina Stürmer</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606220000 -0300" stop="20210606221500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Reporter</title>
+    <desc lang="pt">Com uma câmera na mão, os repórteres registram sucessos da atualidade, os acontecimentos internacionais ou as curiosidades da vida cotidiana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606221500 -0300" stop="20210606230000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Wunderschön!</title>
+    <desc lang="pt">Conheça diferentes regiões e suas belezas cênicas e culturais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20210606230000 -0300" stop="20210606234500 -0300" channel="Deutsche Welle">
+    <title lang="pt">DokFilm</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606234500 -0300" stop="20210607001500 -0300" channel="Deutsche Welle">
+    <title lang="pt">Check-in</title>
+    <desc lang="pt">O programa mostra a cada edição uma cidade ou região da Alemanha que merece ser visitada. Conheça ainda o que há de interessante fora da Alemanha.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20210605210000 -0300" stop="20210605220000 -0300" channel="Fox News">
+    <title lang="pt">Proud American: A Tunnel to Towers Special</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210605220000 -0300" stop="20210605230000 -0300" channel="Fox News">
+    <title lang="pt">Justice with Judge Jeanine</title>
+    <desc lang="pt">A juíza Jeanine Pirro apresenta os aspectos legais das principais notícias da semana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605230000 -0300" stop="20210606000000 -0300" channel="Fox News">
+    <title lang="pt">Gutfeld!</title>
+    <desc lang="pt">Greg Gutfeld analisa as notícias do dia através de lentes satíricas fundidas com a cultura pop.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606000000 -0300" stop="20210606010000 -0300" channel="Fox News">
+    <title lang="pt">Proud American: A Tunnel to Towers Special</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606010000 -0300" stop="20210606020000 -0300" channel="Fox News">
+    <title lang="pt">Justice with Judge Jeanine</title>
+    <desc lang="pt">A juíza Jeanine Pirro apresenta os aspectos legais das principais notícias da semana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606020000 -0300" stop="20210606030000 -0300" channel="Fox News">
+    <title lang="pt">Gutfeld!</title>
+    <desc lang="pt">Greg Gutfeld analisa as notícias do dia através de lentes satíricas fundidas com a cultura pop.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606030000 -0300" stop="20210606040000 -0300" channel="Fox News">
+    <title lang="pt">Justice with Judge Jeanine</title>
+    <desc lang="pt">A juíza Jeanine Pirro apresenta os aspectos legais das principais notícias da semana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606040000 -0300" stop="20210606080000 -0300" channel="Fox News">
+    <title lang="pt">FOX &amp; Friends Sunday</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606080000 -0300" stop="20210606090000 -0300" channel="Fox News">
+    <title lang="pt">Sunday Morning Futures</title>
+    <desc lang="pt">Confira a análise dos desenvolvimentos da economia e entrevistas com líderes de negócios.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606090000 -0300" stop="20210606100000 -0300" channel="Fox News">
+    <title lang="pt">Mediabuzz</title>
+    <desc lang="pt">Confira a análise da cobertura midiática dos principais eventos da atualidade e seus impactos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606100000 -0300" stop="20210606120000 -0300" channel="Fox News">
+    <title lang="pt">Fox News Live</title>
+    <desc lang="pt">Um formato de notícias que visa fornecer mais notícia e menos comentário, liderado pelos âncoras Jon Scott, Brigitte Quinn, David Asman, Martha MacCallum e Bill Hemmer. Análises e entrevistas dão ampla cobertura dos destaques do dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606120000 -0300" stop="20210606130000 -0300" channel="Fox News">
+    <title lang="pt">Fox News Sunday</title>
+    <desc lang="pt">Confira uma análise dos principais noticiários e eventos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606130000 -0300" stop="20210606140000 -0300" channel="Fox News">
+    <title lang="pt">Sunday Morning Futures</title>
+    <desc lang="pt">Confira a análise dos desenvolvimentos da economia e entrevistas com líderes de negócios.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606140000 -0300" stop="20210606150000 -0300" channel="Fox News">
+    <title lang="pt">Fox News Live</title>
+    <desc lang="pt">Um formato de notícias que visa fornecer mais notícia e menos comentário, liderado pelos âncoras Jon Scott, Brigitte Quinn, David Asman, Martha MacCallum e Bill Hemmer. Análises e entrevistas dão ampla cobertura dos destaques do dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606150000 -0300" stop="20210606160000 -0300" channel="Fox News">
+    <title lang="pt">The Big Sunday Show</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606160000 -0300" stop="20210606170000 -0300" channel="Fox News">
+    <title lang="pt">Fox Report with Jon Scott</title>
+    <desc lang="pt">Acompanhe as últimas notícias e também as análises.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606170000 -0300" stop="20210606180000 -0300" channel="Fox News">
+    <title lang="pt">Justice with Judge Jeanine</title>
+    <desc lang="pt">A juíza Jeanine Pirro apresenta os aspectos legais das principais notícias da semana.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606180000 -0300" stop="20210606190000 -0300" channel="Fox News">
+    <title lang="pt">Life, Liberty &amp; Levin</title>
+    <desc lang="pt">Mark se junta ao jornalista Jason Whitlock e ao deputado Byron Donalds (Republicano da Flórida) para discutir suas opiniões sobre as relações raciais na América, cancelar a cultura e o declínio da liberdade.(n)</desc>
+    <credits>
+      <actor>Mark Levin</actor>
+      <actor>Benjamin Netanyahu</actor>
+      <actor>Devin Nunes</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20210606190000 -0300" stop="20210606200000 -0300" channel="Fox News">
+    <title lang="pt">The Next Revolution</title>
+    <desc lang="pt">Steve Hilton analisa com profundidade os impactos do populismo nos Estados Unidos e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606200000 -0300" stop="20210606210000 -0300" channel="Fox News">
+    <title lang="pt">Modern Warriors</title>
+    <desc lang="pt">Quatro heróis militares relembraram a guerra e por que eles serviram em "Modern Warriors", um especial do Fox News Channel em homenagem ao Dia dos Veteranos.(n)</desc>
+    <credits>
+      <director>Peter Spirer</director>
+      <actor>Peter Aerts</actor>
+      <actor>Ron Balicki</actor>
+      <actor>David Carradine</actor>
+      <actor>Babatu Vita Casel</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Histórico</category>
+  </programme>
+  <programme start="20210606210000 -0300" stop="20210606220000 -0300" channel="Fox News">
+    <title lang="pt">Life, Liberty &amp; Levin</title>
+    <desc lang="pt">Mark se junta ao jornalista Jason Whitlock e ao deputado Byron Donalds (Republicano da Flórida) para discutir suas opiniões sobre as relações raciais na América, cancelar a cultura e o declínio da liberdade.(n)</desc>
+    <credits>
+      <actor>Mark Levin</actor>
+      <actor>Benjamin Netanyahu</actor>
+      <actor>Devin Nunes</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20210606220000 -0300" stop="20210606230000 -0300" channel="Fox News">
+    <title lang="pt">The Next Revolution</title>
+    <desc lang="pt">Steve Hilton analisa com profundidade os impactos do populismo nos Estados Unidos e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606230000 -0300" stop="20210607000000 -0300" channel="Fox News">
+    <title lang="pt">Modern Warriors</title>
+    <desc lang="pt">Quatro heróis militares relembraram a guerra e por que eles serviram em "Modern Warriors", um especial do Fox News Channel em homenagem ao Dia dos Veteranos.(n)</desc>
+    <credits>
+      <director>Peter Spirer</director>
+      <actor>Peter Aerts</actor>
+      <actor>Ron Balicki</actor>
+      <actor>David Carradine</actor>
+      <actor>Babatu Vita Casel</actor>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Histórico</category>
+  </programme>
+  <programme start="20210605210000 -0300" stop="20210605220000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+    <credits>
+      <actor>Glória Maria</actor>
+      <actor>Sandra Annenberg</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210605220000 -0300" stop="20210605230000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605230000 -0300" stop="20210606000000 -0300" channel="Globo News">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.(n)</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20210606000000 -0300" stop="20210606013000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição da Meia-Noite - Ao Vivo</title>
+    <desc lang="pt">O que foi destaque ao longo do dia e o que será manchete amanhã.(n)</desc>
+    <credits>
+      <actor>Erick Bang</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606013000 -0300" stop="20210606020000 -0300" channel="Globo News">
+    <title lang="pt">Papo de Política</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606020000 -0300" stop="20210606030000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+    <credits>
+      <actor>Glória Maria</actor>
+      <actor>Sandra Annenberg</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210606030000 -0300" stop="20210606042000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição das 03h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606042000 -0300" stop="20210606050000 -0300" channel="Globo News">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Com experiência de décadas de reportagem e o espírito curioso pela história do outro, Pedro Bial apresenta um amplo espaço para escutar, opinar e multiplicar opiniões.(n)</desc>
+    <credits>
+      <director>Monica Almeida</director>
+      <actor>Pedro Bial</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20210606050000 -0300" stop="20210606060000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606060000 -0300" stop="20210606073000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Documentário</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606073000 -0300" stop="20210606080000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição das 07h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606080000 -0300" stop="20210606100000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição das 08h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606100000 -0300" stop="20210606110500 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 10h - Ao Vivo</title>
+    <desc lang="pt">Notícias da manhã, debates interativos, previsão do tempo, prestação de serviços e colunas: consumidor, tecnologia, profissões, cultura e as datas marcantes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606110500 -0300" stop="20210606120000 -0300" channel="Globo News">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606120000 -0300" stop="20210606143000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição do Meio-Dia - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606143000 -0300" stop="20210606150000 -0300" channel="Globo News">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606150000 -0300" stop="20210606170000 -0300" channel="Globo News">
+    <title lang="pt">Jornal Globonews - Edição das 15h - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606170000 -0300" stop="20210606180000 -0300" channel="Globo News">
+    <title lang="pt">Globo Repórter</title>
+    <credits>
+      <actor>Glória Maria</actor>
+      <actor>Sandra Annenberg</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210606180000 -0300" stop="20210606220000 -0300" channel="Globo News">
+    <title lang="pt">Jornal GloboNews - Edição das 18h - Ao Vivo</title>
+    <desc lang="pt">Cobertura completa de tudo o que foi destaque ao longo do dia, no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606220000 -0300" stop="20210606230000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez - Ao Vivo</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606230000 -0300" stop="20210607003000 -0300" channel="Globo News">
+    <title lang="pt">GloboNews Documentário</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605205900 -0300" stop="20210605215900 -0300" channel="Tele Sur">
+    <title lang="pt">Guerra Psicológica</title>
+    <desc lang="pt">Esta série explora e expõe a história da propaganda nos Estados Unidos através do desenvolvimento de uma política de relações públicas eficazes, enfatizando a teoria elitista da democracia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210605215900 -0300" stop="20210605223000 -0300" channel="Tele Sur">
+    <title lang="pt">Reportajes TeleSUR</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605223000 -0300" stop="20210605230000 -0300" channel="Tele Sur">
+    <title lang="pt">Entre Fronteras</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210605230000 -0300" stop="20210605233000 -0300" channel="Tele Sur">
+    <title lang="pt">The Empire Files with Abby Martin</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210605233000 -0300" stop="20210606000000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606000000 -0300" stop="20210606003000 -0300" channel="Tele Sur">
+    <title lang="pt">Vidas</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210606003000 -0300" stop="20210606010000 -0300" channel="Tele Sur">
+    <title lang="pt">Síntesis</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606010000 -0300" stop="20210606013000 -0300" channel="Tele Sur">
+    <title lang="pt">Nuestra América Deportiva</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20210606013000 -0300" stop="20210606020000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606020000 -0300" stop="20210606023000 -0300" channel="Tele Sur">
+    <title lang="pt">Entrevista con Jorge Gestoso</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20210606023000 -0300" stop="20210606030000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606030000 -0300" stop="20210606033000 -0300" channel="Tele Sur">
+    <title lang="pt">Cruce de Palabras</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606033000 -0300" stop="20210606042900 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606042900 -0300" stop="20210606045900 -0300" channel="Tele Sur">
+    <title lang="pt">Reportajes TeleSUR</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606045900 -0300" stop="20210606053000 -0300" channel="Tele Sur">
+    <title lang="pt">Goles Al Bate</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20210606053000 -0300" stop="20210606060000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606060000 -0300" stop="20210606063000 -0300" channel="Tele Sur">
+    <title lang="pt">Guerra Psicológica</title>
+    <desc lang="pt">Esta série explora e expõe a história da propaganda nos Estados Unidos através do desenvolvimento de uma política de relações públicas eficazes, enfatizando a teoria elitista da democracia.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210606063000 -0300" stop="20210606070000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606070000 -0300" stop="20210606073000 -0300" channel="Tele Sur">
+    <title lang="pt">Síntesis</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606073000 -0300" stop="20210606083000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606083000 -0300" stop="20210606093000 -0300" channel="Tele Sur">
+    <title lang="pt">Congénero</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Revista Feminina</category>
+  </programme>
+  <programme start="20210606093000 -0300" stop="20210606100000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606100000 -0300" stop="20210606103000 -0300" channel="Tele Sur">
+    <title lang="pt">Entrevista con Jorge Gestoso</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20210606103000 -0300" stop="20210606110000 -0300" channel="Tele Sur">
+    <title lang="pt">Zona Verde</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20210606110000 -0300" stop="20210606113000 -0300" channel="Tele Sur">
+    <title lang="pt">Vidas</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210606113000 -0300" stop="20210606120000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606120000 -0300" stop="20210606123000 -0300" channel="Tele Sur">
+    <title lang="pt">Nuestra América Deportiva</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20210606123000 -0300" stop="20210606130000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606130000 -0300" stop="20210606143000 -0300" channel="Tele Sur">
+    <title lang="pt">Guía tu Cuerpo</title>
+    <desc lang="pt">Informativo que muestra desde una óptica propia y diferente la Salud en Latinoamérica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20210606143000 -0300" stop="20210606150000 -0300" channel="Tele Sur">
+    <title lang="pt">Cruce de Palabras</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606150000 -0300" stop="20210606153000 -0300" channel="Tele Sur">
+    <title lang="pt">Atomun</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606153000 -0300" stop="20210606160000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606160000 -0300" stop="20210606163000 -0300" channel="Tele Sur">
+    <title lang="pt">Goles Al Bate</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20210606163000 -0300" stop="20210606170000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606170000 -0300" stop="20210606173000 -0300" channel="Tele Sur">
+    <title lang="pt">Reportajes TeleSUR</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606173000 -0300" stop="20210606180000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606180000 -0300" stop="20210606183000 -0300" channel="Tele Sur">
+    <title lang="pt">Congénero</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Revista Feminina</category>
+  </programme>
+  <programme start="20210606183000 -0300" stop="20210606190000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606190000 -0300" stop="20210606193000 -0300" channel="Tele Sur">
+    <title lang="pt">The Empire Files with Abby Martin</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606193000 -0300" stop="20210606200000 -0300" channel="Tele Sur">
+    <title lang="pt">Vidas</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210606200000 -0300" stop="20210606203000 -0300" channel="Tele Sur">
+    <title lang="pt">Entre Fronteras</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606203000 -0300" stop="20210606210000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606210000 -0300" stop="20210606223000 -0300" channel="Tele Sur">
+    <title lang="pt">Documentales TeleSUR</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20210606223000 -0300" stop="20210606230000 -0300" channel="Tele Sur">
+    <title lang="pt">El Punto En La I</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606230000 -0300" stop="20210606233000 -0300" channel="Tele Sur">
+    <title lang="pt">Cruce de Palabras</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606233000 -0300" stop="20210607010000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605211000 -0300" stop="20210605220000 -0300" channel="Band Rede">
+    <title lang="pt">Igreja da Graça</title>
+    <desc lang="pt">Programa religioso comandado pelo Missionário R.R. Soares.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20210605220000 -0300" stop="20210605230000 -0300" channel="Band Rede">
+    <title lang="pt">Documento Band</title>
+    <desc lang="pt">Séries de reportagens especiais produzidas pelo jornalismo da Band.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210605230000 -0300" stop="20210605234500 -0300" channel="Band Rede">
+    <title lang="pt">The Blacklist</title>
+    <desc lang="pt">Raymond Reddington é um fugitivo que decide se entregar ao FBI e ajudar a prender criminosos internacionais em parceria com a agente Liz Keen.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Policial</category>
+  </programme>
+  <programme start="20210605234500 -0300" stop="20210606012000 -0300" channel="Band Rede">
+    <title lang="pt">SFT - MMA</title>
+    <desc lang="pt">As melhores lutas dos atletas que disputarão o SFT MMA.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20210606012000 -0300" stop="20210606030000 -0300" channel="Band Rede">
+    <title lang="pt">Cine Privé: Mistérios da Sedução</title>
+    <desc lang="pt">Um detetive suspeita que a esposa e a amante de um homem abusivo conspiraram para matá-lo.(n)</desc>
+    <credits>
+      <director>Ellyn Michaels</director>
+      <actor>Amy Rochelle</actor>
+      <actor>Michael Baci</actor>
+      <actor>Lauren Hays</actor>
+      <actor>Avalon Anders</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Erótico</category>
+  </programme>
+  <programme start="20210606030000 -0300" stop="20210606034500 -0300" channel="Band Rede">
+    <title lang="pt">Sex Privé Club</title>
+    <desc lang="pt">Programa que deixará sua madrugada de sábado ainda mais picante.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606034500 -0300" stop="20210606051500 -0300" channel="Band Rede">
+    <title lang="pt">Cinema na Madrugada: Turma da Luta</title>
+    <desc lang="pt">Uma turminha atrapalhada e preguiçosa precisa aprender a lutar caratê, em tempo recorde, para enfrentar os folgados e esnobes campeões nacionais.(n)</desc>
+    <credits>
+      <director>Phillip Rhee</director>
+      <actor>Phillip Rhee</actor>
+      <actor>Mirelly Taylor</actor>
+      <actor>Max Gail</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20210606051500 -0300" stop="20210606060000 -0300" channel="Band Rede">
+    <title lang="pt">+info</title>
+    <desc lang="pt">Reportagens especiais sobre todos ao assuntos, do Brasil e do Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20210606060000 -0300" stop="20210606083000 -0300" channel="Band Rede">
+    <title lang="pt">Local</title>
+    <desc lang="pt">Programa Local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606083000 -0300" stop="20210606110000 -0300" channel="Band Rede">
+    <title lang="pt">Fórmula 1 2021: GP do Azerbaijão - Ao Vivo</title>
+    <desc lang="pt">A modalidade mais popular do mundo de automobilismo volta à tela da Band.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20210606110000 -0300" stop="20210606140000 -0300" channel="Band Rede">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O tradicional programa de esporte da Band está de volta para trazer todo pré e pós jogo dos campeonatos de futebol nacionais e internacionais.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606140000 -0300" stop="20210606160000 -0300" channel="Band Rede">
+    <title lang="pt">Brasileirão Feminino A1: Palmeiras x São Paulo - Ao Vivo</title>
+    <desc lang="pt">Elas vestem as chuteiras e entram em campo em busca da glória. É o maior campeonato feminino entre clubes do país.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20210606160000 -0300" stop="20210606180000 -0300" channel="Band Rede">
+    <title lang="pt">Show do Esporte</title>
+    <desc lang="pt">O tradicional programa de esporte da Band está de volta para trazer todo pré e pós jogo dos campeonatos de futebol nacionais e internacionais.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20210606180000 -0300" stop="20210606200000 -0300" channel="Band Rede">
+    <title lang="pt">3º Tempo</title>
+    <desc lang="pt">Assim que termina a rodada começa o 3º tempo. Com muitos comentários e informações sobre o jogo. Debate de idéias sobre os jogos de futebol.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20210606200000 -0300" stop="20210606220000 -0300" channel="Band Rede">
+    <title lang="pt">Brasileirão Feminino A1: Corinthians x Cruzeiro - Ao Vivo</title>
+    <desc lang="pt">Elas vestem as chuteiras e entram em campo em busca da glória. É o maior campeonato feminino entre clubes do país.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol Feminino</category>
+  </programme>
+  <programme start="20210606220000 -0300" stop="20210607000000 -0300" channel="Band Rede">
+    <title lang="pt">Domingo No Cinema: O Poder e a Lei</title>
+    <desc lang="pt">Mick Haller é um advogado diferente, a começar pelo seu local de trabalho devidamente instalado no banco de trás de seu carro, um automóvel modelo Lincoln.(n)</desc>
+    <credits>
+      <director>Michael Peña</director>
+      <actor>Matthew Mcconaughey</actor>
+      <actor>Marisa Tomei</actor>
+      <actor>Ryan Phillippe</actor>
+      <actor>William H. Macy</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
   </programme>
 </tv>
