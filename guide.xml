@@ -207,461 +207,576 @@
   </channel>
   <channel id="TBS">
     <display-name lang="pt">TBS</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tbs.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TNT Series">
     <display-name lang="pt">TNT Series</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tns.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Universal Channel">
     <display-name lang="pt">Universal Channel </display-name>
+    <icon src="https://i.meuguia.tv/logos/new/usa.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Warner Channel">
     <display-name lang="pt">Warner Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/wbt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band Sports">
     <display-name lang="pt">Band Sports</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bsp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Combate">
     <display-name lang="pt">Combate</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/135.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="ESPN">
     <display-name lang="pt">ESPN</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/esp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="ESPN Brasil">
     <display-name lang="pt">ESPN Brasil</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/esb.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Fox Sports">
     <display-name lang="pt">Fox Sports</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fsp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Fox Sports 2">
     <display-name lang="pt">Fox Sports 2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fs2.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="OFF">
     <display-name lang="pt">OFF</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/off.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Premiere Clubes">
     <display-name lang="pt">Premiere Clubes</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/121.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rush HD">
     <display-name lang="pt">Rush HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rsh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Speed Channel">
     <display-name lang="pt">Speed Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/spe.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SporTV">
     <display-name lang="pt">SporTV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/spo.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SporTV 2">
     <display-name lang="pt">SporTV 2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp2.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SporTV 3">
     <display-name lang="pt">SporTV 3</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp3.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="The Golf Channel">
     <display-name lang="pt">The Golf Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tgc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Corinthians">
     <display-name lang="pt">TV Corinthians</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tco.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Baby TV">
     <display-name lang="pt">Baby TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bab.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Boomerang">
     <display-name lang="pt">Boomerang</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bmg.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Cartoon Network">
     <display-name lang="pt">Cartoon Network</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/car.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Kids">
     <display-name lang="pt">Discovery Kids</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dik.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney Channel">
     <display-name lang="pt">Disney Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dny.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney Channel HD">
     <display-name lang="pt">Disney Channel HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dnh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney Junior">
     <display-name lang="pt">Disney Junior</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/phd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney XD">
     <display-name lang="pt">Disney XD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dxd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Gloob">
     <display-name lang="pt">Gloob</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gob.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Nick Jr.">
     <display-name lang="pt">Nick Jr.</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/njr.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Nickelodeon">
     <display-name lang="pt">Nickelodeon</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nic.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Tooncast">
     <display-name lang="pt">Tooncast</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/toc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV RA TIM BUM">
     <display-name lang="pt">TV RA TIM BUM</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rtb.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Amazon Sat">
     <display-name lang="pt">Amazon Sat</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/amz.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Arte 1">
     <display-name lang="pt">Arte 1</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bq5.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="BBC Earth">
     <display-name lang="pt">BBC Earth</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bhd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Bis HD">
     <display-name lang="pt">Bis HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/msh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal do Boi">
     <display-name lang="pt">Canal do Boi</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/boi.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal Rural">
     <display-name lang="pt">Canal Rural</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rur.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canção Nova">
     <display-name lang="pt">Canção Nova</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Casa Club TV">
     <display-name lang="pt">Casa Club TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ccl.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Climatempo">
     <display-name lang="pt">Climatempo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cli.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Comedy Central">
     <display-name lang="pt">Comedy Central</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cce.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Concert Channel">
     <display-name lang="pt">Concert Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/100.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="E! Entertainment Television">
     <display-name lang="pt">E! Entertainment Television</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/eet.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Futura">
     <display-name lang="pt">Futura</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fut.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Glitz*">
     <display-name lang="pt">Glitz*</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fas.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="GNT">
     <display-name lang="pt">GNT</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gnt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Hiper TV">
     <display-name lang="pt">Hiper TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/htv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Multishow">
     <display-name lang="pt">Multishow</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/msw.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="NBR">
     <display-name lang="pt">NBR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nbr.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="NHK World">
     <display-name lang="pt">NHK World</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nhk.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="RAI International">
     <display-name lang="pt">RAI International</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rai.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="RBI">
     <display-name lang="pt">RBI</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mix.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Boa Vontade">
     <display-name lang="pt">Rede Boa Vontade</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/lbv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Famí­lia">
     <display-name lang="pt">Rede Famí­lia</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ref.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Gênesis">
     <display-name lang="pt">Rede Gênesis</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tvg.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Internacional de TV">
     <display-name lang="pt">Rede Internacional de TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rit.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Super de Televisão">
     <display-name lang="pt">Rede Super de Televisão</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/srd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="RTP Internacional">
     <display-name lang="pt">RTP Internacional</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rtp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Santa Cecília TV">
     <display-name lang="pt">Santa Cecília TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/stc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SESC TV">
     <display-name lang="pt">SESC TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nac.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Shoptime">
     <display-name lang="pt">Shoptime</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sho.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SIC International">
     <display-name lang="pt">SIC International</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sic.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Smithsonian HD">
     <display-name lang="pt">Smithsonian HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/smi.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Terra Viva">
     <display-name lang="pt">Terra Viva</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tvv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Câmara">
     <display-name lang="pt">TV Câmara</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cam.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Escola">
     <display-name lang="pt">TV Escola</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/esc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Espanha">
     <display-name lang="pt">TV Espanha</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tve.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Justiça">
     <display-name lang="pt">TV Justiça</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/jus.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Senado">
     <display-name lang="pt">TV Senado</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sen.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV União">
     <display-name lang="pt">TV União</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tvu.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV5 Monde">
     <display-name lang="pt">TV5 Monde</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tv5.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Vh1">
     <display-name lang="pt">Vh1</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/vh1.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Vh1 HD">
     <display-name lang="pt">Vh1 HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/vhd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="VH1 Mega Hits">
     <display-name lang="pt">VH1 Mega Hits</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mth.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Viva">
     <display-name lang="pt">Viva</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/viv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Woohoo">
     <display-name lang="pt">Woohoo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/woo.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="pt">Discovery Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dis.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Civilization">
     <display-name lang="pt">Discovery Civilization</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dci.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Home">
     <display-name lang="pt">Discovery Home Health</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hea.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Science">
     <display-name lang="pt">Discovery Science</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dsc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Turbo">
     <display-name lang="pt">Discovery Turbo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dtu.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="H2">
     <display-name lang="pt">H2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ch2.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="H2 HD">
     <display-name lang="pt">H2 HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ch1.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="History Channel">
     <display-name lang="pt">History Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/his.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="History Channel HD">
     <display-name lang="pt">History Channel HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hih.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Nat Geo Wild HD">
     <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ngh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="National Geographic">
     <display-name lang="pt">National Geographic</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sup.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TLC">
     <display-name lang="pt">TLC</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/trv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band News">
     <display-name lang="pt">Band News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/new.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="BBC World News">
     <display-name lang="pt">BBC World News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bbc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Bloomberg">
     <display-name lang="pt">Bloomberg</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bit.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNN Brasil">
     <display-name lang="pt">CNN Brasil</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cn9.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNN Espanhol">
     <display-name lang="pt">CNN Espanhol</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cne.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNN Internacional">
     <display-name lang="pt">CNN Internacional</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnn.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Deutsche Welle">
     <display-name lang="pt">Deutsche Welle</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dwl.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Fox News">
     <display-name lang="pt">Fox News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fne.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Globo News">
     <display-name lang="pt">Globo News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gln.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Tele Sur">
     <display-name lang="pt">Tele Sur</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tls.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band Rede">
     <display-name lang="pt">Band Rede</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ban.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal 21">
     <display-name lang="pt">Canal 21</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/c21.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNT">
     <display-name lang="pt">CNT</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="MTV">
     <display-name lang="pt">MTV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mtv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Record">
     <display-name lang="pt">Record</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rec.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Record News">
     <display-name lang="pt">Record News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rcn.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede TV">
     <display-name lang="pt">Rede TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rtv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Vida">
     <display-name lang="pt">Rede Vida</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/vda.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sbt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Brasil">
     <display-name lang="pt">TV Brasil</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ted.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Brasil Central">
     <display-name lang="pt">TV Brasil Central</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tbc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Cultura">
     <display-name lang="pt">TV Cultura</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cul.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Gazeta">
     <display-name lang="pt">TV Gazeta</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gaz.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Globo SP">
     <display-name lang="pt">TV Globo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/grd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Prime Box Brasil">
     <display-name lang="pt">Prime Box Brasil</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/bq7.gif" />
   </channel>
   <channel id="Star Hits 1">
     <display-name lang="pt">Star Hits 1</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/fo1.gif" />
   </channel>
   <channel id="Star Hits 2">
     <display-name lang="pt">Star HIts 2</display-name>
@@ -25553,5 +25668,2742 @@
     </credits>
     <category lang="pt">Filme</category>
     <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20211006034400 -0300" stop="20211006040500 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006040500 -0300" stop="20211006042700 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006042700 -0300" stop="20211006063400 -0300" channel="TBS">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">Uma festa de aniversário explosiva, uma dançarina empolgada que cai do palco e uma dama de honra que desmaia bem no meio do casamento de sua irmã.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006063400 -0300" stop="20211006070000 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Com Mike fora, por causa de uma viagem de negócios e Amelia na casa da mãe, Andrea está sozinha em casa pela primeira vez há muito tempo.(n)</desc>
+    <credits>
+      <director>Dale Stern</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+      <actor>Kathy Baker</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006070000 -0300" stop="20211006072500 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Preocupados por estarem envelhecendo, Andrea e Mike fazem exames sobre sua fertilidade. Andrea discute com seu pai a respeito do seu comportamento cada vez mais estranho.(n)</desc>
+    <credits>
+      <director>Dale Stern</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+      <actor>Kathy Baker</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006072500 -0300" stop="20211006075100 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry</title>
+    <desc lang="pt">Andrea descobre um excitante segredo sobre outra mãe na escola de sua filha que ela não pode deixar passar, e depois, Andrea atribui a um contato do seu telefone o número do consultório do seu médico.(n)</desc>
+    <credits>
+      <director>I'm Sorry</director>
+      <actor>Andrea Savage</actor>
+      <actor>Tom Everett Scott</actor>
+      <actor>Oliver Petrucci</actor>
+      <actor>Judy Greer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006075100 -0300" stop="20211006083500 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">A batalha final leva os Mason, o 2º regimento e seus novos aliados até uma localização icônica.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Marco Arimare</actor>
+      <actor>Hugo Ateo</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211006083500 -0300" stop="20211006085700 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006085700 -0300" stop="20211006092000 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006092000 -0300" stop="20211006094200 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006094200 -0300" stop="20211006100400 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211006100400 -0300" stop="20211006102700 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211006102700 -0300" stop="20211006104900 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211006104900 -0300" stop="20211006111500 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006111500 -0300" stop="20211006114000 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006114000 -0300" stop="20211006120600 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006120600 -0300" stop="20211006125200 -0300" channel="TBS">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006125200 -0300" stop="20211006133600 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Tom recebe uma nova e poderosa arma contra os Espheni. Enquanto isso, Ben tenta extrair os planos do inimigo.(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Lane Edwards</actor>
+      <actor>Daren A. Herbert</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211006133600 -0300" stop="20211006142200 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">A batalha final leva os Mason, o 2º regimento e seus novos aliados até uma localização icônica.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Marco Arimare</actor>
+      <actor>Hugo Ateo</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211006142200 -0300" stop="20211006144400 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006144400 -0300" stop="20211006150700 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006150700 -0300" stop="20211006153000 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006153000 -0300" stop="20211006155400 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211006155400 -0300" stop="20211006161800 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211006161800 -0300" stop="20211006163900 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211006163900 -0300" stop="20211006185400 -0300" channel="TBS">
+    <title lang="pt">A Gangue Está em Campo</title>
+    <desc lang="pt">Sean Porter, funcionário de um reformatório de menores, junto com Malcolm Moore tentam transformar adolescentes perigosos num time de futebol. E terão de enfrentar as rivalidades e aprender o que é respeito e responsabilidade.(n)</desc>
+    <credits>
+      <director>Phil Joanou</director>
+      <actor>Dwayne Johnson</actor>
+      <actor>Xzibit</actor>
+      <actor>L. Scott Caldwell</actor>
+      <actor>Leon Rippy</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211006185400 -0300" stop="20211006202400 -0300" channel="TBS">
+    <title lang="pt">Um Craque Animal 2</title>
+    <desc lang="pt">A continuação de "Um Craque Animal" traz o cão esportista em uma aventura na Europa. Após escapar das garras de um cientista que se dedica a experiências com animais, o corajoso herói canino cai nas mãos de Zack.(n)</desc>
+    <credits>
+      <director>Sandy Tung</director>
+      <actor>Nick Moran</actor>
+      <actor>Jake Thomas</actor>
+      <actor>Lori Heuring</actor>
+      <actor>Scott Cleverdon</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006202400 -0300" stop="20211006220000 -0300" channel="TBS">
+    <title lang="pt">Eu Sinto Muito (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211006220000 -0300" stop="20211006234600 -0300" channel="TBS">
+    <title lang="pt">O Diário de uma Virgem</title>
+    <desc lang="pt">Brandy Klark é a melhor aluna, a mais organizada e também a única virgem entre suas amigas. Antes de entrar na universidade ela decide que é o momento de iniciar sua vida sexual.(n)</desc>
+    <credits>
+      <director>Maggie Carey</director>
+      <actor>Aubrey Plaza</actor>
+      <actor>Johnny Simmons</actor>
+      <actor>Bill Hader</actor>
+      <actor>Sarah Steele</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211006234600 -0300" stop="20211007011500 -0300" channel="TBS">
+    <title lang="pt">À Beira Do Abismo (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211007011500 -0300" stop="20211007014100 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007014100 -0300" stop="20211007020700 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007020700 -0300" stop="20211007023200 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007023200 -0300" stop="20211007031500 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Tom recebe uma nova e poderosa arma contra os Espheni. Enquanto isso, Ben tenta extrair os planos do inimigo.(n)</desc>
+    <credits>
+      <director>Brad Turner</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Lane Edwards</actor>
+      <actor>Daren A. Herbert</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211007031500 -0300" stop="20211007035800 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">A batalha final leva os Mason, o 2º regimento e seus novos aliados até uma localização icônica.(n)</desc>
+    <credits>
+      <director>Matt Earl Beesley</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Marco Arimare</actor>
+      <actor>Hugo Ateo</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211007035800 -0300" stop="20211007041900 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007041900 -0300" stop="20211007063100 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007063100 -0300" stop="20211007065700 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007065700 -0300" stop="20211007072200 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007072200 -0300" stop="20211007074800 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007074800 -0300" stop="20211007083100 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Nos arredores de Charleston, o clã Mason e o 2º Mass enfrentam uma ameaça mortal: o ataque de uma nova espécie de Espheni. Mas o inimigo mais perigoso pode não ser um alienígena.(n)</desc>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211007083100 -0300" stop="20211007091500 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Os Espheni revelam seus novos planos para Tom, e ele encara uma decisão impossível. Enquanto isso, Weaver e Pope investigam uma maneira de sair da prisão Espheni.(n)</desc>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211007091500 -0300" stop="20211007093800 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007093800 -0300" stop="20211007100100 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007100100 -0300" stop="20211007102300 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007102300 -0300" stop="20211007104400 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211007104400 -0300" stop="20211007110600 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211007110600 -0300" stop="20211007112900 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211007112900 -0300" stop="20211007115500 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007115500 -0300" stop="20211007122100 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007122100 -0300" stop="20211007124700 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007124700 -0300" stop="20211007133000 -0300" channel="TBS">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007133000 -0300" stop="20211007141500 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Nos arredores de Charleston, o clã Mason e o 2º Mass enfrentam uma ameaça mortal: o ataque de uma nova espécie de Espheni. Mas o inimigo mais perigoso pode não ser um alienígena.(n)</desc>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211007141500 -0300" stop="20211007150000 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Os Espheni revelam seus novos planos para Tom, e ele encara uma decisão impossível. Enquanto isso, Weaver e Pope investigam uma maneira de sair da prisão Espheni.(n)</desc>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211007150000 -0300" stop="20211007152400 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007152400 -0300" stop="20211007154800 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007154800 -0300" stop="20211007160900 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007160900 -0300" stop="20211007163100 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211007163100 -0300" stop="20211007165500 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211007165500 -0300" stop="20211007171700 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211007171700 -0300" stop="20211007184700 -0300" channel="TBS">
+    <title lang="pt">Um Craque Animal 2</title>
+    <desc lang="pt">A continuação de "Um Craque Animal" traz o cão esportista em uma aventura na Europa. Após escapar das garras de um cientista que se dedica a experiências com animais, o corajoso herói canino cai nas mãos de Zack.(n)</desc>
+    <credits>
+      <director>Sandy Tung</director>
+      <actor>Nick Moran</actor>
+      <actor>Jake Thomas</actor>
+      <actor>Lori Heuring</actor>
+      <actor>Scott Cleverdon</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211007184700 -0300" stop="20211007202200 -0300" channel="TBS">
+    <title lang="pt">Eu Sinto Muito (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211007202200 -0300" stop="20211007220000 -0300" channel="TBS">
+    <title lang="pt">Os Perdedores</title>
+    <desc lang="pt">Adaptação da série de quadrinhos de mesmo título, da Vertigo, que narra a história de um grupo de agentes de elite que procura vingança contra a CIA depois de terem sido traídos numa missão e dados como mortos.(n)</desc>
+    <credits>
+      <director>Sylvain White</director>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Chris Evans</actor>
+      <actor>Columbus Short</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211007220000 -0300" stop="20211007232800 -0300" channel="TBS">
+    <title lang="pt">À Beira Do Abismo (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211007232800 -0300" stop="20211008011700 -0300" channel="TBS">
+    <title lang="pt">O Sétimo Filho (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211008011700 -0300" stop="20211008014100 -0300" channel="TBS">
+    <title lang="pt">Reprovados</title>
+    <desc lang="pt">Esta comédia segue as aventuras de três professores que adoram arrumar confusão. Menos aptos que seus próprios alunos, tentam vencer um sistema enquanto lutam para sobreviver cada dia dentro de seus próprios termos.(n)</desc>
+    <credits>
+      <director>Adam Nix</director>
+      <actor>Adam Cayton-Holland</actor>
+      <actor>Andrew Orvedahl</actor>
+      <actor>Benjamin Roy</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S2 E7</episode-num>
+  </programme>
+  <programme start="20211008014100 -0300" stop="20211008020700 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008020700 -0300" stop="20211008023200 -0300" channel="TBS">
+    <title lang="pt">Reprovados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008023200 -0300" stop="20211008031500 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Nos arredores de Charleston, o clã Mason e o 2º Mass enfrentam uma ameaça mortal: o ataque de uma nova espécie de Espheni. Mas o inimigo mais perigoso pode não ser um alienígena.(n)</desc>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211008031500 -0300" stop="20211008035800 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Os Espheni revelam seus novos planos para Tom, e ele encara uma decisão impossível. Enquanto isso, Weaver e Pope investigam uma maneira de sair da prisão Espheni.(n)</desc>
+    <credits>
+      <director>Greg Beeman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211008035800 -0300" stop="20211008042000 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008042000 -0300" stop="20211008064200 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008064200 -0300" stop="20211008070700 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008070700 -0300" stop="20211008073300 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008073300 -0300" stop="20211008080000 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008080000 -0300" stop="20211008084300 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Tom e o segundo regimento montam um plano elaborado para escapar da confinação no gueto Espheni. Em Chinatown, depois de descobrir, que Lexi está escondendo um segredo mortal, Maggie confronta Lexi publicamente.(n)</desc>
+    <credits>
+      <director>Robert Lieberman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211008084300 -0300" stop="20211008092700 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Após sair do gueto Espheni, Tom e seu grupo buscam refúgio no esconderijo Volm, ao mesmo tempo em que a tensão aumenta entre os Volm e os humanos.(n)</desc>
+    <credits>
+      <director>Mikael Salomon</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211008092700 -0300" stop="20211008095000 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008095000 -0300" stop="20211008101200 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008101200 -0300" stop="20211008103500 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008103500 -0300" stop="20211008110000 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211008110000 -0300" stop="20211008112400 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211008112400 -0300" stop="20211008114700 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211008114700 -0300" stop="20211008121200 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008121200 -0300" stop="20211008123800 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008123800 -0300" stop="20211008130500 -0300" channel="TBS">
+    <title lang="pt">I'm Sorry (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008130500 -0300" stop="20211008135400 -0300" channel="TBS">
+    <title lang="pt">Os Vídeos Mais Idiotas do Mundo</title>
+    <desc lang="pt">A estupidez é levada ao extremo. As gargalhadas se sucedem em uma sequência de situações reais ridículas protagonizadas por personagens como motoristas imprudentes, criminosos atrapalhados, pessoas ousadas ou bêbadas.(n)</desc>
+    <credits>
+      <director>Jason Cilo</director>
+      <actor>Todd Bridges</actor>
+      <actor>Chip Bolcik</actor>
+      <actor>Danny Bonaduce</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211008135400 -0300" stop="20211008143900 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Tom e o segundo regimento montam um plano elaborado para escapar da confinação no gueto Espheni. Em Chinatown, depois de descobrir, que Lexi está escondendo um segredo mortal, Maggie confronta Lexi publicamente.(n)</desc>
+    <credits>
+      <director>Robert Lieberman</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211008143900 -0300" stop="20211008152600 -0300" channel="TBS">
+    <title lang="pt">Falling Skies</title>
+    <desc lang="pt">Após sair do gueto Espheni, Tom e seu grupo buscam refúgio no esconderijo Volm, ao mesmo tempo em que a tensão aumenta entre os Volm e os humanos.(n)</desc>
+    <credits>
+      <director>Mikael Salomon</director>
+      <actor>Maxim Knight</actor>
+      <actor>Noah Wyle</actor>
+      <actor>Will  Patton</actor>
+      <actor>Seychelle Gabriel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211008152600 -0300" stop="20211008155100 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008155100 -0300" stop="20211008161200 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008161200 -0300" stop="20211008163500 -0300" channel="TBS">
+    <title lang="pt">Tesouros de Garagem</title>
+    <desc lang="pt">Você acha que leilões de depósitos são brincadeira? Pense bem, porque vai ser difícil encarar o ex-boxeador Brandon Bernier e sua esposa, Lori, os competidores mais ferrenhos de um jogo que aposta alto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211008163500 -0300" stop="20211008170000 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211008170000 -0300" stop="20211008172400 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211008172400 -0300" stop="20211008174900 -0300" channel="TBS">
+    <title lang="pt">Rebocadores</title>
+    <desc lang="pt">Neste documentário, os telespectadores irão conhecer a nova geração de rebocadores, embarcações responsáveis por operações complexas e sem as quais o mundo estaria fadado a parar laboriosamente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211008174900 -0300" stop="20211008193100 -0300" channel="TBS">
+    <title lang="pt">Os Perdedores</title>
+    <desc lang="pt">Adaptação da série de quadrinhos de mesmo título, da Vertigo, que narra a história de um grupo de agentes de elite que procura vingança contra a CIA depois de terem sido traídos numa missão e dados como mortos.(n)</desc>
+    <credits>
+      <director>Sylvain White</director>
+      <actor>Jeffrey Dean Morgan</actor>
+      <actor>Chris Evans</actor>
+      <actor>Columbus Short</actor>
+      <actor>Zoe Saldana</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211008193100 -0300" stop="20211008220000 -0300" channel="TBS">
+    <title lang="pt">O Príncipe do Deserto</title>
+    <desc lang="pt">1930. Os Estados Árabes estão nos holofotes por causa do descobrimento de petróleo. Um jovem deverá conciliar as vontades do homem que lhe deu a vida e do homem que o criou, lutando a favor da mulher e do povo que ama.(n)</desc>
+    <credits>
+      <director>Jean-Jacques Annaud</director>
+      <actor>Eriq Ebouaney</actor>
+      <actor>Adriano Giannini</actor>
+      <actor>Tahar Rahim</actor>
+      <actor>Riz Ahmed</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211008220000 -0300" stop="20211008235700 -0300" channel="TBS">
+    <title lang="pt">O Sétimo Filho (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211008235700 -0300" stop="20211009013900 -0300" channel="TBS">
+    <title lang="pt">O Garoto da Casa ao Lado (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20211006001500 -0300" stop="20211006011500 -0300" channel="CNN Brasil">
+    <title lang="pt">Jornal da CNN (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006011500 -0300" stop="20211006030000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211006030000 -0300" stop="20211006050000 -0300" channel="CNN Brasil">
+    <title lang="pt">Expresso CNN (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006050000 -0300" stop="20211006060000 -0300" channel="CNN Brasil">
+    <title lang="pt">Agora CNN (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006060000 -0300" stop="20211006110000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Novo Dia - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006110000 -0300" stop="20211006133000 -0300" channel="CNN Brasil">
+    <title lang="pt">Live CNN Brasil - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006133000 -0300" stop="20211006153000 -0300" channel="CNN Brasil">
+    <title lang="pt">Visão CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006153000 -0300" stop="20211006180000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN 360º - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006180000 -0300" stop="20211006193000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Ao Vivo (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211006193000 -0300" stop="20211006213000 -0300" channel="CNN Brasil">
+    <title lang="pt">Expresso CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006213000 -0300" stop="20211006223000 -0300" channel="CNN Brasil">
+    <title lang="pt">Jornal da CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006223000 -0300" stop="20211006231500 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Sinais Vitais (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006231500 -0300" stop="20211007001500 -0300" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007001500 -0300" stop="20211007011500 -0300" channel="CNN Brasil">
+    <title lang="pt">Jornal da CNN (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007011500 -0300" stop="20211007030000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007030000 -0300" stop="20211007050000 -0300" channel="CNN Brasil">
+    <title lang="pt">Expresso CNN (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007050000 -0300" stop="20211007060000 -0300" channel="CNN Brasil">
+    <title lang="pt">Agora CNN (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007060000 -0300" stop="20211007110000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Novo Dia - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007110000 -0300" stop="20211007133000 -0300" channel="CNN Brasil">
+    <title lang="pt">Live CNN Brasil - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007133000 -0300" stop="20211007153000 -0300" channel="CNN Brasil">
+    <title lang="pt">Visão CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007153000 -0300" stop="20211007180000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN 360º - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007180000 -0300" stop="20211007193000 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Prime Time - Ao Vivo (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007193000 -0300" stop="20211007213000 -0300" channel="CNN Brasil">
+    <title lang="pt">Expresso CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007213000 -0300" stop="20211007223000 -0300" channel="CNN Brasil">
+    <title lang="pt">Jornal da CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007223000 -0300" stop="20211007231500 -0300" channel="CNN Brasil">
+    <title lang="pt">CNN Business (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007231500 -0300" stop="20211008001500 -0300" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006001500 -0300" stop="20211006004500 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006004500 -0300" stop="20211006020000 -0300" channel="Record">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211006020000 -0300" stop="20211006023000 -0300" channel="Record">
+    <title lang="pt">Dicas de Amor (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211006023000 -0300" stop="20211006033000 -0300" channel="Record">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211006033000 -0300" stop="20211006040000 -0300" channel="Record">
+    <title lang="pt">A Última Porta (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211006040000 -0300" stop="20211006043000 -0300" channel="Record">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211006043000 -0300" stop="20211006050000 -0300" channel="Record">
+    <title lang="pt">Congresso Para o Sucesso (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211006050000 -0300" stop="20211006070000 -0300" channel="Record">
+    <title lang="pt">Balanço Geral Manhã (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006070000 -0300" stop="20211006083000 -0300" channel="Record">
+    <title lang="pt">Balanço Geral Manhã SP (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006083000 -0300" stop="20211006100000 -0300" channel="Record">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006100000 -0300" stop="20211006114500 -0300" channel="Record">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006114500 -0300" stop="20211006115000 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006115000 -0300" stop="20211006151500 -0300" channel="Record">
+    <title lang="pt">Balanço Geral SP (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006151500 -0300" stop="20211006164500 -0300" channel="Record">
+    <title lang="pt">Prova de Amor</title>
+    <desc lang="pt">Trata-se da história de uma menina que se perdeu de seus pais e busca o final com o reencontro com a sua família.(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Marcelo Serrado</actor>
+      <actor>Lavínia Vlasak</actor>
+      <actor>Leonardo Vieira</actor>
+      <actor>Vanessa Gerbelli</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20211006164500 -0300" stop="20211006171000 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006171000 -0300" stop="20211006171500 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006171500 -0300" stop="20211006173000 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006173000 -0300" stop="20211006173500 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006173500 -0300" stop="20211006180000 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006180000 -0300" stop="20211006194500 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006194500 -0300" stop="20211006210000 -0300" channel="Record">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211006210000 -0300" stop="20211006214500 -0300" channel="Record">
+    <title lang="pt">Gênesis (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20211006214500 -0300" stop="20211006224500 -0300" channel="Record">
+    <title lang="pt">Quando Chama o Coração (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211006224500 -0300" stop="20211007001500 -0300" channel="Record">
+    <title lang="pt">A Fazenda (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211007001500 -0300" stop="20211007004500 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007004500 -0300" stop="20211007020000 -0300" channel="Record">
+    <title lang="pt">Fala que eu te Escuto</title>
+    <desc lang="pt">O programa é apresentado ao vivo, no início da madrugada. Diariamente, temas da atualidade são debatidos por bispos e pastores da Igreja Universal do Reino de Deus (IURD).(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007020000 -0300" stop="20211007023000 -0300" channel="Record">
+    <title lang="pt">Dicas de Amor (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007023000 -0300" stop="20211007033000 -0300" channel="Record">
+    <title lang="pt">Palavra Amiga com Bispo Edir Macedo (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007033000 -0300" stop="20211007040000 -0300" channel="Record">
+    <title lang="pt">A Última Porta (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007040000 -0300" stop="20211007043000 -0300" channel="Record">
+    <title lang="pt">Nosso Tempo</title>
+    <desc lang="pt">Um programa da Igreja Universal do Reino de Deus. O Bispo Rogério leva uma palavra de fé e esperança a todos os internautas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007043000 -0300" stop="20211007050000 -0300" channel="Record">
+    <title lang="pt">Congresso Para o Sucesso (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211007050000 -0300" stop="20211007070000 -0300" channel="Record">
+    <title lang="pt">Balanço Geral Manhã (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007070000 -0300" stop="20211007083000 -0300" channel="Record">
+    <title lang="pt">Balanço Geral Manhã SP (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007083000 -0300" stop="20211007100000 -0300" channel="Record">
+    <title lang="pt">Fala Brasil</title>
+    <desc lang="pt">As manhãs de segunda a sábado da Record TV são marcadas pelo bom jornalismo do Fala Brasil. O telejornal matinal traz, em primeira mão, as notícias do dia do Brasil e do mundo.(n)</desc>
+    <credits>
+      <actor>Mariana Godoy</actor>
+      <actor>Sergio Aguiar</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007100000 -0300" stop="20211007114500 -0300" channel="Record">
+    <title lang="pt">Hoje em Dia</title>
+    <desc lang="pt">Notícias, prestação de serviços e entretenimento na medida certa. O programa tem o compromisso de informar e formar a opinião pública, sem perder de vista a opção de lazer que muitos buscam na telinha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007114500 -0300" stop="20211007115000 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007115000 -0300" stop="20211007151500 -0300" channel="Record">
+    <title lang="pt">Balanço Geral SP (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007151500 -0300" stop="20211007164500 -0300" channel="Record">
+    <title lang="pt">Prova de Amor</title>
+    <desc lang="pt">Trata-se da história de uma menina que se perdeu de seus pais e busca o final com o reencontro com a sua família.(n)</desc>
+    <credits>
+      <director>Alexandre Avancini</director>
+      <actor>Marcelo Serrado</actor>
+      <actor>Lavínia Vlasak</actor>
+      <actor>Leonardo Vieira</actor>
+      <actor>Vanessa Gerbelli</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20211007164500 -0300" stop="20211007171000 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007171000 -0300" stop="20211007171500 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007171500 -0300" stop="20211007174000 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007174000 -0300" stop="20211007174500 -0300" channel="Record">
+    <title lang="pt">Jornal da Record 24h (?)</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007174500 -0300" stop="20211007180000 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007180000 -0300" stop="20211007194500 -0300" channel="Record">
+    <title lang="pt">Cidade Alerta</title>
+    <desc lang="pt">Apresentado por Luiz Bacci, com a participação em tempo real de Comandante Hamilton e as câmeras e equipes comandadas pelo apresentador, o Cidade Alerta leva até você um olhar diferente da notícia habitual.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007194500 -0300" stop="20211007210000 -0300" channel="Record">
+    <title lang="pt">Jornal da Record</title>
+    <desc lang="pt">O principal telejornal da Record oferece a você uma opção informativa, com apresentação das notícias feitas por profissionais experientes e consagrados no jornalismo brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007210000 -0300" stop="20211007214500 -0300" channel="Record">
+    <title lang="pt">Gênesis (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20211007214500 -0300" stop="20211007224500 -0300" channel="Record">
+    <title lang="pt">Quando Chama o Coração (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211007224500 -0300" stop="20211008001500 -0300" channel="Record">
+    <title lang="pt">A Fazenda (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211006000000 -0300" stop="20211006010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Todos desaparecem misteriosamente da Vila Yshui exceto Yu Ning, Han Jiang e o Príncipe Lu. Em sua própria jornada, Yu Ning reencontra um amigo antigo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006010000 -0300" stop="20211006014900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Making Of (?)</title>
+    <sub-title lang="pt">Making Of</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A agitação no estúdio de "Calafrio" continua. Aquele pode ser o segundo dia dos últimos dias das vidas da equipe da série de terror mais amada e idolatrada do Brasil. E ninguém parece saber. O making of acompanha os atores no estúdio falando mal do diretor - que ouve tudo - e a chegada de Enzo, o ator que interpretava o Lobisomem, chega ao estúdio querendo gravar e descobre que foi demitido.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006014900 -0300" stop="20211006020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Making Of - Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conheça os bastidores da superprodução chinesa Tribos e Impérios. Making Ofs e entrevistas com elenco, diretor e equipe técnica revelam detalhes surpreendentes para você!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006020000 -0300" stop="20211006023000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Crítica (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série documental "CRÍTICA" com 8 episódios, aborda a vida e o trabalho de 21 profissionais que atuam na crítica cinematográfica brasileira e também no audiovisual em outras vertentes como TV e séries.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006023000 -0300" stop="20211006030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa, A África Que Te Habita (?)</title>
+    <sub-title lang="pt">Sankofa, A África Que Te Habita</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os viajantes Cesar e Maurício fotografam os locais de memória da escravidão em Gana, primeiro país africano a conseguir a sua independência e onde estão os descendentes dos escravizados retornados do Brasil, conhecidos como "tabons".(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006030000 -0300" stop="20211006040000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Partiu?! (?)</title>
+    <sub-title lang="pt">Partiu?!</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Samuel é amigo de Andressa, que após a trágica perda do pai resolve ir procurar seu avô. A única pista é um pingente em forma de navio, que o pai da garota lhe deu antes de morrer.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006040000 -0300" stop="20211006043600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman (?)</title>
+    <sub-title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006043600 -0300" stop="20211006044000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa - Contos Africanos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Por determinação do Rei, o Fogo e a Chuva disputam uma corrida para decidir quem se casará com a bela Princesa.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006044000 -0300" stop="20211006045600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Longe de Casa (?)</title>
+    <sub-title lang="pt">Longe de Casa</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma menina do interior escreve cartas para o seu irmão que fugiu de casa. Sua esperança é de que ele volte para tirá-la da vida que leva ao lado de sua mãe e de seu padrasto. Os conflitos desse relacionamento a forçam a um dilema, no qual uma decisão precisará ser tomada.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006045600 -0300" stop="20211006050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa - Contos Africanos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A generosidade de um camponês ao abrigar em sua humilde cabana um caçador a caminho de Gondar fez com que ele se tornasse amigo do Rei.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006050000 -0300" stop="20211006062000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1957. Um assassino em série conhecido como "O Enforcador" está deixando o bairro de Santa Cecília em alerta.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006062000 -0300" stop="20211006064200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Quarto para Alugar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Letícia mora sozinha. Após conhecer Gabriela numa festa e trazê-la para casa, estranhas movimentações passam a se desenvolver em seu antigo apartamento.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006064200 -0300" stop="20211006064500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nós estávamos lado a lado, mas não estávamos próximos. Vivendo aglomerados, porém esquecendo a coletividade, foi preciso que a gente se afastasse, para que ficássemos mais próximos do que nunca. A quarentena tem nos feito olhar para dentro, a falta, fez com que convivêssemos mais intensamente com as pessoas que gostamos, mas de um modo diferente.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006064500 -0300" stop="20211006080100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: 30 Dias Um Carnaval Entre a Alegria e a Desilusão (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Como fazer um desfile acontecer sem verba? Como a escola de samba sobrevive? Quais os percalços que uma escola enfrenta até chegar no grande dia de seu desfile na Sapucaí?(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006080100 -0300" stop="20211006081600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006081600 -0300" stop="20211006083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Entre Nós (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mathias é um escritor à deriva. Depois da morte de sua esposa Natália, ele inicia um processo de auto destruição movido por um sentimento de culpa com o qual não consegue lidar.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006083000 -0300" stop="20211006092500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pesquisadora Celina Alvetti resume em cinco as etapas do cinema paranaense, começando com as primeiras exibições cinematográficas entre 1897 e 1930.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006092500 -0300" stop="20211006093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: David Está Morto (?)</title>
+    <sub-title lang="pt">David Está Morto</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;David está dentro de mim, está por toda parte. Mas David está morto.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006093000 -0300" stop="20211006094500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme Besouro foi inspirado em uma lenda na Bahia, onde havia um capoeirista tão bom, que voava, daí o seu nome.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006094500 -0300" stop="20211006100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Eternidade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um casal separado pela morte é capaz de qualquer coisa para se reencontrar. Até mesmo invocar a Deusa da Eternidade. Baseado no cinema expressionista alemão.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006100000 -0300" stop="20211006103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Verona (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Juliana conta para Rodrigo sobre a ameaça de Téo e Rodrigo vai em busca de vingança. Uma briga trágica entre os dois emerge e os segredos e dramas das famílias são revelados, forçando todos a enfrentarem seus dilemas.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006103000 -0300" stop="20211006110000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006110000 -0300" stop="20211006114600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006114600 -0300" stop="20211006120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A população do Maranhão sempre foi muito politizada! Em 1951 irrompeu em São Luís uma revolta que ficou conhecida como a Greve de 51.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006120000 -0300" stop="20211006123000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dentre suas pedaladas matinais e um trabalho exigente, Ramiro não tem tempo a perder.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006123000 -0300" stop="20211006130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A filha de Daniel acorda de um pesadelo, de tanto ver as investigações do pai.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006130000 -0300" stop="20211006143000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006143000 -0300" stop="20211006150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A narrativa do documentário é construída a partir do depoimento e do protagonismo das mães e familiares vítimas da violência de Estado da Baixada Fluminense.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006150000 -0300" stop="20211006184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006184500 -0300" stop="20211006190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;José Sarney é mais conhecido por ter sido presidente do Brasil, mas aqui veremos muito mais sobre o grande escritor e homem de cultura que ele é.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006190000 -0300" stop="20211006193000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A expressão feminina do humor irreverente e escrachado do cotidiano nas tiras de quadrinhos dos jornais e nas HQs é a essência da arte da cartunista gaúcha Fabiane Langona.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211006193000 -0300" stop="20211006200000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Amélio acorda e escuta um choro vindo da sala. Ele vai ver o que é, e encontra Fabi chorando no colo da mãe Norberta, assistidas por Zefinha.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006200000 -0300" stop="20211006203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Busca de Kardec (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;De volta a Paris e a Lyon, Karim vai percorrer a história do que aconteceu com o educador Rivail, para se interessar e pesquisar a moda das mesas girantes nos anos 1850.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006203000 -0300" stop="20211006210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imagem Vinil (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Maurício é um dentista com consultório na Praça Saenz Peña e está prestes a se casar e se mudar para a Barra.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006210000 -0300" stop="20211006220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pânico e suspeitas espalharam-se pelo palácio junto com a notícia de uma morte real, o futuro ainda não foi gravado em pedra.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006220000 -0300" stop="20211006233000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: A Tecnologia Social (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211006233000 -0300" stop="20211007000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Entre Parentes (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um ano após impeachment presidencial, Brasília recebe a maior mobilização indígena durante a 14ª edição do Acampamento Terra Livre, no final de abril.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007000000 -0300" stop="20211007010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pânico e suspeitas espalharam-se pelo palácio junto com a notícia de uma morte real, o futuro ainda não foi gravado em pedra.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007010000 -0300" stop="20211007013000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Personagens dramáticos revelam um cinema voltado a diferentes questões sociais, como Três Minutos, da diretora Ana Luiza Azevedo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007013000 -0300" stop="20211007020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A filha de Daniel acorda de um pesadelo, de tanto ver as investigações do pai.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007020000 -0300" stop="20211007023000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007023000 -0300" stop="20211007030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dentre suas pedaladas matinais e um trabalho exigente, Ramiro não tem tempo a perder.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211007030000 -0300" stop="20211007043000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Largou As Botas e Mergulhou no Céu (?)</title>
+    <sub-title lang="pt">Largou as Botas e Mergulhou no Céu</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dilemas e conflitos entre ficar ou partir, permanecer ou mudar, sagrado ou profano são costurados por personagens reais e ficticios entre o Natal e o Carnaval, o período sabático do Brasil. A região é o Nordeste.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007043000 -0300" stop="20211007044700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Bicho do Mato (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Jussara e sua família perdem tudo o que tinham quando suas terras são atingidas por chuvas intensas e violentas. Sem ter onde viver, eles deixam o campo para morar na cidade grande.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007044700 -0300" stop="20211007045000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nós estávamos lado a lado, mas não estávamos próximos. Vivendo aglomerados, porém esquecendo a coletividade, foi preciso que a gente se afastasse, para que ficássemos mais próximos do que nunca. A quarentena tem nos feito olhar para dentro, a falta, fez com que convivêssemos mais intensamente com as pessoas que gostamos, mas de um modo diferente.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007045000 -0300" stop="20211007050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Memórias de Aço (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Durante a ditadura civil-militar, o antigo 1° Batalhão de Infantaria Blindada do Exército, em Barra Mansa, foi palco de graves violações aos direitos humanos na região sul fluminense.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211007050000 -0300" stop="20211007054900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Making Of (?)</title>
+    <sub-title lang="pt">Making Of</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A agitação no estúdio de "Calafrio" continua. Aquele pode ser o segundo dia dos últimos dias das vidas da equipe da série de terror mais amada e idolatrada do Brasil. E ninguém parece saber. O making of acompanha os atores no estúdio falando mal do diretor - que ouve tudo - e a chegada de Enzo, o ator que interpretava o Lobisomem, chega ao estúdio querendo gravar e descobre que foi demitido.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007054900 -0300" stop="20211007060300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nascido na Cidade de São Bento, na baixada ocidental maranhense Domingos Barbosa foi jornalista, político e um dos fundadores da AML.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007060300 -0300" stop="20211007063100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: É Quase Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Esta é história do mendigo Aparício e seus amigos, entrevistados por uma equipe de filmagem. Aparício quer saber por que o cinema nacional só retrata e promove lá fora temas já conhecidos e amplamente divulgados.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007063100 -0300" stop="20211007064500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007064500 -0300" stop="20211007074900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Arte, Inovação e Sustentabilidade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Documentário aborda a história da inovação. Sua Importância para o futuro da humanidade além de elementos estruturais para sua existência como a união entre arte e ciência, sentimento e razão, onde o homem esta inteiro em todos seus potenciais para sentir, criar e produzir inovações essenciais para a humanidade e assim formar um ambiente mais sustentável.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007074900 -0300" stop="20211007075300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa - Contos Africanos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Por determinação do Rei, o Fogo e a Chuva disputam uma corrida para decidir quem se casará com a bela Princesa.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007075300 -0300" stop="20211007080700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;José Sarney é mais conhecido por ter sido presidente do Brasil, mas aqui veremos muito mais sobre o grande escritor e homem de cultura que ele é.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007080700 -0300" stop="20211007082600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn (?)</title>
+    <sub-title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007082600 -0300" stop="20211007083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa - Contos Africanos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A generosidade de um camponês ao abrigar em sua humilde cabana um caçador a caminho de Gondar fez com que ele se tornasse amigo do Rei.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007083000 -0300" stop="20211007091600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211007091600 -0300" stop="20211007093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A população do Maranhão sempre foi muito politizada! Em 1951 irrompeu em São Luís uma revolta que ficou conhecida como a Greve de 51.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007093000 -0300" stop="20211007100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Crítica (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série documental "CRÍTICA" com 8 episódios, aborda a vida e o trabalho de 21 profissionais que atuam na crítica cinematográfica brasileira e também no audiovisual em outras vertentes como TV e séries.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007100000 -0300" stop="20211007112000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1957. Um assassino em série conhecido como "O Enforcador" está deixando o bairro de Santa Cecília em alerta.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007112000 -0300" stop="20211007113500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1971, a Rádio Difusora do Maranhão levou ao ar o programa Guerra dos Mundos, copiando Orson Wells, que fez o mesmo em 1938 em Nova York.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007113500 -0300" stop="20211007115300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Jantar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É noite de reunião em uma seita. E paira no ar um clima tenso. O jantar, que é de rotina e parte de um protocolo pode não ser uma boa ideia.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007115300 -0300" stop="20211007120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Maria (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Duas amigas conversam pela internet sobre filmes de terror, até que Júlia desafia Carol a uma brincadeira que levará elas ao um caminho sem volta.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211007120000 -0300" stop="20211007125500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pesquisadora Celina Alvetti resume em cinco as etapas do cinema paranaense, começando com as primeiras exibições cinematográficas entre 1897 e 1930.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007125500 -0300" stop="20211007125700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <sub-title lang="pt">Quarantine Tales</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os dias são iguais, os padrões são os mesmos, nas notícias só o que mudam são os números. Mas talvez não seja preciso sair de casa para tomar um pouco de ar puro.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007125700 -0300" stop="20211007130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Isolation (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Isolation, de forma experimental é um filme que explora uma nova realidade, apresentando a mídia e a informação como nosso meio de escape.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211007130000 -0300" stop="20211007142600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Dromedário no Asfalto (?)</title>
+    <sub-title lang="pt">Dromedário no Asfalto</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois de perder a mãe, Pedro se sente desolado e determinado a conhecer a identidade de seu pai. A única informação que ele tem é que o homem partiu para o Uruguai para viver recluso.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007142600 -0300" stop="20211007144900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Luiz Carlos Felizardo, Um Fotógrafo na Estrada (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Luiz Carlos Felizardo, nasceu em Porto Alegre/RS, em 05 de julho de 1949. No documentário, ele faz uma visita à Reserva Técnica do MARGS onde revê e comenta fotos que fazem parte do acervo do museu.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007144900 -0300" stop="20211007150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Making Of - Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conheça os bastidores da superprodução chinesa Tribos e Impérios. Making Ofs e entrevistas com elenco, diretor e equipe técnica revelam detalhes surpreendentes para você!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007150000 -0300" stop="20211007184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007184500 -0300" stop="20211007190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A população do Maranhão sempre foi muito politizada! Em 1951 irrompeu em São Luís uma revolta que ficou conhecida como a Greve de 51.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007190000 -0300" stop="20211007200000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Branco investiga Nando e descobre sua relação com Lobo, comparsa de Mendes no tráfico, associando Nando ao negócio. Flávia também investiga Mendes e discute com Nando sobre sua ida para a Argentina.".(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007200000 -0300" stop="20211007203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Verona (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rodrigo e Juliana, dois jovens apaixonados, vivem um amor proibido devido ao ódio entre suas famílias.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007203000 -0300" stop="20211007210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A arte de adaptar clássicos da literatura para histórias em quadrinhos é o tema do primeiro episódio da série HQUEM.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007210000 -0300" stop="20211007220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um novo imperador é nomeado, mas a coroação é interrompida, e muitos sonhos são frustrados.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007220000 -0300" stop="20211007233300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Entrevistas do Sair à Luz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211007233300 -0300" stop="20211007234700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Maranhão sempre recebeu as pessoas de braços abertos e o piauiense Clodoaldo de Freitas, não satisfeito em fundar a AML em 1908, fundou a Academia Piauiense de Letras em 1917.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211007234700 -0300" stop="20211008000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1971, a Rádio Difusora do Maranhão levou ao ar o programa Guerra dos Mundos, copiando Orson Wells, que fez o mesmo em 1938 em Nova York.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008000000 -0300" stop="20211008010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um novo imperador é nomeado, mas a coroação é interrompida, e muitos sonhos são frustrados.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008010000 -0300" stop="20211008015500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pesquisadora Celina Alvetti resume em cinco as etapas do cinema paranaense, começando com as primeiras exibições cinematográficas entre 1897 e 1930.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008015500 -0300" stop="20211008024600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nós estávamos lado a lado, mas não estávamos próximos. Vivendo aglomerados, porém esquecendo a coletividade, foi preciso que a gente se afastasse, para que ficássemos mais próximos do que nunca. A quarentena tem nos feito olhar para dentro, a falta, fez com que convivêssemos mais intensamente com as pessoas que gostamos, mas de um modo diferente.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008024600 -0300" stop="20211008030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;José Sarney é mais conhecido por ter sido presidente do Brasil, mas aqui veremos muito mais sobre o grande escritor e homem de cultura que ele é.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008030000 -0300" stop="20211008041000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: 88 Fonte do Amanhã (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filme documental sobre o processo constituinte de 1988, no qual gerou a mais avançada e popular constituição ja feita no Brasil.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008041000 -0300" stop="20211008043100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Avoada (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mães que perderam seus filhos de forma violenta contam suas histórias, enquanto acompanhamos dois garotos que invadem uma casa para recuperarem uma uma pipa avoada.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211008043100 -0300" stop="20211008044100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Making Of - Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conheça os bastidores da superprodução chinesa Tribos e Impérios. Making Ofs e entrevistas com elenco, diretor e equipe técnica revelam detalhes surpreendentes para você!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008044100 -0300" stop="20211008053000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Mischa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No final da década de 1960, Michel, um garoto de 12 anos, filho de sobrevivente do Holocausto, busca saber mais sobre suas raízes.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211008053000 -0300" stop="20211008060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dentre suas pedaladas matinais e um trabalho exigente, Ramiro não tem tempo a perder.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211008060000 -0300" stop="20211008061500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008061500 -0300" stop="20211008064500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Entre Parentes (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um ano após impeachment presidencial, Brasília recebe a maior mobilização indígena durante a 14ª edição do Acampamento Terra Livre, no final de abril.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008064500 -0300" stop="20211008080300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Entre Paredes (?)</title>
+    <sub-title lang="pt">Entre Paredes</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Liana está aprisionada em seu relacionamento com o abusivo Antonio; Vera e Roberto vivem em clima de tensão por terem tempos diferentes.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008080300 -0300" stop="20211008082100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Luna 13 (?)</title>
+    <sub-title lang="pt">Luna 13</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Poucos dias após a morte de seu avô, o jovem Igor decide fazer um documentário sobre a história de sua família na tentativa de entender porque o seu avô, "seu" Guilhermino, era obcecado por fatos estranhos que haviam acontecido em sua cidade.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008082100 -0300" stop="20211008083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Making Of - Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conheça os bastidores da superprodução chinesa Tribos e Impérios. Making Ofs e entrevistas com elenco, diretor e equipe técnica revelam detalhes surpreendentes para você!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008083000 -0300" stop="20211008091900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Making Of (?)</title>
+    <sub-title lang="pt">Making Of</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A agitação no estúdio de "Calafrio" continua. Aquele pode ser o segundo dia dos últimos dias das vidas da equipe da série de terror mais amada e idolatrada do Brasil. E ninguém parece saber. O making of acompanha os atores no estúdio falando mal do diretor - que ouve tudo - e a chegada de Enzo, o ator que interpretava o Lobisomem, chega ao estúdio querendo gravar e descobre que foi demitido.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008091900 -0300" stop="20211008092500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Entre Reticências (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mulher vivendo um relacionamento decadente, perde a esperança de dias melhores após uma terrível descoberta.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008092500 -0300" stop="20211008093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mindscape retrata o refúgio da mente criativa de Douglas Jung,  formado pela Salzburg Experimental Academy of Dance (Áustria) Bailarino e Coreógrafo.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008093000 -0300" stop="20211008100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Amélio acorda e escuta um choro vindo da sala. Ele vai ver o que é, e encontra Fabi chorando no colo da mãe Norberta, assistidas por Zefinha.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008100000 -0300" stop="20211008112000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1957. Um assassino em série conhecido como "O Enforcador" está deixando o bairro de Santa Cecília em alerta.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008112000 -0300" stop="20211008113500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em toda cidade existem pessoas que são referências, que são admiradas por todos indistintamente.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008113500 -0300" stop="20211008115300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Curinga (?)</title>
+    <sub-title lang="pt">O Curinga</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um homem dentro de um apartamento, aparentemente sozinho, começa a sacar cartas de um baralho. A cada carta, uma teoria diferente, as 10 pragas do Egito e os problemas do mundo estão entre seus principais pontos de reflexão. Porém as cartas estão acabando e o seu tempo também.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008115300 -0300" stop="20211008115600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As coisas complicaram, mas o mundo não para. Como o indivíduo conseguirá transformar um momento difícil em aprendizado?(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008115600 -0300" stop="20211008120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa - Contos Africanos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Como o adivinho Ifá escapou da morte com a ajuda da bela Euá e depois recompensou a moça satisfazendo seu maior desejo, o que deixou intrigado o povo da aldeia onde morava.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008120000 -0300" stop="20211008130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Branco investiga Nando e descobre sua relação com Lobo, comparsa de Mendes no tráfico, associando Nando ao negócio. Flávia também investiga Mendes e discute com Nando sobre sua ida para a Argentina.".(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008130000 -0300" stop="20211008143400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.Doc: Baderna (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baderna é uma cidade no interior do Brasil. Fundada em 1871, formou-se a partir da cultura dos negros escravizados e hoje segue emancipa-da do estado brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211008143400 -0300" stop="20211008144800 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filho do cônsul de Portugal em São Luís do Maranhão, Fernando Silva conhecia todas as histórias sobre as mais antigas empresas comerciais da cidade e os prédios onde elas funcionavam.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008144800 -0300" stop="20211008150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008150000 -0300" stop="20211008184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008184500 -0300" stop="20211008190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme Besouro foi inspirado em uma lenda na Bahia, onde havia um capoeirista tão bom, que voava, daí o seu nome.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211008190000 -0300" stop="20211008193000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imagem Vinil (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Maurício é um dentista com consultório na Praça Saenz Peña e está prestes a se casar e se mudar para a Barra.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008193000 -0300" stop="20211008203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008203000 -0300" stop="20211008210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O cinema fantástico realizado em Porto Alegre é o tema do terceiro episódio da série.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008210000 -0300" stop="20211008220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Princesa Jing declara que vai caçar o temido rei dos lobos da neve. O imperador é pressionado novamente para escolher um novo herdeiro.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008220000 -0300" stop="20211008232000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Caxias do Sul - Tradição e Inovação de um Povo (?)</title>
+    <sub-title lang="pt">Caxias do Sul - Tradição e Inovação de um Povo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário conta como surgiu, como se desenvolveu, os fatos mais importantes, as figuras proeminentes, as influências sociais, econômicas, políticas e culturais que formaram a Caxias de hoje.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008232000 -0300" stop="20211008233500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211008233500 -0300" stop="20211008235100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Final da Linha (?)</title>
+    <sub-title lang="pt">Final da Linha</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lílian é uma jovem que passou no vestibular, porém sua faculdade é em outra cidade. Para chegar ao seu destino, ela se submete à rotina de pegar o ônibus e o trem, o trem e o ônibus. Aquilo que primeiro parecia a pior parte de seu dia, torna-se uma atividade interessante, quando a menina mostra um grande talento para fazer amizades.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006003900 -0300" stop="20211006013100 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina percebe que Irina pretende fazê-la sofrer e procura a pintura perdida de Noé. A trilha leva a um incômodo. Enquanto isso, Adriana e Nico se aproximam, apesar dos avisos de Christos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006013100 -0300" stop="20211006015300 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dolores, uma rica restauradora, chega ao Bucksnort com planos de abrir um novo restaurante fora da cidade, e Mike aproveita a chance de firmar o seu negócio como fornecedor de ovos.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006015300 -0300" stop="20211006021600 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um tornado atinge Bucksnort. Mike e Beau ainda discordam sobre os seus negócios de ovos e quem ganhará o contrato do restaurante de Dolores.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006021600 -0300" stop="20211006031500 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos duvida da "versão oficial" sobre a morte de seu pai e inicia sua própria investigação. Desafiando os rebeldes de San Mateo, Adam faz uma jogada ousada para ganhar a confiança do governador Rocha.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006031500 -0300" stop="20211006040300 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma mãe de aluguel procura atravessar a fronteira para evitar ser separada do bebê. Mas depois que o bebê nasce em Naco, Gama e Morris a convencem a seguir adiante, e cabe a eles levar o bebê aos pais nos Estados Unidos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006040300 -0300" stop="20211006045000 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lupe e Kewewe se casam... e isso coincide com a chegada de um cliente que está a caminho de Miami. Então, a equipe decide acompanhar os noivos na sua lua de mel à Disney.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006045000 -0300" stop="20211006053600 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Guevin desaparece e todo mundo teme que ele tenha sido sequestrado pela Natividad em um ato de vingança. Enquanto eles procuram desesperadamente por ele, ninguém está preparado para a verdade sobre quem realmente o sequestrou...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006053600 -0300" stop="20211006060100 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No meio dos disparos, Earn e Alfred são presos. Enquanto Alfred é solto por fiança, Earn fica dentro e espera ser processado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006060100 -0300" stop="20211006062600 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006062600 -0300" stop="20211006071000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sozinho em casa, Inês fica viciado em drogas. Evandro encontra uma maneira de sair da prisão.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006071000 -0300" stop="20211006075300 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello sai da clínica e vai trabalhar para a DEA. Geise e seu filho Airton tentam fugir do país, mas ele é sequestrado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006075300 -0300" stop="20211006084100 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mariana volta ao Dendé. Arlete acorda de seu coma, confundindo Evandro com seu falecido filho Zeca, tratando-o com amor e carinho.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006084100 -0300" stop="20211006094000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">Impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro vai fazer de tudo para ver o nascimento do filho, mesmo com a polícia de tocaia no hospital. Enquanto isso, na cadeia, Afonso foge, Salvador sai em condicional e Bagdá toma a ala da Segunda Armada, fortalecendo os Irmãos dos Irmãos. Morello descobre que Inês usa cocaína e Arlete reconhece o homem que lhe assaltou e espancou.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006094000 -0300" stop="20211006104000 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Adam enfrenta uma crise no casamento por causa de Rocha. Carlos continua investigando o suposto assassino de seu pai, mas isso o leva a um beco sem saída.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006104000 -0300" stop="20211006112700 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lupe e Kewewe se casam... e isso coincide com a chegada de um cliente que está a caminho de Miami. Então, a equipe decide acompanhar os noivos na sua lua de mel à Disney.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006112700 -0300" stop="20211006121500 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Guevin desaparece e todo mundo teme que ele tenha sido sequestrado pela Natividad em um ato de vingança. Enquanto eles procuram desesperadamente por ele, ninguém está preparado para a verdade sobre quem realmente o sequestrou...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006121500 -0300" stop="20211006130200 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma equipe de filmagem chega para fazer um filme sobre as aventuras intergalácticas de Guevin. Com a agitação de Naco e pessoas importantes do cinema pela cidade, cabe a Gama e Morris cuidar da protagonista do filme, Dolores Harrison.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006130200 -0300" stop="20211006133700 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O apocalipse está no horizonte. O último lugar seguro é a área fronteiriça de Sonoro e Naco, e um êxodo em massa de gringos chega ao México.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006133700 -0300" stop="20211006142600 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006142600 -0300" stop="20211006151300 -0300" channel="Star Hits 1">
+    <title lang="pt">Homeland (?)</title>
+    <sub-title lang="pt">Homeland</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Hayes tem ideias. Carrie vai às compras. Tasneem enfrenta problemas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006151300 -0300" stop="20211006161000 -0300" channel="Star Hits 1">
+    <title lang="pt">Homeland (?)</title>
+    <sub-title lang="pt">Homeland</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ninguém admite nada.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006161000 -0300" stop="20211006170300 -0300" channel="Star Hits 1">
+    <title lang="pt">Homeland (?)</title>
+    <sub-title lang="pt">Homeland</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Saul intercepta conversas importantes, já Carrie precisa de mais um favor.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006170300 -0300" stop="20211006172400 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio recebem o grande evento da temporada de futebol universitário. Porém, ninguém em Bucksnort acredita que eles darão conta.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006172400 -0300" stop="20211006174800 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio tentam reacender a sua vida amorosa, depois que Beau os pressiona. Além disso, Constance e Rudy discutem como desvendar o seu relacionamento com o filho de Constance, quando ele retorna à Bucksnort antes do previsto após a sua missão militar.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006174800 -0300" stop="20211006183300 -0300" channel="Star Hits 1">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Foster parecem ser uma família comum e unida, até que o FBI invade a casa deles para resgatar uma jovem garota chamada Kit Lanigan.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006183300 -0300" stop="20211006191800 -0300" channel="Star Hits 1">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Frank, Kick, Bishop e James se deparam com vários casos de pessoas desaparecidas em Seneca Hills.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006191800 -0300" stop="20211006200200 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O plano de Lucious para escapar dos agentes federais finalmente vem à tona. Cookie se vê em uma situação perigosa com Damon.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006200200 -0300" stop="20211006204600 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma ocasião feliz reúne a família Lyon, mas fica evidente que eles não conseguem entrar em um acordo. Lucious, descontente com o progresso do filme, encara os demônios do seu passado.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006204600 -0300" stop="20211006213200 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006213200 -0300" stop="20211006221500 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006221500 -0300" stop="20211006230000 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006230000 -0300" stop="20211006234500 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006234500 -0300" stop="20211007003300 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007003300 -0300" stop="20211007005700 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio recebem o grande evento da temporada de futebol universitário. Porém, ninguém em Bucksnort acredita que eles darão conta.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007005700 -0300" stop="20211007012100 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio tentam reacender a sua vida amorosa, depois que Beau os pressiona. Além disso, Constance e Rudy discutem como desvendar o seu relacionamento com o filho de Constance, quando ele retorna à Bucksnort antes do previsto após a sua missão militar.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007012100 -0300" stop="20211007022000 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Adam enfrenta uma crise no casamento por causa de Rocha. Carlos continua investigando o suposto assassino de seu pai, mas isso o leva a um beco sem saída.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007022000 -0300" stop="20211007031000 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Guevin desaparece e todo mundo teme que ele tenha sido sequestrado pela Natividad em um ato de vingança. Enquanto eles procuram desesperadamente por ele, ninguém está preparado para a verdade sobre quem realmente o sequestrou...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007031000 -0300" stop="20211007035500 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma equipe de filmagem chega para fazer um filme sobre as aventuras intergalácticas de Guevin. Com a agitação de Naco e pessoas importantes do cinema pela cidade, cabe a Gama e Morris cuidar da protagonista do filme, Dolores Harrison.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007035500 -0300" stop="20211007042800 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O apocalipse está no horizonte. O último lugar seguro é a área fronteiriça de Sonoro e Naco, e um êxodo em massa de gringos chega ao México.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007042800 -0300" stop="20211007051100 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tisha, uma velha conhecida de Gama e Morris, recorre novamente aos Coyotes para passar o seu falecido avô ao outro lado do muro. Porém, desta vez, as coisas não acontecerão como ela espera.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007051100 -0300" stop="20211007060200 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007060200 -0300" stop="20211007064700 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos Eduardo Oliveira, o CADU, está tendo um dia de cão. Se não bastasse estar atrasado pro trabalho, a casa dele esta um caos por causa das obras inacabadas no quarto do bebê que está para chegar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007064700 -0300" stop="20211007072800 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No seu primeiro dia no presídio, Cadu caminha pelo pátio com China, que lhe apresenta aos detentos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007072800 -0300" stop="20211007080600 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu começa a viver sua mentira. Age e se veste como o ''dono do Hotel'', mas manter esse status tem um custo alto para uma família quase falida.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007080600 -0300" stop="20211007084300 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Apresenta a história de Cadu, um defensor público que vê sua vida mudar após ser confundido com um traficante e acabar preso.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007084300 -0300" stop="20211007093500 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007093500 -0300" stop="20211007100800 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O apocalipse está no horizonte. O último lugar seguro é a área fronteiriça de Sonoro e Naco, e um êxodo em massa de gringos chega ao México.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007100800 -0300" stop="20211007110100 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007110100 -0300" stop="20211007114100 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conhecemos um primeiro cliente: jogador de baseball cubano buscando entrar para jogar nas grandes ligas americanas, mas não antes de servir como um jogador escondido de substituição para os Naco Coyotes, o time local de Gamaliel e Morris.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007114100 -0300" stop="20211007122300 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O dono de um circo deve levar seu tigre através da fronteira para ver um veterinário estando o animal exposto ao tempo...o qual deve ou não ser porque ele traz cocaína escondida dentro de seu corpo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007122300 -0300" stop="20211007130600 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um político mexicano está em fuga (uma raridade), enquanto é procurado em seu estado natal por fraude que soma milhões, e agora que ele procura atravessar a fronteira aos EUA onde ele pode desaparecer.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007130600 -0300" stop="20211007134800 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007134800 -0300" stop="20211007142700 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007142700 -0300" stop="20211007151100 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007151100 -0300" stop="20211007155400 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007155400 -0300" stop="20211007163700 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007163700 -0300" stop="20211007172300 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007172300 -0300" stop="20211007174400 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As mulheres vão à Omaha para os exames de ginecologia, mas a viagem sai dos trilhos. Com ciúmes do novo perfil de Beau em um app de encontros, Kay está determinada em achar um cara.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007174400 -0300" stop="20211007180800 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike volta ao jornalismo revigorando o jornal da cidade, mas acaba causando muita confusão quando descobre alguns segredos e rivalidades.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007180800 -0300" stop="20211007185700 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cassius Clay luta contra o herói do boxe Doug Jones. Mayme insiste que Bumpy defenda Jones, um apoiador da sua organização, mas Malcolm pede que Bumpy apoie Clay.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007185700 -0300" stop="20211007194700 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na tentativa de quebrar o banco de Bumpy, Chin faz uma aposta. Como resultado, Bumpy deve aos vencedores mais do que ele pode cobrir.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007194700 -0300" stop="20211007204300 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Para cobrir a sua dívida, Bumpy é encarregado de matar uma testemunha que depõe contra a família Genovese. Elijah Muhammed visita a mesquita de Malcolm X, onde conhece Elise e pede que ela espie Malcolm.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007204300 -0300" stop="20211007212800 -0300" channel="Star Hits 1">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Foster parecem ser uma família comum e unida, até que o FBI invade a casa deles para resgatar uma jovem garota chamada Kit Lanigan.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007212800 -0300" stop="20211007221400 -0300" channel="Star Hits 1">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Frank, Kick, Bishop e James se deparam com vários casos de pessoas desaparecidas em Seneca Hills.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007221400 -0300" stop="20211007230300 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;À medida que a campanha anti-emenda cresce e ganha a atenção da mídia, Betty Friedan, a mãe do movimento feminista, assume como a sua principal missão derrubar Phyllis.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007230300 -0300" stop="20211007235700 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Phyllis e Fred Schlafly debatem com o casal feminista Brenda e Marc Feigan-Fasteau na televisão.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007235700 -0300" stop="20211008004700 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com uma republicana pró-emenda na Casa Branca, Phyllis protesta contra o seu próprio partido, o que a coloca em conflito com a líder feminista republicana Jill Ruckelshaus.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008004700 -0300" stop="20211008013100 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008013100 -0300" stop="20211008015300 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As mulheres vão à Omaha para os exames de ginecologia, mas a viagem sai dos trilhos. Com ciúmes do novo perfil de Beau em um app de encontros, Kay está determinada em achar um cara.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008015300 -0300" stop="20211008021600 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike volta ao jornalismo revigorando o jornal da cidade, mas acaba causando muita confusão quando descobre alguns segredos e rivalidades.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008021600 -0300" stop="20211008030800 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008030800 -0300" stop="20211008035100 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conhecemos um primeiro cliente: jogador de baseball cubano buscando entrar para jogar nas grandes ligas americanas, mas não antes de servir como um jogador escondido de substituição para os Naco Coyotes, o time local de Gamaliel e Morris.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008035100 -0300" stop="20211008043100 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O dono de um circo deve levar seu tigre através da fronteira para ver um veterinário estando o animal exposto ao tempo...o qual deve ou não ser porque ele traz cocaína escondida dentro de seu corpo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008043100 -0300" stop="20211008051400 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um político mexicano está em fuga (uma raridade), enquanto é procurado em seu estado natal por fraude que soma milhões, e agora que ele procura atravessar a fronteira aos EUA onde ele pode desaparecer.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008051400 -0300" stop="20211008060100 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008060100 -0300" stop="20211008063000 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Earn perde sua jaqueta e Quita perde seu telefone.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008063000 -0300" stop="20211008070200 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As coisas parecem um pouco diferentes em Atlanta. Provavelmente, deve ser por conta da temporada de roubos. Será que Paper Boi será libertado?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008070200 -0300" stop="20211008080000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro e Geise reatam o casamento com uma promessa de mudanças e Arlete vai embora da casa depois de um trauma. A mãe de Evandro tenta sequestrar a neta pouco antes da família se mudar para Bolívia. Morello vai atrás de Júlio, o traficante que fornece drogas para sua filha, e descobre uma oportunidade de pegar Evandro. Ao mesmo tempo, Inês foge da clínica, e, sozinha, busca suprir seu vício.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008080000 -0300" stop="20211008084600 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello salva Inês de ser presa pela PM e a leva de volta para a clínica de reabilitação. Disposto a pegar Evandro a qualquer custo, o policial obriga o traficante Júlio a plantar um grampo no barracão do Dendê. Evandro monta um laboratório no Brasil, mas Morello, com o grampo, escuta todos os seus planos, esperando a hora de atacar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008084600 -0300" stop="20211008094400 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">Impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro negocia com os Urquiza pois perdeu um carregamento de drogas. Para piorar, os irmãos descobrem sobre o laboratório de Evandro. Sentindo-se traído, Arturo fecha um negócio com Salvador, o que pode colocar Evandro e sua família em risco. Morello recebe uma mala de grampo e consegue monitorar o telefone do piloto Jorge, peça importante no tráfico internacional.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008094400 -0300" stop="20211008104100 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro e Gilmar têm que se livrar dos corpos depois de um jantar que termina em várias mortes, mas Arlete chega na casa de surpresa. Morello pega Inês na clínica e leva a filha para casa. Evandro planeja sua fuga, mas o piloto Jorge não está disposto a se envolver com essa matança. Inês briga com Morello e foge à procura de cocaína no Dendê. Morello vai atrás dela, mas a chance de pegar Evandro fará com que ele tenha que escolher entre a ajudar a filha ou prender seu alvo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008104100 -0300" stop="20211008113600 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos viaja até o Canadá em busca de respostas enquanto a família de Adão participa de um jantar que o governador Rocha oferece a Rufino, em agradecimento por todos os serviços prestados.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008113600 -0300" stop="20211008121900 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três jovens cineastas chegam a Naco para filmar um documentário sobre a fronteira e ficam presos no meio da disputa entre os narcotraficantes.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008121900 -0300" stop="20211008130300 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008130300 -0300" stop="20211008134000 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008134000 -0300" stop="20211008142400 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três dançarinos de mesa russos sonham em ir a Las Vegas para se tornarem famosos. Mas, Romulo, o dono do clube local, tem outros planos para eles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008142400 -0300" stop="20211008150700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008150700 -0300" stop="20211008155000 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O plano de Lucious para escapar dos agentes federais finalmente vem à tona. Cookie se vê em uma situação perigosa com Damon.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008155000 -0300" stop="20211008163400 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma ocasião feliz reúne a família Lyon, mas fica evidente que eles não conseguem entrar em um acordo. Lucious, descontente com o progresso do filme, encara os demônios do seu passado.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008163400 -0300" stop="20211008172000 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008172000 -0300" stop="20211008174100 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio precisam decidir quais sementes eles querem começar a cultivar na fazenda, mas Rio está distraída com o seu próprio projeto.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008174100 -0300" stop="20211008180500 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rio fica chateada por não poder ir à Islândia para o casamento de sua amiga. Então, as núpcias são transferidas à fazenda. Enquanto isso, Mike e Jacob ajudam Rudy a superar Constance.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008180500 -0300" stop="20211008185500 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas. Em meio ao tiroteio, Evandro é ajudado por Geise, enquanto Arlete encontra na delegada Andreia, parceira de Morello, uma possível aliada para salvar o filho dele mesmo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008185500 -0300" stop="20211008194200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Paraguai, afim de eliminar os intermediários das drogas e armas, Evandro orquestra um sofisticado plano de tráfico internacional e acaba descobrindo a cocaína mais pura do mercado: o "ouro branco". Arrependida por denunciar o destino do filho, Arlete se afasta da polícia, mas Morello, utilizando estratégias nada convencionais, persegue os rastros de Evandro e chega cada vez mais perto do traficante.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008194200 -0300" stop="20211008203200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na operação chefiada por Morello para prender Evandro, uma civil é morta e o policial é suspenso da Federal. Já os negócios no Dendê, agora capitaneados pelo "ouro branco" vindo da Bolívia, se expandem. Enquanto Morello investiga o traficante por conta própria, Evandro se consolida como um dos maiores traficantes da cidade, deixando sua família vulnerável, especialmente a mãe Arlete.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008203200 -0300" stop="20211008205700 -0300" channel="Star Hits 1">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam vai à loja de maconha e visita o seu irmão, e Frankie e Sam tomam sorvete.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008205700 -0300" stop="20211008212500 -0300" channel="Star Hits 1">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam vive um flashback e tem um grupo de amigos fiéis.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008212500 -0300" stop="20211008215900 -0300" channel="Star Hits 1">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam faz uma Batceñera, uma festa de 15 anos e Bat Mitzvah, para Frankie.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008215900 -0300" stop="20211008223300 -0300" channel="Star Hits 1">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam e as suas filhas moram na Cidade dos Anjos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008223300 -0300" stop="20211008233500 -0300" channel="Star Hits 1">
+    <title lang="pt">Pose (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A comunidade fica profundamente abalada quando um membro querido sofre ataques brutais.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
 </tv>
