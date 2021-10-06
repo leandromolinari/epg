@@ -780,6 +780,7 @@
   </channel>
   <channel id="Star Hits 2">
     <display-name lang="pt">Star HIts 2</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/foa.gif" />
   </channel>
   <programme start="20211006001500 -0300" stop="20211006020500 -0300" channel="AMC">
     <title lang="pt">O Homem da Máfia</title>
@@ -28400,6 +28401,764 @@
     </rating>
   </programme>
   <programme start="20211008223300 -0300" stop="20211008233500 -0300" channel="Star Hits 1">
+    <title lang="pt">Pose (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A comunidade fica profundamente abalada quando um membro querido sofre ataques brutais.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006003900 -0300" stop="20211006013100 -0300" channel="Star Hits 2">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina percebe que Irina pretende fazê-la sofrer e procura a pintura perdida de Noé. A trilha leva a um incômodo. Enquanto isso, Adriana e Nico se aproximam, apesar dos avisos de Christos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006013100 -0300" stop="20211006015300 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dolores, uma rica restauradora, chega ao Bucksnort com planos de abrir um novo restaurante fora da cidade, e Mike aproveita a chance de firmar o seu negócio como fornecedor de ovos.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006015300 -0300" stop="20211006021600 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um tornado atinge Bucksnort. Mike e Beau ainda discordam sobre os seus negócios de ovos e quem ganhará o contrato do restaurante de Dolores.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006021600 -0300" stop="20211006031500 -0300" channel="Star Hits 2">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos duvida da "versão oficial" sobre a morte de seu pai e inicia sua própria investigação. Desafiando os rebeldes de San Mateo, Adam faz uma jogada ousada para ganhar a confiança do governador Rocha.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006031500 -0300" stop="20211006040300 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma mãe de aluguel procura atravessar a fronteira para evitar ser separada do bebê. Mas depois que o bebê nasce em Naco, Gama e Morris a convencem a seguir adiante, e cabe a eles levar o bebê aos pais nos Estados Unidos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006040300 -0300" stop="20211006045000 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lupe e Kewewe se casam... e isso coincide com a chegada de um cliente que está a caminho de Miami. Então, a equipe decide acompanhar os noivos na sua lua de mel à Disney.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006045000 -0300" stop="20211006053600 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Guevin desaparece e todo mundo teme que ele tenha sido sequestrado pela Natividad em um ato de vingança. Enquanto eles procuram desesperadamente por ele, ninguém está preparado para a verdade sobre quem realmente o sequestrou...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006053600 -0300" stop="20211006060100 -0300" channel="Star Hits 2">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No meio dos disparos, Earn e Alfred são presos. Enquanto Alfred é solto por fiança, Earn fica dentro e espera ser processado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006060100 -0300" stop="20211006062600 -0300" channel="Star Hits 2">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006062600 -0300" stop="20211006071000 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sozinho em casa, Inês fica viciado em drogas. Evandro encontra uma maneira de sair da prisão.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006071000 -0300" stop="20211006075300 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello sai da clínica e vai trabalhar para a DEA. Geise e seu filho Airton tentam fugir do país, mas ele é sequestrado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006075300 -0300" stop="20211006084100 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mariana volta ao Dendé. Arlete acorda de seu coma, confundindo Evandro com seu falecido filho Zeca, tratando-o com amor e carinho.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006084100 -0300" stop="20211006094000 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">Impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro vai fazer de tudo para ver o nascimento do filho, mesmo com a polícia de tocaia no hospital. Enquanto isso, na cadeia, Afonso foge, Salvador sai em condicional e Bagdá toma a ala da Segunda Armada, fortalecendo os Irmãos dos Irmãos. Morello descobre que Inês usa cocaína e Arlete reconhece o homem que lhe assaltou e espancou.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006094000 -0300" stop="20211006104000 -0300" channel="Star Hits 2">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Adam enfrenta uma crise no casamento por causa de Rocha. Carlos continua investigando o suposto assassino de seu pai, mas isso o leva a um beco sem saída.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006104000 -0300" stop="20211006112700 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lupe e Kewewe se casam... e isso coincide com a chegada de um cliente que está a caminho de Miami. Então, a equipe decide acompanhar os noivos na sua lua de mel à Disney.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006112700 -0300" stop="20211006121500 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Guevin desaparece e todo mundo teme que ele tenha sido sequestrado pela Natividad em um ato de vingança. Enquanto eles procuram desesperadamente por ele, ninguém está preparado para a verdade sobre quem realmente o sequestrou...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006121500 -0300" stop="20211006130200 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma equipe de filmagem chega para fazer um filme sobre as aventuras intergalácticas de Guevin. Com a agitação de Naco e pessoas importantes do cinema pela cidade, cabe a Gama e Morris cuidar da protagonista do filme, Dolores Harrison.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006130200 -0300" stop="20211006133700 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O apocalipse está no horizonte. O último lugar seguro é a área fronteiriça de Sonoro e Naco, e um êxodo em massa de gringos chega ao México.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006133700 -0300" stop="20211006142600 -0300" channel="Star Hits 2">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006142600 -0300" stop="20211006151300 -0300" channel="Star Hits 2">
+    <title lang="pt">Homeland (?)</title>
+    <sub-title lang="pt">Homeland</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Hayes tem ideias. Carrie vai às compras. Tasneem enfrenta problemas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006151300 -0300" stop="20211006161000 -0300" channel="Star Hits 2">
+    <title lang="pt">Homeland (?)</title>
+    <sub-title lang="pt">Homeland</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ninguém admite nada.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006161000 -0300" stop="20211006170300 -0300" channel="Star Hits 2">
+    <title lang="pt">Homeland (?)</title>
+    <sub-title lang="pt">Homeland</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Saul intercepta conversas importantes, já Carrie precisa de mais um favor.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211006170300 -0300" stop="20211006172400 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio recebem o grande evento da temporada de futebol universitário. Porém, ninguém em Bucksnort acredita que eles darão conta.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006172400 -0300" stop="20211006174800 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio tentam reacender a sua vida amorosa, depois que Beau os pressiona. Além disso, Constance e Rudy discutem como desvendar o seu relacionamento com o filho de Constance, quando ele retorna à Bucksnort antes do previsto após a sua missão militar.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211006174800 -0300" stop="20211006183300 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Foster parecem ser uma família comum e unida, até que o FBI invade a casa deles para resgatar uma jovem garota chamada Kit Lanigan.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006183300 -0300" stop="20211006191800 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Frank, Kick, Bishop e James se deparam com vários casos de pessoas desaparecidas em Seneca Hills.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006191800 -0300" stop="20211006200200 -0300" channel="Star Hits 2">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O plano de Lucious para escapar dos agentes federais finalmente vem à tona. Cookie se vê em uma situação perigosa com Damon.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006200200 -0300" stop="20211006204600 -0300" channel="Star Hits 2">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma ocasião feliz reúne a família Lyon, mas fica evidente que eles não conseguem entrar em um acordo. Lucious, descontente com o progresso do filme, encara os demônios do seu passado.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006204600 -0300" stop="20211006213200 -0300" channel="Star Hits 2">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006213200 -0300" stop="20211006221500 -0300" channel="Star Hits 2">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006221500 -0300" stop="20211006230000 -0300" channel="Star Hits 2">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006230000 -0300" stop="20211006234500 -0300" channel="Star Hits 2">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211006234500 -0300" stop="20211007003300 -0300" channel="Star Hits 2">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007003300 -0300" stop="20211007005700 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio recebem o grande evento da temporada de futebol universitário. Porém, ninguém em Bucksnort acredita que eles darão conta.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007005700 -0300" stop="20211007012100 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio tentam reacender a sua vida amorosa, depois que Beau os pressiona. Além disso, Constance e Rudy discutem como desvendar o seu relacionamento com o filho de Constance, quando ele retorna à Bucksnort antes do previsto após a sua missão militar.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007012100 -0300" stop="20211007022000 -0300" channel="Star Hits 2">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Adam enfrenta uma crise no casamento por causa de Rocha. Carlos continua investigando o suposto assassino de seu pai, mas isso o leva a um beco sem saída.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007022000 -0300" stop="20211007031000 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Guevin desaparece e todo mundo teme que ele tenha sido sequestrado pela Natividad em um ato de vingança. Enquanto eles procuram desesperadamente por ele, ninguém está preparado para a verdade sobre quem realmente o sequestrou...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007031000 -0300" stop="20211007035500 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma equipe de filmagem chega para fazer um filme sobre as aventuras intergalácticas de Guevin. Com a agitação de Naco e pessoas importantes do cinema pela cidade, cabe a Gama e Morris cuidar da protagonista do filme, Dolores Harrison.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007035500 -0300" stop="20211007042800 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O apocalipse está no horizonte. O último lugar seguro é a área fronteiriça de Sonoro e Naco, e um êxodo em massa de gringos chega ao México.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007042800 -0300" stop="20211007051100 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tisha, uma velha conhecida de Gama e Morris, recorre novamente aos Coyotes para passar o seu falecido avô ao outro lado do muro. Porém, desta vez, as coisas não acontecerão como ela espera.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007051100 -0300" stop="20211007060200 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007060200 -0300" stop="20211007064700 -0300" channel="Star Hits 2">
+    <title lang="pt">Um Contra Todos (?)</title>
+    <sub-title lang="pt">One Against All</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos Eduardo Oliveira, o Cadu, está tendo um dia de cão: como se não bastasse estar atrasado para o trabalho, a casa dele está um caos por causa das obras inacabadas no quarto do bebê que está para chegar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007064700 -0300" stop="20211007072800 -0300" channel="Star Hits 2">
+    <title lang="pt">Um Contra Todos (?)</title>
+    <sub-title lang="pt">One Against All</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No seu primeiro dia no presídio, CADU caminha pelo pátio com CHINA, que lhe apresenta a todos os detentos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007072800 -0300" stop="20211007080600 -0300" channel="Star Hits 2">
+    <title lang="pt">Um Contra Todos (?)</title>
+    <sub-title lang="pt">One Against All</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu começa a viver sua mentira. Age e se veste como o "dono do Hotel", mas manter esse status tem um custo alto para uma família quase falida.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007080600 -0300" stop="20211007084300 -0300" channel="Star Hits 2">
+    <title lang="pt">Um Contra Todos (?)</title>
+    <sub-title lang="pt">One Against All</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;TÉO briga na escola e MALU diz para CADU que ele tem que visitá-lo. Cadu não quer que Téo o veja como presidiário e resolve transformar a cadeia em um "hotel" de verdade para dar ao seu filho um dia mágico.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007084300 -0300" stop="20211007093500 -0300" channel="Star Hits 2">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007093500 -0300" stop="20211007100800 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O apocalipse está no horizonte. O último lugar seguro é a área fronteiriça de Sonoro e Naco, e um êxodo em massa de gringos chega ao México.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007100800 -0300" stop="20211007110100 -0300" channel="Star Hits 2">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007110100 -0300" stop="20211007114100 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conhecemos um primeiro cliente: jogador de baseball cubano buscando entrar para jogar nas grandes ligas americanas, mas não antes de servir como um jogador escondido de substituição para os Naco Coyotes, o time local de Gamaliel e Morris.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007114100 -0300" stop="20211007122300 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O dono de um circo deve levar seu tigre através da fronteira para ver um veterinário estando o animal exposto ao tempo...o qual deve ou não ser porque ele traz cocaína escondida dentro de seu corpo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007122300 -0300" stop="20211007130600 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um político mexicano está em fuga (uma raridade), enquanto é procurado em seu estado natal por fraude que soma milhões, e agora que ele procura atravessar a fronteira aos EUA onde ele pode desaparecer.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007130600 -0300" stop="20211007134800 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007134800 -0300" stop="20211007142700 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007142700 -0300" stop="20211007151100 -0300" channel="Star Hits 2">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007151100 -0300" stop="20211007155400 -0300" channel="Star Hits 2">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007155400 -0300" stop="20211007163700 -0300" channel="Star Hits 2">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007163700 -0300" stop="20211007172300 -0300" channel="Star Hits 2">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007172300 -0300" stop="20211007174400 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As mulheres vão à Omaha para os exames de ginecologia, mas a viagem sai dos trilhos. Com ciúmes do novo perfil de Beau em um app de encontros, Kay está determinada em achar um cara.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007174400 -0300" stop="20211007180800 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike volta ao jornalismo revigorando o jornal da cidade, mas acaba causando muita confusão quando descobre alguns segredos e rivalidades.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211007180800 -0300" stop="20211007185700 -0300" channel="Star Hits 2">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cassius Clay luta contra o herói do boxe Doug Jones. Mayme insiste que Bumpy defenda Jones, um apoiador da sua organização, mas Malcolm pede que Bumpy apoie Clay.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007185700 -0300" stop="20211007194700 -0300" channel="Star Hits 2">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na tentativa de quebrar o banco de Bumpy, Chin faz uma aposta. Como resultado, Bumpy deve aos vencedores mais do que ele pode cobrir.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007194700 -0300" stop="20211007204300 -0300" channel="Star Hits 2">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Para cobrir a sua dívida, Bumpy é encarregado de matar uma testemunha que depõe contra a família Genovese. Elijah Muhammed visita a mesquita de Malcolm X, onde conhece Elise e pede que ela espie Malcolm.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007204300 -0300" stop="20211007212800 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Foster parecem ser uma família comum e unida, até que o FBI invade a casa deles para resgatar uma jovem garota chamada Kit Lanigan.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007212800 -0300" stop="20211007221400 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Frank, Kick, Bishop e James se deparam com vários casos de pessoas desaparecidas em Seneca Hills.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211007221400 -0300" stop="20211007230300 -0300" channel="Star Hits 2">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;À medida que a campanha anti-emenda cresce e ganha a atenção da mídia, Betty Friedan, a mãe do movimento feminista, assume como a sua principal missão derrubar Phyllis.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007230300 -0300" stop="20211007235700 -0300" channel="Star Hits 2">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Phyllis e Fred Schlafly debatem com o casal feminista Brenda e Marc Feigan-Fasteau na televisão.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211007235700 -0300" stop="20211008004700 -0300" channel="Star Hits 2">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com uma republicana pró-emenda na Casa Branca, Phyllis protesta contra o seu próprio partido, o que a coloca em conflito com a líder feminista republicana Jill Ruckelshaus.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008004700 -0300" stop="20211008013100 -0300" channel="Star Hits 2">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008013100 -0300" stop="20211008015300 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As mulheres vão à Omaha para os exames de ginecologia, mas a viagem sai dos trilhos. Com ciúmes do novo perfil de Beau em um app de encontros, Kay está determinada em achar um cara.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008015300 -0300" stop="20211008021600 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike volta ao jornalismo revigorando o jornal da cidade, mas acaba causando muita confusão quando descobre alguns segredos e rivalidades.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008021600 -0300" stop="20211008030800 -0300" channel="Star Hits 2">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008030800 -0300" stop="20211008035100 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conhecemos um primeiro cliente: jogador de baseball cubano buscando entrar para jogar nas grandes ligas americanas, mas não antes de servir como um jogador escondido de substituição para os Naco Coyotes, o time local de Gamaliel e Morris.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008035100 -0300" stop="20211008043100 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O dono de um circo deve levar seu tigre através da fronteira para ver um veterinário estando o animal exposto ao tempo...o qual deve ou não ser porque ele traz cocaína escondida dentro de seu corpo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008043100 -0300" stop="20211008051400 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um político mexicano está em fuga (uma raridade), enquanto é procurado em seu estado natal por fraude que soma milhões, e agora que ele procura atravessar a fronteira aos EUA onde ele pode desaparecer.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008051400 -0300" stop="20211008060100 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008060100 -0300" stop="20211008063000 -0300" channel="Star Hits 2">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Earn perde sua jaqueta e Quita perde seu telefone.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008063000 -0300" stop="20211008070200 -0300" channel="Star Hits 2">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As coisas parecem um pouco diferentes em Atlanta. Provavelmente, deve ser por conta da temporada de roubos. Será que Paper Boi será libertado?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008070200 -0300" stop="20211008080000 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro e Geise reatam o casamento com uma promessa de mudanças e Arlete vai embora da casa depois de um trauma. A mãe de Evandro tenta sequestrar a neta pouco antes da família se mudar para Bolívia. Morello vai atrás de Júlio, o traficante que fornece drogas para sua filha, e descobre uma oportunidade de pegar Evandro. Ao mesmo tempo, Inês foge da clínica, e, sozinha, busca suprir seu vício.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008080000 -0300" stop="20211008084600 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello salva Inês de ser presa pela PM e a leva de volta para a clínica de reabilitação. Disposto a pegar Evandro a qualquer custo, o policial obriga o traficante Júlio a plantar um grampo no barracão do Dendê. Evandro monta um laboratório no Brasil, mas Morello, com o grampo, escuta todos os seus planos, esperando a hora de atacar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008084600 -0300" stop="20211008094400 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">Impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro negocia com os Urquiza pois perdeu um carregamento de drogas. Para piorar, os irmãos descobrem sobre o laboratório de Evandro. Sentindo-se traído, Arturo fecha um negócio com Salvador, o que pode colocar Evandro e sua família em risco. Morello recebe uma mala de grampo e consegue monitorar o telefone do piloto Jorge, peça importante no tráfico internacional.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008094400 -0300" stop="20211008104100 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro e Gilmar têm que se livrar dos corpos depois de um jantar que termina em várias mortes, mas Arlete chega na casa de surpresa. Morello pega Inês na clínica e leva a filha para casa. Evandro planeja sua fuga, mas o piloto Jorge não está disposto a se envolver com essa matança. Inês briga com Morello e foge à procura de cocaína no Dendê. Morello vai atrás dela, mas a chance de pegar Evandro fará com que ele tenha que escolher entre a ajudar a filha ou prender seu alvo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008104100 -0300" stop="20211008113600 -0300" channel="Star Hits 2">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos viaja até o Canadá em busca de respostas enquanto a família de Adão participa de um jantar que o governador Rocha oferece a Rufino, em agradecimento por todos os serviços prestados.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008113600 -0300" stop="20211008121900 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três jovens cineastas chegam a Naco para filmar um documentário sobre a fronteira e ficam presos no meio da disputa entre os narcotraficantes.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008121900 -0300" stop="20211008130300 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008130300 -0300" stop="20211008134000 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008134000 -0300" stop="20211008142400 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três dançarinos de mesa russos sonham em ir a Las Vegas para se tornarem famosos. Mas, Romulo, o dono do clube local, tem outros planos para eles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008142400 -0300" stop="20211008150700 -0300" channel="Star Hits 2">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008150700 -0300" stop="20211008155000 -0300" channel="Star Hits 2">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O plano de Lucious para escapar dos agentes federais finalmente vem à tona. Cookie se vê em uma situação perigosa com Damon.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008155000 -0300" stop="20211008163400 -0300" channel="Star Hits 2">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma ocasião feliz reúne a família Lyon, mas fica evidente que eles não conseguem entrar em um acordo. Lucious, descontente com o progresso do filme, encara os demônios do seu passado.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008163400 -0300" stop="20211008172000 -0300" channel="Star Hits 2">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211008172000 -0300" stop="20211008174100 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio precisam decidir quais sementes eles querem começar a cultivar na fazenda, mas Rio está distraída com o seu próprio projeto.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008174100 -0300" stop="20211008180500 -0300" channel="Star Hits 2">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rio fica chateada por não poder ir à Islândia para o casamento de sua amiga. Então, as núpcias são transferidas à fazenda. Enquanto isso, Mike e Jacob ajudam Rudy a superar Constance.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211008180500 -0300" stop="20211008185500 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas. Em meio ao tiroteio, Evandro é ajudado por Geise, enquanto Arlete encontra na delegada Andreia, parceira de Morello, uma possível aliada para salvar o filho dele mesmo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008185500 -0300" stop="20211008194200 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Paraguai, afim de eliminar os intermediários das drogas e armas, Evandro orquestra um sofisticado plano de tráfico internacional e acaba descobrindo a cocaína mais pura do mercado: o "ouro branco". Arrependida por denunciar o destino do filho, Arlete se afasta da polícia, mas Morello, utilizando estratégias nada convencionais, persegue os rastros de Evandro e chega cada vez mais perto do traficante.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008194200 -0300" stop="20211008203200 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na operação chefiada por Morello para prender Evandro, uma civil é morta e o policial é suspenso da Federal. Já os negócios no Dendê, agora capitaneados pelo "ouro branco" vindo da Bolívia, se expandem. Enquanto Morello investiga o traficante por conta própria, Evandro se consolida como um dos maiores traficantes da cidade, deixando sua família vulnerável, especialmente a mãe Arlete.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008203200 -0300" stop="20211008205700 -0300" channel="Star Hits 2">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam vai à loja de maconha e visita o seu irmão, e Frankie e Sam tomam sorvete.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008205700 -0300" stop="20211008212500 -0300" channel="Star Hits 2">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam vive um flashback e tem um grupo de amigos fiéis.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008212500 -0300" stop="20211008215900 -0300" channel="Star Hits 2">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam faz uma Batceñera, uma festa de 15 anos e Bat Mitzvah, para Frankie.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008215900 -0300" stop="20211008223300 -0300" channel="Star Hits 2">
+    <title lang="pt">Better Things (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sam e as suas filhas moram na Cidade dos Anjos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211008223300 -0300" stop="20211008233500 -0300" channel="Star Hits 2">
     <title lang="pt">Pose (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;A comunidade fica profundamente abalada quando um membro querido sofre ataques brutais.(n)</desc>
     <rating system="BR">
