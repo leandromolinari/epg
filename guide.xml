@@ -382,22 +382,27 @@
   </channel>
   <channel id="Bis HD">
     <display-name lang="pt">Bis HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/msh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal do Boi">
     <display-name lang="pt">Canal do Boi</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/boi.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal Rural">
     <display-name lang="pt">Canal Rural</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rur.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canção Nova">
     <display-name lang="pt">Canção Nova</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Casa Club TV">
     <display-name lang="pt">Casa Club TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ccl.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Climatempo">
@@ -61057,5 +61062,2540 @@
     </credits>
     <category lang="pt">Filme</category>
     <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211007043000 -0300" stop="20211007050000 -0300" channel="Bis HD">
+    <title lang="pt">Vamos Tocar</title>
+    <desc lang="pt">Vamos Tocar é um programa de performances musicais, em que Leo Gandelman se reúne com grandes nomes da nossa música, em gravações no seu próprio estúdio, onde perguntas sucintas darão espaço para respostas reveladoras.(n)</desc>
+    <credits>
+      <director>Leo Gandelman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007050000 -0300" stop="20211007070000 -0300" channel="Bis HD">
+    <title lang="pt">The Rolling Stones - Havana Moon</title>
+    <desc lang="pt">Show histórico dos Rolling Stones em Havana em março de 2016, o primeiro de uma banda de rock britânica a céu aberto em Cuba, com setlist que incluiu os maiores sucessos de uma carreira de mais de cinquenta anos.(n)</desc>
+    <credits>
+      <director>Paul Dugdale</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211007070000 -0300" stop="20211007073000 -0300" channel="Bis HD">
+    <title lang="pt">Rock Legends - British Rhythm &amp; Blues</title>
+    <desc lang="pt">Série sobre os grandes nomes do rock internacional. A cada capítulo, o programa fala sobre a contribuição para a música de grandes nomes e bandas.(n)</desc>
+    <credits>
+      <director>Cal Saville</director>
+      <director>Lindy Saville</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211007073000 -0300" stop="20211007080000 -0300" channel="Bis HD">
+    <title lang="pt">On The Road With Brian Johnson</title>
+    <desc lang="pt">neste episódio, Billy Joel, cantor e compositor novaiorquino, fala sobre seus sucessos e seu status de cronista da cultura trabalhadora americana.(n)</desc>
+    <credits>
+      <director>Christopher Walker</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007080000 -0300" stop="20211007083000 -0300" channel="Bis HD">
+    <title lang="pt">Experimente</title>
+    <desc lang="pt">Série de 10 episódios, que está em sua 13ª temporada, apresentando bandas que começam a despontar no cenário musical brasileiro.(n)</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007083000 -0300" stop="20211007090000 -0300" channel="Bis HD">
+    <title lang="pt">Hip Hop Machine</title>
+    <desc lang="pt">Hip Hop Machine é o encontro do Jazz com o Rap. Leo Gandelman se junta aos artistas em ascensão do Rap nacional para bater um papo com eles e fazer performances incríveis. Nesse episódio é a vez de Gabz.(n)</desc>
+    <credits>
+      <director>Bruno Costa</director>
+      <director>Leo Gandelman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007090000 -0300" stop="20211007093000 -0300" channel="Bis HD">
+    <title lang="pt">Pagodes Inesquecíveis</title>
+    <desc lang="pt">O cantor Dudu Nobre e sua banda apresentam os pagodes inesquecíveis que fizeram sucesso por todo o Brasil.(n)</desc>
+    <credits>
+      <director>Chico Abreia</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007093000 -0300" stop="20211007100000 -0300" channel="Bis HD">
+    <title lang="pt">Estúdio Do Dado</title>
+    <desc lang="pt">Série na qual Dado Villa Lobos, ex-guitarrista do Legião Urbana, recebe em seu estúdio grandes artistas para encontros musicais inéditos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007100000 -0300" stop="20211007105800 -0300" channel="Bis HD">
+    <title lang="pt">The Cure: Live In Hyde Park London</title>
+    <desc lang="pt">Show da banda inglesa de rock The Cure, realizado em julho de 2018 no Hyde Park, em Londres, em comemoração aos 40 anos de carreira do grupo.(n)</desc>
+    <credits>
+      <director>Tim Pope</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211007105800 -0300" stop="20211007120000 -0300" channel="Bis HD">
+    <title lang="pt">Queen Live In Rock In Rio</title>
+    <desc lang="pt">Histórico show do Queen realizado em 11 de janeiro de 1985 durante a 1ª edição do Rock in Rio. Freddie Mercury, Brian May, Roger Taylor e John Deacon desfilaram sucessos e empolgaram uma multidão de 300 mil pessoas.(n)</desc>
+    <credits>
+      <director>Tom Grimshaw</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007120000 -0300" stop="20211007130000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007130000 -0300" stop="20211007140000 -0300" channel="Bis HD">
+    <title lang="pt">Tom Petty &amp; The Heartbreakers Live From Gainesville</title>
+    <desc lang="pt">Faixa dedicada aos shows dos maiores artistas da atualidade.(n)</desc>
+    <credits>
+      <director>Joe Thomas</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211007140000 -0300" stop="20211007150000 -0300" channel="Bis HD">
+    <title lang="pt">The Rolling Stones - Havana Moon</title>
+    <desc lang="pt">Show histórico dos Rolling Stones em Havana em março de 2016, o primeiro de uma banda de rock britânica a céu aberto em Cuba, com setlist que incluiu os maiores sucessos de uma carreira de mais de cinquenta anos.(n)</desc>
+    <credits>
+      <director>Paul Dugdale</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211007150000 -0300" stop="20211007160300 -0300" channel="Bis HD">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada.(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007160300 -0300" stop="20211007170300 -0300" channel="Bis HD">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">3º Temporada do Programa Versões. Artistas são convidados para fazerem suas versões de clássicos da música. Uma banda/ artista é homenageada por episódio.(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007170300 -0300" stop="20211007180000 -0300" channel="Bis HD">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">Artistas são convidados para realizarem suas versões de clássicos da música. Uma banda/artista é homenageada por episódio.(n)</desc>
+    <credits>
+      <director>Costa Tatiana</director>
+      <director>Jorge Nassaralla</director>
+      <actor>Costa Tatiana</actor>
+      <actor>Julia Mestre</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007180000 -0300" stop="20211007190000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007190000 -0300" stop="20211007193000 -0300" channel="Bis HD">
+    <title lang="pt">Experimente</title>
+    <desc lang="pt">Série de 10 episódios, que está em sua 13ª temporada, apresentando bandas que começam a despontar no cenário musical brasileiro.(n)</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007193000 -0300" stop="20211007200000 -0300" channel="Bis HD">
+    <title lang="pt">Hip Hop Machine</title>
+    <desc lang="pt">Hip Hop Machine é o encontro do Jazz com o Rap. Leo Gandelman se junta aos artistas em ascensão do Rap nacional para bater um papo com eles e fazer performances incríveis. Nesse episódio é a vez de Gabz.(n)</desc>
+    <credits>
+      <director>Bruno Costa</director>
+      <director>Leo Gandelman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007200000 -0300" stop="20211007203000 -0300" channel="Bis HD">
+    <title lang="pt">Quando Elas Tocam</title>
+    <desc lang="pt">Série documental revela personalidades e rotinas das mulheres que tocam da música eletrônica ao hip-hop. Nesse episódio, é a vez de conhecer Marina Dias!(n)</desc>
+    <credits>
+      <director>Salvador Llobet</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007203000 -0300" stop="20211007210000 -0300" channel="Bis HD">
+    <title lang="pt">Lounge</title>
+    <desc lang="pt">Série com grandes sucessos de músicas variadas nacionais e internacionais, como: Pop, Rock, Reggae, Disco/70's, entre outros, em que cantores e cantoras interpretam estes variados estilos musicais em um arranjo mais tranquilo e relaxante.(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007210000 -0300" stop="20211007230300 -0300" channel="Bis HD">
+    <title lang="pt">Coldplay - Live In São Paulo</title>
+    <desc lang="pt">Filmado em duas noites no Allianz Parque, em São Paulo, o estádio de futebol o vencedor do Grammy, o Coldplay de platina, é capturado ao vivo durante a turnê a Head full of dreams.(n)</desc>
+    <credits>
+      <director>Mat Whitecross</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211007230300 -0300" stop="20211007233000 -0300" channel="Bis HD">
+    <title lang="pt">Minha Loja De Discos</title>
+    <desc lang="pt">Série que coloca o espectador por dentro das mitológicas, charmosas e maiores lojas de discos do mundo.(n)</desc>
+    <credits>
+      <director>Rodrigo Pinto</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007233000 -0300" stop="20211008000000 -0300" channel="Bis HD">
+    <title lang="pt">Vamos Tocar</title>
+    <desc lang="pt">Vamos Tocar é um programa de performances musicais, em que Leo Gandelman se reúne com grandes nomes da nossa música, em gravações no seu próprio estúdio, onde perguntas sucintas darão espaço para respostas reveladoras.(n)</desc>
+    <credits>
+      <director>Leo Gandelman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008000000 -0300" stop="20211008020000 -0300" channel="Bis HD">
+    <title lang="pt">Guns N' Roses Live At The 02 Arena</title>
+    <desc lang="pt">"Show da banda Guns and Roses na O2 Arena em Londres, 2012.Setlist: Chinese Democracy, Welcome To The Jungle, It's So Easy, Mr. Brownstone.".(n)</desc>
+    <credits>
+      <director>Izzy Stradlin</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008020000 -0300" stop="20211008023000 -0300" channel="Bis HD">
+    <title lang="pt">Experimente</title>
+    <desc lang="pt">Série de 10 episódios, que está em sua 13ª temporada, apresentando bandas que começam a despontar no cenário musical brasileiro.(n)</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008023000 -0300" stop="20211008030000 -0300" channel="Bis HD">
+    <title lang="pt">Hip Hop Machine</title>
+    <desc lang="pt">Hip Hop Machine é o encontro do Jazz com o Rap. Leo Gandelman se junta aos artistas em ascensão do Rap nacional para bater um papo com eles e fazer performances incríveis. Nesse episódio é a vez de Gabz.(n)</desc>
+    <credits>
+      <director>Bruno Costa</director>
+      <director>Leo Gandelman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008030000 -0300" stop="20211008040000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008040000 -0300" stop="20211008050000 -0300" channel="Bis HD">
+    <title lang="pt">Frank Sinatra: A Man &amp; His Music + Ella + Jobim</title>
+    <desc lang="pt">Programa a Man and His Music que foi ao ar em 13 de Novembro de 1966: Frank Sinatra cantando com Ella Fitzgerald e o único encontro filmado de Frank com Antonio Carlos Jobim.(n)</desc>
+    <credits>
+      <director>Michael Pfleghar</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008050000 -0300" stop="20211008060000 -0300" channel="Bis HD">
+    <title lang="pt">One Republic - Live In South Africa</title>
+    <desc lang="pt">A banda, que com seu primeiro álbum atingiu o topo das paradas em 16 países diferentes, vai à África do Sul para mais um grande show apresentar seu teceiro álbum: Native.(n)</desc>
+    <credits>
+      <director>Sam Dunn</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008060000 -0300" stop="20211008070000 -0300" channel="Bis HD">
+    <title lang="pt">Landmarks Live In Concert: Will.I.Am &amp; Black Eyed Peas</title>
+    <desc lang="pt">Artistas de renome mundial, como Alicia Keys e a banda icônica Foo Fighters, em locais icônicos ao redor do mundo.(n)</desc>
+    <credits>
+      <director>Catullo</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008070000 -0300" stop="20211008083000 -0300" channel="Bis HD">
+    <title lang="pt">The Man From Mo'wax</title>
+    <desc lang="pt">A história do enigmático e influente James Lavelle.(n)</desc>
+    <credits>
+      <director>Matthew Jones</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008083000 -0300" stop="20211008090000 -0300" channel="Bis HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <desc lang="pt">Os filmmakers Diana Boccara e Leo Longo viajam pelo mundo para filmar a primeira série global de videoclipes e tudo começa pelo Brasil.(n)</desc>
+    <credits>
+      <director>Diana Boccara</director>
+      <director>Leo Longo</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211008090000 -0300" stop="20211008100000 -0300" channel="Bis HD">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada.(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008100000 -0300" stop="20211008120000 -0300" channel="Bis HD">
+    <title lang="pt">The Rolling Stones - Havana Moon</title>
+    <desc lang="pt">Show histórico dos Rolling Stones em Havana em março de 2016, o primeiro de uma banda de rock britânica a céu aberto em Cuba, com setlist que incluiu os maiores sucessos de uma carreira de mais de cinquenta anos.(n)</desc>
+    <credits>
+      <director>Paul Dugdale</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008120000 -0300" stop="20211008130000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008130000 -0300" stop="20211008140000 -0300" channel="Bis HD">
+    <title lang="pt">Paul Simon - Concert In The Park</title>
+    <desc lang="pt">Paul Simon's Concert in the Park é um álbum ao vivo e um filme gravado por Paul Simon como parte de sua turnê 'Nascido no Tempo Certo' de 1991-92.(n)</desc>
+    <credits>
+      <director>Louis J. Horvitz</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008140000 -0300" stop="20211008150000 -0300" channel="Bis HD">
+    <title lang="pt">One Republic - Live In South Africa</title>
+    <desc lang="pt">A banda, que com seu primeiro álbum atingiu o topo das paradas em 16 países diferentes, vai à África do Sul para mais um grande show apresentar seu teceiro álbum: Native.(n)</desc>
+    <credits>
+      <director>Sam Dunn</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008150000 -0300" stop="20211008160000 -0300" channel="Bis HD">
+    <title lang="pt">Landmarks Live In Concert: Will.I.Am &amp; Black Eyed Peas</title>
+    <desc lang="pt">Artistas de renome mundial, como Alicia Keys e a banda icônica Foo Fighters, em locais icônicos ao redor do mundo.(n)</desc>
+    <credits>
+      <director>Catullo</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008160000 -0300" stop="20211008163000 -0300" channel="Bis HD">
+    <title lang="pt">Rock Legends - British Rhythm &amp; Blues</title>
+    <desc lang="pt">Série sobre os grandes nomes do rock internacional. A cada capítulo, o programa fala sobre a contribuição para a música de grandes nomes e bandas.(n)</desc>
+    <credits>
+      <director>Cal Saville</director>
+      <director>Lindy Saville</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211008163000 -0300" stop="20211008170000 -0300" channel="Bis HD">
+    <title lang="pt">Estúdio Do Dado</title>
+    <desc lang="pt">Série na qual Dado Villa Lobos, ex-guitarrista do Legião Urbana, recebe em seu estúdio grandes artistas para encontros musicais inéditos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008170000 -0300" stop="20211008184900 -0300" channel="Bis HD">
+    <title lang="pt">Pet Shop Boys - Inner Sanctum: The Super Tour Live At Royal Opera House London</title>
+    <desc lang="pt">No Royal Opera House, os Pet Shop Boys apresentam sua turnê mais recente em uma megaprodução de cenários, luzes e cores. No repertório, além das novas faixas, o duo britânico canta grandes sucessos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008184900 -0300" stop="20211008190000 -0300" channel="Bis HD">
+    <title lang="pt">Setlist</title>
+    <desc lang="pt">Faixa que reúne os melhores clipes nacionais e internacionais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008190000 -0300" stop="20211008193000 -0300" channel="Bis HD">
+    <title lang="pt">Quando Elas Tocam</title>
+    <desc lang="pt">Série documental revela personalidades e rotinas das mulheres que tocam da música eletrônica ao hip-hop. Nesse episódio, é a vez de conhecer Marina Dias!(n)</desc>
+    <credits>
+      <director>Salvador Llobet</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008193000 -0300" stop="20211008200000 -0300" channel="Bis HD">
+    <title lang="pt">Música Sertaneja Do Brasil</title>
+    <desc lang="pt">Em formato intimista, novos artistas do sertanejo cantam clássicos com convidados famosos. Nesse episódio, Donizeti faz uma participação especial e canta "Galopeira".(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008200000 -0300" stop="20211008203000 -0300" channel="Bis HD">
+    <title lang="pt">Minha Loja De Discos</title>
+    <desc lang="pt">Série que coloca o espectador por dentro das mitológicas, charmosas e maiores lojas de discos do mundo.(n)</desc>
+    <credits>
+      <director>Rodrigo Pinto</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008203000 -0300" stop="20211008210000 -0300" channel="Bis HD">
+    <title lang="pt">On The Road With Brian Johnson</title>
+    <desc lang="pt">neste episódio, Billy Joel, cantor e compositor novaiorquino, fala sobre seus sucessos e seu status de cronista da cultura trabalhadora americana.(n)</desc>
+    <credits>
+      <director>Christopher Walker</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008210000 -0300" stop="20211008220000 -0300" channel="Bis HD">
+    <title lang="pt">U2 - Experience Live In Berlin 2018</title>
+    <desc lang="pt">Take That é uma das bandas de maior sucesso de todos os tempos. Eles são famosos por seus shows espetaculares e por algumas das produções de palco mais inovadoras do mundo.(n)</desc>
+    <credits>
+      <director>Matt Askem</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008220000 -0300" stop="20211008230000 -0300" channel="Bis HD">
+    <title lang="pt">Landmarks Live In Concert: Foo Fighters</title>
+    <desc lang="pt">Artistas de renome mundial, como Alicia Keys e a banda icônica Foo Fighters, em locais icônicos ao redor do mundo.(n)</desc>
+    <credits>
+      <director>Catullo</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211008230000 -0300" stop="20211008233000 -0300" channel="Bis HD">
+    <title lang="pt">Depois Daquele Álbum</title>
+    <desc lang="pt">A cada episódio um artista convidado toca seu álbum preferido de algum outro músico. Nesse episódio, BNegão canta "Canções Praieiras" de Dorival Caymmi, acompanhado do violonista Bernardo Bosisio.(n)</desc>
+    <credits>
+      <director>Felipe Ariani</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008233000 -0300" stop="20211009000000 -0300" channel="Bis HD">
+    <title lang="pt">Música Sertaneja Do Brasil</title>
+    <desc lang="pt">Em formato intimista, novos artistas do sertanejo cantam clássicos com convidados famosos. Nesse episódio, Cezar e Paulinho fazem uma participação especial e cantam um pout-pourri de pagode.(n)</desc>
+    <credits>
+      <director>Roberto T. Oliveira</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009000000 -0300" stop="20211009020000 -0300" channel="Bis HD">
+    <title lang="pt">Madonna: Rebel Heart Tour</title>
+    <desc lang="pt">Show da décima turnê feita pela cantora para divulgar o álbum Rebel Heart. Vai ser no dia 09 de dezembro.(n)</desc>
+    <credits>
+      <director>Jamie King</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211009020000 -0300" stop="20211009023000 -0300" channel="Bis HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <desc lang="pt">Os filmmakers Diana Boccara e Leo Longo viajam pelo mundo para filmar a primeira série global de videoclipes o primeiro destino internacional é Portugal.(n)</desc>
+    <credits>
+      <director>Diana Boccara</director>
+      <director>Leo Longo</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211009023000 -0300" stop="20211009040000 -0300" channel="Bis HD">
+    <title lang="pt">Na Voz Delas</title>
+    <desc lang="pt">Jovens cantoras interpretam músicas nacionais e internacionais de artistas que marcaram estilos musicais que marcaram diversas gerações.(n)</desc>
+    <credits>
+      <director>Roberto Teixeira de Oliveira</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009040000 -0300" stop="20211009050000 -0300" channel="Bis HD">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada.(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009050000 -0300" stop="20211009070000 -0300" channel="Bis HD">
+    <title lang="pt">Guns N' Roses Live At The 02 Arena</title>
+    <desc lang="pt">"Show da banda Guns and Roses na O2 Arena em Londres, 2012.Setlist: Chinese Democracy, Welcome To The Jungle, It's So Easy, Mr. Brownstone.".(n)</desc>
+    <credits>
+      <director>Izzy Stradlin</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211009070000 -0300" stop="20211009083000 -0300" channel="Bis HD">
+    <title lang="pt">Prince: Sign O' The Times</title>
+    <desc lang="pt">Sign o' The Times não é apenas um dos álbuns mais importantes da carreira do cantor Prince também diretor deste documentário, como também um dos álbuns mais importantes da história do rock como um gênero musical.(n)</desc>
+    <credits>
+      <director>Cavallo Robert</director>
+      <director>Prince</director>
+    </credits>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009083000 -0300" stop="20211009090000 -0300" channel="Bis HD">
+    <title lang="pt">Quando Elas Tocam</title>
+    <desc lang="pt">Série documental revela personalidades e rotinas das mulheres que tocam da música eletrônica ao hip-hop. Nesse episódio, é a vez de conhecer Marina Dias!(n)</desc>
+    <credits>
+      <director>Salvador Llobet</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009090000 -0300" stop="20211009100000 -0300" channel="Bis HD">
+    <title lang="pt">Later With Jools Holland</title>
+    <desc lang="pt">Programa de música com sessões ao vivo apresentado por Jools Holland.(n)</desc>
+    <credits>
+      <director>Janet Fraser Crook</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211009100000 -0300" stop="20211009110000 -0300" channel="Bis HD">
+    <title lang="pt">One Republic - Live In South Africa</title>
+    <desc lang="pt">A banda, que com seu primeiro álbum atingiu o topo das paradas em 16 países diferentes, vai à África do Sul para mais um grande show apresentar seu teceiro álbum: Native.(n)</desc>
+    <credits>
+      <director>Sam Dunn</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211009110000 -0300" stop="20211009120000 -0300" channel="Bis HD">
+    <title lang="pt">Landmarks Live In Concert: Will.I.Am &amp; Black Eyed Peas</title>
+    <desc lang="pt">Artistas de renome mundial, como Alicia Keys e a banda icônica Foo Fighters, em locais icônicos ao redor do mundo.(n)</desc>
+    <credits>
+      <director>Catullo</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211009120000 -0300" stop="20211009133000 -0300" channel="Bis HD">
+    <title lang="pt">The Man From Mo'wax</title>
+    <desc lang="pt">A história do enigmático e influente James Lavelle.(n)</desc>
+    <credits>
+      <director>Matthew Jones</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009133000 -0300" stop="20211009140000 -0300" channel="Bis HD">
+    <title lang="pt">Minha Loja De Discos</title>
+    <desc lang="pt">Série que coloca o espectador por dentro das mitológicas, charmosas e maiores lojas de discos do mundo.(n)</desc>
+    <credits>
+      <director>Rodrigo Pinto</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009140000 -0300" stop="20211009160000 -0300" channel="Bis HD">
+    <title lang="pt">Guns N' Roses Live At The 02 Arena</title>
+    <desc lang="pt">"Show da banda Guns and Roses na O2 Arena em Londres, 2012.Setlist: Chinese Democracy, Welcome To The Jungle, It's So Easy, Mr. Brownstone.".(n)</desc>
+    <credits>
+      <director>Izzy Stradlin</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211009160000 -0300" stop="20211009163000 -0300" channel="Bis HD">
+    <title lang="pt">Vamos Tocar</title>
+    <desc lang="pt">Vamos Tocar é um programa de performances musicais, em que Leo Gandelman se reúne com grandes nomes da nossa música, em gravações no seu próprio estúdio, onde perguntas sucintas darão espaço para respostas reveladoras.(n)</desc>
+    <credits>
+      <director>Leo Gandelman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009163000 -0300" stop="20211009170000 -0300" channel="Bis HD">
+    <title lang="pt">Video Killed The Radio Star - Lou Reed</title>
+    <desc lang="pt">Série que traça o perfil de bandas e astros da música, mostrando sua trajetória no mundo pop.(n)</desc>
+    <credits>
+      <director>Jim Parsons</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009170000 -0300" stop="20211009180000 -0300" channel="Bis HD">
+    <title lang="pt">Soundcheck</title>
+    <desc lang="pt">Festival de música que aconteceu em Junho de 2012 em, Londres. Atrações: Art Against Knives, Adam F, Amirali Live, Blondes, Ben Eine, Benji B, Big Kids, Crystal, Castles, Crazy P, DJ Fearney, Danny Byrd.(n)</desc>
+    <credits>
+      <director>Tim Harvey</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20211009180000 -0300" stop="20211009190000 -0300" channel="Bis HD">
+    <title lang="pt">Versões</title>
+    <desc lang="pt">Artistas brasileiros são convidados para fazerem suas versões de clássicos da música. A cada episódio, a obra de uma banda ou de um artista é homenageada.(n)</desc>
+    <credits>
+      <director>Guilherme Zattar</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009190000 -0300" stop="20211009193000 -0300" channel="Bis HD">
+    <title lang="pt">Minha Loja De Discos</title>
+    <desc lang="pt">Série que coloca o espectador por dentro das mitológicas, charmosas e maiores lojas de discos do mundo.(n)</desc>
+    <credits>
+      <director>Rodrigo Pinto</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009193000 -0300" stop="20211009200000 -0300" channel="Bis HD">
+    <title lang="pt">Experimente</title>
+    <desc lang="pt">Série de 10 episódios, que está em sua 13ª temporada, apresentando bandas que começam a despontar no cenário musical brasileiro.(n)</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009200000 -0300" stop="20211009203000 -0300" channel="Bis HD">
+    <title lang="pt">Depois Daquele Álbum</title>
+    <desc lang="pt">A cada episódio um artista convidado toca seu álbum preferido de algum outro músico. Nesse episódio, BNegão canta "Canções Praieiras" de Dorival Caymmi, acompanhado do violonista Bernardo Bosisio.(n)</desc>
+    <credits>
+      <director>Felipe Ariani</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009203000 -0300" stop="20211009213000 -0300" channel="Bis HD">
+    <title lang="pt">Set List</title>
+    <desc lang="pt">Performance íntima do cantor e compositor inglês James Arthur, ocorrida em 2016 em Nova York. O setlist conta com hits como 'Say You Won't Let Go', 'Can I Be Him' e 'Impossible'.(n)</desc>
+    <credits>
+      <director>Brad Fuss</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009213000 -0300" stop="20211009230000 -0300" channel="Bis HD">
+    <title lang="pt">Arquivo Musical</title>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009230000 -0300" stop="20211009233000 -0300" channel="Bis HD">
+    <title lang="pt">A Volta ao Mundo em 80 Videoclipes</title>
+    <desc lang="pt">Os filmmakers Diana Boccara e Leo Longo viajam pelo mundo para filmar a primeira série global de videoclipes e tudo começa pelo Brasil.(n)</desc>
+    <credits>
+      <director>Diana Boccara</director>
+      <director>Leo Longo</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211009233000 -0300" stop="20211010000000 -0300" channel="Bis HD">
+    <title lang="pt">Quando Elas Tocam</title>
+    <desc lang="pt">Série documental revela personalidades e rotinas das mulheres que tocam da música eletrônica ao hip-hop. Nesse episódio, é a vez de conhecer Carol Emmerick!(n)</desc>
+    <credits>
+      <director>Salvador Llobet</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211007000000 -0300" stop="20211007053000 -0300" channel="Canal do Boi">
+    <title lang="pt">Cine Canal</title>
+    <desc lang="pt">Sessão de gala que brinda o telespectador com o melhor do faroeste e do cinema de todos os tempos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20211007053000 -0300" stop="20211007063000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+    <desc lang="pt">Fabiano Reis destaca as principais informações,análises e cotações dos mercados agrícolas no brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007063000 -0300" stop="20211007064500 -0300" channel="Canal do Boi">
+    <title lang="pt">Agenda de Leilões</title>
+    <desc lang="pt">Confira a agenda dos leilões transmitidos pelas emissoras do SBA-Sistema Brasileiro do Agronegócio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007064500 -0300" stop="20211007070000 -0300" channel="Canal do Boi">
+    <title lang="pt">Café Com Boi</title>
+    <desc lang="pt">Luiz Crosara traz, cedinho, de segunda a sexta,uma conversa descontraída e bem humorada sobre o meio rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007070000 -0300" stop="20211007093000 -0300" channel="Canal do Boi">
+    <title lang="pt">Bom Dia Produtor</title>
+    <desc lang="pt">Revista eletrônica apresentada por Adriano Faleiros. Abre, ao vivo, as manhãs de segunda a sexta com o melhor do conteúdo do agronegócio brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007093000 -0300" stop="20211007103000 -0300" channel="Canal do Boi">
+    <title lang="pt">Matsuda</title>
+    <desc lang="pt">Programa produzido e apresentado de Álvares Machado, sede da Matsuda, empresa que atua no segmento de nutrição animal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007103000 -0300" stop="20211007114500 -0300" channel="Canal do Boi">
+    <title lang="pt">Genética Br</title>
+    <desc lang="pt">Genética Br.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007114500 -0300" stop="20211007115500 -0300" channel="Canal do Boi">
+    <title lang="pt">Matsuda</title>
+    <desc lang="pt">Programa produzido e apresentado de Álvares Machado, sede da Matsuda, empresa que atua no segmento de nutrição animal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007115500 -0300" stop="20211007121000 -0300" channel="Canal do Boi">
+    <title lang="pt">Canal Do Boi News</title>
+    <desc lang="pt">Canal do boi news.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007121000 -0300" stop="20211007122000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agenda de Leilões</title>
+    <desc lang="pt">Confira a agenda dos leilões transmitidos pelas emissoras do SBA-Sistema Brasileiro do Agronegócio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007122000 -0300" stop="20211007133000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+    <desc lang="pt">Fabiano Reis destaca as principais informações,análises e cotações dos mercados agrícolas no brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007133000 -0300" stop="20211007140000 -0300" channel="Canal do Boi">
+    <title lang="pt">Genética Br</title>
+    <desc lang="pt">Genética Br.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007140000 -0300" stop="20211007143000 -0300" channel="Canal do Boi">
+    <title lang="pt">Zebu para o Mundo</title>
+    <desc lang="pt">Talk show de temas variados,apresentado por Luiz Crosara, ao vivo, dos estúdios do canal do boi na sede da abcz, parque Fernando Costa, em uberaba-mg.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007143000 -0300" stop="20211007150000 -0300" channel="Canal do Boi">
+    <title lang="pt">Ruminar Ao Vivo</title>
+    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007150000 -0300" stop="20211007153000 -0300" channel="Canal do Boi">
+    <title lang="pt">Germipasto</title>
+    <desc lang="pt">Programa produzido e apresentado de Campo Grande- MS, centro de distribuição dos produtos da Germipasto, que atua no mercado de sementes de forrageiras.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007153000 -0300" stop="20211007160000 -0300" channel="Canal do Boi">
+    <title lang="pt">Genética Br</title>
+    <desc lang="pt">Genética Br.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007160000 -0300" stop="20211007163000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+    <desc lang="pt">Fabiano Reis destaca as principais informações,análises e cotações dos mercados agrícolas no brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007163000 -0300" stop="20211007164500 -0300" channel="Canal do Boi">
+    <title lang="pt">Fala Carlão</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007164500 -0300" stop="20211007165000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agroclima</title>
+    <desc lang="pt">São boletins meteorológicos exclusivos diretamente dos estúdios do Instituto Somar de Meteorologia, com previsões especificas para atender à necessidade do produtor rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007165000 -0300" stop="20211007191500 -0300" channel="Canal do Boi">
+    <title lang="pt">+ Pecuária</title>
+    <desc lang="pt">O programa +Pecuária destaca a produção animal, com informações de mercado de interesse às cadeias do boi, suíno, frango e ovinos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007191500 -0300" stop="20211007193000 -0300" channel="Canal do Boi">
+    <title lang="pt">Terra Pecuária</title>
+    <desc lang="pt">Programa que reúne agenda com os eventos de comercialização de animais e entrevistas com os proprietários de animais de destaque nesses leilões.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007193000 -0300" stop="20211007203000 -0300" channel="Canal do Boi">
+    <title lang="pt">Na Batida do Martelo</title>
+    <desc lang="pt">Eder Campos apresenta a agenda oficial de leilões do Canal do Boi e do Agro Canal, emissoras do SBA-Sistema Brasileiro do Agronegócio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007203000 -0300" stop="20211008000000 -0300" channel="Canal do Boi">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">Leilão ou venda de animais, máquinas e equipamentos agrícolas e imóveis rurais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008000000 -0300" stop="20211008053000 -0300" channel="Canal do Boi">
+    <title lang="pt">Cine Canal</title>
+    <desc lang="pt">Sessão de gala que brinda o telespectador com o melhor do faroeste e do cinema de todos os tempos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20211008053000 -0300" stop="20211008063000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+    <desc lang="pt">Fabiano Reis destaca as principais informações,análises e cotações dos mercados agrícolas no brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008063000 -0300" stop="20211008064500 -0300" channel="Canal do Boi">
+    <title lang="pt">Agenda de Leilões</title>
+    <desc lang="pt">Confira a agenda dos leilões transmitidos pelas emissoras do SBA-Sistema Brasileiro do Agronegócio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008064500 -0300" stop="20211008070000 -0300" channel="Canal do Boi">
+    <title lang="pt">Café Com Boi</title>
+    <desc lang="pt">Luiz Crosara traz, cedinho, de segunda a sexta,uma conversa descontraída e bem humorada sobre o meio rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008070000 -0300" stop="20211008093000 -0300" channel="Canal do Boi">
+    <title lang="pt">Bom Dia Produtor</title>
+    <desc lang="pt">Revista eletrônica apresentada por Adriano Faleiros. Abre, ao vivo, as manhãs de segunda a sexta com o melhor do conteúdo do agronegócio brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008093000 -0300" stop="20211008103000 -0300" channel="Canal do Boi">
+    <title lang="pt">Matsuda</title>
+    <desc lang="pt">Programa produzido e apresentado de Álvares Machado, sede da Matsuda, empresa que atua no segmento de nutrição animal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008103000 -0300" stop="20211008114500 -0300" channel="Canal do Boi">
+    <title lang="pt">Genética Br</title>
+    <desc lang="pt">Genética Br.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008114500 -0300" stop="20211008115500 -0300" channel="Canal do Boi">
+    <title lang="pt">Matsuda</title>
+    <desc lang="pt">Programa produzido e apresentado de Álvares Machado, sede da Matsuda, empresa que atua no segmento de nutrição animal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008115500 -0300" stop="20211008121000 -0300" channel="Canal do Boi">
+    <title lang="pt">Canal Do Boi News</title>
+    <desc lang="pt">Canal do boi news.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008121000 -0300" stop="20211008122000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agenda de Leilões</title>
+    <desc lang="pt">Confira a agenda dos leilões transmitidos pelas emissoras do SBA-Sistema Brasileiro do Agronegócio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008122000 -0300" stop="20211008133000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+    <desc lang="pt">Fabiano Reis destaca as principais informações,análises e cotações dos mercados agrícolas no brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008133000 -0300" stop="20211008140000 -0300" channel="Canal do Boi">
+    <title lang="pt">Genética Br</title>
+    <desc lang="pt">Genética Br.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008140000 -0300" stop="20211008143000 -0300" channel="Canal do Boi">
+    <title lang="pt">Zebu para o Mundo</title>
+    <desc lang="pt">Talk show de temas variados,apresentado por Luiz Crosara, ao vivo, dos estúdios do canal do boi na sede da abcz, parque Fernando Costa, em uberaba-mg.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008143000 -0300" stop="20211008150000 -0300" channel="Canal do Boi">
+    <title lang="pt">Ruminar Ao Vivo</title>
+    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008150000 -0300" stop="20211008153000 -0300" channel="Canal do Boi">
+    <title lang="pt">Germipasto</title>
+    <desc lang="pt">Programa produzido e apresentado de Campo Grande- MS, centro de distribuição dos produtos da Germipasto, que atua no mercado de sementes de forrageiras.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008153000 -0300" stop="20211008160000 -0300" channel="Canal do Boi">
+    <title lang="pt">Genética Br</title>
+    <desc lang="pt">Genética Br.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008160000 -0300" stop="20211008163000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agricultura Br</title>
+    <desc lang="pt">Fabiano Reis destaca as principais informações,análises e cotações dos mercados agrícolas no brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008163000 -0300" stop="20211008164500 -0300" channel="Canal do Boi">
+    <title lang="pt">Fala Carlão</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008164500 -0300" stop="20211008165000 -0300" channel="Canal do Boi">
+    <title lang="pt">Agroclima</title>
+    <desc lang="pt">São boletins meteorológicos exclusivos diretamente dos estúdios do Instituto Somar de Meteorologia, com previsões especificas para atender à necessidade do produtor rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008165000 -0300" stop="20211008191500 -0300" channel="Canal do Boi">
+    <title lang="pt">+ Pecuária</title>
+    <desc lang="pt">O programa +Pecuária destaca a produção animal, com informações de mercado de interesse às cadeias do boi, suíno, frango e ovinos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008191500 -0300" stop="20211008193000 -0300" channel="Canal do Boi">
+    <title lang="pt">Terra Pecuária</title>
+    <desc lang="pt">Programa que reúne agenda com os eventos de comercialização de animais e entrevistas com os proprietários de animais de destaque nesses leilões.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008193000 -0300" stop="20211008203000 -0300" channel="Canal do Boi">
+    <title lang="pt">Na Batida do Martelo</title>
+    <desc lang="pt">Eder Campos apresenta a agenda oficial de leilões do Canal do Boi e do Agro Canal, emissoras do SBA-Sistema Brasileiro do Agronegócio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008203000 -0300" stop="20211009000000 -0300" channel="Canal do Boi">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">Leilão ou venda de animais, máquinas e equipamentos agrícolas e imóveis rurais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009000000 -0300" stop="20211009050000 -0300" channel="Canal do Boi">
+    <title lang="pt">Cine Canal</title>
+    <desc lang="pt">Sessão de gala que brinda o telespectador com o melhor do faroeste e do cinema de todos os tempos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20211009050000 -0300" stop="20211009061000 -0300" channel="Canal do Boi">
+    <title lang="pt">Bandas Show - Reprise</title>
+    <desc lang="pt">Programa musical, destaca grandes grupos musicais de atuação regional e nacional.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009061000 -0300" stop="20211009073000 -0300" channel="Canal do Boi">
+    <title lang="pt">Cb Fazendas / Grandes Criatórios</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009073000 -0300" stop="20211009083000 -0300" channel="Canal do Boi">
+    <title lang="pt">Conexão Germipasto</title>
+    <desc lang="pt">Programa produzido e apresentado de Campo Grande - MS, centro de distribuição dos produtos da Germipasto, que atua no mercado de sementes de forrageiras.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009083000 -0300" stop="20211009120000 -0300" channel="Canal do Boi">
+    <title lang="pt">Ruminar Ao Vivo</title>
+    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009120000 -0300" stop="20211009130000 -0300" channel="Canal do Boi">
+    <title lang="pt">Cb Fazendas / Grandes Criatórios</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009130000 -0300" stop="20211009140000 -0300" channel="Canal do Boi">
+    <title lang="pt">Ruminar Ao Vivo</title>
+    <desc lang="pt">A Biopremium leva aos produtores rurais uma tecnologia de resultados.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009140000 -0300" stop="20211009200000 -0300" channel="Canal do Boi">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">Leilão ou venda de animais, máquinas e equipamentos agrícolas e imóveis rurais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009200000 -0300" stop="20211010000000 -0300" channel="Canal do Boi">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">Leilão ou venda de animais, máquinas e equipamentos agrícolas e imóveis rurais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007030000 -0300" stop="20211007060000 -0300" channel="Canal Rural">
+    <title lang="pt">TV Verdade</title>
+    <desc lang="pt">Acompanhe as novidades sobre o mercado agropecuário e agricultor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007060000 -0300" stop="20211007063000 -0300" channel="Canal Rural">
+    <title lang="pt">Resenha do Cooperativismo</title>
+    <desc lang="pt">O programa jornalístico mostra as atividades realizadas pelas cooperativas agrícolas pelo País e cobre eventos promovidos por essas organizações.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007063000 -0300" stop="20211007070000 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007070000 -0300" stop="20211007080000 -0300" channel="Canal Rural">
+    <title lang="pt">Giro do Boi - Ao Vivo</title>
+    <desc lang="pt">O programa Giro do Boi é um programa da JBS que vai falar sobre as notícias de pecuária no Brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007080000 -0300" stop="20211007080600 -0300" channel="Canal Rural">
+    <title lang="pt">Pecuária Em Alta</title>
+    <desc lang="pt">Leva informações técnicas, análises e tendências de mercado, entrevistas com importantes nomes da pecuária nacional e internacional,.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007080600 -0300" stop="20211007081000 -0300" channel="Canal Rural">
+    <title lang="pt">Boletim Radar - Jornalismo</title>
+    <desc lang="pt">Plantão com as últimas notícias do dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007081000 -0300" stop="20211007082000 -0300" channel="Canal Rural">
+    <title lang="pt">Boletim Ag Evolution</title>
+    <desc lang="pt">AG Evolution é a plataforma do Canal Rural 100% dedicada à inovação no agro por meio de site, mídias sociais e televisão para sensibilizar, reunir e fomentar o setor a respeito da revolução tecnológica.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007082000 -0300" stop="20211007085000 -0300" channel="Canal Rural">
+    <title lang="pt">Ouro Branco</title>
+    <desc lang="pt">Conheça toda cadeia produtiva do leite, desde as fazendas à mesa do consumidor brasileiro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007085000 -0300" stop="20211007092700 -0300" channel="Canal Rural">
+    <title lang="pt">Canal Rural Entrevista</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211007092700 -0300" stop="20211007093000 -0300" channel="Canal Rural">
+    <title lang="pt">Boletim Radar - Jornalismo</title>
+    <desc lang="pt">Plantão com as últimas notícias do dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007093000 -0300" stop="20211007113000 -0300" channel="Canal Rural">
+    <title lang="pt">Champion Saúde Animal</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços da Champion Saúde Animal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007113000 -0300" stop="20211007120000 -0300" channel="Canal Rural">
+    <title lang="pt">Ligados e Integrados</title>
+    <desc lang="pt">O Ligados e Integrados é um programa com espaço reservado na grade do Canal Rural para informar e atender o setor de Suinocultura e Avicultura.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007120000 -0300" stop="20211007123000 -0300" channel="Canal Rural">
+    <title lang="pt">Planeta Campo</title>
+    <desc lang="pt">Programa jornalístico com foco em ações de sustentabilidade e indicadores ESG. Grandes reportagens, notícias, entrevistas e debates. Informações para apoiar o produtor rural a plantar e criar com olhar para o futuro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007123000 -0300" stop="20211007133000 -0300" channel="Canal Rural">
+    <title lang="pt">Mercado &amp; Cia</title>
+    <desc lang="pt">O programa traz entrevistas com produtores rurais e especialistas de vários segmentos do setor agropecuário.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211007133000 -0300" stop="20211007140000 -0300" channel="Canal Rural">
+    <title lang="pt">AG Evolution</title>
+    <desc lang="pt">AG Evolution é a plataforma do Canal Rural 100% dedicada à inovação no agro por meio de site, mídias sociais e televisão para sensibilizar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007140000 -0300" stop="20211007163500 -0300" channel="Canal Rural">
+    <title lang="pt">Televendas Marilda</title>
+    <desc lang="pt">Espaço destinado à comercialização de produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20211007163500 -0300" stop="20211007164000 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007164000 -0300" stop="20211007164500 -0300" channel="Canal Rural">
+    <title lang="pt">Boletim Radar - Jornalismo</title>
+    <desc lang="pt">Plantão com as últimas notícias do dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007164500 -0300" stop="20211007183500 -0300" channel="Canal Rural">
+    <title lang="pt">Champion Saúde Animal</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços da Champion Saúde Animal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007183500 -0300" stop="20211007191500 -0300" channel="Canal Rural">
+    <title lang="pt">De Bem Com a Comida</title>
+    <desc lang="pt">Apresentado pela chef Clarice Chwartzman sempre com três convidados especiais com receitas surpreendentes e deliciosas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211007191500 -0300" stop="20211007200000 -0300" channel="Canal Rural">
+    <title lang="pt">Rural Notícias - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do agronegócio, sempre com uma análise completa dos fatos. É um telejornal com âncoras em Porto Alegre, São Paulo e Brasília, além da Bolsa de Mercadorias &amp; Futuros e Agência Safras.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007200000 -0300" stop="20211007203000 -0300" channel="Canal Rural">
+    <title lang="pt">Pecuária em Foco</title>
+    <desc lang="pt">Programa que reúne agenda com os eventos de comercialização de animais e entrevistas com os proprietários de animais de destaque nesses leilões.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211007203000 -0300" stop="20211008000000 -0300" channel="Canal Rural">
+    <title lang="pt">8° Semana Primavera Genética Aditiva - Machos</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008000000 -0300" stop="20211008010000 -0300" channel="Canal Rural">
+    <title lang="pt">8° Semana Primavera Genética Aditiva - Machos</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008010000 -0300" stop="20211008030000 -0300" channel="Canal Rural">
+    <title lang="pt">Televendas Marilda</title>
+    <desc lang="pt">Espaço destinado à comercialização de produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20211008030000 -0300" stop="20211008060000 -0300" channel="Canal Rural">
+    <title lang="pt">TV Verdade</title>
+    <desc lang="pt">Acompanhe as novidades sobre o mercado agropecuário e agricultor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008060000 -0300" stop="20211008063000 -0300" channel="Canal Rural">
+    <title lang="pt">Resenha do Cooperativismo</title>
+    <desc lang="pt">O programa jornalístico mostra as atividades realizadas pelas cooperativas agrícolas pelo País e cobre eventos promovidos por essas organizações.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008063000 -0300" stop="20211008070000 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008070000 -0300" stop="20211008080000 -0300" channel="Canal Rural">
+    <title lang="pt">Giro do Boi - Ao Vivo</title>
+    <desc lang="pt">O programa Giro do Boi é um programa da JBS que vai falar sobre as notícias de pecuária no Brasil e no mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008080000 -0300" stop="20211008080600 -0300" channel="Canal Rural">
+    <title lang="pt">Pecuária Em Alta</title>
+    <desc lang="pt">Leva informações técnicas, análises e tendências de mercado, entrevistas com importantes nomes da pecuária nacional e internacional,.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008080600 -0300" stop="20211008081000 -0300" channel="Canal Rural">
+    <title lang="pt">Boletim Radar - Jornalismo</title>
+    <desc lang="pt">Plantão com as últimas notícias do dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008081000 -0300" stop="20211008084000 -0300" channel="Canal Rural">
+    <title lang="pt">Planeta Campo Entrevista</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211008084000 -0300" stop="20211008090500 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008090500 -0300" stop="20211008092700 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008092700 -0300" stop="20211008093000 -0300" channel="Canal Rural">
+    <title lang="pt">Boletim Radar - Jornalismo</title>
+    <desc lang="pt">Plantão com as últimas notícias do dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008093000 -0300" stop="20211008113000 -0300" channel="Canal Rural">
+    <title lang="pt">Champion Saúde Animal</title>
+    <desc lang="pt">Espaço publicitário destinado à divulgação de produtos e serviços da Champion Saúde Animal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008113000 -0300" stop="20211008120000 -0300" channel="Canal Rural">
+    <title lang="pt">Ligados e Integrados</title>
+    <desc lang="pt">O Ligados e Integrados é um programa com espaço reservado na grade do Canal Rural para informar e atender o setor de Suinocultura e Avicultura.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008120000 -0300" stop="20211008123000 -0300" channel="Canal Rural">
+    <title lang="pt">Planeta Campo</title>
+    <desc lang="pt">Programa jornalístico com foco em ações de sustentabilidade e indicadores ESG. Grandes reportagens, notícias, entrevistas e debates. Informações para apoiar o produtor rural a plantar e criar com olhar para o futuro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008123000 -0300" stop="20211008133000 -0300" channel="Canal Rural">
+    <title lang="pt">Mercado &amp; Cia</title>
+    <desc lang="pt">O programa traz entrevistas com produtores rurais e especialistas de vários segmentos do setor agropecuário.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211008133000 -0300" stop="20211008140000 -0300" channel="Canal Rural">
+    <title lang="pt">Dia de Campo na TV</title>
+    <desc lang="pt">Dia de Campo na TV é um programa da Empresa Brasileira de Pesquisa Agropecuária Embrapa. Em pauta, temas como agricultura, agroindústria e segurança alimentar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20211008140000 -0300" stop="20211008184500 -0300" channel="Canal Rural">
+    <title lang="pt">Leilão Virtual Dez Marcas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008184500 -0300" stop="20211008191500 -0300" channel="Canal Rural">
+    <title lang="pt">Odair Terra</title>
+    <desc lang="pt">Odair Terra com programa recheado de música sertaneja e entrevistas com nomes renomados da música!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008191500 -0300" stop="20211008200000 -0300" channel="Canal Rural">
+    <title lang="pt">Rural Notícias - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do agronegócio, sempre com uma análise completa dos fatos. É um telejornal com âncoras em Porto Alegre, São Paulo e Brasília, além da Bolsa de Mercadorias &amp; Futuros e Agência Safras.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008200000 -0300" stop="20211008203000 -0300" channel="Canal Rural">
+    <title lang="pt">Lance na TV</title>
+    <desc lang="pt">O Lance na TV é um espaço para o público ficar por dentro de todos os detalhes da agenda de leilões e eventos do Canal Rural e do Lance Rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008203000 -0300" stop="20211009000000 -0300" channel="Canal Rural">
+    <title lang="pt">2° Leilão Virtual Topbrazil Genética</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009000000 -0300" stop="20211009010000 -0300" channel="Canal Rural">
+    <title lang="pt">Leilão Santa Irene Elite</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009010000 -0300" stop="20211009030000 -0300" channel="Canal Rural">
+    <title lang="pt">Televendas Marilda</title>
+    <desc lang="pt">Espaço destinado à comercialização de produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20211009030000 -0300" stop="20211009060000 -0300" channel="Canal Rural">
+    <title lang="pt">TV Verdade</title>
+    <desc lang="pt">Acompanhe as novidades sobre o mercado agropecuário e agricultor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009060000 -0300" stop="20211009063000 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009063000 -0300" stop="20211009070000 -0300" channel="Canal Rural">
+    <title lang="pt">Técnica Rural</title>
+    <desc lang="pt">O Técnica Rural aborda o conceito "Saiba como fazer", apresentando técnicas de desenvolvimento rural para melhorar a gestão da atividade e aumentar a produtividade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009070000 -0300" stop="20211009072500 -0300" channel="Canal Rural">
+    <title lang="pt">Manual Pet</title>
+    <desc lang="pt">Programa dedicado exclusivamente ao mundo pet, vai instruir e ensinar sobre a criação dos mais diversos animais, dicas de saúde, bem-estar, alimentação e cuidados de higiene para o seu pet.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009072500 -0300" stop="20211009073000 -0300" channel="Canal Rural">
+    <title lang="pt">Agenda Nação Agro</title>
+    <desc lang="pt">Agenda semanal do projeto Nação Agro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009073000 -0300" stop="20211009080000 -0300" channel="Canal Rural">
+    <title lang="pt">De Bem Com a Comida</title>
+    <desc lang="pt">Apresentado pela chef Clarice Chwartzman sempre com três convidados especiais com receitas surpreendentes e deliciosas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211009080000 -0300" stop="20211009083000 -0300" channel="Canal Rural">
+    <title lang="pt">Estúdio Rural</title>
+    <desc lang="pt">Programa jornalístico que traz entrevistas, debates e esclarecimentos com especialistas sobre temas relacionados ao mercado agropecuário brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009083000 -0300" stop="20211009090000 -0300" channel="Canal Rural">
+    <title lang="pt">Cooperativismo em Notícia</title>
+    <desc lang="pt">O programa jornalístico mostra as atividades realizadas pelas cooperativas agrícolas pelo País e cobre eventos promovidos por essas organizações.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009090000 -0300" stop="20211009091500 -0300" channel="Canal Rural">
+    <title lang="pt">Agronomia Sustentável</title>
+    <desc lang="pt">Agronomia Sustentável: documentário de 15 minutos de duração em que mostra a atuação do engenheiro agrônomo no meio urbano e a conexão do seu trabalho entre o campo e a cidade.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009091500 -0300" stop="20211009093000 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009093000 -0300" stop="20211009100000 -0300" channel="Canal Rural">
+    <title lang="pt">AG Evolution</title>
+    <desc lang="pt">AG Evolution é a plataforma do Canal Rural 100% dedicada à inovação no agro por meio de site, mídias sociais e televisão para sensibilizar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009100000 -0300" stop="20211009110000 -0300" channel="Canal Rural">
+    <title lang="pt">Odair Terra</title>
+    <desc lang="pt">Odair Terra com programa recheado de música sertaneja e entrevistas com nomes renomados da música!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009110000 -0300" stop="20211009200000 -0300" channel="Canal Rural">
+    <title lang="pt">Leilão Vila dos Pinheiros Nelore 2021</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009200000 -0300" stop="20211009203000 -0300" channel="Canal Rural">
+    <title lang="pt">Balcão Rural</title>
+    <desc lang="pt">Televendas destinado ao público rural.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009203000 -0300" stop="20211010000000 -0300" channel="Canal Rural">
+    <title lang="pt">Leilão Remate Cabanha Itapitocai</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007050000 -0300" stop="20211007060000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007060000 -0300" stop="20211007063000 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Recitação do santo terço diário. Se apresentam as intenções e se reza o terço. Além do mistério próprio, também traz motivação internas e pedidos de orações realizados pelo público.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007063000 -0300" stop="20211007065000 -0300" channel="Canção Nova">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">A proposta do programa é levar as pessoas ao contato com a Palavra de Deus de forma a estimulá-las a fazerem o seu estudo bíblico diariamente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007065000 -0300" stop="20211007070000 -0300" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007070000 -0300" stop="20211007074800 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007074800 -0300" stop="20211007080000 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">O Programa Pai das misericórdias é apresentado por Padre Wagner Ferreira, diariamente às 07:47,com reprise às 4h e 14h47.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007080000 -0300" stop="20211007093100 -0300" channel="Canção Nova">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">O programa é um grande grupo de oração, com músicas e meditação da palavra de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007093100 -0300" stop="20211007094500 -0300" channel="Canção Nova">
+    <title lang="pt">Cantinho da Criança</title>
+    <desc lang="pt">Com o foco na evangelização infantil, o programa traz aventuras e grandes descobertas para as crianças, promovendo a interação do público infantil por meio de histórias inéditas, charadas e orações.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+  </programme>
+  <programme start="20211007094500 -0300" stop="20211007114800 -0300" channel="Canção Nova">
+    <title lang="pt">Quinta-Feira de Adoração</title>
+    <desc lang="pt">O Santíssimo Sacramento é o sol da Igreja, ele é o centro da nossa vida. Por isso, nos reunimos hoje, em um dia tão especial, para vivermos novamente a última ceia, o memorial da sua Paixão, Morte e Ressurreição.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007114800 -0300" stop="20211007120000 -0300" channel="Canção Nova">
+    <title lang="pt">Mais Saúde</title>
+    <desc lang="pt">Programa apresentado pela nutricionista clínica, Dra. Gisela Savioli, abordando temas como saúde, qualidade de vida e educação alimentar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20211007120000 -0300" stop="20211007124600 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007124600 -0300" stop="20211007125400 -0300" channel="Canção Nova">
+    <title lang="pt">Quaresma de São Miguel Arcanjo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007125400 -0300" stop="20211007135000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007135000 -0300" stop="20211007150000 -0300" channel="Canção Nova">
+    <title lang="pt">Quinta-Feira de Adoração</title>
+    <desc lang="pt">O Santíssimo Sacramento é o sol da Igreja, ele é o centro da nossa vida. Por isso, nos reunimos hoje, em um dia tão especial, para vivermos novamente a última ceia, o memorial da sua Paixão, Morte e Ressurreição.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007150000 -0300" stop="20211007153000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007153000 -0300" stop="20211007160000 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007160000 -0300" stop="20211007172800 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007172800 -0300" stop="20211007173000 -0300" channel="Canção Nova">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O "Flash do Jornalismo" são pequenos boletins apresentados ao longo da programação que exibem notícias atuais sobre o cotidiano brasileiro. As informações abrangem o Brasil e o mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007173000 -0300" stop="20211007175000 -0300" channel="Canção Nova">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">A proposta do programa é levar as pessoas ao contato com a Palavra de Deus de forma a estimulá-las a fazerem o seu estudo bíblico diariamente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007175000 -0300" stop="20211007183000 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Recitação do santo terço diário. Se apresentam as intenções e se reza o terço. Além do mistério próprio, também traz motivação internas e pedidos de orações realizados pelo público.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007183000 -0300" stop="20211007183900 -0300" channel="Canção Nova">
+    <title lang="pt">Pergunte e Responderemos</title>
+    <desc lang="pt">Professor Felipe Aquino responde perguntas sobre assuntos relacionados à Igreja e temas de interesse da família cristã.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007183900 -0300" stop="20211007184500 -0300" channel="Canção Nova">
+    <title lang="pt">Parábolas de Corações Especiais</title>
+    <desc lang="pt">O programa é uma parceria com a Comunidade Católica Jesus Menino, de Petrópolis/RJ, que acolhe e adota crianças e jovens especiais abandonados.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007184500 -0300" stop="20211007192900 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007192900 -0300" stop="20211007202900 -0300" channel="Canção Nova">
+    <title lang="pt">Gente de Fé</title>
+    <desc lang="pt">Programa com testemunhos de pessoas que se apoiaram na fé para superar as dificuldades.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007202900 -0300" stop="20211007212900 -0300" channel="Canção Nova">
+    <title lang="pt">Escola da Fé</title>
+    <desc lang="pt">Aborda de forma didática os principais acontecimentos do mundo e o porquê do posicionamento da Igreja mediante a cada fato, sempre entrevistando grandes estudiosos cristãos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211007212900 -0300" stop="20211007225900 -0300" channel="Canção Nova">
+    <title lang="pt">Além da Notícia</title>
+    <desc lang="pt">Programa de entrevista que apura e discute temas da atualidade e de interesse nacional sempre com a presença de autoridades ou personalidades que atuam em diferentes áreas na sociedade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211007225900 -0300" stop="20211008003300 -0300" channel="Canção Nova">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">O programa é um grande grupo de oração, com músicas e meditação da palavra de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008003300 -0300" stop="20211008025000 -0300" channel="Canção Nova">
+    <title lang="pt">De Mãos Unidas</title>
+    <desc lang="pt">Um programa destinado à todas as pessoas que querem viver uma hora de descontração e oração, em especial o nosso sócio evangelizador e arrecadador Canção Nova.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008025000 -0300" stop="20211008032000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008032000 -0300" stop="20211008033000 -0300" channel="Canção Nova">
+    <title lang="pt">Clipe Musical</title>
+    <desc lang="pt">Faixa de clipes musicais nacionais e internacionais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211008033000 -0300" stop="20211008035600 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008035600 -0300" stop="20211008044100 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008044100 -0300" stop="20211008045600 -0300" channel="Canção Nova">
+    <title lang="pt">Igreja em Saída - A Igreja No Brasil</title>
+    <desc lang="pt">As principais notícias da Igreja no Brasil e as mensagens do Papa Francisco.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008045600 -0300" stop="20211008055600 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008055600 -0300" stop="20211008062600 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Recitação do santo terço diário. Se apresentam as intenções e se reza o terço. Além do mistério próprio, também traz motivação internas e pedidos de orações realizados pelo público.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008062600 -0300" stop="20211008064600 -0300" channel="Canção Nova">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">A proposta do programa é levar as pessoas ao contato com a Palavra de Deus de forma a estimulá-las a fazerem o seu estudo bíblico diariamente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008064600 -0300" stop="20211008065600 -0300" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008065600 -0300" stop="20211008074300 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008074300 -0300" stop="20211008075600 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">O Programa Pai das misericórdias é apresentado por Padre Wagner Ferreira, diariamente às 07:47,com reprise às 4h e 14h47.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008075600 -0300" stop="20211008092600 -0300" channel="Canção Nova">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">O programa é um grande grupo de oração, com músicas e meditação da palavra de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008092600 -0300" stop="20211008101100 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008101100 -0300" stop="20211008104100 -0300" channel="Canção Nova">
+    <title lang="pt">Cantinho da Criança</title>
+    <desc lang="pt">Com o foco na evangelização infantil, o programa traz aventuras e grandes descobertas para as crianças, promovendo a interação do público infantil por meio de histórias inéditas, charadas e orações.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+  </programme>
+  <programme start="20211008104100 -0300" stop="20211008114400 -0300" channel="Canção Nova">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008114400 -0300" stop="20211008115600 -0300" channel="Canção Nova">
+    <title lang="pt">Mais Saúde</title>
+    <desc lang="pt">Programa apresentado pela nutricionista clínica, Dra. Gisela Savioli, abordando temas como saúde, qualidade de vida e educação alimentar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20211008115600 -0300" stop="20211008125600 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008125600 -0300" stop="20211008130700 -0300" channel="Canção Nova">
+    <title lang="pt">Quaresma de São Miguel Arcanjo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008130700 -0300" stop="20211008135000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008135000 -0300" stop="20211008143600 -0300" channel="Canção Nova">
+    <title lang="pt">Juntos Somos Mais</title>
+    <desc lang="pt">Com espontaneidade, os missionários recebem convidados especiais que falam de sua história de vida. O programa apresenta iniciativas em prol do Projeto Dai-me Almas, Porta a Porta e Davi.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008143600 -0300" stop="20211008144300 -0300" channel="Canção Nova">
+    <title lang="pt">Boletim Jornalismo</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008144300 -0300" stop="20211008145000 -0300" channel="Canção Nova">
+    <title lang="pt">Florescer</title>
+    <desc lang="pt">Apresentado pela missionária Dijanira Silva que propõe aos telespectadores um caminho de descobertas ecrescimento pessoal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008145000 -0300" stop="20211008153000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008153000 -0300" stop="20211008163000 -0300" channel="Canção Nova">
+    <title lang="pt">Pra Ser Feliz</title>
+    <desc lang="pt">A atração será voltada aos testemunhos e reflexões sobre a vida. O objetivo é instigar as pessoas a analisarem suas próprias vidas e, diante das diferentes realidades vividas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008163000 -0300" stop="20211008170000 -0300" channel="Canção Nova">
+    <title lang="pt">CMC - Terra Santa New</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008170000 -0300" stop="20211008172800 -0300" channel="Canção Nova">
+    <title lang="pt">Cantinho da Criança</title>
+    <desc lang="pt">Com o foco na evangelização infantil, o programa traz aventuras e grandes descobertas para as crianças, promovendo a interação do público infantil por meio de histórias inéditas, charadas e orações.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+  </programme>
+  <programme start="20211008172800 -0300" stop="20211008173000 -0300" channel="Canção Nova">
+    <title lang="pt">Flash do Jornalismo</title>
+    <desc lang="pt">O "Flash do Jornalismo" são pequenos boletins apresentados ao longo da programação que exibem notícias atuais sobre o cotidiano brasileiro. As informações abrangem o Brasil e o mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008173000 -0300" stop="20211008175000 -0300" channel="Canção Nova">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">A proposta do programa é levar as pessoas ao contato com a Palavra de Deus de forma a estimulá-las a fazerem o seu estudo bíblico diariamente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008175000 -0300" stop="20211008183000 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Recitação do santo terço diário. Se apresentam as intenções e se reza o terço. Além do mistério próprio, também traz motivação internas e pedidos de orações realizados pelo público.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008183000 -0300" stop="20211008184000 -0300" channel="Canção Nova">
+    <title lang="pt">Pergunte e Responderemos</title>
+    <desc lang="pt">Professor Felipe Aquino responde perguntas sobre assuntos relacionados à Igreja e temas de interesse da família cristã.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008184000 -0300" stop="20211008184500 -0300" channel="Canção Nova">
+    <title lang="pt">Caminhos de Unidade</title>
+    <desc lang="pt">Dom José Palmeira Lessa reflete e medita sobre a comunhão e sobre a espiritualidade da unidade na humanidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008184500 -0300" stop="20211008193000 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211008193000 -0300" stop="20211008200000 -0300" channel="Canção Nova">
+    <title lang="pt">Na Escola de Nazaré</title>
+    <desc lang="pt">Diretamente de Nazaré, local onde Jesus cresceu, os Franciscanos da Terra Santa apresentam uma reflexão sobre a espiritualidade deste lugar sagrado.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008200000 -0300" stop="20211008213000 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008213000 -0300" stop="20211008220000 -0300" channel="Canção Nova">
+    <title lang="pt">Projeto Dai-Me Almas</title>
+    <desc lang="pt">Este projeto é o meio e sustentação da missão do sistema de comunicação do Canção Nova, contribuindo para a evangelização e formação do homem.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008220000 -0300" stop="20211008230000 -0300" channel="Canção Nova">
+    <title lang="pt">Revolução Jesus</title>
+    <desc lang="pt">O programa Revolução Jesus tem uma abordagem totalmente atual, criativa e interativa dos principais dilemas, sonhos, vivência e comportamento dos jovens com o objetivo de conduzi-los a serem os protagonistas de uma revolução.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211008230000 -0300" stop="20211009003000 -0300" channel="Canção Nova">
+    <title lang="pt">Sorrindo pra Vida</title>
+    <desc lang="pt">O programa é um grande grupo de oração, com músicas e meditação da palavra de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009003000 -0300" stop="20211009025000 -0300" channel="Canção Nova">
+    <title lang="pt">O Amor Vencerá</title>
+    <desc lang="pt">Programa voltado à esperança, superação das dificuldades, angústias, sofrimentos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009025000 -0300" stop="20211009033000 -0300" channel="Canção Nova">
+    <title lang="pt">Terço da Misericórdia</title>
+    <desc lang="pt">Meditação, às três horas, sobre a Paixão, Morte e Ressurreição de Jesus Cristo que está presente no cotidiano e na tradição do povo brasileiro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009033000 -0300" stop="20211009040000 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009040000 -0300" stop="20211009044500 -0300" channel="Canção Nova">
+    <title lang="pt">Canção Nova Notícias</title>
+    <desc lang="pt">Um jornal comprometido com a ética e com os valores cristãos, a serviço da vida e da esperança. Traz uma visão nova dos acontecimentos do dia a dia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009044500 -0300" stop="20211009050000 -0300" channel="Canção Nova">
+    <title lang="pt">Igreja em Saída - A Igreja No Brasil</title>
+    <desc lang="pt">As principais notícias da Igreja no Brasil e as mensagens do Papa Francisco.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009050000 -0300" stop="20211009060000 -0300" channel="Canção Nova">
+    <title lang="pt">Nossa Missão é Evangelizar</title>
+    <desc lang="pt">Pregações baseadas na Palavra de Deus, realizadas em encontros de espiritualidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009060000 -0300" stop="20211009063200 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Santo Terço rezado diretamente de Fátima - Portugal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009063200 -0300" stop="20211009065000 -0300" channel="Canção Nova">
+    <title lang="pt">A Bíblia no Meu Dia a Dia</title>
+    <desc lang="pt">A proposta do programa é levar as pessoas ao contato com a Palavra de Deus de forma a estimulá-las a fazerem o seu estudo bíblico diariamente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009065000 -0300" stop="20211009070000 -0300" channel="Canção Nova">
+    <title lang="pt">Palavra de Vida Eterna</title>
+    <desc lang="pt">Reflexão bíblica aplicada de forma prática para o cotidiano da vida das pessoas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009070000 -0300" stop="20211009074800 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009074800 -0300" stop="20211009080100 -0300" channel="Canção Nova">
+    <title lang="pt">Pai das Misericórdias</title>
+    <desc lang="pt">O Programa Pai das misericórdias é apresentado por Padre Wagner Ferreira, diariamente às 07:47,com reprise às 4h e 14h47.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009080100 -0300" stop="20211009080700 -0300" channel="Canção Nova">
+    <title lang="pt">Clipe Opec</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211009080700 -0300" stop="20211009083000 -0300" channel="Canção Nova">
+    <title lang="pt">Terra Santa News</title>
+    <desc lang="pt">Traz as principais notícias do Oriente Médio.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211009083000 -0300" stop="20211009101700 -0300" channel="Canção Nova">
+    <title lang="pt">Dia de Louvor SJC - Pregação 1</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009101700 -0300" stop="20211009102400 -0300" channel="Canção Nova">
+    <title lang="pt">Florescer</title>
+    <desc lang="pt">Apresentado pela missionária Dijanira Silva que propõe aos telespectadores um caminho de descobertas ecrescimento pessoal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009102400 -0300" stop="20211009103000 -0300" channel="Canção Nova">
+    <title lang="pt">Jubileu Batismo No Espírito Salesianos</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009103000 -0300" stop="20211009120000 -0300" channel="Canção Nova">
+    <title lang="pt">Dia de Louvor SJC - Pregação 2</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009120000 -0300" stop="20211009124800 -0300" channel="Canção Nova">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Apice da Espiritualidade Católica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009124800 -0300" stop="20211009125900 -0300" channel="Canção Nova">
+    <title lang="pt">Quaresma de São Miguel Arcanjo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009125900 -0300" stop="20211009133000 -0300" channel="Canção Nova">
+    <title lang="pt">Parte de Nós</title>
+    <desc lang="pt">Acompanhe histórias de garra, lutas e vitórias de pessoas que foram tocadas pelo Cristo, seja por meio do trabalho social ou pela evangelização promovida pela associação Aliança de Misericórdia.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009133000 -0300" stop="20211009153000 -0300" channel="Canção Nova">
+    <title lang="pt">Dia de Louvor SJC - Pregação Terço e Misericórdia</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009153000 -0300" stop="20211009160000 -0300" channel="Canção Nova">
+    <title lang="pt">Ajuda à Igreja que Sofre</title>
+    <desc lang="pt">Conheça o trabalho da instituição ACN (Ajuda à Igreja que Sofre) que mostra a realidade do necessitado, do pobre, do excluído e dos que precisam de apoio da ação da Igreja.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009160000 -0300" stop="20211009173000 -0300" channel="Canção Nova">
+    <title lang="pt">Dia de Louvor SJC - Santa Missa</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009173000 -0300" stop="20211009180000 -0300" channel="Canção Nova">
+    <title lang="pt">Superbook</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009180000 -0300" stop="20211009181000 -0300" channel="Canção Nova">
+    <title lang="pt">Angelus - Terra Santa</title>
+    <desc lang="pt">Reze conosco a oração do Angelus diretamente da gruta na cidade de Nazaré em Israel onde Nossa Senhora recebeu o anúncio do Arcanjo Gabriel!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009181000 -0300" stop="20211009184300 -0300" channel="Canção Nova">
+    <title lang="pt">Santo Terço</title>
+    <desc lang="pt">Santo Terço rezado diretamente de Fátima - Portugal.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009184300 -0300" stop="20211009185500 -0300" channel="Canção Nova">
+    <title lang="pt">Quaresma de São Miguel Arcanjo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009185500 -0300" stop="20211009195800 -0300" channel="Canção Nova">
+    <title lang="pt">Procissão Das Luzes Na Basílica da Anunciação</title>
+    <desc lang="pt">A oração do terço, rezada em vários idiomas, na Basílica da Anunciação, em Nazaré.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009195800 -0300" stop="20211009202900 -0300" channel="Canção Nova">
+    <title lang="pt">Ofício da Imaculada Conceição</title>
+    <desc lang="pt">O ''Ofício de Nossa Senhora'', embora de origem medieval, é hoje patrimônio da fé do povo brasileiro a Maria, Mãe de Deus. Uma antiga tradição diz que Nossa Senhora se ajoelha no céu quando alguém na terra reza esse Ofício.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009202900 -0300" stop="20211009210000 -0300" channel="Canção Nova">
+    <title lang="pt">Projeto Dai-Me Almas</title>
+    <desc lang="pt">Este projeto é o meio e sustentação da missão do sistema de comunicação do Canção Nova, contribuindo para a evangelização e formação do homem.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009210000 -0300" stop="20211009223000 -0300" channel="Canção Nova">
+    <title lang="pt">Adoração Santuário Pai das Misericórdias</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211009223000 -0300" stop="20211010000000 -0300" channel="Canção Nova">
+    <title lang="pt">PHN</title>
+    <desc lang="pt">Com muita música e descontração, o programa traz histórias de quem assumiu o PHN "Por/hoje/não" e mudaram suas vidas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007053000 -0300" stop="20211007060000 -0300" channel="Casa Club TV">
+    <title lang="pt">En la Mesa con el Chef</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211007060000 -0300" stop="20211007063000 -0300" channel="Casa Club TV">
+    <title lang="pt">Viver com Estilo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007063000 -0300" stop="20211007070000 -0300" channel="Casa Club TV">
+    <title lang="pt">Fresh</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007070000 -0300" stop="20211007073000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspir</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007073000 -0300" stop="20211007080000 -0300" channel="Casa Club TV">
+    <title lang="pt">Manos Creativas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007080000 -0300" stop="20211007083000 -0300" channel="Casa Club TV">
+    <title lang="pt">Para Tu Hogar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007083000 -0300" stop="20211007090000 -0300" channel="Casa Club TV">
+    <title lang="pt">Shimmy</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007090000 -0300" stop="20211007093000 -0300" channel="Casa Club TV">
+    <title lang="pt">Hola Maytte</title>
+    <desc lang="pt">Maytte apresenta em cada programa um tema diferente, com reflexões, respostas e técnicas práticas que ajudarão os telespectadores a superarem situações difíceis, para alcançar a paz interior e serem felizes.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007093000 -0300" stop="20211007100000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida e Lar com Martha Stewart</title>
+    <desc lang="pt">Programa que aborda temas de culinária, jardinagem e decoração. Martha Stewart compartilhará com os telespectadores as melhores dicas, técnicas e conselhos  de como cuidar, reformar e manter a casa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007100000 -0300" stop="20211007103000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida Mamá</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007103000 -0300" stop="20211007120000 -0300" channel="Casa Club TV">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Programa que oferece produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007120000 -0300" stop="20211007123000 -0300" channel="Casa Club TV">
+    <title lang="pt">A Probar con Anna y Kristina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007123000 -0300" stop="20211007130000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cupcakemania</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007130000 -0300" stop="20211007133000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cocina Leal</title>
+    <desc lang="pt">"Cocina Leal" traz os segredos, histórias, conhecimentos e experiências que fizeram de Edgar Leal um dos chefs mais reconhecidos pelo público e crítica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211007133000 -0300" stop="20211007140000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspírate con Sandra Lee</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007140000 -0300" stop="20211007143000 -0300" channel="Casa Club TV">
+    <title lang="pt">Sólo 5 Ingredientes</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007143000 -0300" stop="20211007150000 -0300" channel="Casa Club TV">
+    <title lang="pt">México, Puro Sabor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007150000 -0300" stop="20211007153000 -0300" channel="Casa Club TV">
+    <title lang="pt">A Probar con Anna y Kristina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007153000 -0300" stop="20211007160000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cupcakemania</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007160000 -0300" stop="20211007163000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cocina Leal</title>
+    <desc lang="pt">"Cocina Leal" traz os segredos, histórias, conhecimentos e experiências que fizeram de Edgar Leal um dos chefs mais reconhecidos pelo público e crítica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211007163000 -0300" stop="20211007170000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspírate con Sandra Lee</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007170000 -0300" stop="20211007173000 -0300" channel="Casa Club TV">
+    <title lang="pt">Sólo 5 Ingredientes</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007173000 -0300" stop="20211007180000 -0300" channel="Casa Club TV">
+    <title lang="pt">México, Puro Sabor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007180000 -0300" stop="20211007183000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspir</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007183000 -0300" stop="20211007190000 -0300" channel="Casa Club TV">
+    <title lang="pt">Everyday Baking</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007190000 -0300" stop="20211007193000 -0300" channel="Casa Club TV">
+    <title lang="pt">French Food at Home</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211007193000 -0300" stop="20211007200000 -0300" channel="Casa Club TV">
+    <title lang="pt">Fresh</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007200000 -0300" stop="20211007203000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspírate con Sandra Lee</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007203000 -0300" stop="20211007210000 -0300" channel="Casa Club TV">
+    <title lang="pt">A Probar con Anna y Kristina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007210000 -0300" stop="20211007213000 -0300" channel="Casa Club TV">
+    <title lang="pt">Sólo 5 Ingredientes</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007213000 -0300" stop="20211007220000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cupcakemania</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007220000 -0300" stop="20211007223000 -0300" channel="Casa Club TV">
+    <title lang="pt">México, Puro Sabor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007223000 -0300" stop="20211007230000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cocina Leal</title>
+    <desc lang="pt">"Cocina Leal" traz os segredos, histórias, conhecimentos e experiências que fizeram de Edgar Leal um dos chefs mais reconhecidos pelo público e crítica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211007230000 -0300" stop="20211007233000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspírate con Sandra Lee</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211007233000 -0300" stop="20211008000000 -0300" channel="Casa Club TV">
+    <title lang="pt">A Probar con Anna y Kristina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008000000 -0300" stop="20211008003000 -0300" channel="Casa Club TV">
+    <title lang="pt">Sólo 5 Ingredientes</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008003000 -0300" stop="20211008010000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cupcakemania</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008010000 -0300" stop="20211008013000 -0300" channel="Casa Club TV">
+    <title lang="pt">México, Puro Sabor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008013000 -0300" stop="20211008020000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cocina Leal</title>
+    <desc lang="pt">"Cocina Leal" traz os segredos, histórias, conhecimentos e experiências que fizeram de Edgar Leal um dos chefs mais reconhecidos pelo público e crítica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211008020000 -0300" stop="20211008023000 -0300" channel="Casa Club TV">
+    <title lang="pt">Everyday Baking</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008023000 -0300" stop="20211008030000 -0300" channel="Casa Club TV">
+    <title lang="pt">El Taller de Katie Brown</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008030000 -0300" stop="20211008033000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida e Lar com Martha Stewart</title>
+    <desc lang="pt">Programa que aborda temas de culinária, jardinagem e decoração. Martha Stewart compartilhará com os telespectadores as melhores dicas, técnicas e conselhos  de como cuidar, reformar e manter a casa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008033000 -0300" stop="20211008040000 -0300" channel="Casa Club TV">
+    <title lang="pt">Hola Maytte</title>
+    <desc lang="pt">Maytte apresenta em cada programa um tema diferente, com reflexões, respostas e técnicas práticas que ajudarão os telespectadores a superarem situações difíceis, para alcançar a paz interior e serem felizes.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008040000 -0300" stop="20211008043000 -0300" channel="Casa Club TV">
+    <title lang="pt">México, Puro Sabor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008043000 -0300" stop="20211008050000 -0300" channel="Casa Club TV">
+    <title lang="pt">French Food at Home</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211008050000 -0300" stop="20211008053000 -0300" channel="Casa Club TV">
+    <title lang="pt">Para Tu Hogar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008053000 -0300" stop="20211008060000 -0300" channel="Casa Club TV">
+    <title lang="pt">En la Mesa con el Chef</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211008060000 -0300" stop="20211008063000 -0300" channel="Casa Club TV">
+    <title lang="pt">Viver com Estilo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008063000 -0300" stop="20211008070000 -0300" channel="Casa Club TV">
+    <title lang="pt">Fresh</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008070000 -0300" stop="20211008073000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspir</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008073000 -0300" stop="20211008080000 -0300" channel="Casa Club TV">
+    <title lang="pt">Manos Creativas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008080000 -0300" stop="20211008083000 -0300" channel="Casa Club TV">
+    <title lang="pt">Para Tu Hogar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008083000 -0300" stop="20211008090000 -0300" channel="Casa Club TV">
+    <title lang="pt">Shimmy</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008090000 -0300" stop="20211008093000 -0300" channel="Casa Club TV">
+    <title lang="pt">Hola Maytte</title>
+    <desc lang="pt">Maytte apresenta em cada programa um tema diferente, com reflexões, respostas e técnicas práticas que ajudarão os telespectadores a superarem situações difíceis, para alcançar a paz interior e serem felizes.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008093000 -0300" stop="20211008100000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida e Lar com Martha Stewart</title>
+    <desc lang="pt">Programa que aborda temas de culinária, jardinagem e decoração. Martha Stewart compartilhará com os telespectadores as melhores dicas, técnicas e conselhos  de como cuidar, reformar e manter a casa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008100000 -0300" stop="20211008103000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida Mamá</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008103000 -0300" stop="20211008120000 -0300" channel="Casa Club TV">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Programa que oferece produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008120000 -0300" stop="20211008130000 -0300" channel="Casa Club TV">
+    <title lang="pt">First Class All the Way</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008130000 -0300" stop="20211008133000 -0300" channel="Casa Club TV">
+    <title lang="pt">Mansiones</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008133000 -0300" stop="20211008140000 -0300" channel="Casa Club TV">
+    <title lang="pt">Planeta de Lujo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008140000 -0300" stop="20211008143000 -0300" channel="Casa Club TV">
+    <title lang="pt">La Lista</title>
+    <desc lang="pt">Nesta série de entretenimento, nossa intrépida apresentadora, Liza Fromer, terá que cumprir cinco tarefas incríveis compilada "LISTA DE LA VIDA". Em seu caminho, conhecerá gente comum e buscará formas de tornar seus sonhos realidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008143000 -0300" stop="20211008150000 -0300" channel="Casa Club TV">
+    <title lang="pt">Viajes Sin Límites</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008150000 -0300" stop="20211008160000 -0300" channel="Casa Club TV">
+    <title lang="pt">First Class All the Way</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008160000 -0300" stop="20211008163000 -0300" channel="Casa Club TV">
+    <title lang="pt">Mansiones</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008163000 -0300" stop="20211008170000 -0300" channel="Casa Club TV">
+    <title lang="pt">Planeta de Lujo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008170000 -0300" stop="20211008173000 -0300" channel="Casa Club TV">
+    <title lang="pt">La Lista</title>
+    <desc lang="pt">Nesta série de entretenimento, nossa intrépida apresentadora, Liza Fromer, terá que cumprir cinco tarefas incríveis compilada "LISTA DE LA VIDA". Em seu caminho, conhecerá gente comum e buscará formas de tornar seus sonhos realidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008173000 -0300" stop="20211008180000 -0300" channel="Casa Club TV">
+    <title lang="pt">Viajes Sin Límites</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008180000 -0300" stop="20211008183000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspir</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008183000 -0300" stop="20211008190000 -0300" channel="Casa Club TV">
+    <title lang="pt">Everyday Baking</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008190000 -0300" stop="20211008193000 -0300" channel="Casa Club TV">
+    <title lang="pt">French Food at Home</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211008193000 -0300" stop="20211008200000 -0300" channel="Casa Club TV">
+    <title lang="pt">Fresh</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008200000 -0300" stop="20211008203000 -0300" channel="Casa Club TV">
+    <title lang="pt">Mansiones</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008203000 -0300" stop="20211008210000 -0300" channel="Casa Club TV">
+    <title lang="pt">La Lista</title>
+    <desc lang="pt">Nesta série de entretenimento, nossa intrépida apresentadora, Liza Fromer, terá que cumprir cinco tarefas incríveis compilada "LISTA DE LA VIDA". Em seu caminho, conhecerá gente comum e buscará formas de tornar seus sonhos realidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008210000 -0300" stop="20211008220000 -0300" channel="Casa Club TV">
+    <title lang="pt">First Class All the Way</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008220000 -0300" stop="20211008223000 -0300" channel="Casa Club TV">
+    <title lang="pt">Planeta de Lujo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008223000 -0300" stop="20211008230000 -0300" channel="Casa Club TV">
+    <title lang="pt">Viajes Sin Límites</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008230000 -0300" stop="20211008233000 -0300" channel="Casa Club TV">
+    <title lang="pt">Mansiones</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211008233000 -0300" stop="20211009000000 -0300" channel="Casa Club TV">
+    <title lang="pt">La Lista</title>
+    <desc lang="pt">Nesta série de entretenimento, nossa intrépida apresentadora, Liza Fromer, terá que cumprir cinco tarefas incríveis compilada "LISTA DE LA VIDA". Em seu caminho, conhecerá gente comum e buscará formas de tornar seus sonhos realidade.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009000000 -0300" stop="20211009010000 -0300" channel="Casa Club TV">
+    <title lang="pt">First Class All the Way</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009010000 -0300" stop="20211009013000 -0300" channel="Casa Club TV">
+    <title lang="pt">Planeta de Lujo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009013000 -0300" stop="20211009020000 -0300" channel="Casa Club TV">
+    <title lang="pt">Viajes Sin Límites</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009020000 -0300" stop="20211009023000 -0300" channel="Casa Club TV">
+    <title lang="pt">Everyday Baking</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009023000 -0300" stop="20211009030000 -0300" channel="Casa Club TV">
+    <title lang="pt">El Taller de Katie Brown</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009030000 -0300" stop="20211009033000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida e Lar com Martha Stewart</title>
+    <desc lang="pt">Programa que aborda temas de culinária, jardinagem e decoração. Martha Stewart compartilhará com os telespectadores as melhores dicas, técnicas e conselhos  de como cuidar, reformar e manter a casa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009033000 -0300" stop="20211009040000 -0300" channel="Casa Club TV">
+    <title lang="pt">Hola Maytte</title>
+    <desc lang="pt">Maytte apresenta em cada programa um tema diferente, com reflexões, respostas e técnicas práticas que ajudarão os telespectadores a superarem situações difíceis, para alcançar a paz interior e serem felizes.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009040000 -0300" stop="20211009043000 -0300" channel="Casa Club TV">
+    <title lang="pt">México, Puro Sabor</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009043000 -0300" stop="20211009050000 -0300" channel="Casa Club TV">
+    <title lang="pt">French Food at Home</title>
+    <desc lang="pt">Sinopse Não Disponível.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211009050000 -0300" stop="20211009053000 -0300" channel="Casa Club TV">
+    <title lang="pt">Para Tu Hogar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009053000 -0300" stop="20211009060000 -0300" channel="Casa Club TV">
+    <title lang="pt">En la Mesa con el Chef</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211009060000 -0300" stop="20211009063000 -0300" channel="Casa Club TV">
+    <title lang="pt">Viver com Estilo</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009063000 -0300" stop="20211009070000 -0300" channel="Casa Club TV">
+    <title lang="pt">Fresh</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009070000 -0300" stop="20211009073000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspir</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009073000 -0300" stop="20211009080000 -0300" channel="Casa Club TV">
+    <title lang="pt">Manos Creativas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009080000 -0300" stop="20211009083000 -0300" channel="Casa Club TV">
+    <title lang="pt">Para Tu Hogar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009083000 -0300" stop="20211009090000 -0300" channel="Casa Club TV">
+    <title lang="pt">Shimmy</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009090000 -0300" stop="20211009120000 -0300" channel="Casa Club TV">
+    <title lang="pt">Programa Pago</title>
+    <desc lang="pt">Programa que oferece produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009120000 -0300" stop="20211009123000 -0300" channel="Casa Club TV">
+    <title lang="pt">Shimmy</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009123000 -0300" stop="20211009130000 -0300" channel="Casa Club TV">
+    <title lang="pt">El Taller de Katie Brown</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009130000 -0300" stop="20211009133000 -0300" channel="Casa Club TV">
+    <title lang="pt">Manos Creativas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009133000 -0300" stop="20211009140000 -0300" channel="Casa Club TV">
+    <title lang="pt">Para Tu Hogar</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009140000 -0300" stop="20211009143000 -0300" channel="Casa Club TV">
+    <title lang="pt">Criando Ideias com Angela</title>
+    <desc lang="pt">Angela desenha e elabora sua própria linha de joias. Ela vai mostrar suas criações de bijuterias e objetos de decoração como colares, pingentes, cintos, relógios, luminárias, cortinas, velas decoradas e muito mais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009143000 -0300" stop="20211009150000 -0300" channel="Casa Club TV">
+    <title lang="pt">De La Mano De Herminia</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009150000 -0300" stop="20211009153000 -0300" channel="Casa Club TV">
+    <title lang="pt">Area</title>
+    <desc lang="pt">Uma série prática, emocionante e atual dirigida aos jovens profissionais que sempre estão ocupados. Area apresenta as últimas tendências em decoração de interiores.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009153000 -0300" stop="20211009160000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida e Lar com Martha Stewart</title>
+    <desc lang="pt">Programa que aborda temas de culinária, jardinagem e decoração. Martha Stewart compartilhará com os telespectadores as melhores dicas, técnicas e conselhos  de como cuidar, reformar e manter a casa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009160000 -0300" stop="20211009163000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida Mamá</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009163000 -0300" stop="20211009170000 -0300" channel="Casa Club TV">
+    <title lang="pt">Celebraciones en Familia</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009170000 -0300" stop="20211009173000 -0300" channel="Casa Club TV">
+    <title lang="pt">Diseño a Tu Gusto</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009173000 -0300" stop="20211009180000 -0300" channel="Casa Club TV">
+    <title lang="pt">El Taller de Katie Brown</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009180000 -0300" stop="20211009183000 -0300" channel="Casa Club TV">
+    <title lang="pt">Inspírate con Sandra Lee</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009183000 -0300" stop="20211009190000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cupcakemania</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009190000 -0300" stop="20211009193000 -0300" channel="Casa Club TV">
+    <title lang="pt">Sólo 5 Ingredientes</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009193000 -0300" stop="20211009200000 -0300" channel="Casa Club TV">
+    <title lang="pt">A Probar con Anna y Kristina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009200000 -0300" stop="20211009203000 -0300" channel="Casa Club TV">
+    <title lang="pt">Desafiando el Color</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009203000 -0300" stop="20211009210000 -0300" channel="Casa Club TV">
+    <title lang="pt">Los 10 Mejores</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009210000 -0300" stop="20211009213000 -0300" channel="Casa Club TV">
+    <title lang="pt">Quédate con mis Hijos</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009213000 -0300" stop="20211009220000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cook Yourself Thin</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009220000 -0300" stop="20211009223000 -0300" channel="Casa Club TV">
+    <title lang="pt">Vida Mamá</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009223000 -0300" stop="20211009230000 -0300" channel="Casa Club TV">
+    <title lang="pt">Chica Sexy</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009230000 -0300" stop="20211009233000 -0300" channel="Casa Club TV">
+    <title lang="pt">Mansiones</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009233000 -0300" stop="20211010010000 -0300" channel="Casa Club TV">
+    <title lang="pt">Detrás de las Grandes Marcas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
   </programme>
 </tv>
