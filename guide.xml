@@ -192,6 +192,7 @@
   </channel>
   <channel id="Sony">
     <display-name lang="pt">Sony</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/set.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Studio Universal">
@@ -5038,5 +5039,884 @@
     </credits>
     <category lang="pt">Filme</category>
     <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211009041000 -0300" stop="20211009050500 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Um casal da Califórnia apresenta um conjunto estiloso de pesos para melhorar a performance na hora de fazer exercícios.(n)</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211009050500 -0300" stop="20211009060000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Mãe e filha do Texas desenvolvem uma solução tecnológica que vai ajudar na segurança das crianças na hora de entrar e sair do carro.(n)</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211009060000 -0300" stop="20211009063000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">A celebração de aniversário de 21 anos de Zoey sofre uma inesperada reviravolta quando ela toma uma grande decisão a respeito de seu futuro.(n)</desc>
+    <credits>
+      <director>Samantha Bailey</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211009063000 -0300" stop="20211009070000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Pop não costuma entrar no clima do Natal, então quando ele aparece na casa cheio de ânimo natalino com Lynette, Dre fica bastante confuso.(n)</desc>
+    <credits>
+      <director>Anthony Anderson</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211009070000 -0300" stop="20211009073000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Com seu novo trabalho tomando a maior parte de seu tempo, Katie e Greg tentam dividir as tarefas de casa. Katie se envolve demais na vida social de Taylor, tentando manter alguma distância entre Taylor e seu namorado.(n)</desc>
+    <credits>
+      <director>Helen Hunt</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211009073000 -0300" stop="20211009080000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Quando Kathryn, a mãe de Katie, faz uma visita, ambas encorajam as crianças a tomar decisões difíceis: Oliver trapaceia numa aula de compras e Katie tenta ajudá-lo a sair da enrascada, Kathryn reafirma que Taylor não precisa ir para a faculdade.(n)</desc>
+    <credits>
+      <director>Michael Mcdonald</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211009080000 -0300" stop="20211009083000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">A celebração de aniversário de 21 anos de Zoey sofre uma inesperada reviravolta quando ela toma uma grande decisão a respeito de seu futuro.(n)</desc>
+    <credits>
+      <director>Samantha Bailey</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211009083000 -0300" stop="20211009095500 -0300" channel="Sony">
+    <title lang="pt">Balto</title>
+    <desc lang="pt">Balto é um animal meio-cão, meio-lobo. No inverno, uma epidemia de difteria ameaça as crianças no Alasca. Ele, então, lidera uma matilha à busca da quantidade de remédios necessária, enfrentando uma forte tempestade de neve.(n)</desc>
+    <credits>
+      <director>Simon Wells</director>
+      <actor>Kevin Bacon</actor>
+      <actor>Bridget Fonda</actor>
+      <actor>Phil Collins</actor>
+      <actor>Bob Hoskins</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211009095500 -0300" stop="20211009113000 -0300" channel="Sony">
+    <title lang="pt">O Bicho Vai Pegar</title>
+    <desc lang="pt">Boog é um urso pardo domesticado, feliz e sem qualquer instinto de sobrevivência. Mas sua vida muda quando conhece Elliot, um alce magro que o convence a sair de casa para experimentar o sabor da natureza.(n)</desc>
+    <credits>
+      <director>Jill Culton</director>
+      <director>Roger Allers</director>
+      <actor>Martin Lawrence</actor>
+      <actor>Ashton Kutcher</actor>
+      <actor>Gary Sinise</actor>
+      <actor>Debra Messing</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211009113000 -0300" stop="20211009125500 -0300" channel="Sony">
+    <title lang="pt">O Bicho Vai Pegar 2</title>
+    <desc lang="pt">Giselle e Elliot se preparam para o casamento, mas o caminho ao altar muda quando Mr. Weenie é sequestrado por um grupo de mascotes que pretendem devolvê-lo a seus donos. Seus amigos saem numa aventura para resgatar o cão.(n)</desc>
+    <credits>
+      <director>Matthew O'Callaghan</director>
+      <director>Todd Wilderman</director>
+      <actor>Mike Epps</actor>
+      <actor>Joel McHale</actor>
+      <actor>Jane Krakowski</actor>
+      <actor>Billy Connolly</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">S2</episode-num>
+  </programme>
+  <programme start="20211009125500 -0300" stop="20211009143000 -0300" channel="Sony">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+    <desc lang="pt">Elliot, Boog e todas as amadas criaturas da floresta estão de volta em uma nova aventura de comédia.(n)</desc>
+    <credits>
+      <director>David Feiss</director>
+      <actor>William Townsend</actor>
+      <actor>Melissa Sturm</actor>
+      <actor>Trevor Devall</actor>
+      <actor>Garry Chalk</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211009143000 -0300" stop="20211009161000 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia</title>
+    <desc lang="pt">O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211009161000 -0300" stop="20211009174500 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia 2</title>
+    <desc lang="pt">A vampira Mavis e o humano Jonathan se casaram e continuaram morando no Hotel Transilvânia, já que Drácula ofereceu um emprego ao genro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211009174500 -0300" stop="20211009193000 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211009193000 -0300" stop="20211009212000 -0300" channel="Sony">
+    <title lang="pt">Os Smurfs 2</title>
+    <desc lang="pt">Gargamel cria seres perversos chamados Naughties. Smurfete conhece uma fórmula mágica para transformar os Naughties em Smurfs, por isso Gargamel  sequestra a pequena. Assim, os Smurfs unem forças para resgatar Smurfete.(n)</desc>
+    <credits>
+      <director>Raja Gosnell</director>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Jayma Mays</actor>
+      <actor>Katy Perry</actor>
+      <actor>Hank Azaria</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">s 2</episode-num>
+  </programme>
+  <programme start="20211009212000 -0300" stop="20211009230000 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia</title>
+    <desc lang="pt">O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211009230000 -0300" stop="20211010003500 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia 2</title>
+    <desc lang="pt">A vampira Mavis e o humano Jonathan se casaram e continuaram morando no Hotel Transilvânia, já que Drácula ofereceu um emprego ao genro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211010003500 -0300" stop="20211010022000 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211010022000 -0300" stop="20211010024500 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Quando Kathryn, a mãe de Katie, faz uma visita, ambas encorajam as crianças a tomar decisões difíceis: Oliver trapaceia numa aula de compras e Katie tenta ajudá-lo a sair da enrascada, Kathryn reafirma que Taylor não precisa ir para a faculdade.(n)</desc>
+    <credits>
+      <director>Michael Mcdonald</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010024500 -0300" stop="20211010031000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Pop não costuma entrar no clima do Natal, então quando ele aparece na casa cheio de ânimo natalino com Lynette, Dre fica bastante confuso.(n)</desc>
+    <credits>
+      <director>Anthony Anderson</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010031000 -0300" stop="20211010033500 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">A celebração de aniversário de 21 anos de Zoey sofre uma inesperada reviravolta quando ela toma uma grande decisão a respeito de seu futuro.(n)</desc>
+    <credits>
+      <director>Samantha Bailey</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010033500 -0300" stop="20211010040000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Com seu novo trabalho tomando a maior parte de seu tempo, Katie e Greg tentam dividir as tarefas de casa. Katie se envolve demais na vida social de Taylor, tentando manter alguma distância entre Taylor e seu namorado.(n)</desc>
+    <credits>
+      <director>Helen Hunt</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010040000 -0300" stop="20211010050000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Uma mãe da Califórnia apresenta uma linha de bebidas que desenvolveu especialmente para crianças; um empreendedor da Nova Jersey acredita ter reinventado o AirBnB.(n)</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010050000 -0300" stop="20211010060000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Duas mães do Estado do Oregon apresentam uma solução sustentável e funcional para resolver um problema comum que envolve as roupas dos bebês.(n)</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010060000 -0300" stop="20211010062500 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Após largar os estudos na Universidade e mergulhar em seu trabalho dos sonhos, Zoey tenta balancear as demandas de sua carreira e a vida pessoal, enquanto faz turnê com Joey BADA$$.(n)</desc>
+    <credits>
+      <director>Samantha Bailey</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010062500 -0300" stop="20211010065000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Bow leva Diane ao salão de cabeleireiro e quer usar esse tempo para se aproximar da filha, mas Diane não está muito a fim.(n)</desc>
+    <credits>
+      <director>Anya Adams</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010065000 -0300" stop="20211010071500 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Anna-Kat concorre na eleição da escola para a posição da "Cadeira Verde" (Green Chair) contra a filha de Chloe Brown Mueller, o que se torna uma disputa pessoal entre Katie e Chloe.(n)</desc>
+    <credits>
+      <director>Melissa Kosar</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010071500 -0300" stop="20211010074000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Quando Taylor decide ir a uma festa de Halloween, Greg e Katie não conseguem chegar a um acordo sobre se devem ou não confiar na filha. Oliver e Cooper tentam ansiosamente se preparar para disputar um jogo de "Sete Minutos no Paraíso".(n)</desc>
+    <credits>
+      <director>Paul Murphy</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010074000 -0300" stop="20211010081000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Após largar os estudos na Universidade e mergulhar em seu trabalho dos sonhos, Zoey tenta balancear as demandas de sua carreira e a vida pessoal, enquanto faz turnê com Joey BADA$$.(n)</desc>
+    <credits>
+      <director>Samantha Bailey</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010081000 -0300" stop="20211010091000 -0300" channel="Sony">
+    <title lang="pt">Siren</title>
+    <desc lang="pt">#SirenNoSony Nesta segunda e aguardada temporada, novas sereias vão invadir o vilarejo de pescadores, que deixou de ser um lugar pacato há tempos. Porém, o que está levando mais destas misteriosas criaturas mitológicas à cidadezinha.(n)</desc>
+    <credits>
+      <director>Matthew Hastings</director>
+      <actor>Alex Roe</actor>
+      <actor>Eline Powell</actor>
+      <actor>Fola Evans-Akingbola</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211010091000 -0300" stop="20211010101000 -0300" channel="Sony">
+    <title lang="pt">Siren</title>
+    <desc lang="pt">Ben, Maddie e Ryn tentam desesperadamente manter o recém-chegado grupo de sereias escondido durante o Mermaid Beauty Contest; e Elaine fica mais desconfiada de Helen.(n)</desc>
+    <credits>
+      <director>Amanda Row</director>
+      <actor>Alex Roe</actor>
+      <actor>Eline Powell</actor>
+      <actor>Fola Evans-Akingbola</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211010101000 -0300" stop="20211010120000 -0300" channel="Sony">
+    <title lang="pt">Os Smurfs 2</title>
+    <desc lang="pt">Gargamel cria seres perversos chamados Naughties. Smurfete conhece uma fórmula mágica para transformar os Naughties em Smurfs, por isso Gargamel  sequestra a pequena. Assim, os Smurfs unem forças para resgatar Smurfete.(n)</desc>
+    <credits>
+      <director>Raja Gosnell</director>
+      <actor>Neil Patrick Harris</actor>
+      <actor>Jayma Mays</actor>
+      <actor>Katy Perry</actor>
+      <actor>Hank Azaria</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">s 2</episode-num>
+  </programme>
+  <programme start="20211010120000 -0300" stop="20211010134000 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia</title>
+    <desc lang="pt">O Hotel Transilvânia é um resort cinco estrelas que serve de refúgio para que os monstros possam descansar do árduo trabalho de perseguir e assustar os humanos. O local é comandado pelo Conde Drácula.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211010134000 -0300" stop="20211010151500 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia 2</title>
+    <desc lang="pt">A vampira Mavis e o humano Jonathan se casaram e continuaram morando no Hotel Transilvânia, já que Drácula ofereceu um emprego ao genro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211010151500 -0300" stop="20211010170000 -0300" channel="Sony">
+    <title lang="pt">Hotel Transilvânia 3: Férias Monstruosas</title>
+    <desc lang="pt">Solitário e infeliz, buscando um novo amor na internet, Drácula é surpreendido com um presente da querida filha: férias em um cruzeiro.(n)</desc>
+    <credits>
+      <director>Genndy Tartakovsky</director>
+      <actor>Adam Sandler</actor>
+      <actor>Andy Samberg</actor>
+      <actor>Selena Gomez</actor>
+      <actor>Kevin James</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211010170000 -0300" stop="20211010183500 -0300" channel="Sony">
+    <title lang="pt">O Bicho Vai Pegar 4</title>
+    <desc lang="pt">Elliot, Boog e todas as amadas criaturas da floresta estão de volta em uma nova aventura de comédia.(n)</desc>
+    <credits>
+      <director>David Feiss</director>
+      <actor>William Townsend</actor>
+      <actor>Melissa Sturm</actor>
+      <actor>Trevor Devall</actor>
+      <actor>Garry Chalk</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211010183500 -0300" stop="20211010201500 -0300" channel="Sony">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <desc lang="pt">Em uma cidade começa a chover sopa, suco, sorvete, hambúrguer, entre outros alimentos, fazendo com que os habitantes precisem encontrar uma maneira para parar de cair comida do céu.(n)</desc>
+    <credits>
+      <director>Phil Lord</director>
+      <director>Chris Miller</director>
+      <actor>Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>James Caan</actor>
+      <actor>Andy Samberg</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211010201500 -0300" stop="20211010220000 -0300" channel="Sony">
+    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
+    <desc lang="pt">Flint agora trabalha para seu ídolo Chester V na empresa Live Corp. Mas quando descobre que sua famosa máquina ainda funciona e também cria animais mutantes de alimentos, Flint e seus amigos terão que voltar para salvar o mundo.(n)</desc>
+    <credits>
+      <director>Cody Cameron</director>
+      <director>Kris Pearn</director>
+      <actor>Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>Will Forte</actor>
+      <actor>James Caan</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">s 2</episode-num>
+  </programme>
+  <programme start="20211010220000 -0300" stop="20211010225500 -0300" channel="Sony">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Carly tenta se aproximar de Shaun, mas os movimentos causam frustrações aos dois. Enquanto isso, Lim e Melendez lutam para salvar o relacionamento deles.(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Antonia Thomas</actor>
+      <actor>Hill Harper</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Richard Schiff</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211010225500 -0300" stop="20211010235500 -0300" channel="Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores.(n)</desc>
+    <credits>
+      <actor>Caito Maia</actor>
+      <actor>Camila Farani</actor>
+      <actor>João Appolinário</actor>
+      <actor>José Carlos Semenzato</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010235500 -0300" stop="20211011013500 -0300" channel="Sony">
+    <title lang="pt">Tá Chovendo Hambúrguer</title>
+    <desc lang="pt">Em uma cidade começa a chover sopa, suco, sorvete, hambúrguer, entre outros alimentos, fazendo com que os habitantes precisem encontrar uma maneira para parar de cair comida do céu.(n)</desc>
+    <credits>
+      <director>Phil Lord</director>
+      <director>Chris Miller</director>
+      <actor>Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>James Caan</actor>
+      <actor>Andy Samberg</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211011013500 -0300" stop="20211011020500 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Anna-Kat concorre na eleição da escola para a posição da "Cadeira Verde" (Green Chair) contra a filha de Chloe Brown Mueller, o que se torna uma disputa pessoal entre Katie e Chloe.(n)</desc>
+    <credits>
+      <director>Melissa Kosar</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011020500 -0300" stop="20211011023500 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Quando Taylor decide ir a uma festa de Halloween, Greg e Katie não conseguem chegar a um acordo sobre se devem ou não confiar na filha. Oliver e Cooper tentam ansiosamente se preparar para disputar um jogo de "Sete Minutos no Paraíso".(n)</desc>
+    <credits>
+      <director>Paul Murphy</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011023500 -0300" stop="20211011030500 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Bow leva Diane ao salão de cabeleireiro e quer usar esse tempo para se aproximar da filha, mas Diane não está muito a fim.(n)</desc>
+    <credits>
+      <director>Anya Adams</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011030500 -0300" stop="20211011033500 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Após largar os estudos na Universidade e mergulhar em seu trabalho dos sonhos, Zoey tenta balancear as demandas de sua carreira e a vida pessoal, enquanto faz turnê com Joey BADA$$.(n)</desc>
+    <credits>
+      <director>Samantha Bailey</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011033500 -0300" stop="20211011040000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Anna-Kat concorre na eleição da escola para a posição da "Cadeira Verde" (Green Chair) contra a filha de Chloe Brown Mueller, o que se torna uma disputa pessoal entre Katie e Chloe.(n)</desc>
+    <credits>
+      <director>Melissa Kosar</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011040000 -0300" stop="20211011050000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Amigos do Arizona apresentam aos tubarões um conceito de venda de imóveis por aplicativo.(n)</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011050000 -0300" stop="20211011060000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank</title>
+    <desc lang="pt">Uma mãe da Califórnia apresenta uma linha de bebidas que desenvolveu especialmente para crianças; um empreendedor da Nova Jersey acredita ter reinventado o AirBnB.(n)</desc>
+    <credits>
+      <actor>Barbara Corcoran</actor>
+      <actor>Mark Cuban</actor>
+      <actor>Lori Greiner</actor>
+      <actor>Robert Herjavec</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011060000 -0300" stop="20211011063000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Enquanto seu relacionamento com Javi esquenta, Ana faz uma descoberta sobre ele que desafia todo seu sistema de crenças. Além disso, Aaron fica sabendo dos investimentos da Universidade em prisões privadas.(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011063000 -0300" stop="20211011070000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Dre fica com sentimentos contraditórios sobre tutelar Junior como pai ou deixá-lo tomar suas próprias decisões.(n)</desc>
+    <credits>
+      <director>Melissa Kosar</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011070000 -0300" stop="20211011073000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Depois que a "dona-de-casa mais rápida" em Westport faz um cirurgia plástica para perder peso, Chloe Brown Mueller joga na cara de Katie que ela agora deverá herdar o "título".(n)</desc>
+    <credits>
+      <director>Ken Whittingham</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011073000 -0300" stop="20211011080000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Após descobrir que a senha de quatro dígitos que a família Otto usa para tudo são as letras do nome de uma ex-namorada de Greg, Katie fica possessa e planeja retaliações.(n)</desc>
+    <credits>
+      <director>Ken Whittingham</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011080000 -0300" stop="20211011090000 -0300" channel="Sony">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Carly tenta se aproximar de Shaun, mas os movimentos causam frustrações aos dois. Enquanto isso, Lim e Melendez lutam para salvar o relacionamento deles.(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Antonia Thomas</actor>
+      <actor>Hill Harper</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Richard Schiff</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211011090000 -0300" stop="20211011100000 -0300" channel="Sony">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Shaun está pronto para o próximo passo na relação com Carly. Uma jovem precisa decidir sobre um procedimento médico que pode salvar vidas mas também pode destruir seu casamento.(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Antonia Thomas</actor>
+      <actor>Hill Harper</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Richard Schiff</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211011100000 -0300" stop="20211011103000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Enquanto seu relacionamento com Javi esquenta, Ana faz uma descoberta sobre ele que desafia todo seu sistema de crenças. Além disso, Aaron fica sabendo dos investimentos da Universidade em prisões privadas.(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011103000 -0300" stop="20211011110000 -0300" channel="Sony">
+    <title lang="pt">Black-ish</title>
+    <desc lang="pt">Dre fica com sentimentos contraditórios sobre tutelar Junior como pai ou deixá-lo tomar suas próprias decisões.(n)</desc>
+    <credits>
+      <director>Melissa Kosar</director>
+      <actor>Anthony Anderson</actor>
+      <actor>Tracee Ellis Ross</actor>
+      <actor>Marcus Scribner</actor>
+      <actor>Miles Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011110000 -0300" stop="20211011120000 -0300" channel="Sony">
+    <title lang="pt">Shark Tank Brasil: Negociando com Tubarões</title>
+    <desc lang="pt">Shark Tank Brasil Negociando com Tubarões levará empreendedores em busca de aporte financeiro à frente de grandes investidores.(n)</desc>
+    <credits>
+      <actor>Caito Maia</actor>
+      <actor>Camila Farani</actor>
+      <actor>João Appolinário</actor>
+      <actor>José Carlos Semenzato</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011120000 -0300" stop="20211011134500 -0300" channel="Sony">
+    <title lang="pt">Tá Chovendo Hambúrguer 2</title>
+    <desc lang="pt">Flint agora trabalha para seu ídolo Chester V na empresa Live Corp. Mas quando descobre que sua famosa máquina ainda funciona e também cria animais mutantes de alimentos, Flint e seus amigos terão que voltar para salvar o mundo.(n)</desc>
+    <credits>
+      <director>Cody Cameron</director>
+      <director>Kris Pearn</director>
+      <actor>Bill Hader</actor>
+      <actor>Anna Faris</actor>
+      <actor>Will Forte</actor>
+      <actor>James Caan</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+    <episode-num system="onscreen">s 2</episode-num>
+  </programme>
+  <programme start="20211011134500 -0300" stop="20211011144500 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <credits>
+      <director>Robert Duncan McNeill</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011144500 -0300" stop="20211011154500 -0300" channel="Sony">
+    <title lang="pt">Guia Feminino do Divórcio</title>
+    <credits>
+      <director>David Katzenberg</director>
+      <actor>Lisa Edelstein</actor>
+      <actor>Beau Garrett</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011154500 -0300" stop="20211011161000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Depois que a "dona-de-casa mais rápida" em Westport faz um cirurgia plástica para perder peso, Chloe Brown Mueller joga na cara de Katie que ela agora deverá herdar o "título".(n)</desc>
+    <credits>
+      <director>Ken Whittingham</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011161000 -0300" stop="20211011164000 -0300" channel="Sony">
+    <title lang="pt">American Housewife</title>
+    <desc lang="pt">Após descobrir que a senha de quatro dígitos que a família Otto usa para tudo são as letras do nome de uma ex-namorada de Greg, Katie fica possessa e planeja retaliações.(n)</desc>
+    <credits>
+      <director>Ken Whittingham</director>
+      <actor>Katy Mixon</actor>
+      <actor>Diedrich Bader</actor>
+      <actor>Meg Donnelly</actor>
+      <actor>Daniel Dimaggio</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011164000 -0300" stop="20211011171000 -0300" channel="Sony">
+    <title lang="pt">Grown-ish</title>
+    <desc lang="pt">Enquanto seu relacionamento com Javi esquenta, Ana faz uma descoberta sobre ele que desafia todo seu sistema de crenças. Além disso, Aaron fica sabendo dos investimentos da Universidade em prisões privadas.(n)</desc>
+    <credits>
+      <director>Eric Dean Seaton</director>
+      <actor>Yara Shahidi</actor>
+      <actor>Deon Cole</actor>
+      <actor>Trevor Jackson</actor>
+      <actor>Francia Raisa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011171000 -0300" stop="20211011185500 -0300" channel="Sony">
+    <title lang="pt">Amor.com</title>
+    <desc lang="pt">Katrina é uma famosa blogueira de moda que dita tendências no mercado brasileiro através de seus populares vídeos na internet.(n)</desc>
+    <credits>
+      <director>Anita Barbosa</director>
+      <actor>Ísis Valverde</actor>
+      <actor>Gil Coelho</actor>
+      <actor>Marcos Mion</actor>
+      <actor>César Cardadeiro</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+  </programme>
+  <programme start="20211011185500 -0300" stop="20211011210000 -0300" channel="Sony">
+    <title lang="pt">Ted 2</title>
+    <desc lang="pt">Completamente apaixonado, Ted decide se casar com Tami-Lynn. Entretanto, não demora muito para que o casal entre em crise. Querendo evitar um possível divórcio, Ted resolve ter um filho.(n)</desc>
+    <credits>
+      <director>Seth MacFarlane</director>
+      <actor>Mark Wahlberg</actor>
+      <actor>Seth MacFarlane</actor>
+      <actor>Amanda Seyfried</actor>
+      <actor>Jessica Barth</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011210000 -0300" stop="20211011215500 -0300" channel="Sony">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Shaun está pronto para o próximo passo na relação com Carly. Uma jovem precisa decidir sobre um procedimento médico que pode salvar vidas mas também pode destruir seu casamento.(n)</desc>
+    <credits>
+      <director>Seth Gordon</director>
+      <actor>Antonia Thomas</actor>
+      <actor>Hill Harper</actor>
+      <actor>Nicholas Gonzalez</actor>
+      <actor>Richard Schiff</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211011215500 -0300" stop="20211011225000 -0300" channel="Sony">
+    <title lang="pt">The Night Shift</title>
+    <desc lang="pt">TC e Amira atendem a uma criança síria na base. Drew e Paul tentam salvar a mão dilacerada de um paciente e Annie chega no hospital com um visitante inesperado, alguém do passado de Scott...(n)</desc>
+    <credits>
+      <director>Marisol Adler</director>
+      <actor>Eoin Macken</actor>
+      <actor>Jill Flint</actor>
+      <actor>Ken Leung</actor>
+      <actor>Brendan Fehr</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211011225000 -0300" stop="20211012005000 -0300" channel="Sony">
+    <title lang="pt">O Candidato Honesto</title>
+    <desc lang="pt">João Ernesto é um politico corrupto, candidato à Presidência da República. Até que recebe uma mandinga da avó e não consegue mais mentir, e agora terá de vencer as eleições falando apenas a verdade.(n)</desc>
+    <credits>
+      <director>Roberto Santucci</director>
+      <actor>Marcello Caridade</actor>
+      <actor>Leandro Hassum</actor>
+      <actor>Luiza Valdetaro</actor>
+      <actor>Cláudio Cinti</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
   </programme>
 </tv>
