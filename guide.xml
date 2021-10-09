@@ -172,18 +172,22 @@
   </channel>
   <channel id="FX">
     <display-name lang="pt">FX</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cfx.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="i-Sat">
     <display-name lang="pt">i-Sat</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sat.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Investigação Discovery">
     <display-name lang="pt">Investigação Discovery</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/liv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Lifetime">
     <display-name lang="pt">Lifetime</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/anx.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Sony">
@@ -4673,5 +4677,366 @@
     </credits>
     <category lang="pt">Filme</category>
     <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211009025100 -0300" stop="20211009051100 -0300" channel="FX">
+    <title lang="pt">A Máscara do Zorro</title>
+    <desc lang="pt">Usando máscara e uma capa preta como disfarce, aristocrata se transforma em Zorro, e coloca sua espada contra a injustiça do domínio espanhol.(n)</desc>
+    <credits>
+      <director>Martin Campbell</director>
+      <actor>Antonio Banderas</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Catherine Zeta-Jones</actor>
+      <actor>Stuart Wilson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211009051100 -0300" stop="20211009060100 -0300" channel="FX">
+    <title lang="pt">The Amazing Race (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211009060100 -0300" stop="20211009070000 -0300" channel="FX">
+    <title lang="pt">The Amazing Race (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211009070000 -0300" stop="20211009100000 -0300" channel="FX">
+    <title lang="pt">Infomercial (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211009100000 -0300" stop="20211009124200 -0300" channel="FX">
+    <title lang="pt">Inimigos Públicos</title>
+    <desc lang="pt">Adaptação do romance de Bryan Burrough ambientado nos anos de 1930, no auge da criminalidade, quando agentes do FBI tentam capturar notórios gângsteres americanos como John Dillinger, Baby Face Nelson e Pretty Boy Floyd.(n)</desc>
+    <credits>
+      <director>Michael Mann</director>
+      <actor>James Russo</actor>
+      <actor>David Wenham</actor>
+      <actor>Christian Stolte</actor>
+      <actor>Jason Clarke</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20211009124200 -0300" stop="20211009144000 -0300" channel="FX">
+    <title lang="pt">Coração de Dragão 4: A Batalha Pelo Coração de Fogo (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211009144000 -0300" stop="20211009165400 -0300" channel="FX">
+    <title lang="pt">A Vida Secreta de Walter Mitty</title>
+    <desc lang="pt">Ben Stiller é Walter Mitty, o editor de fotografias da revista Life. A publicação está prestes a lançar seu último número impresso e ele é o responsável pela prestigiosa capa. Só tem um problema: Walter não encontra o negativo dafoto escolhida.(n)</desc>
+    <credits>
+      <director>Ben Stiller</director>
+      <actor>Ben Stiller</actor>
+      <actor>Kristen Wiig</actor>
+      <actor>Jon Daly</actor>
+      <actor>Kathryn Hahn</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211009165400 -0300" stop="20211009192600 -0300" channel="FX">
+    <title lang="pt">Karate Kid</title>
+    <desc lang="pt">Sem amigos numa nova cidade, Dre não tem a quem recorrer exceto o zelador do seu prédio, que é secretamente um mestre do kung fu. Dre percebe que encarar os brigões da turma será a aventura de uma vida.(n)</desc>
+    <credits>
+      <director>Harald Zwart</director>
+      <actor>Jaden Smith</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Taraji P. Henson</actor>
+      <actor>Zhenwei Wang</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211009192600 -0300" stop="20211009220000 -0300" channel="FX">
+    <title lang="pt">Missão: Impossível - Efeito Fallout (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211009220000 -0300" stop="20211010001700 -0300" channel="FX">
+    <title lang="pt">Velozes &amp; Furiosos 5 - Operação Rio</title>
+    <desc lang="pt">Desde que Brian e Mia Toretto liberaram Dom, cruzaram várias fronteiras enganando as autoridades. Agora, encurralados no Rio de Janeiro, devem fazer um último trabalho para que possam conseguir a liberdade.(n)</desc>
+    <credits>
+      <director>Justin Lin</director>
+      <actor>Vin Diesel</actor>
+      <actor>Paul Walker</actor>
+      <actor>Jordana Brewster</actor>
+      <actor>Tyrese Gibson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211010001700 -0300" stop="20211010022000 -0300" channel="FX">
+    <title lang="pt">Bumblebee (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211010022000 -0300" stop="20211010041200 -0300" channel="FX">
+    <title lang="pt">A Intrometida</title>
+    <desc lang="pt">Para Marnie Minervini a maternidade não é um dever, mas sim uma vocação. Mesmo após a recente morte do marido, ela não deixa de ser alegre, sempre mandando mensagens, ligando e aparecendo sem avisar na casa da filha, Lori.(n)</desc>
+    <credits>
+      <director>Lorene Scafaria</director>
+      <actor>Susan Sarandon</actor>
+      <actor>Rose Byrne</actor>
+      <actor>J.K. Simmons</actor>
+      <actor>Jerrod Carmichael</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211010041200 -0300" stop="20211010060100 -0300" channel="FX">
+    <title lang="pt">O Sinal - Frequência do Medo</title>
+    <desc lang="pt">Três amigos estão à procura de um homem que conseguiu invadir os computadores do MIT. De repente tudo ao seu redor fica escuro. Quando Nic desperta, ele precisa descobrir aonde foi parar e onde estão seus amigos.(n)</desc>
+    <credits>
+      <director>William Eubank</director>
+      <actor>Laurence Fishburne</actor>
+      <actor>Brenton Thwaites</actor>
+      <actor>Olivia Cooke</actor>
+      <actor>Patrick Davidson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211010060100 -0300" stop="20211010070000 -0300" channel="FX">
+    <title lang="pt">The Amazing Race (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211010070000 -0300" stop="20211010100600 -0300" channel="FX">
+    <title lang="pt">Infomercial (?)</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211010100600 -0300" stop="20211010115000 -0300" channel="FX">
+    <title lang="pt">Sereia Predadora (?)</title>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20211010115000 -0300" stop="20211010132700 -0300" channel="FX">
+    <title lang="pt">Assassino Invisível</title>
+    <desc lang="pt">Baseado em fatos reais. Um serial killer mascarado aterroriza os moradores de uma pequena cidade. Sessenta e cinco anos depois do acontecido, surgem novas vítimas, e o mistério retorna ainda pior.(n)</desc>
+    <credits>
+      <director>Alfonso Gomez-Rejon</director>
+      <actor>Gary Cole</actor>
+      <actor>Veronica Cartwright</actor>
+      <actor>Addison Timlin</actor>
+      <actor>Anthony Anderson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20211010132700 -0300" stop="20211010152100 -0300" channel="FX">
+    <title lang="pt">Sexta-Feira 13: Parte 3</title>
+    <desc lang="pt">O assassino Jason continua fazendo vítimas, desta vez a um grupo de jovens procurando a paz das florestas por um fim de semana.(n)</desc>
+    <credits>
+      <director>Steve Miner</director>
+      <actor>Dana Kimmell</actor>
+      <actor>Paul Kratka</actor>
+      <actor>Nick Savage</actor>
+      <actor>Rachel Howard</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20211010152100 -0300" stop="20211010173600 -0300" channel="FX">
+    <title lang="pt">Aranha na Teia</title>
+    <desc lang="pt">Prestes a se aposentar, o agente Adereth apresenta um comportamento incomum. Para provar sua inocência, ele entra em uma última missão que lhe mostrará a linha tênue entre os limites do bem e do mal.(n)</desc>
+    <credits>
+      <director>Eran Riklis</director>
+      <actor>Ben Kingsley</actor>
+      <actor>Itay Tiran</actor>
+      <actor>Monica Bellucci</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20211010173600 -0300" stop="20211010194000 -0300" channel="FX">
+    <title lang="pt">De Volta Para o Futuro</title>
+    <desc lang="pt">Marty McFly é um jovem que acidentalmente viaja em uma máquina do tempo construída pelo cientista Doc Brown. Agora, nos anos 1950, ele vê seus pais que ainda não se apaixonaram.(n)</desc>
+    <credits>
+      <director>Robert Zemeckis</director>
+      <actor>Michael J. Fox</actor>
+      <actor>Christopher Lloyd</actor>
+      <actor>Lea Thompson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211010194000 -0300" stop="20211010220000 -0300" channel="FX">
+    <title lang="pt">Homens de Honra</title>
+    <desc lang="pt">Homem negro tem o sonho de se tornar mergulhador e, por isso, se alista na marinha. Ele trabalha como cozinheiro e, posteriormente, torna-se um "nadador de resgate". Ao longo do filme, o personagem enfrenta atitudes preconceituosas.(n)</desc>
+    <credits>
+      <director>George Tillman Jr.</director>
+      <actor>Robert De Niro</actor>
+      <actor>Cuba Gooding Jr.</actor>
+      <actor>Charlize Theron</actor>
+      <actor>Aunjanue Ellis</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211010220000 -0300" stop="20211010233600 -0300" channel="FX">
+    <title lang="pt">Cemitério Maldito (2019)</title>
+    <desc lang="pt">Louis e Rachel se mudam para uma nova casa próxima ao Cemitério dos Mascotes. No entanto, o que pretendia ser um recomeço se torna um pesadelo quando estranhos episódios acontecem.(n)</desc>
+    <credits>
+      <director>Dennis Widmyer</director>
+      <director>Kevin Kölsch</director>
+      <actor>Jason Clarke</actor>
+      <actor>Amy Seimetz</actor>
+      <actor>John Lithgow</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20211010233600 -0300" stop="20211011021200 -0300" channel="FX">
+    <title lang="pt">Missão: Impossível - Efeito Fallout</title>
+    <desc lang="pt">Após falhar em uma missão por ter salvo seus colegas, Ethan Hunt deve recuperar um plutônio que caiu em mãos erradas. Para essa tarefa, ele precisa lidar com o agente August Walker, com quem cria certa tensão.(n)</desc>
+    <credits>
+      <director>Christopher McQuarrie</director>
+      <actor>Tom Cruise</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Henry Cavill</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211011021200 -0300" stop="20211011035100 -0300" channel="FX">
+    <title lang="pt">Crimes na Madrugada</title>
+    <desc lang="pt">Vince é um policial corrupto de Las Vegas que rouba um carregamento de cocaína de um poderoso traficante de drogas. Para não levantar suspeitas, ele se oferece para investigar o caso.(n)</desc>
+    <credits>
+      <director>Baran bo Odar</director>
+      <actor>Jamie Foxx</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Dermot Mulroney</actor>
+      <actor>Scoot McNairy</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211011035100 -0300" stop="20211011054200 -0300" channel="FX">
+    <title lang="pt">Sobrenatural: Capítulo 2</title>
+    <desc lang="pt">Os Lambert buscam tranquilidade depois das terríveis situações que viveram. Nova casa, nova vida...Mas tudo será em vão, eles estão em perigo outra vez. A única opção será resolver o enigma do passado que os unem aos espíritos.(n)</desc>
+    <credits>
+      <director>James Wan</director>
+      <actor>Patrick Wilson</actor>
+      <actor>Rose Byrne</actor>
+      <actor>Ty Simpkins</actor>
+      <actor>Lin Shaye</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20211011054200 -0300" stop="20211011063100 -0300" channel="FX">
+    <title lang="pt">The Amazing Race</title>
+    <desc lang="pt">Neste episódio, os competidores devem viajar para Les Baux, onde constroem catapultas e correm com touros para ver quem segue para o próximo desafio.(n)</desc>
+    <credits>
+      <director>Bertram van Munster</director>
+      <actor>Brooke Camhi</actor>
+      <actor>Jennifer Lee</actor>
+      <actor>Phil Keoghan</actor>
+      <actor>Redmond Ramos</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211011063100 -0300" stop="20211011070000 -0300" channel="FX">
+    <title lang="pt">Hermes e Renato</title>
+    <desc lang="pt">Nesse episódio você vai conhecer a próxima novela que vai fisgar seu coração, "Muito beijo"! E ainda se emocionar com a incrível história da empregada viciada em produtos de limpeza.(n)</desc>
+    <credits>
+      <director>Henrique Moreira Pinto</director>
+      <actor>Adriano Silva</actor>
+      <actor>Fausto Fanti</actor>
+      <actor>Felpe Torres</actor>
+      <actor>Franco Fanti</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+    <episode-num system="onscreen">S1 E9</episode-num>
+  </programme>
+  <programme start="20211011070000 -0300" stop="20211011101300 -0300" channel="FX">
+    <title lang="pt">Infomercial</title>
+    <desc lang="pt">Diversos. Espaço publicitário para divulgação de produtos e serviços.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211011101300 -0300" stop="20211011121600 -0300" channel="FX">
+    <title lang="pt">Obsessiva</title>
+    <desc lang="pt">Um bem-sucedido operador de mercado financeiro tem uma vida maravilhosa, até o dia em que tudo desmorona, quando ele começa a ser perseguido por uma estagiária do seu escritório.(n)</desc>
+    <credits>
+      <director>Steve Shill</director>
+      <actor>Beyoncé Knowles</actor>
+      <actor>Ali Larter</actor>
+      <actor>Idris Elba</actor>
+      <actor>Christine Lahti</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20211011121600 -0300" stop="20211011144300 -0300" channel="FX">
+    <title lang="pt">Os Bad Boys</title>
+    <desc lang="pt">Mike, solteirão convicto e Marcus Burnett, um responsável pai de família, formam a dupla de intrépidos tiras responsável pela apreensão de carga de heroína.(n)</desc>
+    <credits>
+      <director>Michael Bay</director>
+      <actor>Martin Lawrence</actor>
+      <actor>Will Smith</actor>
+      <actor>Tea Leoni</actor>
+      <actor>Tcheky Karyo</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211011144300 -0300" stop="20211011174000 -0300" channel="FX">
+    <title lang="pt">Missão: Impossível - Efeito Fallout</title>
+    <desc lang="pt">Após falhar em uma missão por ter salvo seus colegas, Ethan Hunt deve recuperar um plutônio que caiu em mãos erradas. Para essa tarefa, ele precisa lidar com o agente August Walker, com quem cria certa tensão.(n)</desc>
+    <credits>
+      <director>Christopher McQuarrie</director>
+      <actor>Tom Cruise</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Angela Bassett</actor>
+      <actor>Henry Cavill</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211011174000 -0300" stop="20211011195000 -0300" channel="FX">
+    <title lang="pt">Bumblebee</title>
+    <desc lang="pt">Em 1987, B-127 está na Terra para cumprir uma missão a mando de Optimus Prime. Quando é encontrado pela jovem Charlie Watson, o transformer emite sinais que acabam atraindo os perversos Decepticons para o planeta.(n)</desc>
+    <credits>
+      <director>Travis Knight</director>
+      <actor>Hailee Steinfeld</actor>
+      <actor>John Cena</actor>
+      <actor>Jorge Lendeborg Jr.</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211011195000 -0300" stop="20211011220000 -0300" channel="FX">
+    <title lang="pt">As Bem-Armadas</title>
+    <desc lang="pt">Ashburn é uma agente do FBI competente, porém arrogante e antipática. Querendo uma promoção no trabalho, ela pede ao chefe a investigação de um poderoso traficante de drogas em Boston.(n)</desc>
+    <credits>
+      <director>Paul Feig</director>
+      <actor>Sandra Bullock</actor>
+      <actor>Marlon Wayans</actor>
+      <actor>Melissa McCarthy</actor>
+      <actor>Michael Rapaport</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211011220000 -0300" stop="20211012004300 -0300" channel="FX">
+    <title lang="pt">O Hobbit: A Desolação de Smaug</title>
+    <desc lang="pt">Bilbo Bolseiro, Gandalf e a Companhia de Thorin seguem em direção à Montanha Solitária, lar do temido dragão Smaug. Ao mesmo tempo, Gandalf se preocupa com uma força sombria que surge na Terra Média.(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Martin Freeman</actor>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Evangeline Lilly</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
   </programme>
 </tv>
