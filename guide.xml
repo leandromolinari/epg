@@ -597,14 +597,17 @@
   </channel>
   <channel id="Discovery Civilization">
     <display-name lang="pt">Discovery Civilization</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dci.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Home">
     <display-name lang="pt">Discovery Home Health</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hea.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Science">
     <display-name lang="pt">Discovery Science</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dsc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Turbo">
@@ -66344,5 +66347,1583 @@
     <desc lang="pt">A equipe recém-formada sai para caçar alces. Andrew recua quando Oliver se recusa a seguir o plano e se torna um obstáculo na linha de fogo. O veterano do exército Adam chega ao acampamento base e inicia projetos essenciais.(n)</desc>
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010033600 -0300" stop="20211010042400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Mistérios Revelados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010042400 -0300" stop="20211010051200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Arquivos Secretos (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010051200 -0300" stop="20211010060000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Reescrevendo a História (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010060000 -0300" stop="20211010064800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Tudo Por Ouro (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010064800 -0300" stop="20211010073600 -0300" channel="Discovery Civilization">
+    <title lang="pt">As Expedições de Josh Bernstein (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010073600 -0300" stop="20211010082400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Desafio no Alasca (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010082400 -0300" stop="20211010091200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Homens de Madeira (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010091200 -0300" stop="20211010100000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Homens de Madeira (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010100000 -0300" stop="20211010104800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Reviravoltas (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010104800 -0300" stop="20211010113600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Invenções da Antiguidade (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010113600 -0300" stop="20211010122400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Arquivos Secretos (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010122400 -0300" stop="20211010131200 -0300" channel="Discovery Civilization">
+    <title lang="pt">A Colônia (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010131200 -0300" stop="20211010140000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Desafio no Alasca (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010140000 -0300" stop="20211010142400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Aventuras em Porter Ridge (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010142400 -0300" stop="20211010144800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Aventuras em Porter Ridge (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010144800 -0300" stop="20211010153600 -0300" channel="Discovery Civilization">
+    <title lang="pt">American Lawmen: Os Homens da Lei (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010153600 -0300" stop="20211010162400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Legados do Egito (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010162400 -0300" stop="20211010171200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Mistérios Revelados (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010171200 -0300" stop="20211010173600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Grandes Palácios (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010173600 -0300" stop="20211010180000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Grandes Palácios (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010180000 -0300" stop="20211010184800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Os Anti-heróis do Velho Oeste (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010184800 -0300" stop="20211010193600 -0300" channel="Discovery Civilization">
+    <title lang="pt">American Lawmen: Os Homens da Lei (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010193600 -0300" stop="20211010202400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Tela Humana (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010202400 -0300" stop="20211010211200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Profissão Perigo</title>
+    <desc lang="pt">Neste episódio, Curt Doussett enfrenta avalanches. Ele tenta controlá-las, ironicamente, explodindo neve. Seu contato com a neve continua quando ele trabalha como motorista de caminhão e transporta uma carga pelas Montanhas Rochosas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010211200 -0300" stop="20211010220000 -0300" channel="Discovery Civilization">
+    <title lang="pt">O Mestre das Espadas</title>
+    <desc lang="pt">A empresa de Mike pode fechar por problemas financeiros. A equipe fabrica uma espada com a forma do cão mitológico de três cabeças, Cérbero. Mike ajuda sua filha a fazer um projeto escolar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010220000 -0300" stop="20211010224800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Homens de Madeira</title>
+    <desc lang="pt">A temporada de derrubada no alto das montanhas anuncia o frio do inverno. A baixa temperatura castiga tanto os equipamentos, quanto o lado emocional de todos. O trabalho e o desânimo acabam gerando problemas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010224800 -0300" stop="20211010233600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Grandes Missões da NASA</title>
+    <desc lang="pt">A primeira missão tripulada do foguete Saturno V leva 3 astronautas até a alguns quilômetros da Lua. Apoiando a Apollo 8, estão os três astronautas escolhidos para tentar pousar na Lua pela primeira vez.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010233600 -0300" stop="20211011002400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Grandes Missões da NASA</title>
+    <desc lang="pt">A NASA enfrenta uma crise na missão Apollo 13. Um novo rover viabiliza a expansão da exploração lunar. O lançamento da estação Skylab permite que os astronautas vivam no espaço.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011002400 -0300" stop="20211011011200 -0300" channel="Discovery Civilization">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls enfrenta a floresta tropical da Costa Rica, subindo em árvores altíssimas e descendo em quedas d'água muito perigosas.(n)</desc>
+    <credits>
+      <director>Mark Warner</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011011200 -0300" stop="20211011020000 -0300" channel="Discovery Civilization">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">Os colonizadores armam um contra-ataque para deter a milícia responsável pelos últimos assaltos à Colônia. Em seguida, eles se concentram em terminar o barco de fuga. Mas antes de partir, deparam-se com uma última escolha difícil.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011020000 -0300" stop="20211011024800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Segredos dos Amish</title>
+    <desc lang="pt">As alianças entre as famílias são colocadas à prova quando Esther precisa escolher entre John e Levi. Alan tem uma audiência com o bispo para tentar afastar Levi, que sofre uma retaliação da igreja.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011024800 -0300" stop="20211011033600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Tesouros Perdidos</title>
+    <desc lang="pt">A Odyssey encontra dezenas de canhões de latão e pistas intrigantes em um local de naufrágio. Será que eles conseguirão recuperar uma destas pesadas armas para conseguir as provas de que precisam? Será este o  alvo valioso que estão procurando?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011033600 -0300" stop="20211011042400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Mistérios Revelados</title>
+    <desc lang="pt">Scotty visita uma pequena cidade às margens do Nilo, onde já existiu uma antiga fortaleza. Arqueólogos descobriram diversas múmias que parecem ter sido enterradas ao mesmo tempo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011042400 -0300" stop="20211011051200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Arquivos Secretos</title>
+    <desc lang="pt">Eles formam a divisão especial da CIA e são encarregados das missões mais importantes. Ex-oficiais falam sobre as operações mais obscuras da agência.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011051200 -0300" stop="20211011060000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Reescrevendo a História</title>
+    <desc lang="pt">Descubra a verdade sobre as acusações de que a Força Aérea Americana apreendeu um disco voador no deserto do Novo México, em 1947.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011060000 -0300" stop="20211011064800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Tudo Por Ouro</title>
+    <desc lang="pt">Os mineradores fazem um último mergulho antes que o gelo comece a derreter. A temporada mais lucrativa cobra um preço alto de Zeke. Emily toma atitudes drásticas para ganhar o respeito da equipe.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011064800 -0300" stop="20211011073600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Nascidos Para O Crime</title>
+    <desc lang="pt">Bonnie Parker e Clyde Barrow estão entre os bandidos mais famosos do mundo. Assassinos e assaltantes habilidosos, eles roubaram bancos, postos de combustível e lojas e mataram pelo menos nove pessoas.(n)</desc>
+    <credits>
+      <actor>Emile Hirsch</actor>
+      <actor>Holliday Grainger</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011073600 -0300" stop="20211011082400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Legados do Egito</title>
+    <desc lang="pt">A devoção pelas relíquias de santos já falecidos representa um comportamento universal na cultura humana, sejam objetos ou partes de seus corpos. A egiptóloga, Dra. Kara Cooney, visita locais de peregrinação antigos e modernos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011082400 -0300" stop="20211011091200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Destiladores - Riscos e Desafios</title>
+    <desc lang="pt">Acostumados a arriscar sua liberdade por uma das tradições mais antigas dos Estados Unidos, Tim, Tickle, Mark e Digger relembram seus momentos mais difíceis.(n)</desc>
+    <credits>
+      <director>Noah Danoff</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011091200 -0300" stop="20211011100000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Destiladores - Riscos e Desafios</title>
+    <desc lang="pt">Tim, Tickle, Mark e Digger relembram suas maiores falhas, de erros de novatos a desastres que acabaram com uma produção. Todo destilador tem um momento memorável que gostaria de esquecer.(n)</desc>
+    <credits>
+      <director>Noah Danoff</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011100000 -0300" stop="20211011102400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Ideias que Mudaram o Mundo</title>
+    <desc lang="pt">Quando Samuel Morse descobre que sua esposa está agonizando, ele viaja para encontrá-la. Se tivesse chegado a tempo, a comunicação instantânea jamais existiria.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011102400 -0300" stop="20211011104800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Ideias que Mudaram o Mundo</title>
+    <desc lang="pt">Se o comerciante Jacob Davis não sobrevivesse à corrida do ouro na Califórnia, jamais conheceria Levi Strauss - e o rebite de cobre das calças jeans não seria inventado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011104800 -0300" stop="20211011113600 -0300" channel="Discovery Civilization">
+    <title lang="pt">O Preço da Escalada</title>
+    <desc lang="pt">A equipe 1 se esforça para chegar ao acampamento 4, a mais de 8.300 metros, dentro da zona da morte, onde a falta de oxigênio pode ser fatal. Ao chegarem, eles se deparam com um cadáver na neve.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211011113600 -0300" stop="20211011122400 -0300" channel="Discovery Civilization">
+    <title lang="pt">As Expedições de Josh Bernstein</title>
+    <desc lang="pt">Num ato de respeito, o povo Kukukuku da Papua-Nova Guiné mumifica os mortos e se recusa a enterrá-los. Mas este ritual logo desaparecerá. Josh Bernstein encontra uma das tribos mais primitivas da Terra.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011122400 -0300" stop="20211011131200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Desafio no Alasca</title>
+    <desc lang="pt">Os voluntários deixam suas cabanas e caminham para pegar um avião de volta à civilização. No caminho, alguns enfrentam temperaturas abaixo de zero e desidratação.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011131200 -0300" stop="20211011140000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Homens de Madeira</title>
+    <desc lang="pt">O frio do inverno chega a Millinocket e interrompe os trabalhos. Um motorista novato não consegue se adaptar às estradas e acaba prejudicando os Pelletiers. Todos terão de enfrentar a primeira nevasca do ano.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011140000 -0300" stop="20211011144800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Homens de Madeira</title>
+    <desc lang="pt">O inverno é um problema para os Pelletiers. As equipes se esforçam, mas três motoristas sofrem acidentes e um cano estourado deixa o acampamento Telos fedendo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011144800 -0300" stop="20211011153600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Reviravoltas</title>
+    <desc lang="pt">Este programa enaltece a experiência humana com histórias que mostram os acontecimentos inesperados que mudaram o destino de seus protagonistas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011153600 -0300" stop="20211011162400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Invenções da Antiguidade</title>
+    <desc lang="pt">Surpreendentemente sofisticados, nossos ancestrais inventaram coisas como a descarga sanitária e o "fast food".(n)</desc>
+    <credits>
+      <director>Daniel Percival</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011162400 -0300" stop="20211011171200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Arquivos Secretos</title>
+    <desc lang="pt">Eles formam a divisão especial da CIA e são encarregados das missões mais importantes. Ex-oficiais falam sobre as operações mais obscuras da agência.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011171200 -0300" stop="20211011180000 -0300" channel="Discovery Civilization">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">Uma milícia de invasores ataca os colonizadores. Em seguida, o grupo se divide, e alguns usam o barco para fazer uma missão de reconhecimento em busca de suprimentos e um lugar para escapar. Mas nem todos retornam da missão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011180000 -0300" stop="20211011184800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Desafio no Alasca</title>
+    <desc lang="pt">Quatro grupos de pessoas comuns tenta sobreviver num meio selvagem no Alasca. Não faltam desafios no Alasca, onde tudo é maior, mais difícil e mais frio do que se imagina.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011184800 -0300" stop="20211011191200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Quota</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211011191200 -0300" stop="20211011193600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Quota</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211011193600 -0300" stop="20211011202400 -0300" channel="Discovery Civilization">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">Para proteger a casa de uma nova ameaça, os colonizadores tentam fazer um gerador de eletricidade usando carcaças de porco e um velho trator. Com a comida escassa, Jim e Deville racionam a carne de caça.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011202400 -0300" stop="20211011211200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Esquadrão Antibomba</title>
+    <desc lang="pt">A Segunda Divisão de Infantaria tenta se recuperar da explosão de uma bomba em sua última missão, enquanto a Terceira Divisão limpa uma pista de pouso para o desembarque de 60 soldados britânicos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011211200 -0300" stop="20211011220000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Segredos dos Amish</title>
+    <desc lang="pt">As alianças entre as famílias são colocadas à prova quando Esther precisa escolher entre John e Levi. Alan tem uma audiência com o bispo para tentar afastar Levi, que sofre uma retaliação da igreja.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011220000 -0300" stop="20211011224800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Os Anti-heróis do Velho Oeste</title>
+    <desc lang="pt">Bass Reeves não era um xerife comum. Escravo liberto pela Guerra Civil, ele caçava criminosos em regiões perigosas e existem evidências de que ele teria inspirado a lenda do Cavaleiro Solitário.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011224800 -0300" stop="20211011233600 -0300" channel="Discovery Civilization">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls mostra como se sobrevive nos Alpes, a cadeia de montanhas mais alta da Europa.(n)</desc>
+    <credits>
+      <director>Mark Warner</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011233600 -0300" stop="20211012002400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Tesouros Perdidos</title>
+    <desc lang="pt">No meio da temporada, a tripulação do Odyssey Marine procura o Malta, um navio inglês que naufragou com uma carga de US$ 32,5 milhões em ouro e prata. Mas a busca fica comprometida quando dois robôs submarinos são danificados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012002400 -0300" stop="20211012011200 -0300" channel="Discovery Civilization">
+    <title lang="pt">À Prova de Tudo</title>
+    <desc lang="pt">Bear Grylls enfrenta o calor impiedoso do deserto do Moab, em Utah, nos EUA.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012011200 -0300" stop="20211012020000 -0300" channel="Discovery Civilization">
+    <title lang="pt">A Colônia</title>
+    <desc lang="pt">Sete desconhecidos com profissões diferentes participam de um experimento para descobrir se são capazes de sobreviver após um vírus ter devastado a humanidade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012020000 -0300" stop="20211012024800 -0300" channel="Discovery Civilization">
+    <title lang="pt">Segredos dos Amish</title>
+    <desc lang="pt">Levi tenta fazer as pazes com o bispo. Alan vai ao tribunal para descobrir se ficará preso. Wayne recebe a aprovação que esperava da igreja. Merlin faz uma aliança.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012024800 -0300" stop="20211012033600 -0300" channel="Discovery Civilization">
+    <title lang="pt">Tesouros Perdidos</title>
+    <desc lang="pt">A Odyssey encontra um dos submarinos mais famosos da história, o U103. E um veterano da Segunda Guerra Mundial é levado ao local do naufrágio do navio Cyrus H. McCormack, onde relata sua participação no resgate dos tripulantes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012033600 -0300" stop="20211012042400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Mistérios Revelados</title>
+    <desc lang="pt">Scotty Moore visita a ilha de Palau, onde arqueólogos descobriram pistas de um assassinato: uma caveira de 3000 anos separada de um corpo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012042400 -0300" stop="20211012051200 -0300" channel="Discovery Civilization">
+    <title lang="pt">Arquivos Secretos</title>
+    <desc lang="pt">Agentes Especiais do Ministério do Exterior dos EUA falam sobre segurança diplomática. Conheça cada detalhe dessa força paralela e descubra segredos nunca antes revelados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012051200 -0300" stop="20211012180000 -0300" channel="Discovery Civilization">
+    <title lang="pt">Reescrevendo a História</title>
+    <desc lang="pt">Descubra a verdade sobre as acusações de que a Força Aérea Americana apreendeu um disco voador no deserto do Novo México, em 1947.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012180000 -0300" stop="20211013062400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Crimes.Com</title>
+    <desc lang="pt">O  caso  que  abre  o  episódio  mostra  a  atuação  para  polícia  para descobrir quem está por trás de um golpe que enganou diversas mulheres e roubou centenas de milhares de reais, o chamado "Don Juan Digital".(n)</desc>
+    <credits>
+      <director>Fabio José De Melo</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010044200 -0300" stop="20211010050800 -0300" channel="Discovery Home">
+    <title lang="pt">Casa na Praia</title>
+    <desc lang="pt">Um casal que adora a ensolarada San Diego quer comprar sua primeira casa após anos alugando um apartamento pequeno. Eles sonham com uma casa grande à beira-mar, mas pode ser difícil com seu orçamento restrito.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211010050800 -0300" stop="20211010053400 -0300" channel="Discovery Home">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">Grace e sua equipe reformam uma casa vitoriana sem personalidade e com uma disposição problemática dos cômodos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010053400 -0300" stop="20211010060000 -0300" channel="Discovery Home">
+    <title lang="pt">O Novo Retrô Com Dan e Maureen</title>
+    <desc lang="pt">Um homem e sua filha reformam sua casa de 1955 há vários meses, sem sucesso. Maureen e Dan os ajudam criando um projeto de conceito aberto para deixar a casa mais convidativa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010060000 -0300" stop="20211010073200 -0300" channel="Discovery Home">
+    <title lang="pt">Bake Off Brasil - A Cereja do Bolo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211010073200 -0300" stop="20211010080000 -0300" channel="Discovery Home">
+    <title lang="pt">Deu Bolo! Com Buddy Valastro</title>
+    <desc lang="pt">Duas equipes formadas por mães e filhas enfrentam o desafio de preparar bolos de castelos de areia. Buddy, sua irmã Madeline e a chef confeiteira Erin criticam cada detalhe.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211010080000 -0300" stop="20211010094800 -0300" channel="Discovery Home">
+    <title lang="pt">Masterchef Brasil</title>
+    <desc lang="pt">No episódio de estreia,os competidores vão enfrentar uma prova clássica do MasterChefBrasil,a temida Caixa Misteriosa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211010094800 -0300" stop="20211010101500 -0300" channel="Discovery Home">
+    <title lang="pt">Em Busca Do Bolo Perfeito</title>
+    <desc lang="pt">Os irmãos Sumit e Swithin decidem ficar noivos e sua mãe encomenda um bolo tradicional indiano para uma festa de noivado dupla.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211010101500 -0300" stop="20211010104200 -0300" channel="Discovery Home">
+    <title lang="pt">Em Busca Do Bolo Perfeito</title>
+    <desc lang="pt">Katie e Jason esperam gêmeos e encomendam um bolo especial para a festa de revelação do sexo das crianças.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211010104200 -0300" stop="20211010113500 -0300" channel="Discovery Home">
+    <title lang="pt">Confeiteiro Número 1 - A Competição</title>
+    <desc lang="pt">Os oito confeiteiros restantes precisam fazer minibolos mousse com tema de casamento. Em seguida, eles devem criar torres no estilo croquembouche, incluindo dois tipos de doces de confeitaria.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211010113500 -0300" stop="20211010122900 -0300" channel="Discovery Home">
+    <title lang="pt">Corre, Compra e Cozinha</title>
+    <desc lang="pt">Os quatro chefs devem negociar as compras dos clientes do supermercado Smith's e preparar uma bandeja de nachos. Em seguida, fazem uma viagem no tempo preparando receitas antigas com um toque moderno.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211010122900 -0300" stop="20211010132300 -0300" channel="Discovery Home">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <desc lang="pt">Uma família que sobreviveu a um incêndio devastador decide se mudar para seu chalé rústico no lago. Como o espaço é pequeno demais, eles pedem a Dave e Jenny uma reforma completa no imóvel.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211010132300 -0300" stop="20211010141700 -0300" channel="Discovery Home">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Um casal do Alabama está ansioso para se estabelecer e iniciar uma nova fase na vida. Ben e Erin ajudam a escolher uma casa e fazem uma reforma com direito a uma linda suíte, cozinha personalizada e varanda.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010141700 -0300" stop="20211010151100 -0300" channel="Discovery Home">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+    <credits>
+      <actor>Karen Laine</actor>
+      <actor>Mina Starsiak</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010151100 -0300" stop="20211010153800 -0300" channel="Discovery Home">
+    <title lang="pt">Reforma Personalizada Com Jasmine Roth</title>
+    <desc lang="pt">Uma família vive na mesma casa há anos e está ansiosa por uma reforma. Jasmine personaliza o exterior com uma pintura nova e um pátio, e cria uma mesa debaixo da escada, que inclui um palácio para o cachorro da família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010153800 -0300" stop="20211010160500 -0300" channel="Discovery Home">
+    <title lang="pt">Reforma Personalizada Com Jasmine Roth</title>
+    <desc lang="pt">Um casal se mudou para sua casa com o plano de reformá-la. Dez anos depois, nada mudou. Jasmine moderniza o exterior com uma pintura nova e uma área de estar ao ar livre. No interior, ela cria um cantinho do café dos sonhos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010160500 -0300" stop="20211010165800 -0300" channel="Discovery Home">
+    <title lang="pt">Drª Cathy: Devolvendo a Autoestima</title>
+    <desc lang="pt">A Dra. Cathy atende Palesa, uma animada garotinha de três anos que nasceu com espinha bífida. Ela também cria um grupo de apoio para jovens que sofrem de alopecia, uma doença que pode causar perda capilar total.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010165800 -0300" stop="20211010175100 -0300" channel="Discovery Home">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <desc lang="pt">Dennis tem vários nódulos enormes na parte de trás da cabeça. Juan sofre de uma doença rara e a Dra. Lee é sua última esperança. Natalie tenta descobrir por que seu corpo é coberto de centenas de cistos misteriosos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Medicina</category>
+  </programme>
+  <programme start="20211010175100 -0300" stop="20211010193800 -0300" channel="Discovery Home">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">A compulsão alimentar está destruindo a vida de Dominic. Com mais de 270 quilos e morando com o irmão em uma van, ela decide deixar a Califórnia para se consultar com o Dr. Now no Texas.(n)</desc>
+    <credits>
+      <actor>Justin McSwain</actor>
+      <actor>Younan Nowzaradan</actor>
+      <actor>Gina Krasley</actor>
+      <actor>Erik Luna</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211010193800 -0300" stop="20211010212600 -0300" channel="Discovery Home">
+    <title lang="pt">90 Dias para Casar: Antes dos 90 Dias</title>
+    <desc lang="pt">Rachel volta para a Inglaterra com sua filha Lucy para se casar. Jon planejou uma festa pré-casamento com amigos e familiares, mas quando ele admite que convidou uma ex-namorada para a reunião, Rachel fica chateada.(n)</desc>
+    <credits>
+      <director>Martin Goeller</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010212600 -0300" stop="20211010231400 -0300" channel="Discovery Home">
+    <title lang="pt">90 Dias Para Casar</title>
+    <desc lang="pt">Brandon enfrenta os pais. Jovi não acredita que Yara está grávida. Mike se recusa a planejar o casamento. Tarik e Hazel buscam um terceiro parceiro. Zied sabe sobre o ex de Rebecca.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211010231400 -0300" stop="20211011011100 -0300" channel="Discovery Home">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Versão brasileira de MasterChef, apresentada por Ana Paula Padrão. A cada episódio, os cozinheiros amadores enfrentam dois desafios, tentando impressionar os chefs. No fim, um participante se despede do programa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211011011100 -0300" stop="20211011015900 -0300" channel="Discovery Home">
+    <title lang="pt">Buddy Vs Duff: O Duelo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211011015900 -0300" stop="20211011032500 -0300" channel="Discovery Home">
+    <title lang="pt">Bake Off Brasil - A Cereja do Bolo</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211011032500 -0300" stop="20211011041200 -0300" channel="Discovery Home">
+    <title lang="pt">SOS Restaurante</title>
+    <desc lang="pt">A próxima missão do chef Robert Irvine será no Lake Arrowhead Sports Grille em Blue Jay, na Califórnia. Konnor, filho dos proprietários Keith e Karen, implora por ajuda.(n)</desc>
+    <credits>
+      <actor>Robert Irvine</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211011041200 -0300" stop="20211011060000 -0300" channel="Discovery Home">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Versão brasileira de MasterChef, apresentada por Ana Paula Padrão. A cada episódio, os cozinheiros amadores enfrentam dois desafios, tentando impressionar os chefs. No fim, um participante se despede do programa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211011060000 -0300" stop="20211011062400 -0300" channel="Discovery Home">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011062400 -0300" stop="20211011064800 -0300" channel="Discovery Home">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011064800 -0300" stop="20211011073600 -0300" channel="Discovery Home">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+    <credits>
+      <actor>Karen Laine</actor>
+      <actor>Mina Starsiak</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011073600 -0300" stop="20211011082400 -0300" channel="Discovery Home">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <desc lang="pt">Uma família que sobreviveu a um incêndio devastador decide se mudar para seu chalé rústico no lago. Como o espaço é pequeno demais, eles pedem a Dave e Jenny uma reforma completa no imóvel.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211011082400 -0300" stop="20211011091200 -0300" channel="Discovery Home">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Um casal do Alabama está ansioso para se estabelecer e iniciar uma nova fase na vida. Ben e Erin ajudam a escolher uma casa e fazem uma reforma com direito a uma linda suíte, cozinha personalizada e varanda.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011091200 -0300" stop="20211011093700 -0300" channel="Discovery Home">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">Grace e sua equipe reformam uma casa vitoriana sem personalidade e com uma disposição problemática dos cômodos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011093700 -0300" stop="20211011100200 -0300" channel="Discovery Home">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">Grace Mitchell usa a história de amor de um casal para transformar uma casa datada estilo da década de 1960.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011100200 -0300" stop="20211011105400 -0300" channel="Discovery Home">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Um casal espera o segundo filho e precisa de mais espaço, mas não quer sair do bairro bem localizado. David procura uma casa adequada à família em crescimento, enquanto Hilary tenta ampliar os cômodos no imóvel atual.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211011105400 -0300" stop="20211011114700 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <desc lang="pt">Pai solteiro, Joe mora no subúrbio com as duas filhas. Cansados do longo tempo de deslocamento até a escola e o trabalho, eles querem encontrar um  apartamento no centro com todas as comodidades.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011114700 -0300" stop="20211011124100 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Veronica e Andrew estão cansados de seu apartamento apertado. A licença maternidade de Veronica está acabando, e o casal tem pouco tempo para encontrar a casa perfeita para sua jovem família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011124100 -0300" stop="20211011133500 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos À Obra: O Duelo</title>
+    <desc lang="pt">Na cozinha, Jonathan decide usar elementos grandes, enquanto Drew prefere investir em detalhes estilosos. Os jurados convidados, Maureen McCormick e Dan Vickery, precisam escolher entre dois espaços totalmente diferentes.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011133500 -0300" stop="20211011142900 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos À Obra: O Duelo</title>
+    <desc lang="pt">Em Los Angeles, Drew e Jonathan têm três semanas para concluir a reforma da sala antes de Orlando Soria declarar o vencedor. Os momentos mais constrangedores do derrotado serão exibidos no programa Entertainment Tonight.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011142900 -0300" stop="20211011152300 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Um casal jovem adora a ideia de criar os filhos em sua casa definitiva, mas precisa de soluções para tornar o imóvel mais funcional. Drew e Jonathan reformam os cômodos para acomodar melhor as crianças.(n)</desc>
+    <credits>
+      <actor>Drew Scott</actor>
+      <actor>Jonathan Silver Scott</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011152300 -0300" stop="20211011161700 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos À Obra: Lar Sempre Lar</title>
+    <desc lang="pt">Um casal comprou a casa onde a esposa morou na infância, e o layout e a decoração antiquados não estão dando certo para a família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011161700 -0300" stop="20211011171000 -0300" channel="Discovery Home">
+    <title lang="pt">Reforma Total Com Nate E Jeremiah</title>
+    <desc lang="pt">Sherry está triste com a profunda deterioração da casa de sua infância. Cabe a Nate e Jeremiah reviver os dias de glória do imóvel e recuperar as lembranças felizes da família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211011171000 -0300" stop="20211011180300 -0300" channel="Discovery Home">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">A casa de Neena e Jag não consegue acomodar todos os parentes nos jantares. Jillian tenta convencer Neena a ficar alterando a decoração, enquanto Todd mostra a Jag uma casa perfeita para recepções.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211011180300 -0300" stop="20211011185600 -0300" channel="Discovery Home">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Uma casa caótica com uma bela piscina leva Jillian a reformar a parte interna para convencer Eleanor a ficar. Já Todd tenta encontrar tudo o que a família precisa numa casa nova.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211011185600 -0300" stop="20211011195000 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Monique e Carl procuram uma casa há cinco longos anos, mas como ele está decidido a encontrar uma mansão pronta para morar, a busca pode se arrastar indefinidamente - e eles não têm tanto tempo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011195000 -0300" stop="20211011204400 -0300" channel="Discovery Home">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <desc lang="pt">Um casal de noivos compra sua primeira casa, mas percebe que o interior antiquado não atende a suas necessidades. Dave e Jenny expandem a planta, reformam a cozinha e transformam o quintal em uma área de lazer.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211011204400 -0300" stop="20211011213900 -0300" channel="Discovery Home">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Uma jovem herdou a casa de sua família, mas ela está vazia há anos. Ela procura Ben e Erin para saber se o imóvel pode ser salvo com um orçamento de 120 mil dólares ou se é melhor gastar o dinheiro com outra propriedade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011213900 -0300" stop="20211011223400 -0300" channel="Discovery Home">
+    <title lang="pt">Reforma Em Família Com Karen e Mina</title>
+    <credits>
+      <actor>Karen Laine</actor>
+      <actor>Mina Starsiak</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011223400 -0300" stop="20211011230400 -0300" channel="Discovery Home">
+    <title lang="pt">Você Renova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211011230400 -0300" stop="20211011233400 -0300" channel="Discovery Home">
+    <title lang="pt">Você Renova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211011233400 -0300" stop="20211012000200 -0300" channel="Discovery Home">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">Grace e sua equipe transformam um chalé abarrotado de coisas em um espaço perfeito para encontros familiares em Fort Worth, Texas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012000200 -0300" stop="20211012002900 -0300" channel="Discovery Home">
+    <title lang="pt">Espaços Únicos Com Grace Mitchell</title>
+    <desc lang="pt">A equipe ajuda um casal a realizar o sonho de ter um espaço em casa para cozinhar e receber convidados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012002900 -0300" stop="20211012005700 -0300" channel="Discovery Home">
+    <title lang="pt">Casas Exuberantes</title>
+    <desc lang="pt">Ashley e um colega tentaram a sorte com uma raspadinha, e ganharam. Agora, David Bromstad ajuda Ashley a comprar sua primeira casa em Cape Girardeau, Missouri, com o prêmio de US$ 1 milhão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012005700 -0300" stop="20211012012400 -0300" channel="Discovery Home">
+    <title lang="pt">Casas Exuberantes</title>
+    <desc lang="pt">Um casal que ia se aposentar com dificuldades ganhou US$ 1 milhão na loteria canadense! Agora, eles fazem as malas e se encontram com David Bromstad em Nova Scotia para visitar belíssimas casas de frente para o lago e para o mar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012012400 -0300" stop="20211012021200 -0300" channel="Discovery Home">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Um casal espera o segundo filho e precisa de mais espaço, mas não quer sair do bairro bem localizado. David procura uma casa adequada à família em crescimento, enquanto Hilary tenta ampliar os cômodos no imóvel atual.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211012021200 -0300" stop="20211012030000 -0300" channel="Discovery Home">
+    <title lang="pt">Restaurando Casas Com Dave e Jenny</title>
+    <desc lang="pt">Um casal de noivos compra sua primeira casa, mas percebe que o interior antiquado não atende a suas necessidades. Dave e Jenny expandem a planta, reformam a cozinha e transformam o quintal em uma área de lazer.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211012030000 -0300" stop="20211012032800 -0300" channel="Discovery Home">
+    <title lang="pt">Você Renova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211012032800 -0300" stop="20211012035600 -0300" channel="Discovery Home">
+    <title lang="pt">Você Renova</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211012035600 -0300" stop="20211012044400 -0300" channel="Discovery Home">
+    <title lang="pt">De Casa Nova</title>
+    <desc lang="pt">Uma jovem herdou a casa de sua família, mas ela está vazia há anos. Ela procura Ben e Erin para saber se o imóvel pode ser salvo com um orçamento de 120 mil dólares ou se é melhor gastar o dinheiro com outra propriedade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012044400 -0300" stop="20211012051100 -0300" channel="Discovery Home">
+    <title lang="pt">Casas Exuberantes</title>
+    <desc lang="pt">Ashley e um colega tentaram a sorte com uma raspadinha, e ganharam. Agora, David Bromstad ajuda Ashley a comprar sua primeira casa em Cape Girardeau, Missouri, com o prêmio de US$ 1 milhão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012051100 -0300" stop="20211012060000 -0300" channel="Discovery Home">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Um casal espera o segundo filho e precisa de mais espaço, mas não quer sair do bairro bem localizado. David procura uma casa adequada à família em crescimento, enquanto Hilary tenta ampliar os cômodos no imóvel atual.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211012060000 -0300" stop="20211012062400 -0300" channel="Discovery Home">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012062400 -0300" stop="20211012064800 -0300" channel="Discovery Home">
+    <title lang="pt">Em Busca Da Casa Perfeita</title>
+    <credits>
+      <actor>Andromeda Dunker</actor>
+      <actor>Suzanne Whang</actor>
+      <actor>Heather Atwood-Maher</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012064800 -0300" stop="20211012073700 -0300" channel="Discovery Home">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <desc lang="pt">Dennis tem vários nódulos enormes na parte de trás da cabeça. Juan sofre de uma doença rara e a Dra. Lee é sua última esperança. Natalie tenta descobrir por que seu corpo é coberto de centenas de cistos misteriosos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Medicina</category>
+  </programme>
+  <programme start="20211012073700 -0300" stop="20211012082600 -0300" channel="Discovery Home">
+    <title lang="pt">Meus Pés Estão Me Matando</title>
+    <desc lang="pt">Cindy está desesperada para que o doutor Brad conserte seu pé para conseguir voltar a esquiar. Gregory está com feridas abertas nos dois pés e espera que a doutora Ebonie consiga curá-las.(n)</desc>
+    <credits>
+      <director>David Garfinkle</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012082600 -0300" stop="20211012091600 -0300" channel="Discovery Home">
+    <title lang="pt">Dieta Do Amor</title>
+    <desc lang="pt">Meagan nunca se sentiu segura para abordar os homens que a interessavam, mas depois de conhecer Kevin, ela decide perder 22 quilos em três meses e ganhar coragem para convidá-lo para sair.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211012091600 -0300" stop="20211012100600 -0300" channel="Discovery Home">
+    <title lang="pt">Dra. Sandra Lee: Casos Explosivos</title>
+    <desc lang="pt">Fatos e detalhes explosivos são revelados. Louis tem a pele seca e escamosa e se sente um jacaré. Os filhos de Irais sofrem bullying por causa de uma protuberância em sua cabeça. Johnny tem um caroço teimoso nas costas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012100600 -0300" stop="20211012105800 -0300" channel="Discovery Home">
+    <title lang="pt">Ame-a ou Deixe-a</title>
+    <desc lang="pt">Depois de se casar e ter dois filhos, o apartamento de um homem não é mais adequado para sua família. Hilary quer fazer algumas mudanças estéticas, mas ele quer que David encontre uma casa maior.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211012105800 -0300" stop="20211012115100 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos à Obra - Compra e Venda</title>
+    <desc lang="pt">Pai solteiro, Joe mora no subúrbio com as duas filhas. Cansados do longo tempo de deslocamento até a escola e o trabalho, eles querem encontrar um  apartamento no centro com todas as comodidades.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012115100 -0300" stop="20211012124500 -0300" channel="Discovery Home">
+    <title lang="pt">Irmãos à Obra</title>
+    <desc lang="pt">Os Irmãos da Reforma estão determinados a ajudar compradores a encontrar e transformar casas caindo aos pedaços em casas de sonho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012124500 -0300" stop="20211012144200 -0300" channel="Discovery Home">
+    <title lang="pt">Masterchef</title>
+    <desc lang="pt">Versão brasileira de MasterChef, apresentada por Ana Paula Padrão. A cada episódio, os cozinheiros amadores enfrentam dois desafios, tentando impressionar os chefs. No fim, um participante se despede do programa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211012144200 -0300" stop="20211012161400 -0300" channel="Discovery Home">
+    <title lang="pt">Mestres da Sabotagem Brasil</title>
+    <desc lang="pt">Esse episódio de Mestres da Sabotagem traz pratos com a fruta mais popular do mundo e outros com ingredientes tão exóticos que pouca gente já experimentou.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211012161400 -0300" stop="20211012164100 -0300" channel="Discovery Home">
+    <title lang="pt">Reforma Personalizada Com Jasmine Roth</title>
+    <desc lang="pt">Jasmine reconfigura a casa de uma mãe solo e adiciona toques de ecletismo para refletir o estilo único da dona. O interior ganha sala de estar e cozinha abertas. Já o exterior ganha vida com um balanço e uma demão de tinta.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012164100 -0300" stop="20211012173400 -0300" channel="Discovery Home">
+    <title lang="pt">Ame-a ou Deixe-a: Vancouver</title>
+    <desc lang="pt">Jeff reforma a casa da família há anos, mas Gina quer parar de gastar. Jillian tenta convencê-la a concluir a reforma, enquanto Todd mostra a Jeff uma casa que atende às necessidades da família.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211012173400 -0300" stop="20211012192000 -0300" channel="Discovery Home">
+    <title lang="pt">Quilos Mortais</title>
+    <desc lang="pt">Michael pesa 286 quilos, o que trouxe complicações para toda a família. Se ele não aprender a controlar a compulsão alimentar, perder peso e enfrentar a origem do problema, ele poderá perder tudo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211012192000 -0300" stop="20211012201500 -0300" channel="Discovery Home">
+    <title lang="pt">Programação Discovery Home &amp; Health</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211012201500 -0300" stop="20211012211100 -0300" channel="Discovery Home">
+    <title lang="pt">Dra. Sandra Lee: A Rainha Dos Cravos</title>
+    <desc lang="pt">Brittany já foi chamada de "monstro" por causa de um problema genético que gera protuberâncias da cabeça aos pés. Tamyra tem a pele tão grossa que chega a raspar a sola dos pés com uma lâmina para ter algum alívio.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Medicina</category>
+  </programme>
+  <programme start="20211012211100 -0300" stop="20211012220600 -0300" channel="Discovery Home">
+    <title lang="pt">Meus Pés Estão Me Matando</title>
+    <desc lang="pt">Os doutores Ebonie, Brad e Sarah ficam bastante ocupados com três casos extremos e desafios cirúrgicos, incluindo dedos cruzados, massas desconhecidas e até um tendão de Aquiles rompido.(n)</desc>
+    <credits>
+      <director>David Garfinkle</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012220600 -0300" stop="20211012230100 -0300" channel="Discovery Home">
+    <title lang="pt">Drª Cathy: Devolvendo a Autoestima</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012230100 -0300" stop="20211012235900 -0300" channel="Discovery Home">
+    <title lang="pt">Confissões Médicas</title>
+    <desc lang="pt">Quando era apenas uma criança, Dr. Fábio Gaiotto viu uma reportagem sobre um transplante cardíaco. Desde então prometeu que era isso que iria fazer: "consertar corações". Mas hoje ele enfrentará o maior desafio de sua vida.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012235900 -0300" stop="20211013005400 -0300" channel="Discovery Home">
+    <title lang="pt">Dra. Sandra Lee: Casos Explosivos</title>
+    <desc lang="pt">O caroço no pescoço de Belinda provoca imobilidade. Nicole precisa remover um cisto de sua axila. O peito e as costas de Adela estão cobertos de queratose seborreica. Nick tentou remover um lipoma em casa.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010044800 -0300" stop="20211010053600 -0300" channel="Discovery Science">
+    <title lang="pt">Resgate no Everest</title>
+    <desc lang="pt">Jason e Siddartha tentam evitar mortes durante uma missão no Kumbhu, a geleira mais perigosa do planeta. Ryan enfrenta ventos violentos para resgatar um alpinista no campo base do Everest.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010053600 -0300" stop="20211010062400 -0300" channel="Discovery Science">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+    <desc lang="pt">Seguindo a trilha de Colombo, Darrell mergulha e passa do limite de seu equipamento, ficando em perigo extremo. Uma grande descoberta muda tudo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010062400 -0300" stop="20211010071200 -0300" channel="Discovery Science">
+    <title lang="pt">Mistérios da Humanidade Com Megan Fox</title>
+    <desc lang="pt">Megan Fox investiga os poderes sobrenaturais de um dos monumentos mais misteriosos do mundo.(n)</desc>
+    <credits>
+      <director>Jeffrey R. Daniels</director>
+      <actor>Megan Fox</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010071200 -0300" stop="20211010080000 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">Os quasares são os objetos mais brilhantes do universo, mas também os mais misteriosos. São fornalhas cósmicas alimentadas pelos maiores buracos negros do universo, lançando jatos de matéria e radiação pelo espaço.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010080000 -0300" stop="20211010084800 -0300" channel="Discovery Science">
+    <title lang="pt">Febre do Ouro</title>
+    <desc lang="pt">Os Beets descobrem um provável veio promissor. Rick precisa tomar uma decisão difícil: extrair ouro ou montar sua nova planta de lavagem. Parker testa o novo capataz com sua máquina mais importante.(n)</desc>
+    <credits>
+      <actor>Parker Schnabel</actor>
+      <actor>Brennan Ruautt</actor>
+      <actor>Ben Hudack</actor>
+      <actor>Rick Ness</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010084800 -0300" stop="20211010093600 -0300" channel="Discovery Science">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+    <desc lang="pt">Procurando o tesouro em duas frentes, a equipe encontra evidências de uma rota usada para transportar a fortuna. Um artefato jesuíta pode fornecer informações cruciais sobre o destino final do tesouro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010093600 -0300" stop="20211010102400 -0300" channel="Discovery Science">
+    <title lang="pt">Resgate no Everest</title>
+    <desc lang="pt">Jason e Siddartha tentam evitar mortes durante uma missão no Kumbhu, a geleira mais perigosa do planeta. Ryan enfrenta ventos violentos para resgatar um alpinista no campo base do Everest.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010102400 -0300" stop="20211010111200 -0300" channel="Discovery Science">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+    <desc lang="pt">Seguindo a trilha de Colombo, Darrell mergulha e passa do limite de seu equipamento, ficando em perigo extremo. Uma grande descoberta muda tudo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010111200 -0300" stop="20211010120000 -0300" channel="Discovery Science">
+    <title lang="pt">Mistérios da Humanidade Com Megan Fox</title>
+    <desc lang="pt">Megan Fox investiga os poderes sobrenaturais de um dos monumentos mais misteriosos do mundo.(n)</desc>
+    <credits>
+      <director>Jeffrey R. Daniels</director>
+      <actor>Megan Fox</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010120000 -0300" stop="20211010124800 -0300" channel="Discovery Science">
+    <title lang="pt">Mundo Gigante com Richard Hammond</title>
+    <desc lang="pt">Richard pilota máquinas enormes no túnel Brenner Base, nos Alpes. Quando for concluído, ele se tornará mais longa passagem ferroviária do mundo, a 2.000 metros da superfície.(n)</desc>
+    <credits>
+      <director>Mathew Wortman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010124800 -0300" stop="20211010133600 -0300" channel="Discovery Science">
+    <title lang="pt">Caçadores de Mitos: A Competição</title>
+    <desc lang="pt">A busca pelos novos Caçadores de Mitos continua. Os competidores testam um mito antigo: é possível fazer uma arma com sucata? Depois, eles descobrem como fazer uma bicicleta impossível de andar.(n)</desc>
+    <credits>
+      <director>Yvette Solis</director>
+      <actor>Kyle Hill</actor>
+      <actor>Robert Lee</actor>
+      <actor>Brian Louden</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010133600 -0300" stop="20211010140000 -0300" channel="Discovery Science">
+    <title lang="pt">Como Construir...Tudo!</title>
+    <desc lang="pt">Neste episódio, conheça  passos simples e fáceis para construir uma britadeira, um tanque militar e o maior toboágua do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+  </programme>
+  <programme start="20211010140000 -0300" stop="20211010142400 -0300" channel="Discovery Science">
+    <title lang="pt">Como Construir...Tudo!</title>
+    <desc lang="pt">Neste episódio, conheça  passos simples e fáceis para construir um triturador de carros,  um veículo terrestre de alta velocidade e um traje antiexplosivos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+  </programme>
+  <programme start="20211010142400 -0300" stop="20211010151200 -0300" channel="Discovery Science">
+    <title lang="pt">Absurdos da Engenharia</title>
+    <desc lang="pt">Conheça os absurdos da engenharia nesta série que irá investigar e encontrar soluções para os maiores erros de cálculo da engenharia moderna, dos pequenos casos aos projetos que custaram uma fortuna.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010151200 -0300" stop="20211010160000 -0300" channel="Discovery Science">
+    <title lang="pt">Projeto Greensburg: Arquitetos do Meio Ambiente</title>
+    <desc lang="pt">Estudantes de arquitetura da Universidade do Kansas se encarregaram da reconstrução sustentável do centro comunitário de Greensburg.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010160000 -0300" stop="20211010164800 -0300" channel="Discovery Science">
+    <title lang="pt">Febre do Ouro</title>
+    <desc lang="pt">Os Beets descobrem um provável veio promissor. Rick precisa tomar uma decisão difícil: extrair ouro ou montar sua nova planta de lavagem. Parker testa o novo capataz com sua máquina mais importante.(n)</desc>
+    <credits>
+      <actor>Parker Schnabel</actor>
+      <actor>Brennan Ruautt</actor>
+      <actor>Ben Hudack</actor>
+      <actor>Rick Ness</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010164800 -0300" stop="20211010173600 -0300" channel="Discovery Science">
+    <title lang="pt">Experiências Superloucas</title>
+    <desc lang="pt">Assista aos vídeos mais impressionantes da internet em uma contagem regressiva que só a ciência é capaz de explicar. Você verá um pôr do sol duplo, tatuagens que tocam sons e uma bicicleta motorizada que escala uma corda.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010173600 -0300" stop="20211010182400 -0300" channel="Discovery Science">
+    <title lang="pt">O Que a História Esqueceu</title>
+    <desc lang="pt">Você sabia que Rosa Parks não foi a primeira negra a se recusar a ceder seu assento a um branco? E que um dos melhores rifles de guerra foi inventado por um fabricante de bebidas clandestinas?(n)</desc>
+    <credits>
+      <actor>Joe Moniaci</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010182400 -0300" stop="20211010191200 -0300" channel="Discovery Science">
+    <title lang="pt">Mythbusters Jr - Os Minicaçadores de Mitos</title>
+    <desc lang="pt">Adam Savage e a equipe tentam descobrir se uma armadilha para baratas pode aprisionar um ser humano e se a teia de aranha é realmente mais forte do que o aço.(n)</desc>
+    <credits>
+      <director>Jacquelyn Marker</director>
+      <director>Yvette Solis</director>
+      <actor>Adam Savage</actor>
+      <actor>Valerie Castillo</actor>
+      <actor>Elijah Horland</actor>
+      <actor>Jesse Lawless</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010191200 -0300" stop="20211010200000 -0300" channel="Discovery Science">
+    <title lang="pt">Mythbusters Jr - Os Minicaçadores de Mitos</title>
+    <desc lang="pt">Adam Savage e a equipe testam um slinky e tentam usá-lo para rebocar um carro. Eles também investigam se um lápis comum pode desenhar uma linha de 56 quilômetros de comprimento.(n)</desc>
+    <credits>
+      <director>Yvette Solis</director>
+      <actor>Adam savage</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010200000 -0300" stop="20211010204800 -0300" channel="Discovery Science">
+    <title lang="pt">Nikola Tesla: Arquivos Secretos</title>
+    <desc lang="pt">Especialistas juntam forças para investigar a vida, a morte e o renomado trabalho do inventor Nikola Tesla, ele criou a primeira arma de destruição em massa, será que isso poderia ter desempenhado um papel em sua morte?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010204800 -0300" stop="20211010211200 -0300" channel="Discovery Science">
+    <title lang="pt">SciJinks</title>
+    <desc lang="pt">Johnny Galecki e sua equipe de gênios fabricam uma emergência química para descobrir o que acontece quando a mente foge ao controle.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010211200 -0300" stop="20211010213600 -0300" channel="Discovery Science">
+    <title lang="pt">SciJinks</title>
+    <desc lang="pt">Johnny Galecki e sua equipe de gênios brincalhões mostram o que acontece quando carros controlados pela mente saem desgovernados e como uma receita simples pode virar um pesadelo na cozinha.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010213600 -0300" stop="20211010222400 -0300" channel="Discovery Science">
+    <title lang="pt">O Caçador de Múmias</title>
+    <desc lang="pt">Uma múmia perdida pode reescrever a história do assassinato de Abraham Lincoln. Ramy Romany investiga uma suposta conspiração governamental que permitiu que John Wilkes fugisse depois de assassinar o presidente dos EUA.(n)</desc>
+    <credits>
+      <director>Ramy Romany</director>
+      <actor>Zahi Hawass</actor>
+      <actor>Ramy Romany</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010222400 -0300" stop="20211010231200 -0300" channel="Discovery Science">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010231200 -0300" stop="20211011000000 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">A NASA deve enviar humanos para Marte em apenas 15 anos, mas para atingir essa nova fronteira espacial, os cientistas precisam descobrir novas tecnologias que protejam os astronautas dos rigores do Planeta Vermelho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011000000 -0300" stop="20211011004800 -0300" channel="Discovery Science">
+    <title lang="pt">Desastres Espaciais - Os Segredos</title>
+    <desc lang="pt">Um vazamento tóxico ameaça a vida de astronautas na reentrada. A tripulação da estação espacial Salyut sofre com uma despressurização inesperada. Problemas no motor comprometem uma decolagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011004800 -0300" stop="20211011013600 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">Novas descobertas revelam que o espaço interestelar, o vácuo entre as estrelas, não é vazio como se pensava. Ele está repleto de estranhos objetos e fenômenos que podem revelar os segredos mais intrigantes do cosmos.(n)</desc>
+    <credits>
+      <actor>James S. Bullock</actor>
+      <actor>Sean Carroll</actor>
+      <actor>Moogega Cooper</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011013600 -0300" stop="20211011022400 -0300" channel="Discovery Science">
+    <title lang="pt">Segredos da NASA</title>
+    <desc lang="pt">As luzes no céu de Nevada e Utah seriam um projeto secreto de armas espaciais? O que são os rastros nos locais de pouso da Apollo? Um estranho objeto teria causado problemas ao ônibus espacial?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011022400 -0300" stop="20211011031200 -0300" channel="Discovery Science">
+    <title lang="pt">O Caçador de Múmias</title>
+    <desc lang="pt">Uma múmia perdida pode reescrever a história do assassinato de Abraham Lincoln. Ramy Romany investiga uma suposta conspiração governamental que permitiu que John Wilkes fugisse depois de assassinar o presidente dos EUA.(n)</desc>
+    <credits>
+      <director>Ramy Romany</director>
+      <actor>Zahi Hawass</actor>
+      <actor>Ramy Romany</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011031200 -0300" stop="20211011040000 -0300" channel="Discovery Science">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011040000 -0300" stop="20211011044800 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">A NASA deve enviar humanos para Marte em apenas 15 anos, mas para atingir essa nova fronteira espacial, os cientistas precisam descobrir novas tecnologias que protejam os astronautas dos rigores do Planeta Vermelho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011044800 -0300" stop="20211011053600 -0300" channel="Discovery Science">
+    <title lang="pt">Desastres Espaciais - Os Segredos</title>
+    <desc lang="pt">Um vazamento tóxico ameaça a vida de astronautas na reentrada. A tripulação da estação espacial Salyut sofre com uma despressurização inesperada. Problemas no motor comprometem uma decolagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011053600 -0300" stop="20211011062400 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">Novas descobertas revelam que o espaço interestelar, o vácuo entre as estrelas, não é vazio como se pensava. Ele está repleto de estranhos objetos e fenômenos que podem revelar os segredos mais intrigantes do cosmos.(n)</desc>
+    <credits>
+      <actor>James S. Bullock</actor>
+      <actor>Sean Carroll</actor>
+      <actor>Moogega Cooper</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011062400 -0300" stop="20211011071200 -0300" channel="Discovery Science">
+    <title lang="pt">Segredos da NASA</title>
+    <desc lang="pt">As luzes no céu de Nevada e Utah seriam um projeto secreto de armas espaciais? O que são os rastros nos locais de pouso da Apollo? Um estranho objeto teria causado problemas ao ônibus espacial?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011071200 -0300" stop="20211011080000 -0300" channel="Discovery Science">
+    <title lang="pt">O Caçador de Múmias</title>
+    <desc lang="pt">Uma múmia perdida pode reescrever a história do assassinato de Abraham Lincoln. Ramy Romany investiga uma suposta conspiração governamental que permitiu que John Wilkes fugisse depois de assassinar o presidente dos EUA.(n)</desc>
+    <credits>
+      <director>Ramy Romany</director>
+      <actor>Zahi Hawass</actor>
+      <actor>Ramy Romany</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011080000 -0300" stop="20211011084800 -0300" channel="Discovery Science">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011084800 -0300" stop="20211011093600 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">A NASA deve enviar humanos para Marte em apenas 15 anos, mas para atingir essa nova fronteira espacial, os cientistas precisam descobrir novas tecnologias que protejam os astronautas dos rigores do Planeta Vermelho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011093600 -0300" stop="20211011102400 -0300" channel="Discovery Science">
+    <title lang="pt">Desastres Espaciais - Os Segredos</title>
+    <desc lang="pt">Um vazamento tóxico ameaça a vida de astronautas na reentrada. A tripulação da estação espacial Salyut sofre com uma despressurização inesperada. Problemas no motor comprometem uma decolagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011102400 -0300" stop="20211011111200 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">Novas descobertas revelam que o espaço interestelar, o vácuo entre as estrelas, não é vazio como se pensava. Ele está repleto de estranhos objetos e fenômenos que podem revelar os segredos mais intrigantes do cosmos.(n)</desc>
+    <credits>
+      <actor>James S. Bullock</actor>
+      <actor>Sean Carroll</actor>
+      <actor>Moogega Cooper</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011111200 -0300" stop="20211011120000 -0300" channel="Discovery Science">
+    <title lang="pt">Segredos da NASA</title>
+    <desc lang="pt">As luzes no céu de Nevada e Utah seriam um projeto secreto de armas espaciais? O que são os rastros nos locais de pouso da Apollo? Um estranho objeto teria causado problemas ao ônibus espacial?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011120000 -0300" stop="20211011124800 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">Os quasares são os objetos mais brilhantes do universo, mas também os mais misteriosos. São fornalhas cósmicas alimentadas pelos maiores buracos negros do universo, lançando jatos de matéria e radiação pelo espaço.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011124800 -0300" stop="20211011133600 -0300" channel="Discovery Science">
+    <title lang="pt">Febre do Ouro</title>
+    <desc lang="pt">Os Beets descobrem um provável veio promissor. Rick precisa tomar uma decisão difícil: extrair ouro ou montar sua nova planta de lavagem. Parker testa o novo capataz com sua máquina mais importante.(n)</desc>
+    <credits>
+      <actor>Parker Schnabel</actor>
+      <actor>Brennan Ruautt</actor>
+      <actor>Ben Hudack</actor>
+      <actor>Rick Ness</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011133600 -0300" stop="20211011142400 -0300" channel="Discovery Science">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+    <desc lang="pt">Procurando o tesouro em duas frentes, a equipe encontra evidências de uma rota usada para transportar a fortuna. Um artefato jesuíta pode fornecer informações cruciais sobre o destino final do tesouro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011142400 -0300" stop="20211011151200 -0300" channel="Discovery Science">
+    <title lang="pt">Resgate no Everest</title>
+    <desc lang="pt">Jason e Siddartha tentam evitar mortes durante uma missão no Kumbhu, a geleira mais perigosa do planeta. Ryan enfrenta ventos violentos para resgatar um alpinista no campo base do Everest.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011151200 -0300" stop="20211011160000 -0300" channel="Discovery Science">
+    <title lang="pt">Tesouro Visto do Espaço</title>
+    <desc lang="pt">Seguindo a trilha de Colombo, Darrell mergulha e passa do limite de seu equipamento, ficando em perigo extremo. Uma grande descoberta muda tudo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011160000 -0300" stop="20211011164800 -0300" channel="Discovery Science">
+    <title lang="pt">Mistérios da Humanidade Com Megan Fox</title>
+    <desc lang="pt">Megan Fox investiga os poderes sobrenaturais de um dos monumentos mais misteriosos do mundo.(n)</desc>
+    <credits>
+      <director>Jeffrey R. Daniels</director>
+      <actor>Megan Fox</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011164800 -0300" stop="20211011173600 -0300" channel="Discovery Science">
+    <title lang="pt">Mundo Gigante com Richard Hammond</title>
+    <desc lang="pt">Richard pilota máquinas enormes no túnel Brenner Base, nos Alpes. Quando for concluído, ele se tornará mais longa passagem ferroviária do mundo, a 2.000 metros da superfície.(n)</desc>
+    <credits>
+      <director>Mathew Wortman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011173600 -0300" stop="20211011182400 -0300" channel="Discovery Science">
+    <title lang="pt">O Que a História Esqueceu</title>
+    <desc lang="pt">Esta série aborda fatos históricos esquecidos e obscuros. Todos sabem dos bombardeios dos EUA contra a Alemanha na Segunda Guerra, mas e quanto ao vilarejo queimado por seus pilotos de caça?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011182400 -0300" stop="20211011184800 -0300" channel="Discovery Science">
+    <title lang="pt">Como Construir...Tudo!</title>
+    <desc lang="pt">Neste episódio, conheça  passos simples e fáceis para construir uma britadeira, um tanque militar e o maior toboágua do mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+  </programme>
+  <programme start="20211011184800 -0300" stop="20211011191200 -0300" channel="Discovery Science">
+    <title lang="pt">Como Construir...Tudo!</title>
+    <desc lang="pt">Neste episódio, conheça  passos simples e fáceis para construir um triturador de carros,  um veículo terrestre de alta velocidade e um traje antiexplosivos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+  </programme>
+  <programme start="20211011191200 -0300" stop="20211011200000 -0300" channel="Discovery Science">
+    <title lang="pt">Absurdos da Engenharia</title>
+    <desc lang="pt">Conheça os absurdos da engenharia nesta série que irá investigar e encontrar soluções para os maiores erros de cálculo da engenharia moderna, dos pequenos casos aos projetos que custaram uma fortuna.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011200000 -0300" stop="20211011204800 -0300" channel="Discovery Science">
+    <title lang="pt">Batalha Makers Brasil</title>
+    <desc lang="pt">Os 3 finalistas precisam manusear um braço mecânico. Cada detalhe fará a diferença nessa prova, a habilidade com o controlador motor será fundamental.(n)</desc>
+    <credits>
+      <director>Fábio Ock</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011204800 -0300" stop="20211011213600 -0300" channel="Discovery Science">
+    <title lang="pt">Febre do Ouro</title>
+    <desc lang="pt">Os Beets descobrem um provável veio promissor. Rick precisa tomar uma decisão difícil: extrair ouro ou montar sua nova planta de lavagem. Parker testa o novo capataz com sua máquina mais importante.(n)</desc>
+    <credits>
+      <actor>Parker Schnabel</actor>
+      <actor>Brennan Ruautt</actor>
+      <actor>Ben Hudack</actor>
+      <actor>Rick Ness</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011213600 -0300" stop="20211011222400 -0300" channel="Discovery Science">
+    <title lang="pt">Por Que Deu Errado?</title>
+    <desc lang="pt">Kevin e Grant transformam uma carruagem substituindo os cavalos por motocicletas. Em seguida, descobrem as dificuldades de fugir de Alcatraz e constroem uma enorme mesa de hóquei de ar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011222400 -0300" stop="20211011231200 -0300" channel="Discovery Science">
+    <title lang="pt">Perícia Criminal: Você Decide</title>
+    <desc lang="pt">O corpo de uma mulher aparece boiando em um lago de uma pacata cidade do Michigan. A morte teria sido causada por uma queda trágica de uma casa flutuante.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011231200 -0300" stop="20211012000000 -0300" channel="Discovery Science">
+    <title lang="pt">Corpos Extraordinários</title>
+    <desc lang="pt">O corpo humano é uma máquina versátil, resistente e adaptável, mas evoluiu para atuar com um peso equilibrado. Como dois terços da população dos EUA está acima do peso ou obesa, estaríamos forçando os limites naturais do corpo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012000000 -0300" stop="20211012002400 -0300" channel="Discovery Science">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+    <desc lang="pt">Conheça a divertida psicologia dos trotes. Veja o que acontece quando pessoas são obrigadas a lutar ou voar; ganham serviços VIP um tanto estranhos e têm seu espaço pessoal invadido.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012002400 -0300" stop="20211012004800 -0300" channel="Discovery Science">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+    <desc lang="pt">Conheça a divertida psicologia dos trotes. Veja o que acontece quando pessoas são obrigadas a lutar ou voar; ganham serviços VIP um tanto estranhos e têm seu espaço pessoal invadido.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012004800 -0300" stop="20211012013600 -0300" channel="Discovery Science">
+    <title lang="pt">Corpos Extraordinários</title>
+    <desc lang="pt">Utilizando os mais sofisticados equipamentos médicos do planeta, este episódio aborda os problemas de saúde dos gigantes mais altos dos Estados Unidos, homens e mulheres que sofrem de distúrbios que ameaçam suas vidas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012013600 -0300" stop="20211012022400 -0300" channel="Discovery Science">
+    <title lang="pt">O Mais Genial</title>
+    <desc lang="pt">Os competidores precisam utilizar a energia gerada por uma cachoeira para construir um elevador. Um time trabalha junto para fazer sua ideia decolar e outro desmorona sob a tensão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012022400 -0300" stop="20211012031200 -0300" channel="Discovery Science">
+    <title lang="pt">Por Que Deu Errado?</title>
+    <desc lang="pt">Kevin e Grant transformam uma carruagem substituindo os cavalos por motocicletas. Em seguida, descobrem as dificuldades de fugir de Alcatraz e constroem uma enorme mesa de hóquei de ar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012031200 -0300" stop="20211012040000 -0300" channel="Discovery Science">
+    <title lang="pt">Perícia Criminal: Você Decide</title>
+    <desc lang="pt">O corpo de uma mulher aparece boiando em um lago de uma pacata cidade do Michigan. A morte teria sido causada por uma queda trágica de uma casa flutuante.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012040000 -0300" stop="20211012044800 -0300" channel="Discovery Science">
+    <title lang="pt">Corpos Extraordinários</title>
+    <desc lang="pt">O corpo humano é uma máquina versátil, resistente e adaptável, mas evoluiu para atuar com um peso equilibrado. Como dois terços da população dos EUA está acima do peso ou obesa, estaríamos forçando os limites naturais do corpo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012044800 -0300" stop="20211012051200 -0300" channel="Discovery Science">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+    <desc lang="pt">Conheça a divertida psicologia dos trotes. Veja o que acontece quando pessoas são obrigadas a lutar ou voar; ganham serviços VIP um tanto estranhos e têm seu espaço pessoal invadido.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012051200 -0300" stop="20211012053600 -0300" channel="Discovery Science">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+    <desc lang="pt">Conheça a divertida psicologia dos trotes. Veja o que acontece quando pessoas são obrigadas a lutar ou voar; ganham serviços VIP um tanto estranhos e têm seu espaço pessoal invadido.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012053600 -0300" stop="20211012062400 -0300" channel="Discovery Science">
+    <title lang="pt">Corpos Extraordinários</title>
+    <desc lang="pt">Utilizando os mais sofisticados equipamentos médicos do planeta, este episódio aborda os problemas de saúde dos gigantes mais altos dos Estados Unidos, homens e mulheres que sofrem de distúrbios que ameaçam suas vidas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012062400 -0300" stop="20211012071200 -0300" channel="Discovery Science">
+    <title lang="pt">O Mais Genial</title>
+    <desc lang="pt">Os competidores precisam utilizar a energia gerada por uma cachoeira para construir um elevador. Um time trabalha junto para fazer sua ideia decolar e outro desmorona sob a tensão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012071200 -0300" stop="20211012080000 -0300" channel="Discovery Science">
+    <title lang="pt">Por Que Deu Errado?</title>
+    <desc lang="pt">Kevin e Grant transformam uma carruagem substituindo os cavalos por motocicletas. Em seguida, descobrem as dificuldades de fugir de Alcatraz e constroem uma enorme mesa de hóquei de ar.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012080000 -0300" stop="20211012084800 -0300" channel="Discovery Science">
+    <title lang="pt">Perícia Criminal: Você Decide</title>
+    <desc lang="pt">O corpo de uma mulher aparece boiando em um lago de uma pacata cidade do Michigan. A morte teria sido causada por uma queda trágica de uma casa flutuante.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012084800 -0300" stop="20211012093600 -0300" channel="Discovery Science">
+    <title lang="pt">Corpos Extraordinários</title>
+    <desc lang="pt">O corpo humano é uma máquina versátil, resistente e adaptável, mas evoluiu para atuar com um peso equilibrado. Como dois terços da população dos EUA está acima do peso ou obesa, estaríamos forçando os limites naturais do corpo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012093600 -0300" stop="20211012100000 -0300" channel="Discovery Science">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+    <desc lang="pt">Conheça a divertida psicologia dos trotes. Veja o que acontece quando pessoas são obrigadas a lutar ou voar; ganham serviços VIP um tanto estranhos e têm seu espaço pessoal invadido.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012100000 -0300" stop="20211012102400 -0300" channel="Discovery Science">
+    <title lang="pt">Sorria, Você está Sendo Analisado</title>
+    <desc lang="pt">Conheça a divertida psicologia dos trotes. Veja o que acontece quando pessoas são obrigadas a lutar ou voar; ganham serviços VIP um tanto estranhos e têm seu espaço pessoal invadido.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012102400 -0300" stop="20211012111200 -0300" channel="Discovery Science">
+    <title lang="pt">Corpos Extraordinários</title>
+    <desc lang="pt">Utilizando os mais sofisticados equipamentos médicos do planeta, este episódio aborda os problemas de saúde dos gigantes mais altos dos Estados Unidos, homens e mulheres que sofrem de distúrbios que ameaçam suas vidas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012111200 -0300" stop="20211012120000 -0300" channel="Discovery Science">
+    <title lang="pt">O Mais Genial</title>
+    <desc lang="pt">Os competidores precisam utilizar a energia gerada por uma cachoeira para construir um elevador. Um time trabalha junto para fazer sua ideia decolar e outro desmorona sob a tensão.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012120000 -0300" stop="20211012124800 -0300" channel="Discovery Science">
+    <title lang="pt">O Caçador de Múmias</title>
+    <desc lang="pt">Uma múmia perdida pode reescrever a história do assassinato de Abraham Lincoln. Ramy Romany investiga uma suposta conspiração governamental que permitiu que John Wilkes fugisse depois de assassinar o presidente dos EUA.(n)</desc>
+    <credits>
+      <director>Ramy Romany</director>
+      <actor>Zahi Hawass</actor>
+      <actor>Ramy Romany</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012124800 -0300" stop="20211012133600 -0300" channel="Discovery Science">
+    <title lang="pt">A Verdade por trás do Homem na Lua</title>
+    <desc lang="pt">As fitas da NASA que registraram o pouso na Lua da Apollo 11 estão faltando, e alguns acreditam que seu desaparecimento faz parte de um encobrimento para esconder a verdade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012133600 -0300" stop="20211012142400 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">A NASA deve enviar humanos para Marte em apenas 15 anos, mas para atingir essa nova fronteira espacial, os cientistas precisam descobrir novas tecnologias que protejam os astronautas dos rigores do Planeta Vermelho.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012142400 -0300" stop="20211012151200 -0300" channel="Discovery Science">
+    <title lang="pt">Desastres Espaciais - Os Segredos</title>
+    <desc lang="pt">Um vazamento tóxico ameaça a vida de astronautas na reentrada. A tripulação da estação espacial Salyut sofre com uma despressurização inesperada. Problemas no motor comprometem uma decolagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012151200 -0300" stop="20211012160000 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">Novas descobertas revelam que o espaço interestelar, o vácuo entre as estrelas, não é vazio como se pensava. Ele está repleto de estranhos objetos e fenômenos que podem revelar os segredos mais intrigantes do cosmos.(n)</desc>
+    <credits>
+      <actor>James S. Bullock</actor>
+      <actor>Sean Carroll</actor>
+      <actor>Moogega Cooper</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012160000 -0300" stop="20211012164800 -0300" channel="Discovery Science">
+    <title lang="pt">Segredos da NASA</title>
+    <desc lang="pt">As luzes no céu de Nevada e Utah seriam um projeto secreto de armas espaciais? O que são os rastros nos locais de pouso da Apollo? Um estranho objeto teria causado problemas ao ônibus espacial?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012164800 -0300" stop="20211012173600 -0300" channel="Discovery Science">
+    <title lang="pt">Como Funciona o Universo</title>
+    <desc lang="pt">Os quasares são os objetos mais brilhantes do universo, mas também os mais misteriosos. São fornalhas cósmicas alimentadas pelos maiores buracos negros do universo, lançando jatos de matéria e radiação pelo espaço.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012173600 -0300" stop="20211012182400 -0300" channel="Discovery Science">
+    <title lang="pt">O Que a História Esqueceu</title>
+    <desc lang="pt">Todos conhecem George Washington, a Febre do Ouro na Califórnia e as guerras entre os EUA e a Grã-Bretanha. Mas e quanto às histórias esquecidas e aos segredos que formaram o país?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012182400 -0300" stop="20211012191200 -0300" channel="Discovery Science">
+    <title lang="pt">Ilha das Cobras: Caçadores do Tesouro Perdido</title>
+    <desc lang="pt">Procurando o tesouro em duas frentes, a equipe encontra evidências de uma rota usada para transportar a fortuna. Um artefato jesuíta pode fornecer informações cruciais sobre o destino final do tesouro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012191200 -0300" stop="20211012200000 -0300" channel="Discovery Science">
+    <title lang="pt">Resgate no Everest</title>
+    <desc lang="pt">Jason e Siddartha tentam evitar mortes durante uma missão no Kumbhu, a geleira mais perigosa do planeta. Ryan enfrenta ventos violentos para resgatar um alpinista no campo base do Everest.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012200000 -0300" stop="20211012204800 -0300" channel="Discovery Science">
+    <title lang="pt">Batalha Makers Brasil</title>
+    <desc lang="pt">Os Makers chegam ao Lab, mas estão sem cadeiras para trabalhar. No primeiro desafio do programa, cada Maker deverá construir sua própria cadeira.(n)</desc>
+    <credits>
+      <director>Fábio Ock</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012204800 -0300" stop="20211012213600 -0300" channel="Discovery Science">
+    <title lang="pt">Mistérios da Humanidade Com Megan Fox</title>
+    <desc lang="pt">Megan Fox investiga os poderes sobrenaturais de um dos monumentos mais misteriosos do mundo.(n)</desc>
+    <credits>
+      <director>Jeffrey R. Daniels</director>
+      <actor>Megan Fox</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012213600 -0300" stop="20211012222400 -0300" channel="Discovery Science">
+    <title lang="pt">Penn e Teller: Nem Tudo É Verdade</title>
+    <desc lang="pt">É possível levantar um carro cheio de gente só com a força dos cabelos? Xingamentos amenizam a dor? Dá para pousar um avião usando suas portas?(n)</desc>
+    <credits>
+      <director>Jonathan Haug</director>
+      <actor>Penn Jillett</actor>
+      <actor>Teller</actor>
+      <actor>Julie Ann Dokowic</actor>
+      <actor>Robert Huyn</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012222400 -0300" stop="20211012231200 -0300" channel="Discovery Science">
+    <title lang="pt">Penn e Teller: Nem Tudo É Verdade</title>
+    <desc lang="pt">Será que uma tocha alimentada por bacon é capaz de derreter aço? Lutadores podem ser derrotados por queijo? Papel de parede pode resistir a uma bola de demolição?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012231200 -0300" stop="20211013000000 -0300" channel="Discovery Science">
+    <title lang="pt">Penn e Teller: Nem Tudo É Verdade</title>
+    <desc lang="pt">Neste episódio: a carne de animais mortos em estradas é mesmo mais saudável? Dá para equilibrar uma tonelada de líderes de torcida sobre 400 ovos? É possível sobreviver a um ataque de piranhas?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S1 E3</episode-num>
   </programme>
 </tv>
