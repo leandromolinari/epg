@@ -612,6 +612,7 @@
   </channel>
   <channel id="Discovery Turbo">
     <display-name lang="pt">Discovery Turbo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dtu.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="H2">
@@ -67925,5 +67926,707 @@
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
     <episode-num system="onscreen">S1 E3</episode-num>
+  </programme>
+  <programme start="20211010043300 -0300" stop="20211010051700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Dupla do Barulho</title>
+    <desc lang="pt">Aaron sente a ira da Big Monkey ao não seguir as instruções de Richard em um Mustang Fastback. Richard reforma um Mustang Boss 429, chamado de Santo Graal.(n)</desc>
+    <credits>
+      <director>Aaron Krummel</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010051700 -0300" stop="20211010053800 -0300" channel="Discovery Turbo">
+    <title lang="pt">O Customizador de Supercarros</title>
+    <desc lang="pt">Yianni Charalambous cria um envelopamento cromado vermelho para o 4x4 de luxo de um adolescente de 17 anos.(n)</desc>
+    <credits>
+      <director>Michael Wood</director>
+      <actor>Yianni Charalambous</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010053800 -0300" stop="20211010060000 -0300" channel="Discovery Turbo">
+    <title lang="pt">O Customizador de Supercarros</title>
+    <desc lang="pt">Yianni Charalambous trabalha em um envelopamento branco de um Mercedes SL que já foi customizado. Para isso, ele cria um moderno acabamento metálico.(n)</desc>
+    <credits>
+      <director>Michael Wood</director>
+      <actor>Yianni Charalambous</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010060000 -0300" stop="20211010065300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Bill e a equipe elevam um Chevrolet Silverado 5500, ano 2020, com uma suspensão a ar reforçada que aumenta a distância do solo em mais de 30cm. Os rapazes também reforçam toda a caçamba da picape.(n)</desc>
+    <credits>
+      <director>Daniel Miller</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010065300 -0300" stop="20211010071900 -0300" channel="Discovery Turbo">
+    <title lang="pt">O Mundo sobre rodas com Mike Brewer</title>
+    <desc lang="pt">Mike aprende sobre lowriders no leste de LA. Ele obtém alguma experiência com hidráulica e pinstriping e viaja pelo Whittier Boulevard com o Lifestyle Car Club.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+      <actor>Mike Brewer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010071900 -0300" stop="20211010074500 -0300" channel="Discovery Turbo">
+    <title lang="pt">O Mundo sobre rodas com Mike Brewer</title>
+    <desc lang="pt">Mike visita o campeão da NHRA Top Fuel, Antron Brown. Antron mostra a ele a enorme loja Don Schumacher Racing, mas Mike tem um outro motivo para sua viagem: vingança.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+      <actor>Mike Brewer</actor>
+      <actor>Antron Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010074500 -0300" stop="20211010083700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Dupla do Barulho</title>
+    <desc lang="pt">Aaron sente a ira da Big Monkey ao não seguir as instruções de Richard em um Mustang Fastback. Richard reforma um Mustang Boss 429, chamado de Santo Graal.(n)</desc>
+    <credits>
+      <director>Aaron Krummel</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010083700 -0300" stop="20211010092900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Dupla do Barulho</title>
+    <desc lang="pt">Richard precisa transformar os dois primeiros Firebirds já fabricados de pilhas de ferrugem em peças de museu. O comprador oferece um bom dinheiro, mas será que Richard consegue cumprir o prazo?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010092900 -0300" stop="20211010102100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Dupla do Barulho</title>
+    <desc lang="pt">É o começo de uma nova era na Gas Monkey Garage. Richard orienta a equipe no projeto de uma van Chevrolet P30 1973, a primeira grande restauração sem Aaron.(n)</desc>
+    <credits>
+      <director>Aaron Krummel</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010102100 -0300" stop="20211010111400 -0300" channel="Discovery Turbo">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">Andy Cohen transforma pilhas de ferro enferrujado em máquinas de fazer dinheiro. Com a ajuda de sua equipe, ele procura bons negócios e agrega valor ao que os outros jogam fora.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211010111400 -0300" stop="20211010120600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Bill sabe bem que alguns projetos saem maior que o planejado, então não é surpresa quando um Suburban 1971 cresce ainda mais com suspensão a ar e interior customizados. E, para um Kodiak 2006, falta só um upgrade customizado.(n)</desc>
+    <credits>
+      <director>Daniel Miller</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010120600 -0300" stop="20211010125800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">Os rapazes se preparam para participar de uma importante feira automotiva em Pleasanton, Califórnia. Antes disso, precisam entregar um Chevelle a um cliente - isso se a equipe não for presa antes.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010125800 -0300" stop="20211010135000 -0300" channel="Discovery Turbo">
+    <title lang="pt">Corridas Proibidas: Memphis</title>
+    <desc lang="pt">De passagem por Oklahoma City, JJ e Mac param na oficina de Farmtruck e AZN para falar sobre as corridas de rua. Depois, mostram o que virá na nova temporada em Memphis.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211010135000 -0300" stop="20211010144200 -0300" channel="Discovery Turbo">
+    <title lang="pt">Trocando a Marcha com Aaron Kaufman</title>
+    <desc lang="pt">Aaron Kaufman assume um novo desafio: construir uma carreta de corrida. Ele convoca dois especialistas em corridas de caminhões, Bob Ball e seu filho, Justin, para ampliar a potência ao máximo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010144200 -0300" stop="20211010153400 -0300" channel="Discovery Turbo">
+    <title lang="pt">Trocando a Marcha com Aaron Kaufman</title>
+    <desc lang="pt">Aaron Kaufman e a equipe tentam terminar a carreta a tempo para a corrida no autódromo Pike's Peak International Raceway. Os ânimos se exaltam quando as coisas começam a dar errado. Será que o carro chega à linha de largada?(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010153400 -0300" stop="20211010162600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Trocando a Marcha com Aaron Kaufman</title>
+    <desc lang="pt">Aaron Kaufman começa sua aventura no autódromo Pike's Peak International Raceway, em Colorado Springs. Ele compete em várias corridas, mas seu caminhão está praticamente se desmontando e corre o risco de ser rebocado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010162600 -0300" stop="20211010171700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Seja com um  Ford Falcon Sprint 1964, um Jaguar XKE 1962 cupê ou um antigo Baker Electric, Wayne procura três veículos de colecionador que contam a história dos combustíveis automotivos ao longo de décadas.(n)</desc>
+    <credits>
+      <director>Hannah Lintner</director>
+      <actor>Wayne Carini</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010171700 -0300" stop="20211010181000 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Dois carros de corrida vitoriosos e um supercarro híbrido, separados por mais de 100 anos de corridas e engenharia automotiva. Diante disso, só resta a Wayne testá-los na pista.(n)</desc>
+    <credits>
+      <director>Jim Astrausky</director>
+      <actor>Roger Barr</actor>
+      <actor>Wayne Carini</actor>
+      <actor>Steve Cournouer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010181000 -0300" stop="20211010190300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Oficina de Superclássicos (?)</title>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010190300 -0300" stop="20211010195500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Oficina RMD</title>
+    <desc lang="pt">Um cliente jovem quer que seu Fusca 1967 seja restaurado, e Ralph e sua equipe fazem parecer que o carro acabou de sair da fábrica. O artista Tristan Eaton traz seu Lincoln Continental 1967.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010195500 -0300" stop="20211010204800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Os mecânicos Gus e Will procuram um Audi TT para consertar e revender. Eles encontram um modelo em Milton Keynes que parece impecável à primeira vista, mas com a parte interna cheia de problemas.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010204800 -0300" stop="20211010214100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Nesta série, uma carismática dupla de mecânicos, Will e Gus, têm uma missão: consertar um carro.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010214100 -0300" stop="20211010223300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Caçador de Autopeças</title>
+    <desc lang="pt">Apesar dos defeitos estéticos, Paul tem certeza de que o Citroen CX logo será reconhecido como um clássico e o salva da destruição.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211010223300 -0300" stop="20211010232500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A oficina precisa de uma caminhonete nova e Bill escolhe uma F-450 King Ranch, capaz de transportar nove toneladas. A maior parte da carroceria do Ford Coupe 1946 não pode ser consertada, e a equipe precisa refazer o carro.(n)</desc>
+    <credits>
+      <director>Patrick Myatt</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211010232500 -0300" stop="20211011001700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A equipe chega à reta final com o Ford Coupe 1946. A Ekstensive equipa o buggy de Bill com um motor a diesel Cummins de 1500 cavalos. O ator John Cena entrega seu MGC 1969 para algumas mudanças.(n)</desc>
+    <credits>
+      <director>Patrick Myatt</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011001700 -0300" stop="20211011010900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Oficina RMD</title>
+    <desc lang="pt">Um cliente jovem quer que seu Fusca 1967 seja restaurado, e Ralph e sua equipe fazem parecer que o carro acabou de sair da fábrica. O artista Tristan Eaton traz seu Lincoln Continental 1967.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011010900 -0300" stop="20211011020100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Nesta série, uma carismática dupla de mecânicos, Will e Gus, têm uma missão: consertar um carro.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011020100 -0300" stop="20211011025100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A oficina precisa de uma caminhonete nova e Bill escolhe uma F-450 King Ranch, capaz de transportar nove toneladas. A maior parte da carroceria do Ford Coupe 1946 não pode ser consertada, e a equipe precisa refazer o carro.(n)</desc>
+    <credits>
+      <director>Patrick Myatt</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011025100 -0300" stop="20211011034100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A equipe chega à reta final com o Ford Coupe 1946. A Ekstensive equipa o buggy de Bill com um motor a diesel Cummins de 1500 cavalos. O ator John Cena entrega seu MGC 1969 para algumas mudanças.(n)</desc>
+    <credits>
+      <director>Patrick Myatt</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011034100 -0300" stop="20211011043100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Oficina RMD</title>
+    <desc lang="pt">Um cliente jovem quer que seu Fusca 1967 seja restaurado, e Ralph e sua equipe fazem parecer que o carro acabou de sair da fábrica. O artista Tristan Eaton traz seu Lincoln Continental 1967.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011043100 -0300" stop="20211011051600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Nesta série, uma carismática dupla de mecânicos, Will e Gus, têm uma missão: consertar um carro.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011051600 -0300" stop="20211011060000 -0300" channel="Discovery Turbo">
+    <title lang="pt">Trocando a Marcha com Aaron Kaufman</title>
+    <desc lang="pt">Aaron Kaufman assume um novo desafio: construir uma carreta de corrida. Ele convoca dois especialistas em corridas de caminhões, Bob Ball e seu filho, Justin, para ampliar a potência ao máximo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011060000 -0300" stop="20211011065200 -0300" channel="Discovery Turbo">
+    <title lang="pt">Oficina RMD</title>
+    <desc lang="pt">Um cliente jovem quer que seu Fusca 1967 seja restaurado, e Ralph e sua equipe fazem parecer que o carro acabou de sair da fábrica. O artista Tristan Eaton traz seu Lincoln Continental 1967.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011065200 -0300" stop="20211011074400 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Os mecânicos Gus e Will procuram um Audi TT para consertar e revender. Eles encontram um modelo em Milton Keynes que parece impecável à primeira vista, mas com a parte interna cheia de problemas.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011074400 -0300" stop="20211011083600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Nesta série, uma carismática dupla de mecânicos, Will e Gus, têm uma missão: consertar um carro.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011083600 -0300" stop="20211011092800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A oficina precisa de uma caminhonete nova e Bill escolhe uma F-450 King Ranch, capaz de transportar nove toneladas. A maior parte da carroceria do Ford Coupe 1946 não pode ser consertada, e a equipe precisa refazer o carro.(n)</desc>
+    <credits>
+      <director>Patrick Myatt</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011092800 -0300" stop="20211011102000 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A equipe chega à reta final com o Ford Coupe 1946. A Ekstensive equipa o buggy de Bill com um motor a diesel Cummins de 1500 cavalos. O ator John Cena entrega seu MGC 1969 para algumas mudanças.(n)</desc>
+    <credits>
+      <director>Patrick Myatt</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011102000 -0300" stop="20211011111300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Bill e a equipe elevam um Chevrolet Silverado 5500, ano 2020, com uma suspensão a ar reforçada que aumenta a distância do solo em mais de 30cm. Os rapazes também reforçam toda a caçamba da picape.(n)</desc>
+    <credits>
+      <director>Daniel Miller</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011111300 -0300" stop="20211011113900 -0300" channel="Discovery Turbo">
+    <title lang="pt">O Mundo sobre rodas com Mike Brewer</title>
+    <desc lang="pt">Mike aprende sobre lowriders no leste de LA. Ele obtém alguma experiência com hidráulica e pinstriping e viaja pelo Whittier Boulevard com o Lifestyle Car Club.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+      <actor>Mike Brewer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011113900 -0300" stop="20211011120500 -0300" channel="Discovery Turbo">
+    <title lang="pt">O Mundo sobre rodas com Mike Brewer</title>
+    <desc lang="pt">Mike visita o campeão da NHRA Top Fuel, Antron Brown. Antron mostra a ele a enorme loja Don Schumacher Racing, mas Mike tem um outro motivo para sua viagem: vingança.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+      <actor>Mike Brewer</actor>
+      <actor>Antron Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011120500 -0300" stop="20211011125600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Dupla do Barulho</title>
+    <desc lang="pt">Aaron sente a ira da Big Monkey ao não seguir as instruções de Richard em um Mustang Fastback. Richard reforma um Mustang Boss 429, chamado de Santo Graal.(n)</desc>
+    <credits>
+      <director>Aaron Krummel</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011125600 -0300" stop="20211011134600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Corridas Proibidas: Memphis</title>
+    <desc lang="pt">JJ e Doughboy recordam todo o trabalho, as noites em claro e os testes necessários para levar a Equipe Memphis para Las Vegas. Depois, eles procuram novas corridas e revelam cenas dramáticas da prova mais épica da cidade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011134600 -0300" stop="20211011143900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carro Ostentação Com Will Castro</title>
+    <desc lang="pt">Will e a equipe da Unique dão um toque original a dois Jeeps e encaram um grande desafio: reformar uma antiga perua da família do ator John Leguizamo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011143900 -0300" stop="20211011153200 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carro Ostentação Com Will Castro</title>
+    <desc lang="pt">Um VW Thing enferrujado se torna o maior desafio da equipe desde a abertura da nova oficina, mas depois de uma restauração completa do chassis, o carro fica como novo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011153200 -0300" stop="20211011162500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carro Ostentação Com Will Castro</title>
+    <desc lang="pt">Will e a equipe da Unique fazem uma reforma completa no Jeep Wrangler do astro da NBA, Carmelo Anthony. Will começa a fazer planos para o futuro da oficina.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011162500 -0300" stop="20211011171800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Invasão de Garagens</title>
+    <desc lang="pt">Um Camaro 1989 não é o que parece.(n)</desc>
+    <credits>
+      <actor>Ron Gregurich</actor>
+      <actor>Cy Kellogg</actor>
+      <actor>Jeff King</actor>
+      <actor>Bruno Massel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011171800 -0300" stop="20211011180900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <desc lang="pt">Steve encara um de seus projetos mais ousados: construir um carro de corrida Gasser estilo anos 70 para um veterano da Marinha. Steve restaura uma picape Model A da época da Lei Seca para um capitão da polícia de Las Vegas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011180900 -0300" stop="20211011183500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Custom Club Brasil</title>
+    <desc lang="pt">Helcio finaliza a moto de um cliente de Goiânia, mas fica frustrado por não conseguir entregar a moto pessoalmente. Heverton pega a moto que deixou em testes e leva outra para Helcio customizar do jeito que ele quiser.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011183500 -0300" stop="20211011190300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Custom Club Brasil</title>
+    <desc lang="pt">Helcio se irrita ao precisar lidar com terceiros para solucionar o problema de uma moto que sofreu um recall. Enquanto isso, um antigo cliente da AZ quer uma mega customização de sua moto e exige o cumprimento do prazo de entrega.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011190300 -0300" stop="20211011195600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">Andy sabe que não há lugar melhor para encontrar um bom negócio que um leilão - mas quando arremata um Mercedes SL55 AMG, pode ter dado um passo maior do que a perna.(n)</desc>
+    <credits>
+      <director>Candace Beam</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211011195600 -0300" stop="20211011204800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Poucas oficinas tentariam rebaixar uma caminhonete Denali 2020. Mas para fazer direito, Bill e sua equipe constroem um chassi personalizado enorme. A Ekstensive ainda devolve um dragster a diesel para as pistas.(n)</desc>
+    <credits>
+      <director>Daniel Miller</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011204800 -0300" stop="20211011213900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">O cliente e colaborador Ron Meis tem um novo projeto para a Kindig It: um Shadow Rod 1927. Dave guarda alguns truques na manga quando o dono de um Bentley Bentayga 2017 encomenda uma reestilização.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211011213900 -0300" stop="20211011223100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike está disposto a enfrentar um desafio, mas ele logo se transforma no pesadelo de Edd. Diante de um carro repleto de ferrugem, Mike tenta salvar o projeto e tranquilizar Edd.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+      <actor>Mike Brewer</actor>
+      <actor>Edd China</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011223100 -0300" stop="20211011232200 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Wayne precisa de um pouco de sorte para comprar um Porsche 356 que está escondido há décadas na casa de um mágico. Uma igreja pede que Wayne ajude a vender uma coleção de veículos herdados de um paroquiano devoto.(n)</desc>
+    <credits>
+      <director>Hannah Lintner</director>
+      <actor>Wayne Carini</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211011232200 -0300" stop="20211012001400 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Wayne encontra um carro de corrida Stanguellini Fórmula Junior e não perde a chance de comprá-lo para surpreender Roger. Wayne também espera vender dois carros para abrir espaço para um Bandini 1953.(n)</desc>
+    <credits>
+      <director>Jim Astrausky</director>
+      <actor>Roger Barr</actor>
+      <actor>Wayne Carini</actor>
+      <actor>Steve Cournouer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012001400 -0300" stop="20211012010500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">Andy sabe que não há lugar melhor para encontrar um bom negócio que um leilão - mas quando arremata um Mercedes SL55 AMG, pode ter dado um passo maior do que a perna.(n)</desc>
+    <credits>
+      <director>Candace Beam</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012010500 -0300" stop="20211012015600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">O cliente e colaborador Ron Meis tem um novo projeto para a Kindig It: um Shadow Rod 1927. Dave guarda alguns truques na manga quando o dono de um Bentley Bentayga 2017 encomenda uma reestilização.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012015600 -0300" stop="20211012024700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Wayne precisa de um pouco de sorte para comprar um Porsche 356 que está escondido há décadas na casa de um mágico. Uma igreja pede que Wayne ajude a vender uma coleção de veículos herdados de um paroquiano devoto.(n)</desc>
+    <credits>
+      <director>Hannah Lintner</director>
+      <actor>Wayne Carini</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012024700 -0300" stop="20211012033800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Wayne encontra um carro de corrida Stanguellini Fórmula Junior e não perde a chance de comprá-lo para surpreender Roger. Wayne também espera vender dois carros para abrir espaço para um Bandini 1953.(n)</desc>
+    <credits>
+      <director>Jim Astrausky</director>
+      <actor>Roger Barr</actor>
+      <actor>Wayne Carini</actor>
+      <actor>Steve Cournouer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012033800 -0300" stop="20211012042800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">Andy sabe que não há lugar melhor para encontrar um bom negócio que um leilão - mas quando arremata um Mercedes SL55 AMG, pode ter dado um passo maior do que a perna.(n)</desc>
+    <credits>
+      <director>Candace Beam</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012042800 -0300" stop="20211012051300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">O cliente e colaborador Ron Meis tem um novo projeto para a Kindig It: um Shadow Rod 1927. Dave guarda alguns truques na manga quando o dono de um Bentley Bentayga 2017 encomenda uma reestilização.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012051300 -0300" stop="20211012060000 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carro Ostentação Com Will Castro</title>
+    <desc lang="pt">Will e a equipe da Unique dão um toque original a dois Jeeps e encaram um grande desafio: reformar uma antiga perua da família do ator John Leguizamo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012060000 -0300" stop="20211012065300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">Andy sabe que não há lugar melhor para encontrar um bom negócio que um leilão - mas quando arremata um Mercedes SL55 AMG, pode ter dado um passo maior do que a perna.(n)</desc>
+    <credits>
+      <director>Candace Beam</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012065300 -0300" stop="20211012074600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Poucas oficinas tentariam rebaixar uma caminhonete Denali 2020. Mas para fazer direito, Bill e sua equipe constroem um chassi personalizado enorme. A Ekstensive ainda devolve um dragster a diesel para as pistas.(n)</desc>
+    <credits>
+      <director>Daniel Miller</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012074600 -0300" stop="20211012083700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">O cliente e colaborador Ron Meis tem um novo projeto para a Kindig It: um Shadow Rod 1927. Dave guarda alguns truques na manga quando o dono de um Bentley Bentayga 2017 encomenda uma reestilização.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012083700 -0300" stop="20211012092800 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Wayne precisa de um pouco de sorte para comprar um Porsche 356 que está escondido há décadas na casa de um mágico. Uma igreja pede que Wayne ajude a vender uma coleção de veículos herdados de um paroquiano devoto.(n)</desc>
+    <credits>
+      <director>Hannah Lintner</director>
+      <actor>Wayne Carini</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012092800 -0300" stop="20211012102000 -0300" channel="Discovery Turbo">
+    <title lang="pt">Em Busca de Carros Clássicos</title>
+    <desc lang="pt">Wayne encontra um carro de corrida Stanguellini Fórmula Junior e não perde a chance de comprá-lo para surpreender Roger. Wayne também espera vender dois carros para abrir espaço para um Bandini 1953.(n)</desc>
+    <credits>
+      <director>Jim Astrausky</director>
+      <actor>Roger Barr</actor>
+      <actor>Wayne Carini</actor>
+      <actor>Steve Cournouer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012102000 -0300" stop="20211012111200 -0300" channel="Discovery Turbo">
+    <title lang="pt">Oficina RMD</title>
+    <desc lang="pt">Um cliente jovem quer que seu Fusca 1967 seja restaurado, e Ralph e sua equipe fazem parecer que o carro acabou de sair da fábrica. O artista Tristan Eaton traz seu Lincoln Continental 1967.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012111200 -0300" stop="20211012120400 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Os mecânicos Gus e Will procuram um Audi TT para consertar e revender. Eles encontram um modelo em Milton Keynes que parece impecável à primeira vista, mas com a parte interna cheia de problemas.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012120400 -0300" stop="20211012125700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Will e Gus: O Dobro ou Nada</title>
+    <desc lang="pt">Nesta série, uma carismática dupla de mecânicos, Will e Gus, têm uma missão: consertar um carro.(n)</desc>
+    <credits>
+      <director>Daniel Allum</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012125700 -0300" stop="20211012134900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Corridas Proibidas: Memphis</title>
+    <desc lang="pt">A disputa pega fogo nas ruas quando a Equipe Memphis faz apostas malucas e espera grandes vitórias.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012134900 -0300" stop="20211012144100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Supermáquinas com Alex Vega</title>
+    <desc lang="pt">Alex moderniza um antigo Cadillac Fleetwood para um magnata da moda especializado em acessórios para os olhos. O jogador de beisebol cubano Alexei Ramirez customiza um Jeep Wrangler.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012144100 -0300" stop="20211012153300 -0300" channel="Discovery Turbo">
+    <title lang="pt">Supermáquinas com Alex Vega</title>
+    <desc lang="pt">A estrela pop Teyana Taylor encomenda a customização de um Polaris Slingshot de três rodas. Alex faz a customização completa de um Jeep Wrangler um jogador do New York Yankees, Gary Sanchez.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012153300 -0300" stop="20211012162500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Supermáquinas com Alex Vega</title>
+    <desc lang="pt">Alex moderniza um antigo Cadillac Fleetwood para um magnata da moda especializado em acessórios para os olhos. O jogador de beisebol cubano Alexei Ramirez customiza um Jeep Wrangler.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012162500 -0300" stop="20211012171700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Dupla do Barulho Ao Resgate</title>
+    <desc lang="pt">Richard enxerga potencial em uma oficina de hot rod em falência de Los Angeles e investe seus recursos para recuperá-la. Mas a chuva atrasa a reforma do local e o dono não quer mudar seus métodos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012171700 -0300" stop="20211012181000 -0300" channel="Discovery Turbo">
+    <title lang="pt">Dupla do Barulho Ao Resgate</title>
+    <desc lang="pt">Richard quer recuperar uma oficina certificada para inspeção veicular na Califórnia, e tem apenas seis dias para colocá-la nos trilhos e ajudá-la a explorar novas áreas, para gerar mais renda.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012181000 -0300" stop="20211012183500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Vida Automotiva</title>
+    <desc lang="pt">No primeiro episódio, vamos conhecer a história de Mário Gargiulo e sua Alfa Romeo GTV. Aos 85 anos, Mário conta sua história de paixão pelo automobilismo, as competições que participou.(n)</desc>
+    <credits>
+      <director>Anderson Jesus da Silva</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012183500 -0300" stop="20211012190100 -0300" channel="Discovery Turbo">
+    <title lang="pt">Vida Automotiva</title>
+    <desc lang="pt">No terceiro episódio, Karina Conrado, 32 anos, vai falar sobre seu Citroen DS3.(n)</desc>
+    <credits>
+      <director>Anderson Jesus da Silva</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012190100 -0300" stop="20211012195400 -0300" channel="Discovery Turbo">
+    <title lang="pt">Os Reis da Sucata</title>
+    <desc lang="pt">Quando Andy Cohen tenta transformar uma velha picape Dodge em uma perua vintage, Bobby não se conforma. Para acalmá-lo, Chris e Jeff precisam tornar o carro lucrativo. Depois, Andy compra um caminhão militar.(n)</desc>
+    <credits>
+      <director>Candace Beam</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Competição</category>
+  </programme>
+  <programme start="20211012195400 -0300" stop="20211012204600 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">A Ekstensive finaliza o rebaixamento de uma Denali 2020 de fábrica e, como toque final, Bill faz alto-falantes para a caçamba. Bill personaliza uma Polaris Ranger 2019 para uma família atingida por um tornado.(n)</desc>
+    <credits>
+      <director>Daniel Miller</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012204600 -0300" stop="20211012213700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Carros Irados</title>
+    <desc lang="pt">Tad Leach está ansioso para ter o carro dos sonhos reformado pela Kindig It Design. Um raro Lincoln Continental 1955 é o novo desafio da oficina. Um raro McLaren 1969 ganha novos estofados.(n)</desc>
+    <credits>
+      <director>Nick Meagher</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012213700 -0300" stop="20211012222900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Joias Sobre Rodas</title>
+    <desc lang="pt">Mike encontra um Camaro segunda geração e pretende transformá-lo num carro de touring. Edd começa instalando um kit profissional, mas precisa encontrar peças substitutas para o motor.(n)</desc>
+    <credits>
+      <director>Henric Nieminen</director>
+      <actor>Mike Brewer</actor>
+      <actor>Edd China</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211012222900 -0300" stop="20211012232200 -0300" channel="Discovery Turbo">
+    <title lang="pt">Invasão de Garagens</title>
+    <desc lang="pt">Dois Chevrolets pau pra toda obra precisam de muito trabalho para voltar à ativa.(n)</desc>
+    <credits>
+      <actor>Ron Gregurich</actor>
+      <actor>Cy Kellogg</actor>
+      <actor>Jeff King</actor>
+      <actor>Bruno Massel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20211012232200 -0300" stop="20211013001400 -0300" channel="Discovery Turbo">
+    <title lang="pt">Máquinas Muito Loucas</title>
+    <desc lang="pt">A equipe da WelderUp se esforça para terminar o Gasser anos 70, mas encontra vários problemas durante os testes. Merlon planeja surpreender Steve com um presente: uma motocicleta que perdeu quando era garoto.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
   </programme>
 </tv>
