@@ -47,6 +47,7 @@
   </channel>
   <channel id="HBO Xtreme">
     <display-name lang="pt">HBO Xtreme</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/map.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="HBO Plus">
@@ -4010,5 +4011,499 @@
     </credits>
     <category lang="pt">Séries</category>
     <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211017021500 -0300" stop="20211017035800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Ninja Assassino</title>
+    <desc lang="pt">Treinado desde criança para se tornar um assassino letal, Raizo deu as costas ao clã Ozunu que o criou e que agora busca vingança por seus sanguinários assassinatos.(n)</desc>
+    <credits>
+      <director>James McTeigue</director>
+      <actor>Rain</actor>
+      <actor>Naomie Harris</actor>
+      <actor>Rick Yune</actor>
+      <actor>Randall Duk Kim</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017035800 -0300" stop="20211017060000 -0300" channel="HBO Xtreme">
+    <title lang="pt">A Arte da Guerra</title>
+    <desc lang="pt">Wesley Snipes é o agente de segurança Shaw, o único homem capaz de deter um grupo de terroristas que ameaçam destruir a ONU.(n)</desc>
+    <credits>
+      <director>Christian Duguay</director>
+      <actor>Wesley Snipes</actor>
+      <actor>Anne Archer</actor>
+      <actor>Maury Chaykin</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017060000 -0300" stop="20211017072700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Busca Explosiva</title>
+    <desc lang="pt">Agente da Interpol, Simon Jericho, é escalado para uma arriscada missão no Sul da França: impedir um sequestro planejado por poderoso e perigoso traficante de armas.(n)</desc>
+    <credits>
+      <director>Kevin Elders</director>
+      <actor>Dennis Rodman</actor>
+      <actor>Dane Cook</actor>
+      <actor>Natalia Cigliuti</actor>
+      <actor>Ricky Harris</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211017072700 -0300" stop="20211017090600 -0300" channel="HBO Xtreme">
+    <title lang="pt">A Hora do Rush</title>
+    <desc lang="pt">Logo após o fim do controle britânico sobre Hong Kong, o cônsul Han está em Los Angeles e sua filha de 11 anos Soo Yung é seqüestrada.(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Jackie Chan</actor>
+      <actor>Chris Tucker</actor>
+      <actor>Elizabeth Peña</actor>
+      <actor>Tom Wilkinson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017090600 -0300" stop="20211017103700 -0300" channel="HBO Xtreme">
+    <title lang="pt">A Hora do Rush 2</title>
+    <desc lang="pt">Carter, o falastrão detetive americano, e Lee, o dedicado inspetor asiático, juntam suas forças novamente para investigar os segredos por trás da explosão de uma bomba na embaixada americana em Hong Kong.(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Jackie Chan</actor>
+      <actor>Chris Tucker</actor>
+      <actor>John Lone</actor>
+      <actor>Ziyi Zhang</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017103700 -0300" stop="20211017120900 -0300" channel="HBO Xtreme">
+    <title lang="pt">A Hora do Rush 3</title>
+    <desc lang="pt">Em Los Angeles, o embaixador Han está decidido a revelar o endereço da maior organização criminosa chinesa, mas sofre um atentado. O detetive Carter e o inspetor Lee acabam se envolvendo no caso e vão enfrentar a perigosa organização em Paris.(n)</desc>
+    <credits>
+      <director>Brett Ratner</director>
+      <actor>Chris Tucker</actor>
+      <actor>Jackie Chan</actor>
+      <actor>Hiroyuki Sanada</actor>
+      <actor>Youki Kudoh</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211017120900 -0300" stop="20211017131000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Back On The Record with Bob Costas</title>
+    <desc lang="pt">O lendário locutor Bob Costas discute as questões mais atuais com quem é notícia no esporte.(n)</desc>
+    <credits>
+      <actor>Bomani Jones</actor>
+      <actor>Bob Costas</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20211017131000 -0300" stop="20211017145200 -0300" channel="HBO Xtreme">
+    <title lang="pt">Crime Sem Saída</title>
+    <desc lang="pt">Chadwick Boseman interpreta um detetive da polícia que bloqueia todas as saídas de NY para uma brutal corrida contra o relógio.(n)</desc>
+    <credits>
+      <director>Brian Kirk</director>
+      <actor>Chadwick Boseman</actor>
+      <actor>Sienna Miller</actor>
+      <actor>J.K. Simmons</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017145200 -0300" stop="20211017164600 -0300" channel="HBO Xtreme">
+    <title lang="pt">Hanna</title>
+    <desc lang="pt">Hanna é uma adolescente que vive desde criança isolada com o pai em uma inóspita floresta. Erik, o pai, é um ex-agente da CIA que treinou Hanna desde sempre para ser uma infalível assassina.(n)</desc>
+    <credits>
+      <director>Joe Wright</director>
+      <actor>Eric Bana</actor>
+      <actor>Cate Blanchett</actor>
+      <actor>Tim Beckmann</actor>
+      <actor>Saoirse Ronan</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017164600 -0300" stop="20211017183200 -0300" channel="HBO Xtreme">
+    <title lang="pt">Rainhas do Crime</title>
+    <desc lang="pt">Três donas de casa de Hell's Kitchen, Nova York, tomam as rédeas da máfia irlandesa quando seus maridos vão parar na prisão.(n)</desc>
+    <credits>
+      <director>Andrea Berloff</director>
+      <actor>Melissa McCarthy</actor>
+      <actor>Tiffany Haddish</actor>
+      <actor>Elisabeth Moss</actor>
+      <actor>Domhnall Gleeson</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017183200 -0300" stop="20211017200500 -0300" channel="HBO Xtreme">
+    <title lang="pt">Só Deus Perdoa</title>
+    <desc lang="pt">Julian é um conhecido traficante em Bangkok que está sofrendo com a morte do irmão. Para vingá-lo, começa uma batalha contra os mafiosos locais. Especialistas em artes marciais, mercercários e até sua mãe, podem virar os inimigos.(n)</desc>
+    <credits>
+      <director>Nicolas Winding Refn</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Gordon Brown</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Vithaya Pansringarm</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211017200500 -0300" stop="20211017220000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Caça Aos Gângsteres</title>
+    <desc lang="pt">1949, Los Angeles. Quando o perigoso rei da máfia Mickey Cohen muda para a cidade, uma equipe secreta formada por policiais decide executar um plano para acabar com Cohen e sua crescente rede de atividades criminosas.(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Sean Penn</actor>
+      <actor>Holt McCallany</actor>
+      <actor>Wade Williams</actor>
+      <actor>James Landry Hébert</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017220000 -0300" stop="20211017234300 -0300" channel="HBO Xtreme">
+    <title lang="pt">Crime Sem Saída</title>
+    <desc lang="pt">Chadwick Boseman interpreta um detetive da polícia que bloqueia todas as saídas de NY para uma brutal corrida contra o relógio.(n)</desc>
+    <credits>
+      <director>Brian Kirk</director>
+      <actor>Chadwick Boseman</actor>
+      <actor>Sienna Miller</actor>
+      <actor>J.K. Simmons</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211017234300 -0300" stop="20211018015500 -0300" channel="HBO Xtreme">
+    <title lang="pt">Conexão Escobar</title>
+    <desc lang="pt">Robert Mazur é um agente infiltrado no negócio de cocaína chefiado por Pablo Escobar. Sob o disfarce de Bob Musella, o agente se arrisca para tentar incriminar a rede de traficantes e banqueiros que mantém as operações do cartel.(n)</desc>
+    <credits>
+      <director>Brad Furman</director>
+      <actor>Bryan Cranston</actor>
+      <actor>Leanne Best</actor>
+      <actor>Daniel Mays</actor>
+      <actor>Tom Vaughan-Lawlor</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211018015500 -0300" stop="20211018033700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Tudo pela Arte</title>
+    <desc lang="pt">Claes Bang e Mick Jagger estrelam este thriller sobre um crítico de arte que recebe uma oferta de um marchand para roubar um quadro.(n)</desc>
+    <credits>
+      <director>Giuseppe Capotondi</director>
+      <actor>Claes Bang</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Mick Jagger</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211018033700 -0300" stop="20211018060000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Questão de Honra</title>
+    <desc lang="pt">Advogado da Marinha é incumbido de descobrir a verdade sobre a morte de jovem soldado numa base americana no Caribe.(n)</desc>
+    <credits>
+      <director>Rob Reiner</director>
+      <actor>Tom Cruise</actor>
+      <actor>Jack Nicholson</actor>
+      <actor>Demi Moore</actor>
+      <actor>Kevin Bacon</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211018060000 -0300" stop="20211018074000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Loucademia de Polícia</title>
+    <desc lang="pt">Grupo de trapalhões entra para a Academia de Polícia de uma grande cidade, criando muita confusão e situações engraçadíssimas.(n)</desc>
+    <credits>
+      <director>Hugh Wilson</director>
+      <actor>Steve Guttenberg</actor>
+      <actor>G.W. Bailey</actor>
+      <actor>George Gaynes</actor>
+      <actor>Kim Catrall</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211018074000 -0300" stop="20211018091600 -0300" channel="HBO Xtreme">
+    <title lang="pt">Luke no Afeganistão</title>
+    <desc lang="pt">Um jornalista decide pedir demissão depois que recusam sua reportagem sobre as atrocidades cometidas pelos soldados canadenses no Afeganistão. Quando ele tem uma nova oportunidade para investigar o tema, percebe que a situação piorou.(n)</desc>
+    <credits>
+      <director>Mike Clattenburg</director>
+      <actor>Nick Stahl</actor>
+      <actor>Nicolas Wright</actor>
+      <actor>Stephen Lobo</actor>
+      <actor>Steve Cochrane</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211018091600 -0300" stop="20211018115300 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Último Samurai</title>
+    <desc lang="pt">Militar da guerra civil americana vai para o Japão auxiliar o imperador a deter os últimos samurais. Mas se apaixona pela cultura dos guerreiros.(n)</desc>
+    <credits>
+      <director>Edward Zwick</director>
+      <actor>Tom Cruise</actor>
+      <actor>Ken Watanabe</actor>
+      <actor>Billy Connolly</actor>
+      <actor>Tony Goldwyn</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211018115300 -0300" stop="20211018151800 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Senhor dos Anéis: O Retorno do Rei</title>
+    <desc lang="pt">Última parte da trilogia que revolucionou o gênero de fantasia e aventura. Encerrando com cenas gloriosas a jornada de Frodo e Sam para destruir o Anel.(n)</desc>
+    <credits>
+      <director>Peter Jackson</director>
+      <actor>Elijah Wood</actor>
+      <actor>Sean Astin</actor>
+      <actor>Ian McKellen</actor>
+      <actor>Ian Holm</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211018151800 -0300" stop="20211018165200 -0300" channel="HBO Xtreme">
+    <title lang="pt">No Olho do Tornado</title>
+    <desc lang="pt">Na trama, em um único dia, a cidade de Silverton é devastada por uma ocorrência sem precedentes de tornados.(n)</desc>
+    <credits>
+      <director>Steven Quale</director>
+      <actor>Richard Armitage</actor>
+      <actor>Sarah Wayne Callies</actor>
+      <actor>Matt Walsh</actor>
+      <actor>Max Deacon</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211018165200 -0300" stop="20211018183700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Do Fundo do Mar 3</title>
+    <desc lang="pt">A cientista Emma Collins enfrenta a violenta prole de um tubarão geneticamente modificado quando eles atacam um santuário ecológico.(n)</desc>
+    <credits>
+      <director>John Pogue</director>
+      <actor>Tania Raymonde</actor>
+      <actor>Nathaniel Buzolic</actor>
+      <actor>Emerson Brooks</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211018183700 -0300" stop="20211018201700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Hardcore - Missão Extrema</title>
+    <desc lang="pt">Henry é um homem que foi misteriosamente ressuscitado por sua esposa. De repente, Henry aparece na desconhecida cidade de Moscou sem se lembrar de seu passado, cercado por assassinos e com sua suposta esposa sequestrada por Akan.(n)</desc>
+    <credits>
+      <director>Ilya Naishuller</director>
+      <actor>Sharlto Copley</actor>
+      <actor>Danila Kozlovsky</actor>
+      <actor>Haley Bennett</actor>
+      <actor>Tim Roth</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211018201700 -0300" stop="20211018220000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Busca sem Limites</title>
+    <desc lang="pt">Casey Stein é um jovem americano a serviço de um gangster turco. Tendo se apaixonado por Juliette, uma bartender de saúde frágil, decide deixar para trás sua vida marginal e fazer um último roubo.(n)</desc>
+    <credits>
+      <director>Eran Creevy</director>
+      <actor>Nicholas Hoult</actor>
+      <actor>Felicity Jones</actor>
+      <actor>Anthony Hopkins</actor>
+      <actor>Ben Kingsley</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211018220000 -0300" stop="20211019000800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Enquanto planeja seu próximo trabalho, um experiente ladrão tenta controlar seus sentimentos por uma gerente de banco que está ligada a um de seus roubos anteriores, enquanto um agente da FBI quer acabar com ele e sua equipe.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jeremy Renner</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211019000800 -0300" stop="20211019023700 -0300" channel="HBO Xtreme">
+    <title lang="pt">Brooklyn: Sem Pai Nem Mãe</title>
+    <desc lang="pt">O vencedor do Globo de Ouro® Edward Norton é Lionel Essrog, um detetive privado em busca de solucionar o assassinato de seu único amigo.(n)</desc>
+    <credits>
+      <director>Edward Norton</director>
+      <actor>Edward Norton</actor>
+      <actor>Gugu Mbatha-Raw</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Willem Dafoe</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211019023700 -0300" stop="20211019043100 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Clube dos Meninos Bilionários</title>
+    <desc lang="pt">Um grupo de estudantes milionários cria um esquema de pirâmide para ficarem ainda mais ricos. Inebriados da euforia dos mercados financeiros dos anos 80, logo perdem o controle.(n)</desc>
+    <credits>
+      <director>James Cox</director>
+      <actor>Kevin Spacey</actor>
+      <actor>Emma Roberts</actor>
+      <actor>Ansel Elgort</actor>
+      <actor>Taron Egerton</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211019043100 -0300" stop="20211019060000 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Cara</title>
+    <desc lang="pt">Um agente federal precisa usar um pacato vendedor como seu testa de ferro em um plano que visa encontrar contrabandistas de armas e o assassino do seu parceiro.(n)</desc>
+    <credits>
+      <director>Les Mayfield</director>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Eugene Levy</actor>
+      <actor>Luke Goss</actor>
+      <actor>Susie Essman</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211019060000 -0300" stop="20211019072400 -0300" channel="HBO Xtreme">
+    <title lang="pt">30 Minutos ou Menos</title>
+    <desc lang="pt">Chet, um professor de história do ensino fundamental, e Nick, um entregador de pizza, são forçados a roubar um banco quando um deles é preso a um colete de explosivos.(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Fred Ward</actor>
+      <actor>Nick Swardson</actor>
+      <actor>Jesse Eisenberg</actor>
+      <actor>Danny McBride</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211019072400 -0300" stop="20211019090800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Beijos e Tiros</title>
+    <desc lang="pt">Ladrão fracassado invade um teste de atores e acaba sendo enviado para Hollywood para trabalhar. Lá ele participa de um "laboratório" com um detetive particular para um papel e se vê em meio a uma trama que envolve um assassinato.(n)</desc>
+    <credits>
+      <director>Shane Black</director>
+      <actor>Robert Downey Jr.</actor>
+      <actor>Val Kilmer</actor>
+      <actor>Michelle Monaghan</actor>
+      <actor>Corbin Bernsen</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211019090800 -0300" stop="20211019104800 -0300" channel="HBO Xtreme">
+    <title lang="pt">Tudo pela Arte</title>
+    <desc lang="pt">Claes Bang e Mick Jagger estrelam este thriller sobre um crítico de arte que recebe uma oferta de um marchand para roubar um quadro.(n)</desc>
+    <credits>
+      <director>Giuseppe Capotondi</director>
+      <actor>Claes Bang</actor>
+      <actor>Elizabeth Debicki</actor>
+      <actor>Mick Jagger</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211019104800 -0300" stop="20211019124200 -0300" channel="HBO Xtreme">
+    <title lang="pt">Segredos Oficiais</title>
+    <desc lang="pt">Keira Knightley é Katharine Gun, uma agente de inteligência que vazou à imprensa um plano ilegal para sancionar a invasão do Iraque em 2003.(n)</desc>
+    <credits>
+      <director>Gavin Hood</director>
+      <actor>Keira Knightley</actor>
+      <actor>Matt Smith</actor>
+      <actor>Matthew Goode</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Biografia</category>
+  </programme>
+  <programme start="20211019124200 -0300" stop="20211019143800 -0300" channel="HBO Xtreme">
+    <title lang="pt">O Jogo da Imitação</title>
+    <desc lang="pt">Alan Turing é um gênio matemático. Durante a Segunda Guerra Mundial tem a missão de decifrar os códigos que a Alemanha nazista emite com sua máquina Enigma. Turing brilhará por suas realizações, mas logo será ofuscado por uma socIedade opressiva.(n)</desc>
+    <credits>
+      <director>Morten Tyldum</director>
+      <actor>Benedict Cumberbatch</actor>
+      <actor>Keira Knightley</actor>
+      <actor>Matthew Goode</actor>
+      <actor>Rory Kinnear</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211019143800 -0300" stop="20211019165900 -0300" channel="HBO Xtreme">
+    <title lang="pt">Até o Último Homem</title>
+    <desc lang="pt">Um olhar para a vida de Desmond Doss que, apesar de ter uma forte convicção para não usar armas, se alistou no exército durante a Segunda Guerra Mundial como médico.(n)</desc>
+    <credits>
+      <director>Mel Gibson</director>
+      <actor>Andrew Garfield</actor>
+      <actor>Hugo Weaving</actor>
+      <actor>Rachel Griffiths</actor>
+      <actor>Teresa Palmer</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211019165900 -0300" stop="20211019180000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Back On The Record with Bob Costas</title>
+    <desc lang="pt">O lendário locutor Bob Costas discute as questões mais atuais com quem é notícia no esporte.(n)</desc>
+    <credits>
+      <actor>Bomani Jones</actor>
+      <actor>Bob Costas</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20211019180000 -0300" stop="20211019202600 -0300" channel="HBO Xtreme">
+    <title lang="pt">Brooklyn: Sem Pai Nem Mãe</title>
+    <desc lang="pt">O vencedor do Globo de Ouro® Edward Norton é Lionel Essrog, um detetive privado em busca de solucionar o assassinato de seu único amigo.(n)</desc>
+    <credits>
+      <director>Edward Norton</director>
+      <actor>Edward Norton</actor>
+      <actor>Gugu Mbatha-Raw</actor>
+      <actor>Alec Baldwin</actor>
+      <actor>Willem Dafoe</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211019202600 -0300" stop="20211019220000 -0300" channel="HBO Xtreme">
+    <title lang="pt">Só Deus Perdoa</title>
+    <desc lang="pt">Julian é um conhecido traficante em Bangkok que está sofrendo com a morte do irmão. Para vingá-lo, começa uma batalha contra os mafiosos locais. Especialistas em artes marciais, mercercários e até sua mãe, podem virar os inimigos.(n)</desc>
+    <credits>
+      <director>Nicolas Winding Refn</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Gordon Brown</actor>
+      <actor>Kristin Scott Thomas</actor>
+      <actor>Vithaya Pansringarm</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211019220000 -0300" stop="20211019235400 -0300" channel="HBO Xtreme">
+    <title lang="pt">Caça Aos Gângsteres</title>
+    <desc lang="pt">1949, Los Angeles. Quando o perigoso rei da máfia Mickey Cohen muda para a cidade, uma equipe secreta formada por policiais decide executar um plano para acabar com Cohen e sua crescente rede de atividades criminosas.(n)</desc>
+    <credits>
+      <director>Ruben Fleischer</director>
+      <actor>Sean Penn</actor>
+      <actor>Holt McCallany</actor>
+      <actor>Wade Williams</actor>
+      <actor>James Landry Hébert</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ação</category>
+  </programme>
+  <programme start="20211019235400 -0300" stop="20211020015900 -0300" channel="HBO Xtreme">
+    <title lang="pt">Atração Perigosa</title>
+    <desc lang="pt">Enquanto planeja seu próximo trabalho, um experiente ladrão tenta controlar seus sentimentos por uma gerente de banco que está ligada a um de seus roubos anteriores, enquanto um agente da FBI quer acabar com ele e sua equipe.(n)</desc>
+    <credits>
+      <director>Ben Affleck</director>
+      <actor>Ben Affleck</actor>
+      <actor>Rebecca Hall</actor>
+      <actor>Jon Hamm</actor>
+      <actor>Jeremy Renner</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
   </programme>
 </tv>
