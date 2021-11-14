@@ -747,32 +747,40 @@
   </channel>
   <channel id="TV Brasil">
     <display-name lang="pt">TV Brasil</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ted.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Brasil Central">
     <display-name lang="pt">TV Brasil Central</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tbc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Cultura">
     <display-name lang="pt">TV Cultura</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cul.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Gazeta">
     <display-name lang="pt">TV Gazeta</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gaz.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Globo SP">
     <display-name lang="pt">TV Globo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/grd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Prime Box Brasil">
     <display-name lang="pt">Prime Box Brasil</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/bq7.gif" />
   </channel>
   <channel id="Star Hits 1">
     <display-name lang="pt">Star Hits 1</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/fo1.gif" />
   </channel>
   <channel id="Star Hits 2">
     <display-name lang="pt">Star HIts 2</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/foa.gif" />
   </channel>
   <programme start="20211113200500 -0300" stop="20211113220000 -0300" channel="AMC">
     <title lang="pt">Código de Conduta</title>
@@ -46039,5 +46047,2733 @@
     </credits>
     <category lang="pt">Variedades</category>
     <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211113213000 -0300" stop="20211113220000 -0300" channel="TV Brasil">
+    <title lang="pt">Resumo Brasil</title>
+    <desc lang="pt">Ainda mais informações para você colocar os assuntos em dia. O noticiário Resumo Brasil mostra, as notícias que foram destaque no Brasil em Dia, Repórter Brasil Tarde e Repórter Brasil ao longo da semana.(n)</desc>
+    <credits>
+      <actor>Priscila Mendes</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211113220000 -0300" stop="20211113223000 -0300" channel="TV Brasil">
+    <title lang="pt">Segundo Take</title>
+    <desc lang="pt">O diretor Eduardo Nunes convida os atores André Guerreiro e Djin Sganzerla para viverem Cristina e Luisinho, personagens do filme "Noite Vazia", de Walter Hugo Khouri, lançado em 1964.(n)</desc>
+    <credits>
+      <director>Julia de Simone</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211113223000 -0300" stop="20211113233000 -0300" channel="TV Brasil">
+    <title lang="pt">Todas as Bossas</title>
+    <desc lang="pt">O samba invade o palco do Todas as Bossas e mostra porque é o gênero que encanta nosso Brasil e o mundo. Desde seus primeiros passos, no início do século XX, o samba falou de tudo e mais um pouco.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211113233000 -0300" stop="20211114004500 -0300" channel="TV Brasil">
+    <title lang="pt">Cena Instrumental</title>
+    <desc lang="pt">O Cena Instrumental abre os horizontes da música na TV aberta, mostrando toda a inventividade, potência e criatividade desse estilo que não se prende a gêneros ou a rótulos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114004500 -0300" stop="20211114014500 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">A jornada bíblica de Moisés, desde a escravidão do povo hebreu no Egito até o êxodo em direção à terra prometida, num enredo repleto de referências aos livros Êxodo, Levítico, Números e Deuteronômio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20211114014500 -0300" stop="20211114024500 -0300" channel="TV Brasil">
+    <title lang="pt">Ícones da Vida Selvagem</title>
+    <desc lang="pt">Algumas espécies icônicas chamam de lar a vasta biodiversidade da África. Das comunidades de babuínos-sagrados aos graciosos rebanhos de gazelas, vamos conhecer os mais extraordinários animais do continente.(n)</desc>
+    <credits>
+      <actor>Jack Spencer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114024500 -0300" stop="20211114034500 -0300" channel="TV Brasil">
+    <title lang="pt">Imensidão Azul</title>
+    <desc lang="pt">Para vislumbrar algumas das cenas mais espetaculares do planeta, você precisa mergulhar fundo nos oceanos. Viaje por jardins submarinos exuberantes, cheios de cenários vibrantes e de criaturas de outro mundo.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114034500 -0300" stop="20211114041500 -0300" channel="TV Brasil">
+    <title lang="pt">O Vigilante Rodoviário</title>
+    <desc lang="pt">O vigilante rodoviário Carlos enfrenta todos os tipos de criminosos, sempre acompanhado pelo pastor alemão Lobo, um cachorro muito argucioso no combate ao crime.(n)</desc>
+    <credits>
+      <director>Ary Fernandes</director>
+      <actor>Lobo</actor>
+      <actor>Carlos Miranda</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211114041500 -0300" stop="20211114044000 -0300" channel="TV Brasil">
+    <title lang="pt">O Vigilante Rodoviário</title>
+    <desc lang="pt">O vigilante rodoviário Carlos enfrenta todos os tipos de criminosos, sempre acompanhado pelo pastor alemão Lobo, um cachorro muito argucioso no combate ao crime.(n)</desc>
+    <credits>
+      <director>Ary Fernandes</director>
+      <actor>Lobo</actor>
+      <actor>Carlos Miranda</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211114044000 -0300" stop="20211114050500 -0300" channel="TV Brasil">
+    <title lang="pt">O Vigilante Rodoviário</title>
+    <desc lang="pt">O vigilante rodoviário Carlos enfrenta todos os tipos de criminosos, sempre acompanhado pelo pastor alemão Lobo, um cachorro muito argucioso no combate ao crime.(n)</desc>
+    <credits>
+      <director>Ary Fernandes</director>
+      <actor>Lobo</actor>
+      <actor>Carlos Miranda</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211114050500 -0300" stop="20211114053000 -0300" channel="TV Brasil">
+    <title lang="pt">O Vigilante Rodoviário</title>
+    <desc lang="pt">O vigilante rodoviário Carlos enfrenta todos os tipos de criminosos, sempre acompanhado pelo pastor alemão Lobo, um cachorro muito argucioso no combate ao crime.(n)</desc>
+    <credits>
+      <director>Ary Fernandes</director>
+      <actor>Lobo</actor>
+      <actor>Carlos Miranda</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211114053000 -0300" stop="20211114060000 -0300" channel="TV Brasil">
+    <title lang="pt">Conhecendo Museus</title>
+    <desc lang="pt">A série Conhecendo Museus é um convite ao passeio pelos museus brasileiros, por meio da câmera de TV.(n)</desc>
+    <credits>
+      <actor>Denise Vieira Pinto</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114060000 -0300" stop="20211114063000 -0300" channel="TV Brasil">
+    <title lang="pt">Boto Fé</title>
+    <desc lang="pt">Retratos genuínos de algumas das religiões mais praticadas no Brasil. Cada crença é revelada pela experiência pessoal de seus fiéis e por religiosos, levando nossa compreensão para além dos clichês.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114063000 -0300" stop="20211114070000 -0300" channel="TV Brasil">
+    <title lang="pt">Reencontro</title>
+    <desc lang="pt">Programa religioso idealizado em 1967 pelo pastor Nilson do Amaral Fanini.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114070000 -0300" stop="20211114080000 -0300" channel="TV Brasil">
+    <title lang="pt">Palavras de Vida</title>
+    <desc lang="pt">Programa religioso.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114080000 -0300" stop="20211114090000 -0300" channel="TV Brasil">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Com 1h de duração, a Santa Missa é uma celebração religiosa destinada a dar conforto espiritual aos doentes, presos, idosos e aos que não podem se deslocar até uma igreja, por motivos físicos e outras razões.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114090000 -0300" stop="20211114103000 -0300" channel="TV Brasil">
+    <title lang="pt">Cine Doc</title>
+    <desc lang="pt">Uma faixa para aqueles filmes que têm como compromisso a exploração da realidade, como cinebiografias, musicais, vida selvagem e reportagens. Porque nem só de ficção vive o cinema.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20211114103000 -0300" stop="20211114105500 -0300" channel="TV Brasil">
+    <title lang="pt">O Poder dos Esportes</title>
+    <desc lang="pt">O esporte é a atividade de lazer mais popular do mundo, capaz de conectar e inspirar as pessoas de todas as idades, posições e origens sociais. Vamos em busca de pessoas que sucumbiram ao fascínio do esporte.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114105500 -0300" stop="20211114130000 -0300" channel="TV Brasil">
+    <title lang="pt">Liga Nacional de Futsal</title>
+    <desc lang="pt">A Liga Nacional de Futsal 2021 está de volta e você confere os principais confrontos ao vivo na TV Brasil.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol de Salão</category>
+  </programme>
+  <programme start="20211114130000 -0300" stop="20211114140000 -0300" channel="TV Brasil">
+    <title lang="pt">Samba na Gamboa</title>
+    <desc lang="pt">O sambista símbolo da novíssima geração do samba, Diogo Nogueira, recebe convidados para noitadas do samba, canta músicas de seu próprio repertório, lançamentos e clássicos. A série busca histórias, memórias e casos da nossa música mais popular.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114140000 -0300" stop="20211114160000 -0300" channel="TV Brasil">
+    <title lang="pt">Sessão Família</title>
+    <desc lang="pt">Uma faixa para toda família sentar junto e curtir sem preocupações, com conteúdos adequados a uma ótima diversão para todos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20211114160000 -0300" stop="20211114170000 -0300" channel="TV Brasil">
+    <title lang="pt">Cine Nacional</title>
+    <desc lang="pt">Em destaque a produção nacional (ficção e documentário), exibindo filmes de várias épocas e gêneros.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20211114170000 -0300" stop="20211114180000 -0300" channel="TV Brasil">
+    <title lang="pt">Cine Nacional</title>
+    <desc lang="pt">Em destaque a produção nacional (ficção e documentário), exibindo filmes de várias épocas e gêneros.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20211114180000 -0300" stop="20211114183000 -0300" channel="TV Brasil">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114183000 -0300" stop="20211114190000 -0300" channel="TV Brasil">
+    <title lang="pt">Brasil Visto de Cima</title>
+    <desc lang="pt">Através de imagens feitas em helicópteros e drones, surgem ângulos, visões e reflexões sobre os encantos, as belezas, as curiosidades e as contradições de um país imenso e cheio de surpresas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114190000 -0300" stop="20211114193000 -0300" channel="TV Brasil">
+    <title lang="pt">Meu Pedaço Do Brasil</title>
+    <desc lang="pt">A cada episódio, uma cidade turística do país e suas principais atrações são apresentados através do olhar de moradores e guias de turismo locais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Turismo</category>
+  </programme>
+  <programme start="20211114193000 -0300" stop="20211114200000 -0300" channel="TV Brasil">
+    <title lang="pt">Brasil em Pauta</title>
+    <desc lang="pt">O programa traz um representante do Governo Federal para tratar de temas ligados direta ou indiretamente à vida do cidadão. O objetivo é ampliar o acesso da população à informações sobre projetos e ações do Governo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211114200000 -0300" stop="20211114203000 -0300" channel="TV Brasil">
+    <title lang="pt">Caminhos da Reportagem</title>
+    <desc lang="pt">Jornalistas viajam pelo país e pelo mundo atrás de grandes histórias, trazendo ao telespectador uma visão diferente, instigante e complexa de cada um dos assuntos escolhidos.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114203000 -0300" stop="20211114210000 -0300" channel="TV Brasil">
+    <title lang="pt">Os Dez Mandamentos</title>
+    <desc lang="pt">A jornada bíblica de Moisés, desde a escravidão do povo hebreu no Egito até o êxodo em direção à terra prometida, num enredo repleto de referências aos livros Êxodo, Levítico, Números e Deuteronômio.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20211114210000 -0300" stop="20211114220000 -0300" channel="TV Brasil">
+    <title lang="pt">No Mundo da Bola</title>
+    <desc lang="pt">Versão televisiva do programa de rádio homônimo, que teve início na década de 1930, na Rádio Nacional do Rio de Janeiro, e fez história no jornalismo esportivo radiofônico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20211114220000 -0300" stop="20211114223000 -0300" channel="TV Brasil">
+    <title lang="pt">O Vigilante Rodoviário</title>
+    <desc lang="pt">O vigilante rodoviário Carlos enfrenta todos os tipos de criminosos, sempre acompanhado pelo pastor alemão Lobo, um cachorro muito argucioso no combate ao crime.(n)</desc>
+    <credits>
+      <director>Ary Fernandes</director>
+      <actor>Lobo</actor>
+      <actor>Carlos Miranda</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20211114223000 -0300" stop="20211114233000 -0300" channel="TV Brasil">
+    <title lang="pt">Partituras</title>
+    <desc lang="pt">Partituras é um programa dedicado unicamente à música clássica, que busca popularizar o gênero no país, sendo uma referência para os amantes do estilo e contribuindo para a formação de novas plateias.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114233000 -0300" stop="20211115010000 -0300" channel="TV Brasil">
+    <title lang="pt">Teatros no Brasil</title>
+    <desc lang="pt">A história dos teatros brasileiros que passaram pelo teste do tempo e as transformações culturais do país.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211113210000 -0300" stop="20211113220000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Jornal da Cultura</title>
+    <desc lang="pt">No ar de segunda a sábado, o Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211113220000 -0300" stop="20211113223000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Conversa Piada</title>
+    <desc lang="pt">Em cada edição do Conversa Piada, os quatro humoristas farão uma análise bem humorada dos acontecimentos ou dos temas que estão em pauta no país e no mundo.(n)</desc>
+    <credits>
+      <actor>Beto Silva</actor>
+      <actor>Claudio Manoel</actor>
+      <actor>Helio de la Peña</actor>
+      <actor>Hubert Aranha</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211113223000 -0300" stop="20211113230000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Último Passo</title>
+    <desc lang="pt">Programa Último Passo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211113230000 -0300" stop="20211114003000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Clássicos</title>
+    <desc lang="pt">No Clássicos, o telespectador entra em contato com as mais importantes orquestras do mundo, sempre dirigidas por maestros famosos e protagonizadas por solistas renomados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114003000 -0300" stop="20211114010000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Minidocs</title>
+    <desc lang="pt">Entre ensaio e entrevista, o artista, filho de músicos, conta como foi natural sua caminhada nesse meio, de 5 a seco a carreira solo. Revelando também o que pensa sobre música, composições e futuro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114010000 -0300" stop="20211114024500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Roda Viva</title>
+    <desc lang="pt">Há mais de 30 anos no ar, é um dos mais tradicionais programas de entrevista da TV brasileira.(n)</desc>
+    <credits>
+      <actor>Vera Magalhães</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211114024500 -0300" stop="20211114034500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Vox Populi</title>
+    <desc lang="pt">O programa apresenta entrevistas produzidas entre 1977 e 1986, que traz convidados vitais para entender o cenário brasileiro destes anos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114034500 -0300" stop="20211114044500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Cultura Memória</title>
+    <desc lang="pt">Quem passa pela vida e não tem um ideal pelo qual possa lutar e queira lutar está sujeito à pecha de mediocridade porque não vive, passa apenas pela vida.(n)</desc>
+    <credits>
+      <director>Andrea Glória</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114044500 -0300" stop="20211114053000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Grandes Cursos Cultura na TV</title>
+    <desc lang="pt">Esta serie tem por objetivo aproximar,de maneira pratica e objetiva, o telespectador de assuntos restritos aos meios a- cademicos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114053000 -0300" stop="20211114060000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Especial Cultura Meio Ambiente</title>
+    <desc lang="pt">Série sobre o meio ambiente no mundo. Os documentários são de denúncia dos impactos da atividade humana no ecossistema planetário.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114060000 -0300" stop="20211114063000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Vamos Pedalar</title>
+    <desc lang="pt">O programa Vamos Pedalar vai retratar o dia a dia de quem usa a bicicleta na cidade, vai contar histórias, falar sobre manutenção, roteiros de passeios e curiosidades.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211114063000 -0300" stop="20211114070000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Saúde Brasil</title>
+    <desc lang="pt">Além de orientação básica, o programa desmistifica preconceitos e mitos que envolvem várias doenças.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20211114070000 -0300" stop="20211114080000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Viola, Minha Viola</title>
+    <desc lang="pt">Programa tradicional da TV Cultura que apresenta músicos, duplas e grupos que preservam a cultura caipira.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114080000 -0300" stop="20211114090000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Missa de Aparecida</title>
+    <desc lang="pt">A TV Cultura transmite ao vivo a Missa de Aparecida, diretamente do Santuário Nacional em Aparecida do Norte (SP).(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114090000 -0300" stop="20211114100000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Sr. Brasil</title>
+    <desc lang="pt">Sr. Brasil, apresentado por Rolando Boldrin, abre espaço somente para as manifestações da cultura brasileira. A seleção musical leva em conta toda a diversidade de temas e ritmos do povo brasileiro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114100000 -0300" stop="20211114110000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Terra Brasil Central</title>
+    <desc lang="pt">Em cada episódio, especialistas falam sobre as características de cada região e a riqueza da fauna e flora locais.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20211114110000 -0300" stop="20211114113000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Memória Esporte Clube</title>
+    <desc lang="pt">A série exibirá grandes jogos e decisões de campeonatos, além de entrevistas com grandes personagens do esporte brasileiro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114113000 -0300" stop="20211114123000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Mercedes Benz Challenger (Ao vivo)</title>
+    <desc lang="pt">O sucesso adquirido pela "Mercedes-Benz Challenge", desde o seu início em 2011, continuou a ser mantido nas temporadas subsequentes, entretanto, o desafio estava lançado "manter o sucesso adquirido.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Automobilismo</category>
+  </programme>
+  <programme start="20211114123000 -0300" stop="20211114124500 -0300" channel="TV Brasil Central">
+    <title lang="pt">TBC Memória</title>
+    <desc lang="pt">Experiência histórica de personagens importantes para o desenvolvimento de Goiás em diversas áreas.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114124500 -0300" stop="20211114130000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Peppa Pig</title>
+    <desc lang="pt">Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.(n)</desc>
+    <credits>
+      <director>Neville Astley</director>
+      <director>Mark Baker.</director>
+      <actor>Morwenna Banks</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Lily Snowden-Fine</actor>
+      <actor>Andy Hamilton</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114130000 -0300" stop="20211114131500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Kid &amp; Cats</title>
+    <desc lang="pt">Kid-e-Cats é uma produção russa e inédita em TV aberta no Brasil. No enredo, a história de vida, relacionamentos e aventuras de três gatinhos: Cookie, Pudding e sua irmãzinha Candy.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114131500 -0300" stop="20211114133000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplendido Reino de Chocolândia. O programa prioriza a diversidade e a prevenção do bullying.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114133000 -0300" stop="20211114134500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Ricky Zoom</title>
+    <desc lang="pt">Construído para correr, Ricky Zoom é uma pequena motocicleta de resgate vermelha que compartilha suas experiências com seus amigos. Juntos, eles transformam tudo em uma grande aventura.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114134500 -0300" stop="20211114140000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Rev &amp; Roll</title>
+    <desc lang="pt">Rev &amp; Roll conta a história de Rev e seu melhor amigo, Rumble - um caminhão poderoso e ambicioso com personalidade de filhote.(n)</desc>
+    <credits>
+      <director>Rich Johnson</director>
+      <actor>Ashleigh Ball</actor>
+      <actor>Brian Drummond</actor>
+      <actor>Tabitha St. Germain</actor>
+      <actor>Rebecca Husain</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114140000 -0300" stop="20211114141500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Bubu e as Corujinhas</title>
+    <desc lang="pt">A Bubu é curiosa? Do que será que ela gosta? Ora bolas, carambolas! Descubra isso e muito mais sobre a corujinha Bubu.(n)</desc>
+    <credits>
+      <director>Bruna Biasotto</director>
+      <actor>Clarice Espíndola</actor>
+      <actor>Luciana Ramanzini</actor>
+      <actor>Mariana Elisabetsky</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114141500 -0300" stop="20211114143000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Galinha Pintadinha Mini</title>
+    <desc lang="pt">Baseado no clássico musical para bebês e crianças, Galinha Pintadinha Mini traz histórias super divertidas, atividades educativas e conteúdo musical que agrada os pequenos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211114143000 -0300" stop="20211114150000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Thomas e Seus Amigos</title>
+    <desc lang="pt">Na Ilha de Sodor, Thomas, uma locomotiva azul, mora e apronta suas travessuras junto com seus amigos.(n)</desc>
+    <credits>
+      <director>David Mitton</director>
+      <actor>Ringo Starr</actor>
+      <actor>Michael Angelis</actor>
+      <actor>George Carlin</actor>
+      <actor>Alec Baldwin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114150000 -0300" stop="20211114151500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Vivi Viravento</title>
+    <desc lang="pt">A animação conta a história de uma garota que viaja em busca do Viravento, lugar secreto e misterioso revelado por sua avó Rosa Rara, uma famosa escritora.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114151500 -0300" stop="20211114153000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Tromba Trem</title>
+    <desc lang="pt">Um elefante sem memória, uma tamanduá vegetariana e uma colônia de cupins que acredita ser de outro planeta viajam juntos num trem a vapor pela América Latina.(n)</desc>
+    <credits>
+      <director>José Luíz Brandão Albuquerque</director>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114153000 -0300" stop="20211114154500 -0300" channel="TV Brasil Central">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">SOS Fada Manu narra as desventuras de Manu, uma aprendiz de fada madrinha, que pretende resolver os problemas de todos os habitantes do Reino com seu guarda-chuva, que é, na verdade, uma varinha mágica.(n)</desc>
+    <credits>
+      <director>Jean Mary De Moura</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114154500 -0300" stop="20211114160000 -0300" channel="TV Brasil Central">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211114160000 -0300" stop="20211114161500 -0300" channel="TV Brasil Central">
+    <title lang="pt">Turma Da Mônica</title>
+    <desc lang="pt">Mônica, Cebolinha, Cascão, Magali e toda a turminha mais famosa dos quadrinhos te esperam aqui.(n)</desc>
+    <credits>
+      <director>Mauricio De Sousa</director>
+      <actor>Marli Bortoletto</actor>
+      <actor>Angélica Santos</actor>
+      <actor>Paulo Cavalcante</actor>
+      <actor>Elza Gonçalves</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20211114161500 -0300" stop="20211114163000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <desc lang="pt">Dos mesmos criadores de Wallace e Gromit, Shaun, o Carneiro é uma premiada série britânica de animação em massinha que acompanha Shaun e seus amigos em uma fazenda.(n)</desc>
+    <credits>
+      <director>Christopher Sadler</director>
+      <director>Richard Starzak (as Richard Goleszowski)</director>
+      <actor>John Sparkes</actor>
+      <actor>Justin Fletcher</actor>
+      <actor>Richard Webber</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114163000 -0300" stop="20211114170000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Brasil Biomas Com Richard Rasmussen</title>
+    <desc lang="pt">A série Brasil Biomas com Richard Rasmussen, irá percorrer os seis Biomas brasileiros em busca da Fauna e Flora típicas de cada região.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20211114170000 -0300" stop="20211114180000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Planeta Terra</title>
+    <desc lang="pt">Planeta Terra fala sobre as curiosidades e mistérios do meio ambiente e das civilizações em documentários produzidos por renomadas emissoras estrangeiras como a BBC e NHK e produtoras da Holanda, Suécia, Dinamarca e Inglaterra.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114180000 -0300" stop="20211114183000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt">Revista semanal especializada em meio ambiente. O programa mostra ações e pesquisas com o objetivo de contribuir para a melhoria da qualidade de vida e de informar sobre temas ambientais da atualidade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114183000 -0300" stop="20211114190000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Matéria de Capa</title>
+    <desc lang="pt">A cada semana, o público terá a chance de conhecer, entender e se aprofundar nos temas mais importantes que ocorrem no Brasil e no mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114190000 -0300" stop="20211114200000 -0300" channel="TV Brasil Central">
+    <title lang="pt">TBC Pop</title>
+    <desc lang="pt">Programa de variedades e entretenimento. O formato vai ter uma abordagem leve sobre temas variados, voltados para pessoas de todas as idades e classes sociais.(n)</desc>
+    <credits>
+      <actor>Mariana Gidrão</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114200000 -0300" stop="20211114210000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Brasil Jazz Sinfônica</title>
+    <desc lang="pt">A Orquestra Brasil Jazz Sinfônica foi criada em 1989 com o objetivo de manter viva a tradição das orquestras de rádio e TV.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114210000 -0300" stop="20211114220000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Tbc Debate</title>
+    <desc lang="pt">O objetivo é promover o diálogo entre diferentes linhas de pensamento.(n)</desc>
+    <credits>
+      <actor>Rafael Vasconcelos</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20211114220000 -0300" stop="20211114230000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Semana Brasil Central</title>
+    <desc lang="pt">Acompanhe a Semana Brasil Central.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114230000 -0300" stop="20211115000000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Boa Noite Goiás Especial</title>
+    <desc lang="pt">Entrevistas, debates, opiniões e informações. Esses serão os pontos fortes do programa Boa Noite Goiás, que vai estrear na TV Brasil Central.(n)</desc>
+    <credits>
+      <actor>Paulo Beringhs</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211113210000 -0300" stop="20211113220000 -0300" channel="TV Cultura">
+    <title lang="pt">Jornal da Cultura</title>
+    <desc lang="pt">No ar de segunda a sábado, o Jornal da Cultura apresenta os principais fatos do Brasil e do mundo, sempre com comentários de especialistas.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211113220000 -0300" stop="20211113223000 -0300" channel="TV Cultura">
+    <title lang="pt">Conversa Piada</title>
+    <desc lang="pt">Em cada edição do Conversa Piada, os quatro humoristas farão uma análise bem humorada dos acontecimentos ou dos temas que estão em pauta no país e no mundo.(n)</desc>
+    <credits>
+      <actor>Beto Silva</actor>
+      <actor>Claudio Manoel</actor>
+      <actor>Helio de la Peña</actor>
+      <actor>Hubert Aranha</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211113223000 -0300" stop="20211113230000 -0300" channel="TV Cultura">
+    <title lang="pt">Último Pouso</title>
+    <desc lang="pt">A produção conta com seis episódios dedicados às companhias aéreas que têm trajetórias que se cruzaram com a do país, numa narrativa cheia de tramas, tensões e reviravoltas entre as decisões de empresários e dos diversos governos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211113230000 -0300" stop="20211114003000 -0300" channel="TV Cultura">
+    <title lang="pt">Clássicos</title>
+    <desc lang="pt">No Clássicos, o telespectador entra em contato com as mais importantes orquestras do mundo, sempre dirigidas por maestros famosos e protagonizadas por solistas renomados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114003000 -0300" stop="20211114010000 -0300" channel="TV Cultura">
+    <title lang="pt">Minidocs</title>
+    <desc lang="pt">MINIDocs é a série que investiga onde nasce a música de cada artista.(n)</desc>
+    <credits>
+      <director>Carlos Gayotto Rolim</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114010000 -0300" stop="20211114024500 -0300" channel="TV Cultura">
+    <title lang="pt">Roda Viva</title>
+    <desc lang="pt">Há mais de 30 anos no ar, é um dos mais tradicionais programas de entrevista da TV brasileira.(n)</desc>
+    <credits>
+      <actor>Vera Magalhães</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20211114024500 -0300" stop="20211114034500 -0300" channel="TV Cultura">
+    <title lang="pt">Vox Populi</title>
+    <desc lang="pt">O programa apresenta entrevistas produzidas entre 1977 e 1986, que traz convidados vitais para entender o cenário brasileiro destes anos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114034500 -0300" stop="20211114044500 -0300" channel="TV Cultura">
+    <title lang="pt">Cultura Memória</title>
+    <desc lang="pt">Quem passa pela vida e não tem um ideal pelo qual possa lutar e queira lutar está sujeito à pecha de mediocridade porque não vive, passa apenas pela vida.(n)</desc>
+    <credits>
+      <director>Andrea Glória</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114044500 -0300" stop="20211114053000 -0300" channel="TV Cultura">
+    <title lang="pt">Grandes Cursos Cultura na TV</title>
+    <desc lang="pt">Esta serie tem por objetivo aproximar,de maneira pratica e objetiva, o telespectador de assuntos restritos aos meios a- cademicos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114053000 -0300" stop="20211114060000 -0300" channel="TV Cultura">
+    <title lang="pt">Especial Cultura Meio Ambiente</title>
+    <desc lang="pt">Série sobre o meio ambiente no mundo. Os documentários são de denúncia dos impactos da atividade humana no ecossistema planetário.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114060000 -0300" stop="20211114063000 -0300" channel="TV Cultura">
+    <title lang="pt">Vamos Pedalar</title>
+    <desc lang="pt">O programa Vamos Pedalar vai retratar o dia a dia de quem usa a bicicleta na cidade, vai contar histórias, falar sobre manutenção, roteiros de passeios e curiosidades.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20211114063000 -0300" stop="20211114070000 -0300" channel="TV Cultura">
+    <title lang="pt">Saúde Brasil</title>
+    <desc lang="pt">Além de orientação básica, o programa desmistifica preconceitos e mitos que envolvem várias doenças.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20211114070000 -0300" stop="20211114080000 -0300" channel="TV Cultura">
+    <title lang="pt">Viola, Minha Viola</title>
+    <desc lang="pt">Programa tradicional da TV Cultura que apresenta músicos, duplas e grupos que preservam a cultura caipira.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114080000 -0300" stop="20211114090000 -0300" channel="TV Cultura">
+    <title lang="pt">Missa de Aparecida</title>
+    <desc lang="pt">A TV Cultura transmite ao vivo a Missa de Aparecida, diretamente do Santuário Nacional em Aparecida do Norte (SP).(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114090000 -0300" stop="20211114100000 -0300" channel="TV Cultura">
+    <title lang="pt">Sr. Brasil</title>
+    <desc lang="pt">Sr. Brasil, apresentado por Rolando Boldrin, abre espaço somente para as manifestações da cultura brasileira. A seleção musical leva em conta toda a diversidade de temas e ritmos do povo brasileiro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114100000 -0300" stop="20211114103000 -0300" channel="TV Cultura">
+    <title lang="pt">Agrocultura</title>
+    <desc lang="pt">A atração é uma produção da emissora em parceria com sua rede de afiliadas e tem como proposta viajar o Brasil para mostrar o universo do homem do campo por meio de suas tradições locais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114103000 -0300" stop="20211114110000 -0300" channel="TV Cultura">
+    <title lang="pt">Planeta Turismo</title>
+    <desc lang="pt">O Programa Planeta Turismo apresenta para seu público experiências de turismo em todo o Brasil, com foco na Pesca Esportiva, EcoTurismo, Turismo Consciente e Gastronomia. Com apresentação e direção de Ruy Façanário.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Turismo</category>
+  </programme>
+  <programme start="20211114110000 -0300" stop="20211114113000 -0300" channel="TV Cultura">
+    <title lang="pt">Memória Esporte Clube</title>
+    <desc lang="pt">A série exibirá grandes jogos e decisões de campeonatos, além de entrevistas com grandes personagens do esporte brasileiro.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114113000 -0300" stop="20211114120000 -0300" channel="TV Cultura">
+    <title lang="pt">Escola de Gênios</title>
+    <desc lang="pt">Escola de Gênios conta a história de Isaac, um menino de 12 anos, que ganha a oportunidade de estudar num lugar muito especial: a Escola de Gênios.(n)</desc>
+    <credits>
+      <director>Jeferson De</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211114120000 -0300" stop="20211114121000 -0300" channel="TV Cultura">
+    <title lang="pt">As Microaventuras de Tito e Muda</title>
+    <desc lang="pt">A série conta a história de Tito, o menor garoto do mundo. Um dia, ele descobriu um vilarejo no quintal de sua casa onde todos os habitantes são minúsculos, chamado Mini-Mini.(n)</desc>
+    <credits>
+      <director>Victor-Hugo Borges</director>
+      <actor>Luciana Ramanzini</actor>
+      <actor>Bruna Guerin</actor>
+      <actor>Hugo Picchi</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114121000 -0300" stop="20211114121500 -0300" channel="TV Cultura">
+    <title lang="pt">SuperHands</title>
+    <desc lang="pt">SuperHands ensina a fazer brinquedos e atividades a partir de material descartado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114121500 -0300" stop="20211114123000 -0300" channel="TV Cultura">
+    <title lang="pt">Cocoricó</title>
+    <desc lang="pt">A série traz as aventuras da turminha formada por Júlio, as galinhas Lilica, Zazá e Lola, o cavalo Alípio e outros amigos que vivem histórias divertidas na Fazenda Cocoricó.(n)</desc>
+    <credits>
+      <actor>Tânia Paes</actor>
+      <actor>Fernando Gomes</actor>
+      <actor>Hugo Picchi</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211114123000 -0300" stop="20211114123500 -0300" channel="TV Cultura">
+    <title lang="pt">Molang</title>
+    <desc lang="pt">Otimista e afetuosa, a produção francesa retrata a amizade única e improvável entre um coelho e um pintinho.(n)</desc>
+    <credits>
+      <director>Marie Caroline Villand</director>
+      <actor>Bruno Guéraçague</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114123500 -0300" stop="20211114124500 -0300" channel="TV Cultura">
+    <title lang="pt">Turma do Bicudo</title>
+    <desc lang="pt">A coletividade é o tema central deste episódio que apresenta uma formiga exemplar, educada, prestativa e solidária.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211114124500 -0300" stop="20211114130000 -0300" channel="TV Cultura">
+    <title lang="pt">Peppa Pig</title>
+    <desc lang="pt">Peppa é uma adorável e irreverente porquinha cor-de-rosa que mora com seu irmão mais novo, George, e seus pais. Sempre brincando muito, ela vive plenamente sua infância ao lado dos amigos e da família.(n)</desc>
+    <credits>
+      <director>Neville Astley</director>
+      <director>Mark Baker.</director>
+      <actor>Morwenna Banks</actor>
+      <actor>Richard Ridings</actor>
+      <actor>Lily Snowden-Fine</actor>
+      <actor>Andy Hamilton</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114130000 -0300" stop="20211114131500 -0300" channel="TV Cultura">
+    <title lang="pt">Kid &amp; Cats</title>
+    <desc lang="pt">Kid-e-Cats é uma produção russa e inédita em TV aberta no Brasil. No enredo, a história de vida, relacionamentos e aventuras de três gatinhos: Cookie, Pudding e sua irmãzinha Candy.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114131500 -0300" stop="20211114133000 -0300" channel="TV Cultura">
+    <title lang="pt">Os Chocolix</title>
+    <desc lang="pt">Os Chocolix são uma família de chocolates de cores diferentes que vivem no esplendido Reino de Chocolândia. O programa prioriza a diversidade e a prevenção do bullying.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114133000 -0300" stop="20211114140000 -0300" channel="TV Cultura">
+    <title lang="pt">Ricky Zoom</title>
+    <desc lang="pt">Construído para correr, Ricky Zoom é uma pequena motocicleta de resgate vermelha que compartilha suas experiências com seus amigos. Juntos, eles transformam tudo em uma grande aventura.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114140000 -0300" stop="20211114141500 -0300" channel="TV Cultura">
+    <title lang="pt">Bubu e as Corujinhas</title>
+    <desc lang="pt">A Bubu é curiosa? Do que será que ela gosta? Ora bolas, carambolas! Descubra isso e muito mais sobre a corujinha Bubu.(n)</desc>
+    <credits>
+      <director>Bruna Biasotto</director>
+      <actor>Clarice Espíndola</actor>
+      <actor>Luciana Ramanzini</actor>
+      <actor>Mariana Elisabetsky</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114141500 -0300" stop="20211114143000 -0300" channel="TV Cultura">
+    <title lang="pt">A Galinha Pintadinha Mini</title>
+    <desc lang="pt">Galinha Pintadinha Mini combina histórias, atividades e músicas com os personagens já conhecidos dos brasileiros.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211114143000 -0300" stop="20211114150000 -0300" channel="TV Cultura">
+    <title lang="pt">Thomas e Seus Amigos</title>
+    <desc lang="pt">Na Ilha de Sodor, Thomas, uma locomotiva azul, mora e apronta suas travessuras junto com seus amigos.(n)</desc>
+    <credits>
+      <director>David Mitton</director>
+      <actor>Ringo Starr</actor>
+      <actor>Michael Angelis</actor>
+      <actor>George Carlin</actor>
+      <actor>Alec Baldwin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114150000 -0300" stop="20211114151500 -0300" channel="TV Cultura">
+    <title lang="pt">Vivi Viravento</title>
+    <desc lang="pt">A animação conta a história de uma garota que viaja em busca do Viravento, lugar secreto e misterioso revelado por sua avó Rosa Rara, uma famosa escritora.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114151500 -0300" stop="20211114153000 -0300" channel="TV Cultura">
+    <title lang="pt">Tromba Trem</title>
+    <desc lang="pt">Desenho brasileiro no qual um elefante indiano sem memória, uma tamanduá vegetariana hiperativa e uma colônia de cupins fazem uma viagem pela América Latina, descobrindo novos lugares e novos amigos.(n)</desc>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114153000 -0300" stop="20211114154500 -0300" channel="TV Cultura">
+    <title lang="pt">SOS Fada Manu</title>
+    <desc lang="pt">SOS Fada Manu narra as desventuras de Manu, uma aprendiz de fada madrinha, que pretende resolver os problemas de todos os habitantes do Reino com seu guarda-chuva, que é, na verdade, uma varinha mágica.(n)</desc>
+    <credits>
+      <director>Jean Mary De Moura</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114154500 -0300" stop="20211114160000 -0300" channel="TV Cultura">
+    <title lang="pt">O Show da Luna!</title>
+    <desc lang="pt">Luna é uma garotinha curiosa e alegre, que está sempre às voltas com perguntas sobre o mundo. Para ela, o planeta Terra é um laboratório gigante e todos os acontecimentos são fenômenos a serem investigados.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20211114160000 -0300" stop="20211114161500 -0300" channel="TV Cultura">
+    <title lang="pt">Turma Da Mônica</title>
+    <desc lang="pt">Mônica, Cebolinha, Cascão, Magali e toda a turminha mais famosa dos quadrinhos te esperam aqui.(n)</desc>
+    <credits>
+      <director>Mauricio De Sousa</director>
+      <actor>Marli Bortoletto</actor>
+      <actor>Angélica Santos</actor>
+      <actor>Paulo Cavalcante</actor>
+      <actor>Elza Gonçalves</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Desenho</category>
+  </programme>
+  <programme start="20211114161500 -0300" stop="20211114163000 -0300" channel="TV Cultura">
+    <title lang="pt">Shaun, o Carneiro</title>
+    <desc lang="pt">Dos mesmos criadores de Wallace e Gromit, Shaun, o Carneiro é uma premiada série britânica de animação em massinha que acompanha Shaun e seus amigos em uma fazenda.(n)</desc>
+    <credits>
+      <director>Christopher Sadler</director>
+      <director>Richard Starzak (as Richard Goleszowski)</director>
+      <actor>John Sparkes</actor>
+      <actor>Justin Fletcher</actor>
+      <actor>Richard Webber</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20211114163000 -0300" stop="20211114170000 -0300" channel="TV Cultura">
+    <title lang="pt">Brasil Biomas Com Richard Rasmussen</title>
+    <desc lang="pt">A série Brasil Biomas com Richard Rasmussen, irá percorrer os seis Biomas brasileiros em busca da Fauna e Flora típicas de cada região.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Meio Ambiente</category>
+  </programme>
+  <programme start="20211114170000 -0300" stop="20211114180000 -0300" channel="TV Cultura">
+    <title lang="pt">Planeta Terra</title>
+    <desc lang="pt">Planeta Terra fala sobre as curiosidades e mistérios do meio ambiente e das civilizações em documentários produzidos por renomadas emissoras estrangeiras como a BBC e NHK e produtoras da Holanda, Suécia, Dinamarca e Inglaterra.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114180000 -0300" stop="20211114183000 -0300" channel="TV Cultura">
+    <title lang="pt">Repórter Eco</title>
+    <desc lang="pt">Revista semanal especializada em meio ambiente. O programa mostra ações e pesquisas com o objetivo de contribuir para a melhoria da qualidade de vida e de informar sobre temas ambientais da atualidade.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20211114183000 -0300" stop="20211114190000 -0300" channel="TV Cultura">
+    <title lang="pt">Matéria de Capa</title>
+    <desc lang="pt">A cada semana, o público terá a chance de conhecer, entender e se aprofundar nos temas mais importantes que ocorrem no Brasil e no mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114190000 -0300" stop="20211114200000 -0300" channel="TV Cultura">
+    <title lang="pt">Café Filosófico</title>
+    <desc lang="pt">O programa Café Filosófico é uma parceria do Instituto CPFL com a TV Cultura e tem como objetivo compartilhar as ideias de grandes pensadoras e pensadores contemporâneos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114200000 -0300" stop="20211114210000 -0300" channel="TV Cultura">
+    <title lang="pt">Brasil Jazz Sinfônica</title>
+    <desc lang="pt">A Orquestra Brasil Jazz Sinfônica foi criada em 1989 com o objetivo de manter viva a tradição das orquestras de rádio e TV.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20211114210000 -0300" stop="20211114220000 -0300" channel="TV Cultura">
+    <title lang="pt">Persona em Foco</title>
+    <desc lang="pt">O programa pretende registrar aspectos da vida pessoal e da carreira de personalidades do teatro, bem como as suas impressões sobre o ofício. As entrevistas são conduzidas por duas pessoas ligadas ao artista.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114220000 -0300" stop="20211115000000 -0300" channel="TV Cultura">
+    <title lang="pt">Cine Cult: O Apartamento</title>
+    <desc lang="pt">Emad e Rana acabaram de se mudar para o apartamento vago de um conhecido. Quando Rana é atacada no local, Emad decide investigar.(n)</desc>
+    <credits>
+      <director>Asghar Farhadi</director>
+      <actor>Shahab Hosseini</actor>
+      <actor>Taraneh Alidoosti</actor>
+      <actor>Babak Karimi</actor>
+      <actor>Mina Sadati</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211113200000 -0300" stop="20211113220000 -0300" channel="TV Gazeta">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Programação da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211113220000 -0300" stop="20211113230000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211113230000 -0300" stop="20211114020000 -0300" channel="TV Gazeta">
+    <title lang="pt">Paz e Vida</title>
+    <desc lang="pt">Acompanhe pregação religiosa da comunidade cristã paz e vida.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114020000 -0300" stop="20211114040000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114040000 -0300" stop="20211114060000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114060000 -0300" stop="20211114070000 -0300" channel="TV Gazeta">
+    <title lang="pt">Igreja Universal do Reino de Deus</title>
+    <desc lang="pt">Programação da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114070000 -0300" stop="20211114080000 -0300" channel="TV Gazeta">
+    <title lang="pt">Ultrafarma - Missa</title>
+    <desc lang="pt">Acompanhe a transmissão da missa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114080000 -0300" stop="20211114083000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114083000 -0300" stop="20211114093000 -0300" channel="TV Gazeta">
+    <title lang="pt">Ultrafarma - Missa De São Judas Tadeu - Ao Vivo</title>
+    <desc lang="pt">Acompanhe a transmissçao da missa.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114093000 -0300" stop="20211114110000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114110000 -0300" stop="20211114120000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Motors</title>
+    <desc lang="pt">Direcionado ao segmento automotivo, com o foco em vendas de carros, motos e caminhões novos e seminovos, o programa oferece as melhores ofertas para quem quer comprar ou trocar seu automóvel.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114120000 -0300" stop="20211114130000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Imóveis</title>
+    <desc lang="pt">As melhores ofertas e os mais novos lançamentos do mercado imobiliário.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114130000 -0300" stop="20211114143000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114143000 -0300" stop="20211114150000 -0300" channel="TV Gazeta">
+    <title lang="pt">Show da Saúde</title>
+    <desc lang="pt">No programa Show da Saúde, o apresentador Paulinho Boa Pessoa junto ao terapeuta Luciano Perssinotto e prof. Claudir, discutem sobre as doenças e patologias comuns, levando informações para todos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20211114150000 -0300" stop="20211114160000 -0300" channel="TV Gazeta">
+    <title lang="pt">Fortcap</title>
+    <desc lang="pt">Todo domingo, prêmios que podem mudar a sua vida. Essa é a sua vez de ganhar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114160000 -0300" stop="20211114163000 -0300" channel="TV Gazeta">
+    <title lang="pt">Cozinha Amiga</title>
+    <desc lang="pt">O Cozinha Amiga é um projeto de gastronomia que irá tratar do assunto de forma descomplicada, sob os mais diversos enfoques. O programa trará um chef diferente em cada dia da semana.(n)</desc>
+    <credits>
+      <actor>Arthur Sauer</actor>
+      <actor>Vivi Araujo</actor>
+      <actor>Dalva Zanforlin</actor>
+      <actor>Gabriel Barone</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211114163000 -0300" stop="20211114170000 -0300" channel="TV Gazeta">
+    <title lang="pt">Cozinha Amiga</title>
+    <desc lang="pt">O Cozinha Amiga é um projeto de gastronomia que irá tratar do assunto de forma descomplicada, sob os mais diversos enfoques. O programa trará um chef diferente em cada dia da semana.(n)</desc>
+    <credits>
+      <actor>Arthur Sauer</actor>
+      <actor>Vivi Araujo</actor>
+      <actor>Dalva Zanforlin</actor>
+      <actor>Gabriel Barone</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211114170000 -0300" stop="20211114173000 -0300" channel="TV Gazeta">
+    <title lang="pt">Cozinha Amiga</title>
+    <desc lang="pt">O Cozinha Amiga é um projeto de gastronomia que irá tratar do assunto de forma descomplicada, sob os mais diversos enfoques. O programa trará um chef diferente em cada dia da semana.(n)</desc>
+    <credits>
+      <actor>Arthur Sauer</actor>
+      <actor>Vivi Araujo</actor>
+      <actor>Dalva Zanforlin</actor>
+      <actor>Gabriel Barone</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211114173000 -0300" stop="20211114180000 -0300" channel="TV Gazeta">
+    <title lang="pt">Cozinha Amiga</title>
+    <desc lang="pt">O Cozinha Amiga é um projeto de gastronomia que irá tratar do assunto de forma descomplicada, sob os mais diversos enfoques. O programa trará um chef diferente em cada dia da semana.(n)</desc>
+    <credits>
+      <actor>Arthur Sauer</actor>
+      <actor>Vivi Araujo</actor>
+      <actor>Dalva Zanforlin</actor>
+      <actor>Gabriel Barone</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211114180000 -0300" stop="20211114193000 -0300" channel="TV Gazeta">
+    <title lang="pt">Paz e Vida</title>
+    <desc lang="pt">Acompanhe pregação religiosa da comunidade cristã paz e vida.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114193000 -0300" stop="20211114200000 -0300" channel="TV Gazeta">
+    <title lang="pt">Cozinha Amiga</title>
+    <desc lang="pt">O Cozinha Amiga é um projeto de gastronomia que irá tratar do assunto de forma descomplicada, sob os mais diversos enfoques. O programa trará um chef diferente em cada dia da semana.(n)</desc>
+    <credits>
+      <actor>Arthur Sauer</actor>
+      <actor>Vivi Araujo</actor>
+      <actor>Dalva Zanforlin</actor>
+      <actor>Gabriel Barone</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20211114200000 -0300" stop="20211114203000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114203000 -0300" stop="20211114210000 -0300" channel="TV Gazeta">
+    <title lang="pt">Programa Seguro</title>
+    <desc lang="pt">O foco do programa é informar o consumidor carente de conhecimento e da cultura sobre seguros, e quais os benefícios que este instrumento pode trazer em diferentes situações.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114210000 -0300" stop="20211114230000 -0300" channel="TV Gazeta">
+    <title lang="pt">Mesa Redonda</title>
+    <desc lang="pt">Mesa Redonda é a opção para saber as novidades do seu clube favorito, de conferir os gols da rodada e ficar informado com o mais tradicional futebol-debate da TV.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20211114230000 -0300" stop="20211115010000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211113212000 -0300" stop="20211113224500 -0300" channel="Globo SP">
+    <title lang="pt">Um Lugar ao Sol</title>
+    <desc lang="pt">Ravi tenta demover Christian/Renato de se casar, sem sucesso. Durante o casamento, Noca joga tarô para a neta e a aconselha a matar o amor que sente por Christian.(n)</desc>
+    <credits>
+      <director>Maurício Farias</director>
+      <actor>Cauã Reymond</actor>
+      <actor>Ana Beatriz Nogueira</actor>
+      <actor>Andréia Horta</actor>
+      <actor>Marieta Severo</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20211113224500 -0300" stop="20211113232500 -0300" channel="Globo SP">
+    <title lang="pt">Vai Que Cola</title>
+    <credits>
+      <director>Regis Faria</director>
+      <director>João Fonseca</director>
+      <actor>Marcus Majella</actor>
+      <actor>Samantha Schmütz</actor>
+      <actor>Cacau Protásio</actor>
+      <actor>Luis Lobianco</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211113232500 -0300" stop="20211114011500 -0300" channel="Globo SP">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">No 'Altas Horas' deste sábado, dia 13, um encontro entre os amigos de longa data Adriana Esteves e Wagner Moura. Priscilla Alcantara, a artista por trás do unicórnio do 'The Masked Singer Brasil', também está na atração esta semana.(n)</desc>
+    <credits>
+      <director>Serginho Groisman</director>
+      <actor>Serginho Groisman</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114011500 -0300" stop="20211114023500 -0300" channel="Globo SP">
+    <title lang="pt">Seleção Do Samba - Melhores Momentos</title>
+    <desc lang="pt">Melhores momentos da escolha dos sambas enredo das escolas do grupo especial do Rio de Janeiro.(n)</desc>
+    <credits>
+      <actor>Luis Roberto</actor>
+      <actor>Milton Cunha</actor>
+      <actor>Teresa Cristina</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20211114023500 -0300" stop="20211114041000 -0300" channel="Globo SP">
+    <title lang="pt">Supercine: Chocolate City</title>
+    <desc lang="pt">A vida de um estudante universitário muda em um instante quando ele conhece o dono de um clube de strip masculino.(n)</desc>
+    <credits>
+      <director>Jean-Claude La Marre</director>
+      <actor>Davis Deray</actor>
+      <actor>Vivica A Fox</actor>
+      <actor>Darrin Dewitt Henson</actor>
+      <actor>Jean-Claud La Marre</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20211114041000 -0300" stop="20211114051500 -0300" channel="Globo SP">
+    <title lang="pt">Corujão: Encantados</title>
+    <desc lang="pt">Zeneida vê e escuta coisas. Ela se encanta por Antônio, uma figura misteriosa, mas seus pais são contra e ela passa a ser considerada lunática.(n)</desc>
+    <credits>
+      <director>Tizuka Yamasaki</director>
+      <actor>Thiago Martins</actor>
+      <actor>José Mayer</actor>
+      <actor>Carolina Oliveira</actor>
+      <actor>Letícia Sabatella</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Ficção</category>
+  </programme>
+  <programme start="20211114051500 -0300" stop="20211114062500 -0300" channel="Globo SP">
+    <title lang="pt">Corujão II: Pare o Casamento!</title>
+    <desc lang="pt">Wendy é organizadora de casamentos e precisa unir forças com Marco, advogado especializado em divórcios, quando o filho dele anuncia estar noivo de sua filha.(n)</desc>
+    <credits>
+      <director>Marita Grabiak</director>
+      <actor>Antonio Cupo</actor>
+      <actor>Lisa Whelchel</actor>
+      <actor>Eddie McRae</actor>
+      <actor>Alicia Josipovic</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Romance</category>
+  </programme>
+  <programme start="20211114062500 -0300" stop="20211114072500 -0300" channel="Globo SP">
+    <title lang="pt">Santa Missa</title>
+    <desc lang="pt">Padre Marcelo Rossi celebra todos os domingos missa para todo o Brasil. Mais antigo programa da Globo, a Santa Missa foi transmitida pela primeira vez em fevereiro de 1968.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20211114072500 -0300" stop="20211114075500 -0300" channel="Globo SP">
+    <title lang="pt">Globo Comunidade</title>
+    <desc lang="pt">Susana Naspolini apresenta o telejornal que aborda assuntos como qualidade de vida e urbanismo, com prestação de serviços.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114075500 -0300" stop="20211114083000 -0300" channel="Globo SP">
+    <title lang="pt">Pequenas Empresas &amp; Grandes Negócios</title>
+    <desc lang="pt">Novidades e informação para quem quer investir e empreender no Brasil.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114083000 -0300" stop="20211114092500 -0300" channel="Globo SP">
+    <title lang="pt">Globo Rural</title>
+    <desc lang="pt">As principais notícias do agronegócio, os índices do setor, informações sobre a vida no campo, além de reportagens especiais.(n)</desc>
+    <credits>
+      <director>Lucas Battaglin</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114092500 -0300" stop="20211114100000 -0300" channel="Globo SP">
+    <title lang="pt">Auto Esporte</title>
+    <desc lang="pt">As principais notícias sobre o universo dos automóveis.(n)</desc>
+    <credits>
+      <director>Konrado Reys</director>
+      <actor>Millena Machado</actor>
+      <actor>César Urnhani</actor>
+      <actor>Luiz Razia</actor>
+      <actor>Leandro Mello</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20211114100000 -0300" stop="20211114123000 -0300" channel="Globo SP">
+    <title lang="pt">Esporte Espetacular</title>
+    <desc lang="pt">Além de transmitir partidas e campeonatos ao vivo, o programa semanal apresenta os destaques do mundo esportivo, entrevistas e reportagens especiais.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20211114123000 -0300" stop="20211114143500 -0300" channel="Globo SP">
+    <title lang="pt">Temperatura Máxima: Uma Família de Dois</title>
+    <desc lang="pt">Samuel vê a vida tranquila mudar com a chegada inesperada de uma bebê de poucos meses chamada Glória, sua filha.(n)</desc>
+    <credits>
+      <director>Hugo Gélin</director>
+      <actor>Omar Sy</actor>
+      <actor>Gloria Colston</actor>
+      <actor>Clémence Poésy</actor>
+      <actor>Antoine Bertrand</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20211114143500 -0300" stop="20211114154500 -0300" channel="Globo SP">
+    <title lang="pt">Zig Zag Arena</title>
+    <desc lang="pt">Participantes que marcaram presença em dois dos realities mais queridos pelo público, ex-BBBs e ex-The Voices, competem entre si em busca do prêmio da semana.(n)</desc>
+    <credits>
+      <director>Raoni Carneiro</director>
+      <actor>Fernanda Gentil</actor>
+      <actor>Everaldo Marques</actor>
+      <actor>Hortência</actor>
+      <actor>Marco Luque</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Game Show</category>
+  </programme>
+  <programme start="20211114154500 -0300" stop="20211114180500 -0300" channel="Globo SP">
+    <title lang="pt">São Paulo x Flamengo - Ao Vivo</title>
+    <desc lang="pt">Siga ao vivo campeonatos estaduais, o Brasileirão, a Copa do Brasil e mais.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20211114180500 -0300" stop="20211114203000 -0300" channel="Globo SP">
+    <title lang="pt">Domingão Com Huck</title>
+    <desc lang="pt">Começa uma nova fase do "Show dos Famosos", no 'Domingão com Huck'. Neste domingo, Luciano Huck comanda uma nova rodada de apresentações do grupo B, com Thiago Arancam, Wanessa Camargo e Vitor Kley, desta vez, valendo a permanência na competição.(n)</desc>
+    <credits>
+      <director>Clarissa Lopes</director>
+      <director>Hélio Vargas</director>
+      <actor>Luciano Huck</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20211114203000 -0300" stop="20211114232500 -0300" channel="Globo SP">
+    <title lang="pt">Fantástico</title>
+    <desc lang="pt">Reportagens especiais e as notícias mais importantes da semana, com apresentação de Tadeu Schmidt e Poliana Abritta.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+      <actor>Poliana Abritta</actor>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20211114232500 -0300" stop="20211115010000 -0300" channel="Globo SP">
+    <title lang="pt">Domingo Maior: Marcando Território</title>
+    <desc lang="pt">Carter é um veterano de guerra que vive sozinho e angustiado. Inesperadamente, uma menina de 12 anos, testemunha de um crime, entra em sua casa fugindo de um matador de aluguel.(n)</desc>
+    <credits>
+      <director>Adam Alleca</director>
+      <actor>Laurence Fishburne</actor>
+      <actor>Thomas Jane</actor>
+      <actor>Ella Ballentine</actor>
+      <actor>John Tench</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Suspense</category>
+  </programme>
+  <programme start="20211113000000 -0300" stop="20211113010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Oficiais do palácio querem eliminar Sheng antes que ele revele seus segredos. As dificuldades da guerra levam Han Shan a cruzar uma linha.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113010000 -0300" stop="20211113013000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em um domingo muito quente e pra lá de excepcional, Sandra é obrigada a, pedalando,  trabalhar entregando galões d´água.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211113013000 -0300" stop="20211113020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A quadrinista paulista Julia Bax é uma das mulheres que vem se destacando na criação de HQs, manuais e digitais, com personagens e enredos instigantes da vida em uma grande metrópole.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113020000 -0300" stop="20211113023000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Busca de Kardec (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ao final de sua jornada, Karim recebe um presente mediúnico. Mas também descobre documentos inéditos, manuscritos de Kardec, que trazem uma revelação surpreendente.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211113023000 -0300" stop="20211113030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Melissa decide morar na casa ao lado, que era da falecida Adamantina. Assim, ela ficará perto de Amélio e poderão ter mais privacidade.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113030000 -0300" stop="20211113043400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.Doc: Baderna (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baderna é uma cidade no interior do Brasil. Fundada em 1871, formou-se a partir da cultura dos negros escravizados e hoje segue emancipa-da do estado brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211113043400 -0300" stop="20211113045200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Jantar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É noite de reunião em uma seita. E paira no ar um clima tenso. O jantar, que é de rotina e parte de um protocolo pode não ser uma boa ideia.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211113045200 -0300" stop="20211113045600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa - Contos Africanos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ogum era calmo e pacato, mas um exímio caçador, que um dia encontrou sua aldeia devastada e invadida por inimigos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113045600 -0300" stop="20211113050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nós estávamos lado a lado, mas não estávamos próximos. Vivendo aglomerados, porém esquecendo a coletividade, foi preciso que a gente se afastasse, para que ficássemos mais próximos do que nunca. A quarentena tem nos feito olhar para dentro, a falta, fez com que convivêssemos mais intensamente com as pessoas que gostamos, mas de um modo diferente.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113050000 -0300" stop="20211113053000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Crítica (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A trajetória da mulher na crítica de cinema.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113053000 -0300" stop="20211113060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Daniel encontra um amigo do Ministério Público, a quem vaza informações para que o inquérito volte para a Polícia Civil.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113060000 -0300" stop="20211113061500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113061500 -0300" stop="20211113063000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113063000 -0300" stop="20211113064500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;São Luís, Encantos e Magias, apresenta a capital do Maranhão de forma simples e verdadeira, permitindo sabermos como ela realmente é, e fazendo se ter vontade de visitar essa cidade tão hospitaleira, bela e rica em tradições e cultura.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113064500 -0300" stop="20211113080900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Porto Alegre - Meu Canto no Mundo (?)</title>
+    <sub-title lang="pt">Porto Alegre - Meu Canto no Mundo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ficção e documentário se misturam em uma emocionante história contada por Luis Fernando Veríssimo, Luiz Antônio de Assis Brasil, Eva Sopher, Jaime Sirotsky, Moacyr Scliar e Giba Giba. Nasce uma Porto Alegre inédita, jamais vista através de imagens aéreas, filmes, fotos e ficção.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113080900 -0300" stop="20211113083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Avoada (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mães que perderam seus filhos de forma violenta contam suas histórias, enquanto acompanhamos dois garotos que invadem uma casa para recuperarem uma uma pipa avoada.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211113083000 -0300" stop="20211113093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nando vaga pela cidade buscando Belli. Laura estuda como funciona a segurança do programa e o revezamento dos funcionários da noite. Belli leva Nando para seu apartamento e mostra Gabi no Reality.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113093000 -0300" stop="20211113100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113100000 -0300" stop="20211113103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imagem Vinil (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucia mora no morro do Borel, todo dia acorda cedo e com a ajuda do marido prepara os filhos para a escola antes de sair para o trabalho.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113103000 -0300" stop="20211113110000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A partir de produções mais recentes, o último episódio revela temas urgentes do cinema contemporâneo brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113110000 -0300" stop="20211113111500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Normais 1 e 2 foram os primeiros filmes baseados numa série de tv de enorme sucesso, o primeiro filme filmado em digital e a primeira sequência préviamente pensada.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211113111500 -0300" stop="20211113113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113113000 -0300" stop="20211113120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113120000 -0300" stop="20211113150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">II Festival Cinema Negro em Ação (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O II Festival Cinema Negro em Ação é uma realização da Casa de Cultura Mario Quintana e IECINE, instituições da Secretaria de Estado da Cultura do RS.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113150000 -0300" stop="20211113184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113184500 -0300" stop="20211113190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;António Guimarães dedica sua vida a colecionar fotografias e postais. Contar a história de seu trabalho é contar um pouco da história da cidade de São Luís e também do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113190000 -0300" stop="20211113202400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: O Colar de Coralina (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A menina Aninha, futura poeta e doceira, é uma criança considerada feia, frágil, desajeitada e oprimida por praticamente todos que a cercam.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113202400 -0300" stop="20211113205700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Copan - Cidade Vertical (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário apresenta a história e curiosidades da maior estrutura de concreto armado do país, o edifício Copan, localizado na Av. Ipiranga, coração de São Paulo.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113205700 -0300" stop="20211113210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma forte dor de cabeça acaba por apertar os laços que envolvem um casal. Entre um mergulho e outro no chá de Malva, os delírios de um artista incapaz de parar de criar.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113210000 -0300" stop="20211113215300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;João Acaiabe apresenta a cidade de São Paulo, uma sociedade ascendente, florescente, rica e com muita influência da migração.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113215300 -0300" stop="20211113220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Memento Mori (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pesquisadora de antigas obras de arte prepara uma apresentação sobre o conjunto de pinturas "Vaidade Terrena e Salvação Divina", de Hans Memling, quando descobre que a impressão do quadro "Morte" foi esquecida pela gráfica.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113220000 -0300" stop="20211113231600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: 30 Dias Um Carnaval Entre a Alegria e a Desilusão (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Como fazer um desfile acontecer sem verba? Como a escola de samba sobrevive? Quais os percalços que uma escola enfrenta até chegar no grande dia de seu desfile na Sapucaí?(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211113231600 -0300" stop="20211113235200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman (?)</title>
+    <sub-title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113235200 -0300" stop="20211114000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Making Of - Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conheça os bastidores da superprodução chinesa Tribos e Impérios. Making Ofs e entrevistas com elenco, diretor e equipe técnica revelam detalhes surpreendentes para você!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114000000 -0300" stop="20211114020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: O Acre Existe (?)</title>
+    <sub-title lang="pt">O Acre Existe</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com o intuito de desconstruir um certo "mito" que tomou conta das redes sociais nos últimos anos, quatro cineastas percorrem 10 mil quilômetros cruzando cidades, florestas e seringais para mostrar que sim, o Acre existe.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114020000 -0300" stop="20211114021500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Normais 1 e 2 foram os primeiros filmes baseados numa série de tv de enorme sucesso, o primeiro filme filmado em digital e a primeira sequência préviamente pensada.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114021500 -0300" stop="20211114023000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114023000 -0300" stop="20211114030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A partir de produções mais recentes, o último episódio revela temas urgentes do cinema contemporâneo brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114030000 -0300" stop="20211114045700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Os Sonâmbulos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Era um pequeno grupo de demolidores de mundo. Perdidos na multidão, mas ligados uns aos outros, viviam na solidão da clandestinidade, às voltas com suas contradições.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114045700 -0300" stop="20211114050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Quarantine Tales (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A música é uma coisa que vem naturalmente para mim no meu dia a dia.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114050000 -0300" stop="20211114062100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1951. Voltando um pouco mais no tempo, vamos conhecer Antônio, o ex-marido de Ermelinda.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114062100 -0300" stop="20211114063500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;José Sarney é mais conhecido por ter sido presidente do Brasil, mas aqui veremos muito mais sobre o grande escritor e homem de cultura que ele é.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114063500 -0300" stop="20211114064500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Festival Passaporte Prime: Making Of - Tribos e Impérios (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conheça os bastidores da superprodução chinesa Tribos e Impérios. Making Ofs e entrevistas com elenco, diretor e equipe técnica revelam detalhes surpreendentes para você!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114064500 -0300" stop="20211114081500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Largou As Botas e Mergulhou no Céu (?)</title>
+    <sub-title lang="pt">Largou as Botas e Mergulhou no Céu</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dilemas e conflitos entre ficar ou partir, permanecer ou mudar, sagrado ou profano são costurados por personagens reais e ficticios entre o Natal e o Carnaval, o período sabático do Brasil. A região é o Nordeste.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114081500 -0300" stop="20211114083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Eternidade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um casal separado pela morte é capaz de qualquer coisa para se reencontrar. Até mesmo invocar a Deusa da Eternidade. Baseado no cinema expressionista alemão.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114083000 -0300" stop="20211114090000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114090000 -0300" stop="20211114093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114093000 -0300" stop="20211114100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa, A África Que Te Habita (?)</title>
+    <sub-title lang="pt">Sankofa, A África Que Te Habita</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cesar e Maurício contam como surgiu a ideia de fotografar os locais de memória da escravidão em 9 países africanos e quais as dificuldades enfrentadas para realizar a expedição, justamente quando o Cais do Valongo estava se tornando Patrimônio Mundial da Humanidade.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114100000 -0300" stop="20211114110000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nando vaga pela cidade buscando Belli. Laura estuda como funciona a segurança do programa e o revezamento dos funcionários da noite. Belli leva Nando para seu apartamento e mostra Gabi no Reality.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114110000 -0300" stop="20211114113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nos anos 80 e 90, a editora Abril passou a publicar compilações de histórias dos super-heróis mais conhecidos do planeta em formatos menores, quer dizer, mais compactos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114113000 -0300" stop="20211114120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A quadrinista paulista Julia Bax é uma das mulheres que vem se destacando na criação de HQs, manuais e digitais, com personagens e enredos instigantes da vida em uma grande metrópole.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114120000 -0300" stop="20211114130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114130000 -0300" stop="20211114140000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <sub-title lang="pt">Sempre Poa</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114140000 -0300" stop="20211114150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114150000 -0300" stop="20211114184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114184500 -0300" stop="20211114190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;António Guimarães dedica sua vida a colecionar fotografias e postais. Contar a história de seu trabalho é contar um pouco da história da cidade de São Luís e também do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114190000 -0300" stop="20211114200000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Partiu?! (?)</title>
+    <sub-title lang="pt">Partiu?!</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Samuel é amigo de Andressa, que após a trágica perda do pai resolve ir procurar seu avô. A única pista é um pingente em forma de navio, que o pai da garota lhe deu antes de morrer.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114200000 -0300" stop="20211114201500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114201500 -0300" stop="20211114203300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Toda Sombra Parece Viva (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma mulher sai de casa. No trabalho, no metrô, no carro, na rua, o suspense do cotidiano. Ela está com algo.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114203300 -0300" stop="20211114205300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Sonemista (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um publicitário em crise existencial desiste de tudo e se afasta do convivio social. É um afastamento intencional e metódico. Ao longo do tempo, ele procura registrar em áudio o maior número de situações humanas possíveis. e passa a se relacionar com a vida e com as pessoas por meio das montagens sonoras que produz.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114205300 -0300" stop="20211114210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Maria (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Duas amigas conversam pela internet sobre filmes de terror, até que Júlia desafia Carol a uma brincadeira que levará elas ao um caminho sem volta.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114210000 -0300" stop="20211114214400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Caio chega no centro de Porto Alegre e entra no primeiro taxi que aparece. A taxista, Manu, está apressada para ir embora. Com o trânsito do centro da cidade, ela o convida para que o acompanhe até a Zona Sul, onde ela precisa realizar uma atividade.".(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114214400 -0300" stop="20211114220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Longe de Casa (?)</title>
+    <sub-title lang="pt">Longe de Casa</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma menina do interior escreve cartas para o seu irmão que fugiu de casa. Sua esperança é de que ele volte para tirá-la da vida que leva ao lado de sua mãe e de seu padrasto. Os conflitos desse relacionamento a forçam a um dilema, no qual uma decisão precisará ser tomada.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211114220000 -0300" stop="20211114232600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Dromedário no Asfalto (?)</title>
+    <sub-title lang="pt">Dromedário no Asfalto</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois de perder a mãe, Pedro se sente desolado e determinado a conhecer a identidade de seu pai. A única informação que ele tem é que o homem partiu para o Uruguai para viver recluso.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114232600 -0300" stop="20211114234500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn (?)</title>
+    <sub-title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114234500 -0300" stop="20211114235100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Amiga Virtual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ana é uma jovem que vive em função de suas redes sociais e se disponibiliza a fazer companhia, virtualmente, para pessoas que entram em contato buscando alguém para estar junto.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211113002000 -0300" stop="20211113010600 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Atraído pelo sistema estelar, João Paulo III conhece a atriz Sharon Stone em uma entrevista que dá novas ideias ao Papa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113010600 -0300" stop="20211113014600 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conhecemos um primeiro cliente: jogador de baseball cubano buscando entrar para jogar nas grandes ligas americanas, mas não antes de servir como um jogador escondido de substituição para os Naco Coyotes, o time local de Gamaliel e Morris.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113014600 -0300" stop="20211113022700 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O dono de um circo deve levar seu tigre através da fronteira para ver um veterinário estando o animal exposto ao tempo...o qual deve ou não ser porque ele traz cocaína escondida dentro de seu corpo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113022700 -0300" stop="20211113030900 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um político mexicano está em fuga (uma raridade), enquanto é procurado em seu estado natal por fraude que soma milhões, e agora que ele procura atravessar a fronteira aos EUA onde ele pode desaparecer.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113030900 -0300" stop="20211113033900 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As coisas parecem um pouco diferentes em Atlanta. Provavelmente, deve ser por conta da temporada de roubos. Será que Paper Boi será libertado?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113033900 -0300" stop="20211113040600 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Traficar drogas não é nada fácil, não é mesmo? Ainda bem que na boate não faltam os golpistas de cartão de crédito.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113040600 -0300" stop="20211113052100 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113052100 -0300" stop="20211113060000 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com o bordel de Charlotte destruído pelo fogo, ela está determinada a revidar. Porém, as mulheres precisarão ser espertas já que os Pincher são homens violentos. Lucy se oferece para ajudar a irmã de uma forma que também beneficia o seu novo negócio.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113060000 -0300" stop="20211113061300 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Zan, uma estrela da mídia, se aproxima a Earn, Alfred e Darius fora de um clube. Logo eles descobrem que Zan é mais do que diz ser e que já publicou Tweets de besteiras sobre Paper Boi.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113061300 -0300" stop="20211113063400 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Aí, tudo bem! Temos celebridades cheias da grana no edifício para as crianças. Eu adoraria ter um Justin Bieber. Cara, os jurássicos vão odiar, kkkk.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113063400 -0300" stop="20211113065900 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Eu amo a minha melhor amiga de verdade, mas eu também não a suporto. Van fica com inveja porque sua garota fashion abre alas. Ok, garota, vá pegar o que é seu!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113065900 -0300" stop="20211113075500 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois do plano de vingança pela morte do irmão, Evandro é recrutado para o tráfico. Ele e seu melhor amigo Afonso logo ganham espaço. Afonso é ganancioso e desvia dinheiro do tráfico para lucrar em investimento bancário. Quando o presidente do Brasil declara o confisco das poupanças, seu plano é descoberto e Evandro é obrigado a matá-lo. Enquanto tenta salvar a pele do melhor amigo, Evandro se depara com o autodestrutivo policial federal Morello.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113075500 -0300" stop="20211113084000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas enquanto ele engata um namoro com Geise. Morello segue as trilhas de Evandro com perspicácia e começa a decifrar a engenhosidade de seu rival.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113084000 -0300" stop="20211113094000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas. Em meio ao tiroteio, Evandro é ajudado por Geise, enquanto Arlete encontra na delegada Andreia, parceira de Morello, uma possível aliada para salvar o filho dele mesmo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113094000 -0300" stop="20211113102400 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina descobre a verdade sobre Nico e os eventos tomam um rumo terrível. A lealdade de Jeff é testada. Irina está prestes a desmoronar quando as suspeitas da família crescem.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113102400 -0300" stop="20211113110700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com Irina gravemente doente, Georgina vê o dano que as suas atitudes causaram à família. Adriana se irrita e recorre aos Eltham, enquanto Christos começa a desvendar as mentiras de Georgina.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113110700 -0300" stop="20211113115700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois de assassinar o seu enteado Adam, Georgina retorna à Villa Carmella. Determinada a esconder o seu crime da família, ela encontra uma mensagem misteriosa: alguém sabe do seu segredo. Ela sai em uma missão para enfrentar o seu acusador.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113115700 -0300" stop="20211113124500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina está determinada a colocar a sua vida nos eixos. Porém, ela enfrenta a investigação da polícia sobre a morte de Raoul. Já Constantine descobre a verdade sobre a sua situação, e Christos se lança em um novo empreendimento arriscado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113124500 -0300" stop="20211113133400 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No funeral do seu pai, Georgina se reúne com o seu carismático tio Jeff. Juntos, eles descobrem a verdade sobre a morte da sua mãe. Enquanto isso, Irina pede ajuda para encontrar Adam, e o cavalo de Christos compete na sua primeira corrida.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113133400 -0300" stop="20211113142800 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No dia da marcha de Washington, Chin e Bonnano estão em guerra no Harlem. Bumpy descobre que ele e Mayme nunca adotaram Margaret formalmente, então ele pede a Elise a sua permissão. Malcolm X e Adam Clayton Powell Jr. viajam para D.C. para a marcha.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113142800 -0300" stop="20211113152100 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Por conta das condições precárias de moradia no Harlem, Adam Powell Jr. lidera uma greve de aluguel e investiga os donos dos edifícios. Ernie Nunzi procura a prostituta que ajudou a montar o Zambrano enquanto Bumpy e Mayme vivem tensão no casamento.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113152100 -0300" stop="20211113162100 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No final da primeira temporada, Bumpy chantageia a máfia na tentativa de garantir a segurança de si e de sua família. O presidente John F. Kennedy é assassinado. Teddy se apresenta no Teatro Apollo no Harlem.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113162100 -0300" stop="20211113172000 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após voltar de Alcatraz, Bumpy Johnson busca recuperar o controle do Harlem.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113172000 -0300" stop="20211113181500 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ao perceber que uma fonte consistente de heroína é vital para recuperar o Harlem, Bumpy se empenha em uma busca para encontrar um fornecedor de drogas independente dos italianos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113181500 -0300" stop="20211113190700 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bella é encarregada da primeira Conferência Nacional das Mulheres, financiada pelo governo. Enquanto isso, Phyllis e as suas companheiras discordam sobre a melhor forma de interromper a conferência.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113190700 -0300" stop="20211113195700 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Alice, Rosemary e Pamela cruzam o território inimigo na Conferência Nacional das Mulheres em Houston, onde ficam cara a cara com líderes feministas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113195700 -0300" stop="20211113205000 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Gloria, Bella e Jill pressionam a Casa Branca a agir de acordo com as suas propostas da Conferência Nacional das Mulheres.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113205000 -0300" stop="20211113213200 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113213200 -0300" stop="20211113221500 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113221500 -0300" stop="20211113225800 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113225800 -0300" stop="20211113235200 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A persuasão de Voiello funcionou. Sir John aceita a candidatura e parte para o Vaticano.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113235200 -0300" stop="20211114004000 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Freiras estão em greve. João Paulo III viaja a Veneza para visitar Pio XIII enquanto a seita que idolatra Belardo cresce em número.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114004000 -0300" stop="20211114012600 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Atraído pelo sistema estelar, João Paulo III conhece a atriz Sharon Stone em uma entrevista que dá novas ideias ao Papa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114012600 -0300" stop="20211114021700 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Margaret será capaz de garantir a segurança da sua família e proteger os interesses de Jonas depois dos eventos violentos? Lucy e Elizabeth poderão manter a Golden Square ao seu alcance à medida que as ameaças aumentam?(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114021700 -0300" stop="20211114031200 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots (?)</title>
+    <sub-title lang="pt">Harlots</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucy pagará o preço quando o passado de Elizabeth vem à tona? Emily poderá negociar a paz antes que a briga entre Wells e Pincher fique fora de controle?(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114031200 -0300" stop="20211114040400 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots (?)</title>
+    <sub-title lang="pt">Harlots</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando Blayne exerce o seu poder, Lydia deve fazer uma escolha terrível. Com a briga de Wells-Pincher no auge e Nancy na mira de Hal, o quão longe irá a vingança?(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114040400 -0300" stop="20211114045500 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após um ataque de novos cafetões da cidade, Charlotte Wells revida, o que acaba em consequências desastrosas. Será que Charlotte pode proteger as suas garotas dos homens que querem derrubá-la? Enquanto isso, Lucy se alia a novos parceiros de negócios.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114045500 -0300" stop="20211114054100 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com o bordel de Charlotte destruído pelo fogo, ela está determinada a revidar. Porém, as mulheres precisarão ser espertas já que os Pincher são homens violentos. Lucy se oferece para ajudar a irmã de uma forma que também beneficia o seu novo negócio.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114054100 -0300" stop="20211114060100 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Zan, uma estrela da mídia, se aproxima a Earn, Alfred e Darius fora de um clube. Logo eles descobrem que Zan é mais do que diz ser e que já publicou Tweets de besteiras sobre Paper Boi.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114060100 -0300" stop="20211114063700 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Darius está pirado outra vez. Todos sabem que ele seria deixado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114063700 -0300" stop="20211114070400 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É isso ai! Vamos festejar a noite! Porém, se ninguém postar nada sobre isso, significa que talvez não aconteceu.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114070400 -0300" stop="20211114073100 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Por que Paper Boi é sempre tão arrogante? Ele é rico, certo? É por isso que não é possível se sentir mal por essas celebridades.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114073100 -0300" stop="20211114080200 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Talvez a gente tenha que fazer aquela jogada hoje à noite. Ouvi dizer que há uma festa do pijama e o Paper Boi vai estar lá.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114080200 -0300" stop="20211114084300 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É dia de eleição em Buenos Aires e o prefeito corrupto, Victor, está decidido a assegurar outro mandato. Georgina e Gabriel estão determinados a derrubar a conspiração.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114084300 -0300" stop="20211114092500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O assassinato de Victor comove toda Buenos Aires, além de impactar a amizade entre Georgina e Gabriel. Eles poderão manter o foco em sua busca por justiça em meio às consequências da tragédia?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114092500 -0300" stop="20211114100800 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É uma corrida contra o tempo para Georgina e Gabriel, que agora entendem a extensão mortal dos planos vingativos de Ellen. Eles poderão convencer Alex a cancelar os ensaios clínicos a tempo de salvar as vidas das vítimas inocentes?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114100800 -0300" stop="20211114105400 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A nova vida de Georgina como especialista em restituição de arte muda de repente quando seu colega Gabriel, involuntariamente, os envolve em uma conspiração sombria e perigosa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114105400 -0300" stop="20211114113900 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina se surpreende quando fica cara a cara com velhos amigos, e inimigos, enquanto ela e Gabriel tentam descobrir a verdade.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114113900 -0300" stop="20211114122800 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;De volta à Federal, Morello executa uma operação na igreja do Dendê e Arlete acaba sequestrada por Britto. Evandro, com as contas do Comando bloqueadas pela PF, se vê em uma encruzilhada. Seguro de que Morello é o mandante do sequestro, Evandro ameaça sua família. Mesmo após a liberação de Arlete, Evandro se arriscará em um golpe perverso que mudará a jornada do policial federal.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114122800 -0300" stop="20211114132200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A violenta morte de Britto repercute no morro e Geise decide proteger o filho Airton do ambiente cada vez mais cruel. Em meio à caça por Evandro, Morello tenta cuidar da filha depois de um desastre familiar. Evandro está cada vez mais paranoico com as pessoas ao seu redor. É quando encontra com Charles, um fotógrafo francês que veio registrar o dia a dia da comunidade. Mas o que Charles vai registrar pode mudar para sempre a vida de Evandro.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114132200 -0300" stop="20211114140900 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O violento assassinato de Charles repercute em todo o mundo. Morello recebe carta branca para caçar seu alvo, Evandro. Arlete, Geise e Aírton são levados para longe do morro contra a própria vontade. Sem o apoio do Comando, Evandro foge para a Bolívia. Mas para se estabelecer no país, ele precisará lidar com os Irmãos Urquiza e a caçada de Morello.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114140900 -0300" stop="20211114150500 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro tenta se estabelecer na Bolívia com ajuda dos Irmãos Urquiza. Em uma operação extraordinária, Morello finalmente prende Evandro. Detido em Bangu, ele recebe a visita da mãe, que agora sabe do seu real papel na morte do irmão Zeca. Em meio à uma rebelião liderada por Bruninho Bagdá e Salvador, Evandro se surpreende com a reaparição de um velho amigo como um possível aliado para poder seguir com vida.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114150500 -0300" stop="20211114154900 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious está foragido e é perseguido pelos federais. Cookie se mantém ocupada concentrando-se em sua marca que agora inclui um talk show diurno e um centro comunitário.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114154900 -0300" stop="20211114163200 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious segue foragido. Cookie confronta Damon sobre as mentiras que ele disse. Andre lida com o seu próprio trauma pessoal e com uma complicação familiar.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114163200 -0300" stop="20211114171600 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O plano de Lucious para escapar dos agentes federais finalmente vem à tona. Cookie se vê em uma situação perigosa com Damon.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114171600 -0300" stop="20211114180000 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma ocasião feliz reúne a família Lyon, mas fica evidente que eles não conseguem entrar em um acordo. Lucious, descontente com o progresso do filme, encara os demônios do seu passado.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114180000 -0300" stop="20211114184400 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114184400 -0300" stop="20211114192600 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114192600 -0300" stop="20211114200900 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114200900 -0300" stop="20211114205200 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211114205200 -0300" stop="20211114213200 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É dia de eleição em Buenos Aires e o prefeito corrupto, Victor, está decidido a assegurar outro mandato. Georgina e Gabriel estão determinados a derrubar a conspiração.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114213200 -0300" stop="20211114221500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O assassinato de Victor comove toda Buenos Aires, além de impactar a amizade entre Georgina e Gabriel. Eles poderão manter o foco em sua busca por justiça em meio às consequências da tragédia?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114221500 -0300" stop="20211114225800 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É uma corrida contra o tempo para Georgina e Gabriel, que agora entendem a extensão mortal dos planos vingativos de Ellen. Eles poderão convencer Alex a cancelar os ensaios clínicos a tempo de salvar as vidas das vítimas inocentes?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114225800 -0300" stop="20211114234300 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A nova vida de Georgina como especialista em restituição de arte muda de repente quando seu colega Gabriel, involuntariamente, os envolve em uma conspiração sombria e perigosa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113002300 -0300" stop="20211113010600 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: Internment</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Inimigos variados pressionam Rick e o grupo; os sobreviventes e a prisão podem chegar ao seu limite de resistência.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113010600 -0300" stop="20211113015000 -0300" channel="Star Hits 2">
+    <title lang="pt">Stargate Atlantis (?)</title>
+    <sub-title lang="pt">Stargate: Atlantis: Sateda</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sheppard, Teyla e Ronon são atacados em um planeta coberto por florestas. Ronon percebe que esteve lá antes e descobre que sua primeira visita acabou surtindo um terrível efeito.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113015000 -0300" stop="20211113023300 -0300" channel="Star Hits 2">
+    <title lang="pt">Stargate Atlantis (?)</title>
+    <sub-title lang="pt">Stargate: Atlantis: Irresistible</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um homem de outro mundo causa um efeito incomum na equipe Atlantis, que passa a se comportar de forma estranha. Os poucos membros da equipe que não foram afetados terão de descobrir a causa do problema.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113023300 -0300" stop="20211113031700 -0300" channel="Star Hits 2">
+    <title lang="pt">Stargate Atlantis (?)</title>
+    <sub-title lang="pt">Stargate: Atlantis: Progeny</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A Dra. Weir acompanha a equipe de Sheppard em uma missão até uma civilização avançada que teve uma relação com Atlantis no passado. Com isso, eles descobrem uma ligação existente feita previamente na cidade.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113031700 -0300" stop="20211113040000 -0300" channel="Star Hits 2">
+    <title lang="pt">Stargate Atlantis (?)</title>
+    <sub-title lang="pt">Stargate: Atlantis: The Real World</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A Dra. Weir acorda em um sanatório fora de Washngton, D.C.  e é informada que Atlantis e o Programa Stargate só existem em sua imaginação.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211113040000 -0300" stop="20211113050000 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas. Em meio ao tiroteio, Evandro é ajudado por Geise, enquanto Arlete encontra na delegada Andreia, parceira de Morello, uma possível aliada para salvar o filho dele mesmo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113050000 -0300" stop="20211113053800 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113053800 -0300" stop="20211113054400 -0300" channel="Star Hits 2">
+    <title lang="pt">Zoom In (?)</title>
+    <sub-title lang="pt">Zoom In</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211113054400 -0300" stop="20211113060000 -0300" channel="Star Hits 2">
+    <title lang="pt">Zoom In (?)</title>
+    <sub-title lang="pt">Zoom In</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211113060000 -0300" stop="20211113060600 -0300" channel="Star Hits 2">
+    <title lang="pt">Zoom In (?)</title>
+    <sub-title lang="pt">Zoom In</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211113060600 -0300" stop="20211113063000 -0300" channel="Star Hits 2">
+    <title lang="pt">Hermes e Renato (?)</title>
+    <sub-title lang="pt">Hermes E Renato</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nesse episódio, Danilo Genitália faz o Vaticano tremer com o stand up mais politicamente incorreto do Velho Mundo. Além disso, os maiores lançamentos cinematográficos você só verá na Sessão Boçal. E mais: esteja preparado para uma possível guerra, aliste-se já no Serviço Militar que mais inventa tarefas para seus soldados não ficarem parados!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113063000 -0300" stop="20211113065500 -0300" channel="Star Hits 2">
+    <title lang="pt">Hermes e Renato (?)</title>
+    <sub-title lang="pt">Hermes E Renato</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Meu, no programa que é um show de entretenimento com Luiz Boça, mais um puta recorde, meu! E no canal Multixoxo, mais estreias para desanimar as suas noites vendo TV!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113065500 -0300" stop="20211113073500 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na primeiríssima vez dessa cidade fronteiriça e pitoresca, Naco apresenta o concurso de rainha da beleza Miss Naco. Todas as belezas locais são bem-vindas, inclusive nossos dançarinos de mesa russos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113073500 -0300" stop="20211113081800 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O último desejo de Don Ezequiel é ser enterrado ao lado de seus pais no Arizona. Lethicia pretende realizar o desejo de seu pai a qualquer custo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113081800 -0300" stop="20211113090100 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As origens de Alpha e Beta são reveladas; Alfa tenta endurecer Lydia enquanto se preparam para andar com os mortos; os Whisperers criam seus rebanhos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113090100 -0300" stop="20211113094800 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A ameaça do retorno dos Sussurros leva à paranóia que varre Alexandria; Enquanto isso, Carol luta contra a necessidade de vingança.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113094800 -0300" stop="20211113103200 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pária Lydia é maltratada por três alexandrinos. Quando Negan a salva de um ataque, a vida muda em Alexandria.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113103200 -0300" stop="20211113111800 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os suprimentos de Hilltop desaparecem. Negan é idolatrado por um alexandrino. Ezequiel guarda um segredo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113111800 -0300" stop="20211113120300 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carol e Daryl partem em uma missão juntos enquanto Siddiq tenta resolver um mistério.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113120300 -0300" stop="20211113124800 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carol ultrapassa limites que deixam Daryl desconfortável. Alpha e Beta têm dúvidas sobre a integridade de uma pessoa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113124800 -0300" stop="20211113134200 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No final da metade da temporada, uma briga aumenta a tensão em Oceanside. Enquanto isso, os alexandrinos partem em uma missão de alto risco.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113134200 -0300" stop="20211113143500 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto viaja pela Europa, Joe é abordado por um oficial da inteligência russa em busca de asilo. Em troca, o oficial se oferece para revelar a identidade de um informante que atua na CIA.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113143500 -0300" stop="20211113152100 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Joe faz uma nova descoberta em busca do informante. Ao investigar uma possível pista, ele descobre que não é o único observando.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113152100 -0300" stop="20211113160700 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <sub-title lang="pt">Condor</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Acreditando que o assassino de um agente da CIA e um informante poderiam ser a mesma pessoa, Joe, mais uma vez, é obrigado a se arriscar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113160700 -0300" stop="20211113165500 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após a morte de seu tio Bob, Joe Turner é forçado a retornar à comunidade da CIA, na Virgínia, para encontrar o traidor russo e enfrentar os demônios de seu passado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113165500 -0300" stop="20211113174300 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Joe continua a investigar teorias alternativas já que não está convencido de que Gordon seja o culpado. Depois de um golpe de sorte inesperado, Eva e Gordon fazem as pazes.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113174300 -0300" stop="20211113182400 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Há uma explosão durante o encontro dos chefes de cartel. A polícia chega no local, mas Pepe e Cadu conseguem fugir em uma ambulância. Malu e Telma chantageiam o Juiz.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113182400 -0300" stop="20211113191200 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pepita, China e Juan conseguem escapar vivos do ataque à fazenda de Pepe e Cadu e Pepe, muito ferido, os encontra para se esconderem de Paco, juntos. Malu pede ajuda de Gael para esconder o corpo do Juiz.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113191200 -0300" stop="20211113202700 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Paco explode o carro de Gael com ele e Malu dentro. Ele morre, mas Malu sobrevive em coma no hospital. Téo volta ao hospital para ver a mãe, mas precisa fugir novamente.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113202700 -0300" stop="20211113212200 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro e Gilmar têm que se livrar dos corpos depois de um jantar que termina em várias mortes, mas Arlete chega na casa de surpresa. Morello pega Inês na clínica e leva a filha para casa. Evandro planeja sua fuga, mas o piloto Jorge não está disposto a se envolver com essa matança. Inês briga com Morello e foge à procura de cocaína no Dendê. Morello vai atrás dela, mas a chance de pegar Evandro fará com que ele tenha que escolher entre a ajudar a filha ou prender seu alvo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113212200 -0300" stop="20211113221500 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1989: Evandro vive no Morro do Dendê com sua mãe Arlete. Ela acredita que terá sua família de volta quando o outro filho, Zeca, saír da FEBEM.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113221500 -0300" stop="20211113231000 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois do plano de vingança pela morte do irmão, Evandro é recrutado para o tráfico. Ele e seu melhor amigo Afonso logo ganham espaço. Afonso é ganancioso e desvia dinheiro do tráfico para lucrar em investimento bancário. Quando o presidente do Brasil declara o confisco das poupanças, seu plano é descoberto e Evandro é obrigado a matá-lo. Enquanto tenta salvar a pele do melhor amigo, Evandro se depara com o autodestrutivo policial federal Morello.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113231000 -0300" stop="20211113235600 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas enquanto ele engata um namoro com Geise. Morello segue as trilhas de Evandro com perspicácia e começa a decifrar a engenhosidade de seu rival.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211113235600 -0300" stop="20211114005600 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas. Em meio ao tiroteio, Evandro é ajudado por Geise, enquanto Arlete encontra na delegada Andreia, parceira de Morello, uma possível aliada para salvar o filho dele mesmo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114005600 -0300" stop="20211114014800 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto viaja pela Europa, Joe é abordado por um oficial da inteligência russa em busca de asilo. Em troca, o oficial se oferece para revelar a identidade de um informante que atua na CIA.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114014800 -0300" stop="20211114023400 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Joe faz uma nova descoberta em busca do informante. Ao investigar uma possível pista, ele descobre que não é o único observando.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114023400 -0300" stop="20211114032000 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <sub-title lang="pt">Condor</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Acreditando que o assassino de um agente da CIA e um informante poderiam ser a mesma pessoa, Joe, mais uma vez, é obrigado a se arriscar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114032000 -0300" stop="20211114040800 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após a morte de seu tio Bob, Joe Turner é forçado a retornar à comunidade da CIA, na Virgínia, para encontrar o traidor russo e enfrentar os demônios de seu passado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114040800 -0300" stop="20211114045700 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Joe continua a investigar teorias alternativas já que não está convencido de que Gordon seja o culpado. Depois de um golpe de sorte inesperado, Eva e Gordon fazem as pazes.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114045700 -0300" stop="20211114060000 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Paraguai, afim de eliminar os intermediários das drogas e armas, Evandro orquestra um sofisticado plano de tráfico internacional e acaba descobrindo a cocaína mais pura do mercado: o "ouro branco". Arrependida por denunciar o destino do filho, Arlete se afasta da polícia, mas Morello, utilizando estratégias nada convencionais, persegue os rastros de Evandro e chega cada vez mais perto do traficante.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114060000 -0300" stop="20211114060400 -0300" channel="Star Hits 2">
+    <title lang="pt">Zoom In (?)</title>
+    <sub-title lang="pt">Zoom In</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211114060400 -0300" stop="20211114062800 -0300" channel="Star Hits 2">
+    <title lang="pt">Hermes e Renato (?)</title>
+    <sub-title lang="pt">Hermes E Renato</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dr. Dráuzio Vareta investiga a causa da Lelektospirose enquanto Glória Kalinho ensina a classe C a ser "Chic". Bono Vox é o convidado do Rasga Show e você não pode perder o lançamento da Pentagrama Toys: Boneca Fofoquita.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114062800 -0300" stop="20211114065300 -0300" channel="Star Hits 2">
+    <title lang="pt">Hermes e Renato (?)</title>
+    <sub-title lang="pt">Hermes E Renato</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Roda Seca, o arqueiro, magnata e mago Saulo Botelho! O Fenômeno nos apresenta os produtos Gozzano e mais um grande sucesso da gravadora Som Lixo: Música Sapatona Brasileira!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114065300 -0300" stop="20211114074800 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;James Keziah Delaney volta à casa para Londres de 1814 depois de 10 anos na África para herdar o que resta do império de seu pai e reconstruir uma vida própria.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114074800 -0300" stop="20211114084500 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto James Delaney junta sua liga de malditos, um rival inesperado ameaça perturbar seus planos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114084500 -0300" stop="20211114094100 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;James Delaney decide tomar uma iniciativa radical para poder se resguardar dos que tentam pelo seu fim.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114094100 -0300" stop="20211114103100 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;David retorna ao lugar onde tudo começou.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114103100 -0300" stop="20211114111600 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;David tenta encontrar uma saída para sua situação.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114111600 -0300" stop="20211114120300 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;David enfrenta seu maior desafio.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114120300 -0300" stop="20211114130200 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Alianças improváveis são formadas e a busca pelo Rei das Sombras começa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114130200 -0300" stop="20211114134700 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na segunda temporada, a história dá um salto temporal de um ano no tempo. Com David e Oliver desaparecidos e Farouck à solta, o time forma uma improvável aliança.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114134700 -0300" stop="20211114143900 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na segunda temporada, a história dá um salto temporal de um ano no tempo. Com David e Oliver desaparecidos e Farouck à solta, o time forma uma improvável aliança.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114143900 -0300" stop="20211114152100 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na segunda temporada, a história dá um salto temporal de um ano no tempo. Com David e Oliver desaparecidos e Farouck à solta, o time forma uma improvável aliança.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114152100 -0300" stop="20211114160800 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <sub-title lang="pt">Legion</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma reunião conturbada leva a uma verdade chocante.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114160800 -0300" stop="20211114165400 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O que poderiar ter sido...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114165400 -0300" stop="20211114174200 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma ilusão começa como qualquer outra ideia... mas termina em desastre.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114174200 -0300" stop="20211114183700 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;James Keziah Delaney volta à casa para Londres de 1814 depois de 10 anos na África para herdar o que resta do império de seu pai e reconstruir uma vida própria.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114183700 -0300" stop="20211114193400 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto James Delaney junta sua liga de malditos, um rival inesperado ameaça perturbar seus planos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114193400 -0300" stop="20211114203000 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;James Delaney decide tomar uma iniciativa radical para poder se resguardar dos que tentam pelo seu fim.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114203000 -0300" stop="20211114210100 -0300" channel="Star Hits 2">
+    <title lang="pt">Future Man (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Josh descobre uma nova felicidade enquanto Wolf perde a cabeça. Já Tiger embarca em uma jornada inesperada.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114210100 -0300" stop="20211114213100 -0300" channel="Star Hits 2">
+    <title lang="pt">Future Man (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Josh e Wolf se reúnem e fazem um movimento desesperado para escapar, enquanto Tiger reconcilia o seu passado e seu o presente.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211114213100 -0300" stop="20211114221500 -0300" channel="Star Hits 2">
+    <title lang="pt">Britannia (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Aulus volta ao castrum, onde revela que serve o onipotente Lokka. Ania leva Brearn e os druidas para o acampamento de Veran, mas o encontra abandonado. Cait, Divis e Love se preparam para a Prova de Fogo, e Cait e Love se unem.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114221500 -0300" stop="20211114225800 -0300" channel="Star Hits 2">
+    <title lang="pt">Britannia (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Divis está enfeitiçado e descobre que Love foi enviado por Harka, e que ele falhou na profecia. Quane descobre que Divis está preso e o repreende. No entanto, Divis ainda tenta lutar pela profecia.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211114225800 -0300" stop="20211114235800 -0300" channel="Star Hits 2">
+    <title lang="pt">Britannia (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Amena deve enfrentar Aulo novamente, mas os eventos passados a mudaram. Já Phelan perde toda a esperança ao descobrir que foi enganado e que não é o dono do seu destino, embora Quane assegure que a sua jornada está apenas começando.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
   </programme>
 </tv>
