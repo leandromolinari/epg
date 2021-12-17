@@ -782,212 +782,6 @@
     <display-name lang="pt">Star HIts 2</display-name>
     <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/foa.gif" />
   </channel>
-  <programme start="20211216000000 -0300" stop="20211216010000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sheng, Han Jiang e He Ye estão juntos novamente, mas muito mudou desde seu último encontro. A coroação de He Ge se aproxima.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216010000 -0300" stop="20211216013000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">O Cinema e as Cidades (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A partir de produções mais recentes, o último episódio revela temas urgentes do cinema contemporâneo brasileiro.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216013000 -0300" stop="20211216020000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">G.i.b.i.s. (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bem-vindo a um mundo de espadas e magias. Sim, você não leu errado. No universo que você está prestes a adentrar, um grande Orc que segue ordens de mago lariquento tem que enfrentar uma grande aventura.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216020000 -0300" stop="20211216023000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216023000 -0300" stop="20211216030000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Via Pública (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Elena vive dias intensos ocupando sua escola de ensino público. Com seus colegas secundaristas e o apoio de sua fiel bicicleta, ela vai lutar por dias melhores.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211216030000 -0300" stop="20211216050000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: O Acre Existe (?)</title>
-    <sub-title lang="pt">O Acre Existe</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com o intuito de desconstruir um certo "mito" que tomou conta das redes sociais nos últimos anos, quatro cineastas percorrem 10 mil quilômetros cruzando cidades, florestas e seringais para mostrar que sim, o Acre existe.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211216050000 -0300" stop="20211216060000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Making Of (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois de tantas entradas e saídas, idas e vindas, numa coisa bem música da Simone, o estúdio acorda com duas notícias.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216060000 -0300" stop="20211216071000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: 88 Fonte do Amanhã (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filme documental sobre o processo constituinte de 1988, no qual gerou a mais avançada e popular constituição ja feita no Brasil.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216071000 -0300" stop="20211216073000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: O Prometido (?)</title>
-    <sub-title lang="pt">Curta In Box: O Prometido</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216073000 -0300" stop="20211216075300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Éter Godzilla (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Marina, 20 anos, é uma menina de família rica que se arrisca por diversão com o amigo mais velho, Abismo, num boteco em uma região perigosa da cidade.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216075300 -0300" stop="20211216080000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Maria (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Duas amigas conversam pela internet sobre filmes de terror, até que Júlia desafia Carol a uma brincadeira que levará elas ao um caminho sem volta.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211216080000 -0300" stop="20211216092300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">A3 (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;1953. Dona Adalgisa e Rodolfo recebem visitas especiais para o fim de semana: seus inquilinos Leonor e seu marido, Genésio.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216092300 -0300" stop="20211216094500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Avoada (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mães que perderam seus filhos de forma violenta contam suas histórias, enquanto acompanhamos dois garotos que invadem uma casa para recuperarem uma uma pipa avoada.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211216094500 -0300" stop="20211216100000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216100000 -0300" stop="20211216110000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sempre Poa (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211216110000 -0300" stop="20211216113000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Crítica (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série documental "CRÍTICA" com 8 episódios, aborda a vida e o trabalho de 21 profissionais que atuam na crítica cinematográfica brasileira e também no audiovisual em outras vertentes como TV e séries.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216113000 -0300" stop="20211216120000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Em Busca de Kardec (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Documentário em 8 episódios de 25 minutos cada, rodado na França, na Suíça e no Brasil, cujo protagonista é um cineasta francês.(n)</desc>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20211216120000 -0300" stop="20211216130000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Submersos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Léo é enterrado e Gordo observa escondido. Oliveira vai até a casa de Mirella buscando um caminho para falar com Nando. Laura e Gabi vão atrás de Nando para avisá-lo sobre Branco.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216130000 -0300" stop="20211216143200 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: O Cinema das Mulheres (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Apaixonadas pela magia do cinema e historicamente impostas a um lugar de invisibilidade e superficialidades, como as mulheres podem contestar e dirigir filmes de sucesso?(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216143200 -0300" stop="20211216150000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: É Quase Verdade (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Esta é história do mendigo Aparício e seus amigos, entrevistados por uma equipe de filmagem. Aparício quer saber por que o cinema nacional só retrata e promove lá fora temas já conhecidos e amplamente divulgados.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216150000 -0300" stop="20211216184500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">1001 Noites (?)</title>
-    <sub-title lang="pt">1001 Noites</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216184500 -0300" stop="20211216190000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Histórias Maranhenses (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1971, a Rádio Difusora do Maranhão levou ao ar o programa Guerra dos Mundos, copiando Orson Wells, que fez o mesmo em 1938 em Nova York.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216190000 -0300" stop="20211216200000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Cidades de Cinema (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pesquisadora Celina Alvetti resume em cinco as etapas do cinema paranaense, começando com as primeiras exibições cinematográficas entre 1897 e 1930.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216200000 -0300" stop="20211216203000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Verona (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um segredo doloroso sobre a falecida mãe de Juliana é revelado. Depois de conseguir uma gravação comprometedora, Téo passa a ameaçar Juliana com o vídeo.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216203000 -0300" stop="20211216210000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Criador de HQs de super-heróis brasileiros, o quadrinista Arthur Garcia é também um dos precursores na utilização do formato mangá.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20211216210000 -0300" stop="20211216220000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A cerimônia de coroação de He Ge é interrompida... de novo. Aquele Homem visita Zi Yan.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216220000 -0300" stop="20211216233300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: Entrevistas do Sair à Luz (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211216233300 -0300" stop="20211216235200 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Mischa (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;No final da década de 1960, Michel, um garoto de 12 anos, filho de sobrevivente do Holocausto, busca saber mais sobre suas raízes.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20211216235200 -0300" stop="20211217000000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Halley &amp; Marilyn Duram Apenas o Tempo Dessa História (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1986, durante a passagem do Cometa Halley, dois rapazes se encontram e observam o céu.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
   <programme start="20211217000000 -0300" stop="20211217010000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Festival Passaporte Prime: Tribos e Impérios (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;A cerimônia de coroação de He Ge é interrompida... de novo. Aquele Homem visita Zi Yan.(n)</desc>
@@ -1461,253 +1255,247 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211216002900 -0300" stop="20211216005200 -0300" channel="Star Hits 1">
-    <title lang="pt">Atlanta (?)</title>
-    <sub-title lang="pt">Atlanta</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em Atlanta Robbin'Season, dois primos trabalham na cena musical de Atlanta para melhorar suas vidas e a vida de suas famílias.(n)</desc>
+  <programme start="20211218234500 -0300" stop="20211219000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em toda cidade existem pessoas que são referências, que são admiradas por todos indistintamente.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20211216005200 -0300" stop="20211216012600 -0300" channel="Star Hits 1">
-    <title lang="pt">Atlanta (?)</title>
-    <sub-title lang="pt">Atlanta</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Darius está pirado outra vez. Todos sabem que ele seria deixado.(n)</desc>
+  <programme start="20211219000000 -0300" stop="20211219010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Partiu?! (?)</title>
+    <sub-title lang="pt">Partiu?!</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Samuel é amigo de Andressa, que após a trágica perda do pai resolve ir procurar seu avô. A única pista é um pingente em forma de navio, que o pai da garota lhe deu antes de morrer.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20211216012600 -0300" stop="20211216015600 -0300" channel="Star Hits 1">
-    <title lang="pt">Atlanta (?)</title>
-    <sub-title lang="pt">Atlanta</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;É isso ai! Vamos festejar a noite! Porém, se ninguém postar nada sobre isso, significa que talvez não aconteceu.(n)</desc>
+  <programme start="20211219010000 -0300" stop="20211219013900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Nas Pegadas do Sertão (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nas pegadas do sertão é uma iniciativa que teve como finalidade realizar pesquisa e preservação da história da população cabocla do Oeste Catarinense.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20211216015600 -0300" stop="20211216024000 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu enfrenta os políticos corruptos e entra com o pedido de cassação do deputado Odraude. Cadu curte por um tempinho sua vitória e se orgulha de ser um deputado honesto.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216024000 -0300" stop="20211216033600 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tabuada se encontra com Evandro no S.A. Enquanto isso, o Dr. Burgos restabelece o controle de Evandro sobre o ouro branco dos Urquiza Brothers.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216033600 -0300" stop="20211216043000 -0300" channel="Star Hits 1">
-    <title lang="pt">Aqui na Terra (?)</title>
-    <sub-title lang="pt">Aqui na Terra</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Adán planeja uma jogada arriscada para chamar a atenção de Rocha. Enquanto isso, Carlos consegue acessar o arquivo sobre a morte de seu pai e faz uma nova descoberta que o aproxima da verdade.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216043000 -0300" stop="20211216051600 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um casal de argentinos chega a Naco para desenvolver um mega projeto de infraestrutura que converterá a cidade na futura Dubai mexicana. Gama e Morris não hesitam em participar da empresa sem medir as consequências.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216051600 -0300" stop="20211216055800 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na fronteira com os Estados Unidos, os filhos dos imigrantes são separados dos seus pais por conta das novas disposições do governo.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216055800 -0300" stop="20211216061600 -0300" channel="Star Hits 1">
-    <title lang="pt">Atlanta (?)</title>
-    <sub-title lang="pt">Atlanta</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Aí, tudo bem! Temos celebridades cheias da grana no edifício para as crianças. Eu adoraria ter um Justin Bieber. Cara, os jurássicos vão odiar, kkkk.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216061600 -0300" stop="20211216070900 -0300" channel="Star Hits 1">
-    <title lang="pt">Harlots (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Margaret será capaz de garantir a segurança da sua família e proteger os interesses de Jonas depois dos eventos violentos? Lucy e Elizabeth poderão manter a Golden Square ao seu alcance à medida que as ameaças aumentam?(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216070900 -0300" stop="20211216080700 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu volta para a Bolívia e encontra Angel, enviado do cartel de Miami, bastante à vontade na fazenda.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216080700 -0300" stop="20211216085500 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Todos estão contra Cadu. Pepe se sente traído pelo Doutor, que não cumpriu sua promessa sobre Pepita. Angel está cada vez mais influente dentro da Fazenda Dama de la Noche.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216085500 -0300" stop="20211216093500 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu agora tem que levar a mercadoria de Pepe para Santos. Malu arrasada, não fala mais com Cadu.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216093500 -0300" stop="20211216101400 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;El Paco tenta matar Cadu, mas China impede e acaba em poder dos bandidos. Cadu consegue fugir com Carolina.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216101400 -0300" stop="20211216111000 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216111000 -0300" stop="20211216113700 -0300" channel="Star Hits 1">
-    <title lang="pt">Atlanta (?)</title>
-    <sub-title lang="pt">Atlanta</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Por que Paper Boi é sempre tão arrogante? Ele é rico, certo? É por isso que não é possível se sentir mal por essas celebridades.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216113700 -0300" stop="20211216121000 -0300" channel="Star Hits 1">
-    <title lang="pt">Atlanta (?)</title>
-    <sub-title lang="pt">Atlanta</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Talvez a gente tenha que fazer aquela jogada hoje à noite. Ouvi dizer que há uma festa do pijama e o Paper Boi vai estar lá.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216121000 -0300" stop="20211216123400 -0300" channel="Star Hits 1">
-    <title lang="pt">Bless This Mess (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mike e Rio precisam decidir quais sementes eles querem começar a cultivar na fazenda, mas Rio está distraída com o seu próprio projeto.(n)</desc>
+  <programme start="20211219013900 -0300" stop="20211219015500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Quarto de Letus (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Letus, na intenção de levar seu pai idoso, Don, para morar consigo, vai até sua casa e os dois passam a tarde em meio a recordações.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20211216123400 -0300" stop="20211216132300 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;No funeral do seu pai, Georgina se reúne com o seu carismático tio Jeff. Juntos, eles descobrem a verdade sobre a morte da sua mãe. Enquanto isso, Irina pede ajuda para encontrar Adam, e o cavalo de Christos compete na sua primeira corrida.(n)</desc>
+  <programme start="20211219015500 -0300" stop="20211219020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: David Está Morto (?)</title>
+    <sub-title lang="pt">David Está Morto</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;David está dentro de mim, está por toda parte. Mas David está morto.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219020000 -0300" stop="20211219021500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme Besouro foi inspirado em uma lenda na Bahia, onde havia um capoeirista tão bom, que voava, daí o seu nome.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211219021500 -0300" stop="20211219023000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Entre os fundadores da Academia havia um jovem negro que lutou muito, estudou, se formou, foi bibliotecário e escritor: Astolfo Marques.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219023000 -0300" stop="20211219030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com a descoberta do super-8 como formato de ficção, a geração dos anos 80 inicia a produção de um novo cinema urbano em Porto Alegre.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219030000 -0300" stop="20211219043000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: A Tecnologia Social (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211219043000 -0300" stop="20211219050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Entre Parentes (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um ano após impeachment presidencial, Brasília recebe a maior mobilização indígena durante a 14ª edição do Acampamento Terra Livre, no final de abril.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219050000 -0300" stop="20211219051500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Entre outras coisas Barbosa de Godois é o autor da letra do Hino do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219051500 -0300" stop="20211219053000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Maranhão sempre recebeu as pessoas de braços abertos e o piauiense Clodoaldo de Freitas, não satisfeito em fundar a AML em 1908, fundou a Academia Piauiense de Letras em 1917.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219053000 -0300" stop="20211219054500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;António Guimarães dedica sua vida a colecionar fotografias e postais. Contar a história de seu trabalho é contar um pouco da história da cidade de São Luís e também do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219054500 -0300" stop="20211219060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filho do cônsul de Portugal em São Luís do Maranhão, Fernando Silva conhecia todas as histórias sobre as mais antigas empresas comerciais da cidade e os prédios onde elas funcionavam.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219060000 -0300" stop="20211219073200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Filme Sobre Um Bom Fim (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211219073200 -0300" stop="20211219075100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Prometido (?)</title>
+    <sub-title lang="pt">Curta In Box: O Prometido</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219075100 -0300" stop="20211219080000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: A Rua Das Casas Surdas (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em uma vizinhança silenciosa, durante a ditadura dos anos 70, Carlos e Ernesto acompanham um jogo de futebol pelo rádio, até que resolvem aproveitar o intervalo do primeiro tempo para voltar ao trabalho.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219080000 -0300" stop="20211219083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Elena vive dias intensos ocupando sua escola de ensino público. Com seus colegas secundaristas e o apoio de sua fiel bicicleta, ela vai lutar por dias melhores.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211219083000 -0300" stop="20211219090000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219090000 -0300" stop="20211219093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219093000 -0300" stop="20211219100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sankofa, A África Que Te Habita (?)</title>
+    <sub-title lang="pt">Sankofa, A África Que Te Habita</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em sua jornada percorrendo locais de memória da escravidão, Cesar e Mauricio chegam ao Togo, onde recebem um amuleto, desmancham seus preconceitos em relação aos voduns e acabam participando de um funeral muito parecido com os rituais fúnebres do candomblé brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20211219100000 -0300" stop="20211219110000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Léo é enterrado e Gordo observa escondido. Oliveira vai até a casa de Mirella buscando um caminho para falar com Nando. Laura e Gabi vão atrás de Nando para avisá-lo sobre Branco.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211216132300 -0300" stop="20211216141200 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina se prepara para lançar a sua exposição ao lado de Jeff e Noah. Enquanto isso, Constantino tenta mandar uma mensagem para ela. Já Irina se aproxima da verdade sobre Adam.(n)</desc>
+  <programme start="20211219110000 -0300" stop="20211219113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tentando combater o tédio provocado pela falta do que fazer, Cris e Gustavo, refletem sobre o movimento que colocou celebridades brasileiras dentro de histórias em quadrinhos.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20211216141200 -0300" stop="20211216145500 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+  <programme start="20211219113000 -0300" stop="20211219120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Criador de HQs de super-heróis brasileiros, o quadrinista Arthur Garcia é também um dos precursores na utilização do formato mangá.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219120000 -0300" stop="20211219130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Jr.Black mostra como se formou a geração que nos últimos anos tem produzido os filmes mais premiados e polêmicos do cinema nacional.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216145500 -0300" stop="20211216154000 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+  <programme start="20211219130000 -0300" stop="20211219140000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Esse episódio mostra uma cidade cujo cinema circula entre o cerebral e o sentimental.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216154000 -0300" stop="20211216162400 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious está foragido e é perseguido pelos federais. Cookie se mantém ocupada concentrando-se em sua marca que agora inclui um talk show diurno e um centro comunitário.(n)</desc>
+  <programme start="20211219140000 -0300" stop="20211219150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Desde sempre, uma cidade com um cinema abusado e inconformista.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216162400 -0300" stop="20211216171000 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious segue foragido. Cookie confronta Damon sobre as mentiras que ele disse. Andre lida com o seu próprio trauma pessoal e com uma complicação familiar.(n)</desc>
+  <programme start="20211219150000 -0300" stop="20211219184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219184500 -0300" stop="20211219190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nascido na Cidade de São Bento, na baixada ocidental maranhense Domingos Barbosa foi jornalista, político e um dos fundadores da AML.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20211219190000 -0300" stop="20211219205700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Os Sonâmbulos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Era um pequeno grupo de demolidores de mundo. Perdidos na multidão, mas ligados uns aos outros, viviam na solidão da clandestinidade, às voltas com suas contradições.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216171000 -0300" stop="20211216175900 -0300" channel="Star Hits 1">
-    <title lang="pt">Mrs. America (?)</title>
-    <sub-title lang="pt">Mrs. America</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;À medida que a campanha anti-emenda cresce e ganha a atenção da mídia, Betty Friedan, a mãe do movimento feminista, assume como a sua principal missão derrubar Phyllis.(n)</desc>
+  <programme start="20211219205700 -0300" stop="20211219210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Isolation (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Isolation, de forma experimental é um filme que explora uma nova realidade, apresentando a mídia e a informação como nosso meio de escape.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20211216175900 -0300" stop="20211216185300 -0300" channel="Star Hits 1">
-    <title lang="pt">Mrs. America (?)</title>
-    <sub-title lang="pt">Mrs. America</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Phyllis e Fred Schlafly debatem com o casal feminista Brenda e Marc Feigan-Fasteau na televisão.(n)</desc>
+  <programme start="20211219210000 -0300" stop="20211219220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20211216185300 -0300" stop="20211216194300 -0300" channel="Star Hits 1">
-    <title lang="pt">Mrs. America (?)</title>
-    <sub-title lang="pt">Mrs. America</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com uma republicana pró-emenda na Casa Branca, Phyllis protesta contra o seu próprio partido, o que a coloca em conflito com a líder feminista republicana Jill Ruckelshaus.(n)</desc>
+  <programme start="20211219220000 -0300" stop="20211219233000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>10</value>
     </rating>
   </programme>
-  <programme start="20211216194300 -0300" stop="20211216202800 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A vida em Brasília se mostra muito mais difícil do que Cadu imaginava. Cadu recebe uma ligação de Pepe e é obrigado a fazer uma ''entrega'' de maconha no bairro de Ceilândia, para um funcionário de Pepe.(n)</desc>
+  <programme start="20211219233000 -0300" stop="20211219235300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Luiz Carlos Felizardo, Um Fotógrafo na Estrada (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Luiz Carlos Felizardo, nasceu em Porto Alegre/RS, em 05 de julho de 1949. No documentário, ele faz uma visita à Reserva Técnica do MARGS onde revê e comenta fotos que fazem parte do acervo do museu.(n)</desc>
     <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216202800 -0300" stop="20211216213000 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Irmãos Urquiza assaltam a Segunda Armada. O poder de Evandro dentro da prisão se fortalece.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216213000 -0300" stop="20211216221300 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216221300 -0300" stop="20211216225600 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216225600 -0300" stop="20211216234000 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious está foragido e é perseguido pelos federais. Cookie se mantém ocupada concentrando-se em sua marca que agora inclui um talk show diurno e um centro comunitário.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20211216234000 -0300" stop="20211217002600 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious segue foragido. Cookie confronta Damon sobre as mentiras que ele disse. Andre lida com o seu próprio trauma pessoal e com uma complicação familiar.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
+      <value>livre</value>
     </rating>
   </programme>
   <programme start="20211217002600 -0300" stop="20211217005300 -0300" channel="Star Hits 1">
@@ -2180,233 +1968,225 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211216005200 -0300" stop="20211216013800 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As origens de Alpha e Beta são reveladas; Alfa tenta endurecer Lydia enquanto se preparam para andar com os mortos; os Whisperers criam seus rebanhos.(n)</desc>
+  <programme start="20211218235500 -0300" stop="20211219005100 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Para cobrir a sua dívida, Bumpy é encarregado de matar uma testemunha que depõe contra a família Genovese. Elijah Muhammed visita a mesquita de Malcolm X, onde conhece Elise e pede que ela espie Malcolm.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211216013800 -0300" stop="20211216023800 -0300" channel="Star Hits 2">
+  <programme start="20211219005100 -0300" stop="20211219014500 -0300" channel="Star Hits 1">
     <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu e Pepe ficam na Bolívia, assumem o mercado local e ganham o poder que os manterá seguros.(n)</desc>
+    <sub-title lang="pt">1 Contra Todos</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu enfrenta a dura rotina de ex-presidiário e não consegue emprego como advogado. Faz bico na loja de sapatos do sogro JP.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211216023800 -0300" stop="20211216032200 -0300" channel="Star Hits 2">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello sai da clínica e vai trabalhar para a DEA. Geise e seu filho Airton tentam fugir do país, mas ele é sequestrado.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216032200 -0300" stop="20211216041300 -0300" channel="Star Hits 2">
-    <title lang="pt">Condor (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kat observa enquanto Volk faz justiça. As discussões de Mae com o senador Thrush têm consequências imprevisíveis.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216041300 -0300" stop="20211216045600 -0300" channel="Star Hits 2">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Gama e Morris vão embora de Naco com Wendy. Natividad fica sabendo disso e manda El Muerto caçá-los. O sicário não poupará violência para cumprir sua missão, e os coiotes deverão enfrentar um destino inesperado.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216045600 -0300" stop="20211216053600 -0300" channel="Star Hits 2">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Fugitivos da polícia americana, Gama e Morris retornam a Naco e encontram a cidade tomada por grupos do narcotráfico que disputam a praça. Sem poder encontrar Wendy, eles decidem se refugiar novamente nos Estados Unidos.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216053600 -0300" stop="20211216061900 -0300" channel="Star Hits 2">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Gama e Morris tentam salvar a Wendy antes que seja tarde enquanto a disputa da praça entre o Dragón e Natividad segue.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216061900 -0300" stop="20211216064500 -0300" channel="Star Hits 2">
-    <title lang="pt">Hermes e Renato (?)</title>
-    <sub-title lang="pt">Hermes E Renato</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Roda Seca, o arqueiro, magnata e mago Saulo Botelho! O Fenômeno nos apresenta os produtos Gozzano e mais um grande sucesso da gravadora Som Lixo: Música Sapatona Brasileira!(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216064500 -0300" stop="20211216074100 -0300" channel="Star Hits 2">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro tenta se estabelecer na Bolívia com ajuda dos Irmãos Urquiza. Em uma operação extraordinária, Morello finalmente prende Evandro. Detido em Bangu, ele recebe a visita da mãe, que agora sabe do seu real papel na morte do irmão Zeca. Em meio à uma rebelião liderada por Bruninho Bagdá e Salvador, Evandro se surpreende com a reaparição de um velho amigo como um possível aliado para poder seguir com vida.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216074100 -0300" stop="20211216083500 -0300" channel="Star Hits 2">
-    <title lang="pt">Sitiados (?)</title>
-    <sub-title lang="pt">Sitiados</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma serie inspirada Livremente no Sitio de Villarica em territorio chileno, que decorreu entre 1598 e 1601, em que 500 espanhois foram presos pelos mapuches e ficaram em um forte, onde somente 22 sobreviveram.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216083500 -0300" stop="20211216092800 -0300" channel="Star Hits 2">
-    <title lang="pt">Sitiados (?)</title>
-    <sub-title lang="pt">Sitiados</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ano 1618. Os rumores do bastardo do Rei Felipe III voltaram a ferver. Ingleses e espanhóis começam uma corrida para encontrá-lo.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216092800 -0300" stop="20211216102200 -0300" channel="Star Hits 2">
-    <title lang="pt">Sitiados (?)</title>
-    <sub-title lang="pt">Sitiados</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Diego faz novas amizades em Cartagena enquanto investiga o paradeiro de Agustín. A cidade é cercada por piratas a mando de Francis.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216102200 -0300" stop="20211216111100 -0300" channel="Star Hits 2">
-    <title lang="pt">Legion (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;David ganha adeptos.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216111100 -0300" stop="20211216115300 -0300" channel="Star Hits 2">
-    <title lang="pt">Legion (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;David se prepara para uma jornada.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216115300 -0300" stop="20211216124000 -0300" channel="Star Hits 2">
-    <title lang="pt">Legion (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma história de família.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216124000 -0300" stop="20211216133200 -0300" channel="Star Hits 2">
-    <title lang="pt">Legion (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O tempo é aproveitado.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216133200 -0300" stop="20211216141900 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A ameaça do retorno dos Sussurros leva à paranóia que varre Alexandria; Enquanto isso, Carol luta contra a necessidade de vingança.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216141900 -0300" stop="20211216150300 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pária Lydia é maltratada por três alexandrinos. Quando Negan a salva de um ataque, a vida muda em Alexandria.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216150300 -0300" stop="20211216155100 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os suprimentos de Hilltop desaparecem. Negan é idolatrado por um alexandrino. Ezequiel guarda um segredo.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216155100 -0300" stop="20211216163800 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carol e Daryl partem em uma missão juntos enquanto Siddiq tenta resolver um mistério.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20211216163800 -0300" stop="20211216173100 -0300" channel="Star Hits 2">
+  <programme start="20211219014500 -0300" stop="20211219023000 -0300" channel="Star Hits 1">
     <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pressionado pelo cartel de Miami, Cadu vai para Brasília e reúne suas forças, e muito dinheiro, para aprovar a Lei do Lúpulo, lei que pode beneficiar o tráfico de drogas entre a Bolívia e os Estados Unidos.(n)</desc>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu se depara com a dura realidade política de Brasília e terá que trabalhar em favor de Pepe. A primeira missão dele é passar uma lei que facilite o tráfico de drogas nas estradas.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211216173100 -0300" stop="20211216182100 -0300" channel="Star Hits 2">
-    <title lang="pt">Condor (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O passado traumático de Deacon entra em foco. Sharla persegue Joubert. Mae faz uma descoberta aterrorizante. Depois que a localização da trama é descoberta, Bob considera todas as suas opções, e Joe coage Janice e Caleb a ajudá-lo.(n)</desc>
+  <programme start="20211219023000 -0300" stop="20211219032300 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tabuada se encontra com Evandro no S.A. Enquanto isso, o Dr. Burgos restabelece o controle de Evandro sobre o ouro branco dos Urquiza Brothers.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20211216182100 -0300" stop="20211216190600 -0300" channel="Star Hits 2">
-    <title lang="pt">Gone (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando Nancy descobre que a sua filha, Sam, foi sequestrada, ela assume o máximo de responsabilidade pelo resgate na esperança de que a jovem volte para casa em segurança.(n)</desc>
+  <programme start="20211219032300 -0300" stop="20211219042300 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Irmãos Urquiza assaltam a Segunda Armada. O poder de Evandro dentro da prisão se fortalece.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219042300 -0300" stop="20211219051000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sozinho em casa, Inês fica viciado em drogas. Evandro encontra uma maneira de sair da prisão.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219051000 -0300" stop="20211219060300 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <sub-title lang="pt">1 Contra Todos</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu enfrenta a dura rotina de ex-presidiário e não consegue emprego como advogado. Faz bico na loja de sapatos do sogro JP.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219060300 -0300" stop="20211219062800 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Zan, uma estrela da mídia, se aproxima a Earn, Alfred e Darius fora de um clube. Logo eles descobrem que Zan é mais do que diz ser e que já publicou Tweets de besteiras sobre Paper Boi.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219062800 -0300" stop="20211219072600 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro e Geise reatam o casamento com uma promessa de mudanças e Arlete vai embora da casa depois de um trauma. A mãe de Evandro tenta sequestrar a neta pouco antes da família se mudar para Bolívia. Morello vai atrás de Júlio, o traficante que fornece drogas para sua filha, e descobre uma oportunidade de pegar Evandro. Ao mesmo tempo, Inês foge da clínica, e, sozinha, busca suprir seu vício.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219072600 -0300" stop="20211219081200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello salva Inês de ser presa pela PM e a leva de volta para a clínica de reabilitação. Disposto a pegar Evandro a qualquer custo, o policial obriga o traficante Júlio a plantar um grampo no barracão do Dendê. Evandro monta um laboratório no Brasil, mas Morello, com o grampo, escuta todos os seus planos, esperando a hora de atacar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219081200 -0300" stop="20211219091000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">Impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro negocia com os Urquiza pois perdeu um carregamento de drogas. Para piorar, os irmãos descobrem sobre o laboratório de Evandro. Sentindo-se traído, Arturo fecha um negócio com Salvador, o que pode colocar Evandro e sua família em risco. Morello recebe uma mala de grampo e consegue monitorar o telefone do piloto Jorge, peça importante no tráfico internacional.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219091000 -0300" stop="20211219100700 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro e Gilmar têm que se livrar dos corpos depois de um jantar que termina em várias mortes, mas Arlete chega na casa de surpresa. Morello pega Inês na clínica e leva a filha para casa. Evandro planeja sua fuga, mas o piloto Jorge não está disposto a se envolver com essa matança. Inês briga com Morello e foge à procura de cocaína no Dendê. Morello vai atrás dela, mas a chance de pegar Evandro fará com que ele tenha que escolher entre a ajudar a filha ou prender seu alvo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219100700 -0300" stop="20211219105700 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Elisa inaugura a sua exposição e surpreende a todos com a peça sobre os abusos de Pía e Hurtado. Carlos e Ari armam para Rocha para desmascará-lo. Enquanto isso, Adán encara a vingança dos contrabandistas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219105700 -0300" stop="20211219114800 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pía retorna ao México e choca os planos de Rocha. Adán se esconde dos contrabandistas na casa de Carlos. Já Carlos obtém uma pista para sua investigação enquanto El Pájaro convence Rocha a resolver a única pendência sobre a morte de Orlando Calles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219114800 -0300" stop="20211219123700 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha triunfa nos comícios e vira candidato à presidência enquanto Adán enfrenta uma morte inesperada. Já Carlos obtém o teste que confirma todas as suas suspeitas sobre a morte de seu pai.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219123700 -0300" stop="20211219132500 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha triunfa nos comícios e vira candidato à presidência enquanto Adán enfrenta uma morte inesperada. Já Carlos obtém o teste que confirma todas as suas suspeitas sobre a morte de seu pai.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219132500 -0300" stop="20211219141900 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ao perceber que uma fonte consistente de heroína é vital para recuperar o Harlem, Bumpy se empenha em uma busca para encontrar um fornecedor de drogas independente dos italianos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219141900 -0300" stop="20211219151400 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <sub-title lang="pt">Godfather of Harlem</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bumpy, de repente, se encontra ao lado de Elise depois que a prisão dela por furto e abuso subsequente se torna o catalisador de um protesto onde interesses conflitantes causam tensões.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219151400 -0300" stop="20211219160500 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cassius Clay luta contra o herói do boxe Doug Jones. Mayme insiste que Bumpy defenda Jones, um apoiador da sua organização, mas Malcolm pede que Bumpy apoie Clay.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219160500 -0300" stop="20211219165500 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na tentativa de quebrar o banco de Bumpy, Chin faz uma aposta. Como resultado, Bumpy deve aos vencedores mais do que ele pode cobrir.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219165500 -0300" stop="20211219175100 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Para cobrir a sua dívida, Bumpy é encarregado de matar uma testemunha que depõe contra a família Genovese. Elijah Muhammed visita a mesquita de Malcolm X, onde conhece Elise e pede que ela espie Malcolm.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219175100 -0300" stop="20211219183500 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Randall descobre novas verdades sobre o seu passado.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216190600 -0300" stop="20211216194900 -0300" channel="Star Hits 2">
-    <title lang="pt">Council of Dads - Lembranças do Meu Pai (?)</title>
-    <sub-title lang="pt">Council of Dads</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Robin encara o outono com coragem, mas não lida com a situação tão bem quanto Scott. Oliver luta com a transgressão de Peter, e Theo faz novos amigos, mas eles não são uma boa influência.(n)</desc>
+  <programme start="20211219183500 -0300" stop="20211219191900 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin embarca em uma viagem estressante. Jack e o jovem Kevin vão para um campo de treinamento de futebol.(n)</desc>
     <rating system="BR">
-      <value>12</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216194900 -0300" stop="20211216203300 -0300" channel="Star Hits 2">
-    <title lang="pt">Council of Dads - Lembranças do Meu Pai (?)</title>
-    <sub-title lang="pt">Council of Dads</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A família Perry e o Conselho se reúnem quando Charlotte precisa de uma cirurgia de emergência. Luly tem uma reunião poderosa com seus pais adotivos que mudará a sua vida.(n)</desc>
+  <programme start="20211219191900 -0300" stop="20211219200400 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os Pearson percorrem grandes marcos familiares, à distância.(n)</desc>
     <rating system="BR">
-      <value>12</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216203300 -0300" stop="20211216211900 -0300" channel="Star Hits 2">
-    <title lang="pt">Homeland (?)</title>
-    <sub-title lang="pt">Homeland</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carrie busca respostas. Max tenta um resgate. G'ulom agarra uma oportunidade.(n)</desc>
+  <programme start="20211219200400 -0300" stop="20211219204700 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216211900 -0300" stop="20211216221500 -0300" channel="Star Hits 2">
-    <title lang="pt">Homeland (?)</title>
-    <sub-title lang="pt">Homeland</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A agitação em Washington leva uma investigação a Cabul.(n)</desc>
+  <programme start="20211219204700 -0300" stop="20211219212900 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216221500 -0300" stop="20211216230100 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A ameaça do retorno dos Sussurros leva à paranóia que varre Alexandria; Enquanto isso, Carol luta contra a necessidade de vingança.(n)</desc>
+  <programme start="20211219212900 -0300" stop="20211219221500 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216230100 -0300" stop="20211216234500 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pária Lydia é maltratada por três alexandrinos. Quando Negan a salva de um ataque, a vida muda em Alexandria.(n)</desc>
+  <programme start="20211219221500 -0300" stop="20211219230000 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20211216234500 -0300" stop="20211217003300 -0300" channel="Star Hits 2">
-    <title lang="pt">The Walking Dead (?)</title>
-    <sub-title lang="pt">The Walking Dead</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os suprimentos de Hilltop desaparecem. Negan é idolatrado por um alexandrino. Ezequiel guarda um segredo.(n)</desc>
+  <programme start="20211219230000 -0300" stop="20211219234300 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20211217003300 -0300" stop="20211217012100 -0300" channel="Star Hits 2">
@@ -2847,6 +2627,255 @@
   <programme start="20211218230600 -0300" stop="20211218235000 -0300" channel="Star Hits 2">
     <title lang="pt">Impuros (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Sozinho em casa, Inês fica viciado em drogas. Evandro encontra uma maneira de sair da prisão.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211218235000 -0300" stop="20211219003500 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello sai da clínica e vai trabalhar para a DEA. Geise e seu filho Airton tentam fugir do país, mas ele é sequestrado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219003500 -0300" stop="20211219012300 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mariana volta ao Dendé. Arlete acorda de seu coma, confundindo Evandro com seu falecido filho Zeca, tratando-o com amor e carinho.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219012300 -0300" stop="20211219020500 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na segunda temporada, a história dá um salto temporal de um ano no tempo. Com David e Oliver desaparecidos e Farouck à solta, o time forma uma improvável aliança.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219020500 -0300" stop="20211219025200 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <sub-title lang="pt">Legion</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma reunião conturbada leva a uma verdade chocante.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219025200 -0300" stop="20211219034000 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O que poderiar ter sido...(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219034000 -0300" stop="20211219042800 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma ilusão começa como qualquer outra ideia... mas termina em desastre.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219042800 -0300" stop="20211219051500 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na segunda temporada, a história dá um salto temporal de um ano no tempo. Com David e Oliver desaparecidos e Farouck à solta, o time forma uma improvável aliança com o antigo inimigo Clark.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219051500 -0300" stop="20211219055800 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na segunda temporada, a história dá um salto temporal de um ano no tempo. Com David e Oliver desaparecidos e Farouck à solta, o time forma uma improvável aliança com o antigo inimigo Clark.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219055800 -0300" stop="20211219060500 -0300" channel="Star Hits 2">
+    <title lang="pt">Zoom In (?)</title>
+    <sub-title lang="pt">Zoom In</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211219060500 -0300" stop="20211219061200 -0300" channel="Star Hits 2">
+    <title lang="pt">Zoom In (?)</title>
+    <sub-title lang="pt">Zoom In</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma emocionante viagem pela produção dos melhores filmes. Fique por dentro de tudo o que aconteceu por trás dos bastidores, orçamento, equipe e elenco de cada obra.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20211219061200 -0300" stop="20211219063600 -0300" channel="Star Hits 2">
+    <title lang="pt">Hermes e Renato (?)</title>
+    <sub-title lang="pt">Hermes E Renato</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nesse episódio você vai conhecer a próxima novela que vai fisgar seu coração, "Muito beijo"! E ainda se emocionar com a incrível história da empregada viciada em produtos de limpeza e como ela conseguiu se livrar desse cheiroso vício. E não perca os cursos mais que essenciais de como beber água do Instituto Galáctico Brasileiro!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219063600 -0300" stop="20211219070100 -0300" channel="Star Hits 2">
+    <title lang="pt">Hermes e Renato (?)</title>
+    <sub-title lang="pt">Hermes E Renato</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Você quase cai para trás quando sente o hálito mais fedido do mundo? Acompanhe Dr. Dráuzio Vareta em mais um de seus diagnósticos! Conheça também o banco que cuida de você, dorme por você, tem filho por você!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219070100 -0300" stop="20211219072800 -0300" channel="Star Hits 2">
+    <title lang="pt">Hermes e Renato (?)</title>
+    <sub-title lang="pt">Hermes E Renato</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nesse episódio, Danilo Genitália faz o Vaticano tremer com o stand up mais politicamente incorreto do Velho Mundo. Além disso, os maiores lançamentos cinematográficos você só verá na Sessão Boçal. E mais: esteja preparado para uma possível guerra, aliste-se já no Serviço Militar que mais inventa tarefas para seus soldados não ficarem parados!(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219072800 -0300" stop="20211219083600 -0300" channel="Star Hits 2">
+    <title lang="pt">Legion (?)</title>
+    <sub-title lang="pt">Legion</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um jovem sofrendo com uma doença mental questiona se as visões que ele tem são reais após um encontro estranho com outro paciente.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219083600 -0300" stop="20211219092500 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Seguindo as evidências, Joe faz uma descoberta que o faz redobrar os seus esforços para encontrar Vasili.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219092500 -0300" stop="20211219101300 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tracy e Mae decidem desaparecer por um tempo. Ao descobrir o paradeiro de Vasili, Joe decide sair e se reconectar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219101300 -0300" stop="20211219110300 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kat observa enquanto Volk faz justiça. As discussões de Mae com o senador Thrush têm consequências imprevisíveis.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219110300 -0300" stop="20211219115600 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sem outras opções, Joe é forçado a colocar os mais próximos dele na linha de perigo. Mae faz algumas exigências a Reuel.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219115600 -0300" stop="20211219124800 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Vidas são alteradas para sempre quando os planos saem completamente diferentes do que Joe planejou. Enquanto isso, Kat deve decidir a quem ela é realmente leal.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219124800 -0300" stop="20211219132300 -0300" channel="Star Hits 2">
+    <title lang="pt">Um Contra Todos (?)</title>
+    <sub-title lang="pt">One Against All</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;TÉO briga na escola e MALU diz para CADU que ele tem que visitá-lo. Cadu não quer que Téo o veja como presidiário e resolve transformar a cadeia em um "hotel" de verdade para dar ao seu filho um dia mágico.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219132300 -0300" stop="20211219135800 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu conseguiu que o diretor o transferisse para outro presídio, onde estaria bem mais seguro. Porém, o preço desse favor foi alto, e Malu é obrigada a hipotecar a casa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219135800 -0300" stop="20211219143600 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Apresenta a história de Cadu, um defensor público que vê sua vida mudar após ser confundido com um traficante e acabar preso.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219143600 -0300" stop="20211219151800 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sara, irmã de uma pop star, é sequestrada após um show em Nova York, e a equipe mergulha de cabeça no caso.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219151800 -0300" stop="20211219155900 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;David e Karen Crawford desaparecem de um acampamento nas montanhas, e a força-tarefa do FBI rapidamente entra na trilha para encontrar o sequestrador.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219155900 -0300" stop="20211219164200 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <sub-title lang="pt">Gone</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois de deixar o seu filho em um treino de basquete, Darren é atacado e sequestrado em um estacionamento. Frank nota que houve uma mudança na rede de tráfico controlada pelo sequestrador de Kick e quer descobrir se ele tentou entrar em contato.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219164200 -0300" stop="20211219172500 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando Nancy descobre que a sua filha, Sam, foi sequestrada, ela assume o máximo de responsabilidade pelo resgate na esperança de que a jovem volte para casa em segurança.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219172500 -0300" stop="20211219180900 -0300" channel="Star Hits 2">
+    <title lang="pt">Gone (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando a advogada Juliet é raptada no seu escritório em Chicago, a força-tarefa de Frank rapidamente examina as evidências disponíveis.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219180900 -0300" stop="20211219190400 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;James Keziah Delaney volta à casa para Londres de 1814 depois de 10 anos na África para herdar o que resta do império de seu pai e reconstruir uma vida própria.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219190400 -0300" stop="20211219200400 -0300" channel="Star Hits 2">
+    <title lang="pt">Taboo (?)</title>
+    <sub-title lang="pt">Taboo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto James Delaney junta sua liga de malditos, um rival inesperado ameaça perturbar seus planos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219200400 -0300" stop="20211219204700 -0300" channel="Star Hits 2">
+    <title lang="pt">The Disappearance (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Henry pede ajuda a Fred para decodificar as pistas deixadas pelo sequestrador de Anthony.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219204700 -0300" stop="20211219213200 -0300" channel="Star Hits 2">
+    <title lang="pt">The Disappearance (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O mistério por trás do desaparecimento está quase desvendado. A polícia e a família Sullivan estão em uma corrida contra o tempo para encontrar Anthony vivo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20211219213200 -0300" stop="20211219221500 -0300" channel="Star Hits 2">
+    <title lang="pt">Britannia (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Amena, agora rainha dos Cantii e aliada e amante de Aulus, está trabalhando para Roma em uma negociação com as tribos celtas. Enquanto isso, Aulus continua a sua busca implacável por Cait e o seu pai cego, mencionado na profecia como uma ameaça a ele.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219221500 -0300" stop="20211219225800 -0300" channel="Star Hits 2">
+    <title lang="pt">Britannia (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Harka pede que Hella encontre uma pessoa para ele. Já Phelan abandona a sua tribo e vive uma vida simples, com um novo nome e uma nova família. Após o seu sínodo, Veran apela aos druidas para lutar contra Roma.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20211219225800 -0300" stop="20211219234000 -0300" channel="Star Hits 2">
+    <title lang="pt">Britannia (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É revelado que Harka e Veran são irmãos. À medida que a poeira baixa após o que aconteceu no duelo druida, Brearn e os seus seguidores se recusam a reconhecer a autoridade de Veran e decidem procurar um novo líder.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
