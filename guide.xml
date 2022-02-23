@@ -776,9 +776,11 @@
   </channel>
   <channel id="Star Hits 1">
     <display-name lang="pt">Star Hits 1</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/fo1.gif" />
   </channel>
   <channel id="Star Hits 2">
     <display-name lang="pt">Star HIts 2</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/foa.gif" />
   </channel>
   <programme start="20220222220000 -0300" stop="20220223002000 -0300" channel="AMC">
     <title lang="pt">Expresso Do Amanhã</title>
@@ -4254,6 +4256,405 @@
     <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.(n)</desc>
     <rating system="BR">
       <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220222005300 -0300" stop="20220222014200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O violento assassinato de Charles repercute em todo o mundo. Morello recebe carta branca para caçar seu alvo, Evandro. Arlete, Geise e Aírton são levados para longe do morro contra a própria vontade. Sem o apoio do Comando, Evandro foge para a Bolívia. Mas para se estabelecer no país, ele precisará lidar com os Irmãos Urquiza e a caçada de Morello.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222014200 -0300" stop="20220222024000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro tenta se estabelecer na Bolívia com ajuda dos Irmãos Urquiza. Em uma operação extraordinária, Morello finalmente prende Evandro. Detido em Bangu, ele recebe a visita da mãe, que agora sabe do seu real papel na morte do irmão Zeca. Em meio à uma rebelião liderada por Bruninho Bagdá e Salvador, Evandro se surpreende com a reaparição de um velho amigo como um possível aliado para poder seguir com vida.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222024000 -0300" stop="20220222032400 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222032400 -0300" stop="20220222040700 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222040700 -0300" stop="20220222045200 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222045200 -0300" stop="20220222053500 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Malik observa Randall no trabalho. Kevin se esforça para se aproximar do novo diretor de seu filme. Já Jack e Rebecca lutam para conseguir pôr os bebês para dormir.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222053500 -0300" stop="20220222100900 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kate confronta o seu passado. A fama de Randall após o vídeo viral o leva a uma descoberta inesperada. Além disso, Kevin pensa no seu futuro e decide qual é o melhor caminho a seguir.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222100900 -0300" stop="20220222103200 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto limpa o porão, Rio brinca com o fato de Mike sempre abandonar os seus hobbies e vários projetos. Preocupado com esse comentário, Mike tenta provar que Rio está errada. Já Constance tenta terminar os seus empenhos românticos com o pastor Paul.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220222103200 -0300" stop="20220222112300 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222112300 -0300" stop="20220222120700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina e Gabriel conseguem fugir, porém, os seus inimigos, agora estão cientes de que estão se aproximando da verdade. Por quanto tempo eles ficarão fora de perigo?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222120700 -0300" stop="20220222124900 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222124900 -0300" stop="20220222133400 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222133400 -0300" stop="20220222141800 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222141800 -0300" stop="20220222150400 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Candace e Carol levam Cookie em uma viagem de meninas a Miami para se divertir e deixar de pensar em Lucious. Após uma visita de Leah, Lucious tem de lidar com autoanálise.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222150400 -0300" stop="20220222155200 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma rádio faz a transmissão da respiração de Pio XIII, agora regular e apenas interrompida por suspiros estranhos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222155200 -0300" stop="20220222165000 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voiello se curvou enquanto as políticas de seu sucessor, Assente, minam a credibilidade da Igreja e a ameaça terrorista se torna cada vez mais ameaçadora.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222165000 -0300" stop="20220222175000 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voiello descobre o segredo de João Paulo III. Enquanto isso, Lenny Belardo voltou secretamente ao Vaticano.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222175000 -0300" stop="20220222184000 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pepita, China e Juan conseguem escapar vivos do ataque à fazenda de Pepe e Cadu e Pepe, muito ferido, os encontra para se esconderem de Paco, juntos. Malu pede ajuda de Gael para esconder o corpo do Juiz.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222184000 -0300" stop="20220222192700 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas enquanto ele engata um namoro com Geise. Morello segue as trilhas de Evandro com perspicácia e começa a decifrar a engenhosidade de seu rival.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222192700 -0300" stop="20220222201600 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222201600 -0300" stop="20220222205900 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina e Gabriel conseguem fugir, porém, os seus inimigos, agora estão cientes de que estão se aproximando da verdade. Por quanto tempo eles ficarão fora de perigo?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222205900 -0300" stop="20220222214200 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222214200 -0300" stop="20220222222700 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222222700 -0300" stop="20220222231100 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222231100 -0300" stop="20220222235700 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Candace e Carol levam Cookie em uma viagem de meninas a Miami para se divertir e deixar de pensar em Lucious. Após uma visita de Leah, Lucious tem de lidar com autoanálise.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222003000 -0300" stop="20220222012500 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Vendo todo o estrago e sofrimento a sua volta, Cadu encontra a única forma de não ser uma ameaça a todos aqueles que ama, mesmo que para isso tenha que sacrificar-se.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222012500 -0300" stop="20220222020900 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O retorno de Maggie esconde um passado misterioso, será que ela irá compartilhar com o grupo por onde esteve? Negan sente-se ameaçado mais vez.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222020900 -0300" stop="20220222025300 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Acompanhe a saga de Daryl (Norman Reedus), Maggie (Laura Cohen) e seus amigos na busca pela sobrevivência.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222025300 -0300" stop="20220222034200 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Gabriel e Aaron procuram comida e suprimentos para levar a Alexandria. Pequenas tragédias levam a tragédias maiores, enquanto a fé é quebrada e o otimismo se fragmenta.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222034200 -0300" stop="20220222042400 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Eugene, Ezekiel, Yumiko e Princess são capturados e separados. Princess luta com as memórias de seu passado traumático e tenta escapar de uma forma ou de outra.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222042400 -0300" stop="20220222050800 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Daryl e Carol chegam a uma bifurcação na estrada e seguem caminhos separados. Carol retorna para Alexandria, enquanto Daryl permanece na estrada.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222050800 -0300" stop="20220222060000 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com Maggie de volta em Alexandria, Carol leva Negan em uma jornada para minimizar a tensão crescente. Lá, Negan reflete sobre sua falecida esposa, Lucille, e os eventos que o levaram a este ponto.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222060000 -0300" stop="20220222075700 -0300" channel="Star Hits 2">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um grupo de traficantes de golfinhos capturam dois exemplares em águas mexicanas e tentam levá-los aos Estados Unidos. Porém, um casal de ativistas vai atrás deles e pede ajuda a Gama e Morris para detê-los.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222075700 -0300" stop="20220222084000 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: Indifference</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A missão de busca suprimentos enfrenta obstáculos. A situação na prisão piora.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222084000 -0300" stop="20220222092300 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: Internment</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Inimigos variados pressionam Rick e o grupo; os sobreviventes e a prisão podem chegar ao seu limite de resistência.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222092300 -0300" stop="20220222100800 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: Live Bait</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os membros do grupo lutam para encontrar sua humanidade, enquanto são constantemente ameaçados.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222100800 -0300" stop="20220222105300 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: Dead Weight</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Algo novo se revela em um campo fora da prisão; a adição de novos membros pode ameaçar a paz.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222105300 -0300" stop="20220222113600 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: Too Far Gone</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Depois que as coisas começam a se acalmar na prisão, Rick e o grupo encaram um perigo iminente.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222113600 -0300" stop="20220222121900 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: After</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rick e o grupo estão o mais perto possível de uma vida ideal na prisão. Será que eles vão conseguir manter o lado humano com a presença de um novo mal?(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222121900 -0300" stop="20220222130400 -0300" channel="Star Hits 2">
+    <title lang="pt">The Walking Dead (?)</title>
+    <sub-title lang="pt">The Walking Dead: Inmates</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto o grupo enfrenta um novo inimigo, Rick e os outros devem lutar para proteger o meio de vida que eles trabalharam tanto para criar na prisão.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222130400 -0300" stop="20220222135600 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto viaja pela Europa, Joe é abordado por um oficial da inteligência russa em busca de asilo. Em troca, o oficial se oferece para revelar a identidade de um informante que atua na CIA.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222135600 -0300" stop="20220222144200 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Joe faz uma nova descoberta em busca do informante. Ao investigar uma possível pista, ele descobre que não é o único observando.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222144200 -0300" stop="20220222153100 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <sub-title lang="pt">Condor</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Acreditando que o assassino de um agente da CIA e um informante poderiam ser a mesma pessoa, Joe, mais uma vez, é obrigado a se arriscar.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222153100 -0300" stop="20220222161900 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após a morte de seu tio Bob, Joe Turner é forçado a retornar à comunidade da CIA, na Virgínia, para encontrar o traidor russo e enfrentar os demônios de seu passado.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222161900 -0300" stop="20220222171000 -0300" channel="Star Hits 2">
+    <title lang="pt">Condor (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Joe continua a investigar teorias alternativas já que não está convencido de que Gordon seja o culpado. Depois de um golpe de sorte inesperado, Eva e Gordon fazem as pazes.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222171000 -0300" stop="20220222180300 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222180300 -0300" stop="20220222184800 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222184800 -0300" stop="20220222193600 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu consegue convencer Pepe a lhe dar uma chance. Passa a morar na sua fazenda e entender melhor o seu negócio e sua família. Em Brasília, todos acreditam que ele está morto - menos Téo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222193600 -0300" stop="20220222202300 -0300" channel="Star Hits 2">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Telma sugere que ela e Malu coloquem o Sítio Roma para funcionar novamente, essa é a única maneira de se conseguir dinheiro e informações valiosas para tirar Téo da cadeia.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222202300 -0300" stop="20220222211100 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na operação chefiada por Morello para prender Evandro, uma civil é morta e o policial é suspenso da Federal. Já os negócios no Dendê, agora capitaneados pelo "ouro branco" vindo da Bolívia, se expandem. Enquanto Morello investiga o traficante por conta própria, Evandro se consolida como um dos maiores traficantes da cidade, deixando sua família vulnerável, especialmente a mãe Arlete.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222211100 -0300" stop="20220222220000 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;De volta à Federal, Morello executa uma operação na igreja do Dendê e Arlete acaba sequestrada por Britto. Evandro, com as contas do Comando bloqueadas pela PF, se vê em uma encruzilhada. Seguro de que Morello é o mandante do sequestro, Evandro ameaça sua família. Mesmo após a liberação de Arlete, Evandro se arriscará em um golpe perverso que mudará a jornada do policial federal.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222225600 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A violenta morte de Britto repercute no morro e Geise decide proteger o filho Airton do ambiente cada vez mais cruel. Em meio à caça por Evandro, Morello tenta cuidar da filha depois de um desastre familiar. Evandro está cada vez mais paranoico com as pessoas ao seu redor. É quando encontra com Charles, um fotógrafo francês que veio registrar o dia a dia da comunidade. Mas o que Charles vai registrar pode mudar para sempre a vida de Evandro.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222225600 -0300" stop="20220222234200 -0300" channel="Star Hits 2">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O violento assassinato de Charles repercute em todo o mundo. Morello recebe carta branca para caçar seu alvo, Evandro. Arlete, Geise e Aírton são levados para longe do morro contra a própria vontade. Sem o apoio do Comando, Evandro foge para a Bolívia. Mas para se estabelecer no país, ele precisará lidar com os Irmãos Urquiza e a caçada de Morello.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
 </tv>
