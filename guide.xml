@@ -472,246 +472,307 @@
   </channel>
   <channel id="Rede Boa Vontade">
     <display-name lang="pt">Rede Boa Vontade</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/lbv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Famí­lia">
     <display-name lang="pt">Rede Famí­lia</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ref.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Gênesis">
     <display-name lang="pt">Rede Gênesis</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tvg.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Internacional de TV">
     <display-name lang="pt">Rede Internacional de TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rit.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Super de Televisão">
     <display-name lang="pt">Rede Super de Televisão</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/srd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="RTP Internacional">
     <display-name lang="pt">RTP Internacional</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rtp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Santa Cecília TV">
     <display-name lang="pt">Santa Cecília TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/stc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SESC TV">
     <display-name lang="pt">SESC TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nac.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Shoptime">
     <display-name lang="pt">Shoptime</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sho.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SIC International">
     <display-name lang="pt">SIC International</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sic.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Smithsonian HD">
     <display-name lang="pt">Smithsonian HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/smi.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Terra Viva">
     <display-name lang="pt">Terra Viva</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tvv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Câmara">
     <display-name lang="pt">TV Câmara</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cam.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Escola">
     <display-name lang="pt">TV Escola</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/esc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Espanha">
     <display-name lang="pt">TV Espanha</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tve.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Justiça">
     <display-name lang="pt">TV Justiça</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/jus.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Senado">
     <display-name lang="pt">TV Senado</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sen.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV União">
     <display-name lang="pt">TV União</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tvu.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV5 Monde">
     <display-name lang="pt">TV5 Monde</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tv5.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Vh1">
     <display-name lang="pt">Vh1</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/vh1.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Vh1 HD">
     <display-name lang="pt">Vh1 HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/vhd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="VH1 Mega Hits">
     <display-name lang="pt">VH1 Mega Hits</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mth.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Viva">
     <display-name lang="pt">Viva</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/viv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Woohoo">
     <display-name lang="pt">Woohoo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/woo.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Channel">
     <display-name lang="pt">Discovery Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dis.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Civilization">
     <display-name lang="pt">Discovery Civilization</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dci.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Home">
     <display-name lang="pt">Discovery Home Health</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hea.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Science">
     <display-name lang="pt">Discovery Science</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dsc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Turbo">
     <display-name lang="pt">Discovery Turbo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dtu.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="H2">
     <display-name lang="pt">H2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ch2.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="H2 HD">
     <display-name lang="pt">H2 HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ch1.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="History Channel">
     <display-name lang="pt">History Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/his.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="History Channel HD">
     <display-name lang="pt">History Channel HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/hih.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Nat Geo Wild HD">
     <display-name lang="pt">Nat Geo Wild HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ngh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="National Geographic">
     <display-name lang="pt">National Geographic</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sup.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TLC">
     <display-name lang="pt">TLC</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/trv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band News">
     <display-name lang="pt">Band News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/new.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="BBC World News">
     <display-name lang="pt">BBC World News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bbc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Bloomberg">
     <display-name lang="pt">Bloomberg</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bit.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNN Brasil">
     <display-name lang="pt">CNN Brasil</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cn9.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNN Espanhol">
     <display-name lang="pt">CNN Espanhol</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cne.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNN Internacional">
     <display-name lang="pt">CNN Internacional</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnn.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Deutsche Welle">
     <display-name lang="pt">Deutsche Welle</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dwl.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Fox News">
     <display-name lang="pt">Fox News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fne.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Globo News">
     <display-name lang="pt">Globo News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gln.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Tele Sur">
     <display-name lang="pt">Tele Sur</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tls.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Band Rede">
     <display-name lang="pt">Band Rede</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ban.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal 21">
     <display-name lang="pt">Canal 21</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/c21.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="CNT">
     <display-name lang="pt">CNT</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="MTV">
     <display-name lang="pt">MTV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mtv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Record">
     <display-name lang="pt">Record</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rec.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Record News">
     <display-name lang="pt">Record News</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rcn.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede TV">
     <display-name lang="pt">Rede TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rtv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Vida">
     <display-name lang="pt">Rede Vida</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/vda.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SBT">
     <display-name lang="pt">SBT</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sbt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Brasil">
     <display-name lang="pt">TV Brasil</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ted.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Brasil Central">
     <display-name lang="pt">TV Brasil Central</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tbc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Cultura">
     <display-name lang="pt">TV Cultura</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cul.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Gazeta">
     <display-name lang="pt">TV Gazeta</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gaz.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Globo SP">
     <display-name lang="pt">TV Globo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/grd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Prime Box Brasil">
     <display-name lang="pt">Prime Box Brasil</display-name>
+    <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/bq7.gif" />
   </channel>
   <channel id="Star Hits 1">
     <display-name lang="pt">Star Hits 1</display-name>
@@ -2810,5 +2871,1389 @@
     <desc lang="pt">Igreja Paz e Vida.(n)</desc>
     <category lang="pt">Variedades</category>
     <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222223500 -0300" stop="20220222225500 -0300" channel="Rede Boa Vontade">
+    <title lang="pt">Programa Boa Vontade, com Paiva Netto</title>
+    <desc lang="pt">Exibe as atividades fraternas da Legião da Boa Vontade, que há 67 anos trabalha por um Brasil melhor e por uma Humanidade mais feliz, educando com Espiritualidade Ecumênica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222225500 -0300" stop="20220222230000 -0300" channel="Rede Boa Vontade">
+    <title lang="pt">Mensagem de Paiva Netto</title>
+    <desc lang="pt">Uma mensagem ecumênica de Paz dedicada ao seu coração, nas palavras fraternas do Diretor-Presidente da LBV, José de Paiva Netto. São 61 anos de Comunicação 100% Jesus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222231000 -0300" channel="Rede Boa Vontade">
+    <title lang="pt">Momento Ecumênico de Oração</title>
+    <desc lang="pt">De hora em hora, na Boa Vontade TV, Momento Ecumênico de Oração para fortalecer a Alma na busca de soluções para os embates diários.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222231000 -0300" stop="20220222235000 -0300" channel="Rede Boa Vontade">
+    <title lang="pt">O Assunto é Jesus</title>
+    <desc lang="pt">Um programa da Academia Jesus, o Cristo Ecumênico. Reúne a família e estuda temas atuais, demonstrando a extraordinária contribuição do Divino Mestre para as diversas áreas do saber espiritual-humano.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222235000 -0300" stop="20220223001500 -0300" channel="Rede Boa Vontade">
+    <title lang="pt">Mensagem da Ave, Maria!</title>
+    <desc lang="pt">Momento tradicional de preces e súplicas a Maria, Mãe de Jesus, com mensagens na voz do saudoso Fundador da LBV, Alziro Zarur. Traz fé e esperança aos corações, promovendo a Fraternidade Ecumênica.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Rede Famí­lia">
+    <title lang="pt">Dona Xepa</title>
+    <desc lang="pt">Dona Xepa conta uma história sobre o amor de uma mãe pelos filhos. Sem instrução e abandonada pelo marido, Dona Xepa cumpre o papel de mãe e pai, trabalhando dobrado para garantir um futuro aos filhos.(n)</desc>
+    <credits>
+      <director>Ivan Zettel</director>
+      <actor>Thais Fersoza</actor>
+      <actor>Arthur Aguiar</actor>
+      <actor>José Dumont</actor>
+      <actor>Mauricio Mattar</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Rede Famí­lia">
+    <title lang="pt">Curiosidades Da Alimentação</title>
+    <desc lang="pt">A alimentação deve ser equilibrada, colorida, variada e bem distribuída ao longo do dia com pelo menos cinco refeições: desjejum, colação, almoço, lanche e jantar.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220222235900 -0300" channel="Rede Famí­lia">
+    <title lang="pt">Reportagens Especiais</title>
+    <desc lang="pt">Um programa de reportagens de grande relevância para população!(n)</desc>
+    <credits>
+      <actor>Larissa Israel</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222235900 -0300" stop="20220223080000 -0300" channel="Rede Famí­lia">
+    <title lang="pt">IURD</title>
+    <desc lang="pt">Programa diário da Igreja Universal do Reino de Deus.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Rede Gênesis">
+    <title lang="pt">Culto da Família</title>
+    <desc lang="pt">Com palavras da Bispa Maria Lúcia Rodovalho, o Culto da Família leva até você uma mensagem de amor, perdão e restauração.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Rede Gênesis">
+    <title lang="pt">Celebração Manaus</title>
+    <desc lang="pt">Programa de informações sobre eventos Cristã. As matérias são realizadas nas igrejas onde os participantes colocam seu entendimento em cada celebração.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Rede Gênesis">
+    <title lang="pt">Celebração Manaus</title>
+    <desc lang="pt">Programa de informações sobre eventos Cristã. As matérias são realizadas nas igrejas onde os participantes colocam seu entendimento em cada celebração.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222233000 -0300" channel="Rede Internacional de TV">
+    <title lang="pt">Jornal das 22h00 - Ao Vivo</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo com apresentação de Alexandre Giachetto.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220222233500 -0300" channel="Rede Internacional de TV">
+    <title lang="pt">Semeando a Fé</title>
+    <desc lang="pt">Aprenda a desfrutar das bênçãos de Deus. Todos os dias, antes do início de cada programa exibido na Rit, assista Semeando a Fé com o Missionário R.R.Soares.(n)</desc>
+    <credits>
+      <actor>Missionário R.R.Soares</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222233500 -0300" stop="20220223010000 -0300" channel="Rede Internacional de TV">
+    <title lang="pt">Vejam Só!</title>
+    <desc lang="pt">Programa de entrevistas e debates apresentado por Eber Cocareli. Os temas são atuais e polêmicos, tanto evangélicos quanto seculares, abordados com bom humor as questões que mais interessam no momento.(n)</desc>
+    <credits>
+      <director>Nilson Teréncio</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222224500 -0300" stop="20220222230000 -0300" channel="Rede Super de Televisão">
+    <title lang="pt">Sou Casa Jovem</title>
+    <desc lang="pt">Um programa sobre santidade no relacionamento, abordando os assunto como sexualidade e namoro para adolescentes e jovens, tudo à luz da palavra de Deus.(n)</desc>
+    <credits>
+      <actor>Pr. Giba</actor>
+      <actor>Pra. Ari</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Rede Super de Televisão">
+    <title lang="pt">Célula Online Nívea Soares</title>
+    <desc lang="pt">Alcançar pessoas em diversos países por meio da internet, anunciar as boas novas do evangelho de Cristo, trazendo despertamento à igreja em relação ao seu lugar em Deus e na sociedade.(n)</desc>
+    <credits>
+      <actor>Nívea Soares</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="RTP Internacional">
+    <title lang="pt">24 Horas</title>
+    <desc lang="pt">Acompanhe as notícias do dia com um olhar especial para a atualidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="RTP Internacional">
+    <title lang="pt">Manchetes 3</title>
+    <desc lang="pt">Todos os dias, as manchetes dos jornais de referência.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223010000 -0300" channel="RTP Internacional">
+    <title lang="pt">É Ou Não É? - O Grande Debate</title>
+    <desc lang="pt">A opinião de quem sabe. O debate entre quem pensa diferente.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222225500 -0300" channel="Santa Cecília TV">
+    <title lang="pt">Caderno Regional</title>
+    <desc lang="pt">Jornalismo: Matérias sobre a Baixada Santista.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222225500 -0300" stop="20220222230000 -0300" channel="Santa Cecília TV">
+    <title lang="pt">Visão Médica</title>
+    <desc lang="pt">Cuidados com a saúde.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Saúde</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223003000 -0300" channel="Santa Cecília TV">
+    <title lang="pt">Esporte Por Esporte</title>
+    <desc lang="pt">Programa de Esportes.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="SESC TV">
+    <title lang="pt">Temporal</title>
+    <desc lang="pt">A paixão por jogos é o mote deste episódio que retrata o interesse de diferentes gerações pela arte de competir. O programa traz depoimentos de aficionados em jogos mentais, de infância, celular, bridge, botões e bingo.(n)</desc>
+    <credits>
+      <director>Kiko Goifman</director>
+      <director>Olivia Brenga</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="SESC TV">
+    <title lang="pt">Cena Inquieta</title>
+    <desc lang="pt">Os grupos cariocas Cia Marginal e Coletivo Bonobando falam sobre seus espetáculos e discutem questões éticas e estéticas implicadas no fazer teatral na periferia.(n)</desc>
+    <credits>
+      <director>Toni Venturi</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Biografia</category>
+  </programme>
+  <programme start="20220222215500 -0300" stop="20220222225500 -0300" channel="Shoptime">
+    <title lang="pt">Conectados</title>
+    <desc lang="pt">Um dos programas mais tradicionais do Shoptime traz para você os mais modernos smartphones, notebooks, as mais desejadas Smart TVs e muito mais!(n)</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Andréa Bueno</actor>
+      <actor>Ciro Bottini</actor>
+      <actor>André Saporetti</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20220222225500 -0300" stop="20220222235500 -0300" channel="Shoptime">
+    <title lang="pt">Especial Shoptime</title>
+    <desc lang="pt">Quer as melhores ofertas e marcas do mercado? Então você está no lugar certo. O programa Especial Shoptime traz uma variedade incrível de produtos, que irão mudar a sua vida e te fazer economizar muito.(n)</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Vários Apresentadores</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20220222235500 -0300" stop="20220223005500 -0300" channel="Shoptime">
+    <title lang="pt">Casa e Conforto</title>
+    <desc lang="pt">O programa mais tradicional do Shoptime continua a todo vapor. Comandado por Fabiana Boal e Babi Marttins, o Casa e Conforto permanece cheio de ofertas que irão deixar seu quarto uma suíte de hotel cinco estrelas.(n)</desc>
+    <credits>
+      <director>Tereza Amorim</director>
+      <actor>Fabiana Boal</actor>
+      <actor>Babi Marttins</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Televendas</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222231500 -0300" channel="SIC International">
+    <title lang="pt">Amor Amor</title>
+    <desc lang="pt">Esta é a história de uma mulher que se apaixonou e foi traída. Viu o homem que amava fazer sucesso às custas de uma música que lhe roubou, enquanto ela foi obrigada a lutar para sobreviver, longe da terra onde nasceu.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220223001500 -0300" channel="SIC International">
+    <title lang="pt">A Serra</title>
+    <desc lang="pt">Quando Fátima conhece Tomás, um socorrista de montanha, os dois se apaixonam de imediato. Fátima não imagina que Tomás está noivo da sua rival de adolescência - Mariana - e que vai ser chantageado para se afastar de Fátima.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Nature Tech</title>
+    <desc lang="pt">A ciência olha para a natureza com novos olhos, buscando soluções para os problemas do dia-a-dia.(n)</desc>
+    <credits>
+      <director>Alfred Vendl</director>
+      <director>Steve Nicholls</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Smithsonian HD">
+    <title lang="pt">Aéreas</title>
+    <desc lang="pt">De lugares famosos e históricos a paisagens inóspitas e intocadas, o programa exibe imagens incríveis de diversas localidades urbanas e rurais dos Estados Unidos.(n)</desc>
+    <credits>
+      <director>Toby Beach</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222203500 -0300" stop="20220223010000 -0300" channel="Terra Viva">
+    <title lang="pt">Leilão Virtual Basa</title>
+    <desc lang="pt">Cobertura nacional de feiras, exposições e leilões.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="TV Câmara">
+    <title lang="pt">Expressão Nacional</title>
+    <desc lang="pt">Debate ao vivo, com a participação do cidadão, sobre os principais temas em discussão na agenda do Congresso Nacional.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="TV Câmara">
+    <title lang="pt">Representativas</title>
+    <desc lang="pt">Nos últimos anos, as redes sociais deram coragem a muitas mulheres para relatar casos de abuso sexual e estupro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220222234500 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta</title>
+    <desc lang="pt">O Palavra Aberta é o espaço em que o parlamentar expõe suas ideias, fala de propostas que tramitam no Congresso Nacional e presta contas de sua atuação como deputado.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20220222234500 -0300" stop="20220223000000 -0300" channel="TV Câmara">
+    <title lang="pt">Palavra Aberta</title>
+    <desc lang="pt">O Palavra Aberta é o espaço em que o parlamentar expõe suas ideias, fala de propostas que tramitam no Congresso Nacional e presta contas de sua atuação como deputado.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="TV Escola">
+    <title lang="pt">Incluídos: Trabalhando Sem Preconceitos</title>
+    <desc lang="pt">Accenture é uma empresa de tecnologia que desenvolve um programa de RH focado nas capacidades dos candidatos, independentemente de suas deficiências.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="TV Escola">
+    <title lang="pt">Trabalhos Com História</title>
+    <desc lang="pt">Série que mostra as profissões no decorrer da história.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Cultural</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="TV Escola">
+    <title lang="pt">Anthony Knivet</title>
+    <desc lang="pt">Ambientado no Sec. XVI, o documentário é baseado nos relatos de viagem do jovem inglês que acaba virando escravo no Rio de Janeiro.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230500 -0300" channel="TV Espanha">
+    <title lang="pt">Corazon</title>
+    <desc lang="pt">Revista diária ao vivo, onde em 30 minutos repassamos toda a atualidade social de nosso país.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230500 -0300" stop="20220223001000 -0300" channel="TV Espanha">
+    <title lang="pt">La Caza. Tramuntana</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="TV Justiça">
+    <title lang="pt">Entender Direito</title>
+    <desc lang="pt">O programa explora a competência do STJ, como tribunal uniformizador da legislação infraconstitucional, debatendo com juristas temas que fazem parte da rotina de julgamentos do STJ.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="TV Justiça">
+    <title lang="pt">Jornal da Justiça 2ª Ed.</title>
+    <desc lang="pt">Um jornal diário com entrevistas, reportagens, debates, prestação de serviços, quadros especiais e as principais notícias e decisões do Judiciário brasileiro.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="TV Justiça">
+    <title lang="pt">Saber Direito</title>
+    <desc lang="pt">Saber Direito, um programa voltado para a extensão e aprofundamento dos conhecimentos jurídicos. Estudantes e interessados em conhecimentos jurídicos podem acompanhar cursos de direito constitucional e penal.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220223000000 -0300" channel="TV Senado">
+    <title lang="pt">Sessão Plenária</title>
+    <desc lang="pt">A atividade legislativa do Senado Federal se dá principalmente por meio de reuniões das comissões e sessões plenárias. Para saber mais: www.senado.gov.br/tv.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Político</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="TV União">
+    <title lang="pt">Região</title>
+    <desc lang="pt">Entrevistas com abordagem inteligente sobre assuntos da atualidade e da região, com convidados formadores de opinião.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="TV União">
+    <title lang="pt">Prazer da Carne</title>
+    <desc lang="pt">O programa traz receitas, dicas de preparo e curiosidades dessa paixão que é o churrasco.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="TV União">
+    <title lang="pt">Cineclaquete</title>
+    <desc lang="pt">Um programa que mistura diversão, conhecimento e curiosidades sobre o mundo da sétima arte.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Cinema</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222233000 -0300" channel="TV5 Monde">
+    <title lang="pt">Le 23h</title>
+    <desc lang="pt">companhe o boletim de Franceinfo, com relatórios, entrevistas e todas as notícias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223010000 -0300" channel="TV5 Monde">
+    <title lang="pt">La Grande Librairie</title>
+    <desc lang="pt">As notícias literárias, tendo por palavra de ordem o prazer da leitura. Em pauta, um escrete de escritores conhecidos, de todas nacionalidades, que despertam em nós o apetite para degustar histórias.(n)</desc>
+    <credits>
+      <actor>François Busnel</actor>
+      <actor>Amélie Nothomb</actor>
+      <actor>Erik Orsenna</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Comportamento</category>
+  </programme>
+  <programme start="20220222190000 -0300" stop="20220223070000 -0300" channel="Vh1">
+    <title lang="pt">Non-Stop Nostalgia</title>
+    <desc lang="pt">Comece a relembrar os bons velhos tempos com esta lista de reprodução ininterrupta repleta de todos os seus sucessos favoritos de antigamente!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222190000 -0300" stop="20220223070000 -0300" channel="Vh1 HD">
+    <title lang="pt">Non-Stop Nostalgia</title>
+    <desc lang="pt">Comece a relembrar os bons velhos tempos com esta lista de reprodução ininterrupta repleta de todos os seus sucessos favoritos de antigamente!(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="VH1 Mega Hits">
+    <title lang="pt">Nothing But Classics</title>
+    <desc lang="pt">Acompanhe os maiores sucessos de venda da última década no pop e no rock.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="VH1 Mega Hits">
+    <title lang="pt">In Motion</title>
+    <desc lang="pt">O melhor playlist da atualidade, com vídeo clipes dos artistas mais badalados do momento.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222221500 -0300" stop="20220222230000 -0300" channel="Viva">
+    <title lang="pt">A Grande Família</title>
+    <desc lang="pt">Tipicamente brasileira, a família Silva mora em um subúrbio na Zona Norte do Rio de Janeiro.(n)</desc>
+    <credits>
+      <director>Daniela Braga</director>
+      <director>Maurício Farias</director>
+      <actor>Marco Nanini</actor>
+      <actor>Marieta Severo</actor>
+      <actor>Guta Stresser</actor>
+      <actor>Lúcio Mauro Filho</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222234500 -0300" channel="Viva">
+    <title lang="pt">Páginas da Vida</title>
+    <desc lang="pt">Em Páginas da Vida, Alex se preocupa com o retorno de Léo. Sílvio flagra um passeio de Olívia e Léo. Sandra surpreende Greg. Léo diz a avó que tem um filho. Lívia questiona Renato sobre ligação.(n)</desc>
+    <credits>
+      <director>Jayme Monjardim</director>
+      <director>Teresa Lampréia</director>
+      <actor>ReginaDuarte</actor>
+      <actor>Lilia Cabral</actor>
+      <actor>Tarcisio Meira</actor>
+      <actor>Glória Menezes</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20220222234500 -0300" stop="20220223003000 -0300" channel="Viva">
+    <title lang="pt">Alma Gêmea</title>
+    <desc lang="pt">Em Alma Gêmea, Felipe surpreende Mirella. Uma música leva Serena até o ateliê. Olívia e Cristina trocam farpas. Agnes fica atordoada com uma afirmação de Adelaide.(n)</desc>
+    <credits>
+      <director>Jorge Fernando</director>
+      <actor>Ana Lúcia Torre</actor>
+      <actor>Cecília Dassi</actor>
+      <actor>Drica Moraes</actor>
+      <actor>Eduardo Moscovis</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Novela</category>
+  </programme>
+  <programme start="20220222224500 -0300" stop="20220222225500 -0300" channel="Woohoo">
+    <title lang="pt">40 Graus</title>
+    <desc lang="pt">Conheça o dia a dia de uma agência que descobriu Gisele Bündchen, Isabeli Fontana e muitos outros grandes nomes do mundo da moda. Comandada pelo caça-talentos Sérgio Mattos.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222225500 -0300" stop="20220222230000 -0300" channel="Woohoo">
+    <title lang="pt">Pop Up</title>
+    <desc lang="pt">Pílulas de programação que abordam temas variados, desde curiosidades do mundo do entretenimento, moda, gastronomia, estilo de vida e bem-estar.(n)</desc>
+    <credits>
+      <director>Antonio Ricardo</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222231500 -0300" channel="Woohoo">
+    <title lang="pt">Pura Connection</title>
+    <desc lang="pt">O mundo é movido por energia e conexões. André Bintang traz no Pura Connection, personalidades e suas histórias de desenvolvimento humano através de uma atmosfera diversificada de autoconhecimento e busca pelo equilíbrio físico.(n)</desc>
+    <credits>
+      <director>André de Alencar Freitas</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220222233000 -0300" channel="Woohoo">
+    <title lang="pt">De Olho No Doc</title>
+    <desc lang="pt">Em uma manobra artística, educativa e social, o Santo Skate, apresenta o projeto criado pela ONG Casa Amarela, mostrando os impactos que o skate tem nas comunidades.(n)</desc>
+    <credits>
+      <director>Lucas Pires</director>
+      <director>Guilherme Pereira</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Woohoo">
+    <title lang="pt">Roaming</title>
+    <desc lang="pt">Dois amigos brasileiros botam o pé na estrada para desbravar o Canadá. Aventureiros, descobrem novos esportes radicais a cada lugar que passam e também a cultura local, as pessoas e a vida selvagem.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Viagem</category>
+  </programme>
+  <programme start="20220222221800 -0300" stop="20220222230900 -0300" channel="Discovery Channel">
+    <title lang="pt">Largados e Pelados</title>
+    <desc lang="pt">Wes e Suzänne enfrentam a impiedosa floresta tropical do Equador. Onças agressivas, cobras venenosas e tempestades constantes ameaçam cada passo. Mesmo esta dupla de veteranos não está preparada para uma notícia chocante.(n)</desc>
+    <credits>
+      <actor>Angel Rodriguez</actor>
+      <actor>Nicole Terry</actor>
+      <actor>Michael Brown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230900 -0300" stop="20220223000400 -0300" channel="Discovery Channel">
+    <title lang="pt">Vida Selvagem: O Desafio</title>
+    <desc lang="pt">Cada episódio apresenta uma família ou grupo de pessoas determinadas a viver na mata selvagem. Elas terão apenas 30 dias para se adaptar ao novo ambiente.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222180000 -0300" stop="20220223062400 -0300" channel="Discovery Civilization">
+    <title lang="pt">Crimes.Com</title>
+    <desc lang="pt">O  caso  que  abre  o  episódio  mostra  a  atuação  para  polícia  para descobrir quem está por trás de um golpe que enganou diversas mulheres e roubou centenas de milhares de reais, o chamado "Don Juan Digital".(n)</desc>
+    <credits>
+      <director>Fabio José De Melo</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222232900 -0300" channel="Discovery Home">
+    <title lang="pt">Confissões Médicas</title>
+    <desc lang="pt">Dra. Margareth Lalle´e, após um transplante de fígado, percebe que o irmão do paciente tem a mesma doença. Mas o irmão desaparece durante meses e quando volta ao hospital está em estado terminal.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222232900 -0300" stop="20220223002400 -0300" channel="Discovery Home">
+    <title lang="pt">10 Anos Mais Jovem: Reino Unido</title>
+    <desc lang="pt">Prepare-se para algumas transformações surpreendentes enquanto Cherry e sua equipe enfrentam as inseguranças de um policial comunitário e dão a um recém-separado um pontapé inicial.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222222400 -0300" stop="20220222231200 -0300" channel="Discovery Science">
+    <title lang="pt">Perícia Criminal: Você Decide</title>
+    <desc lang="pt">Uma freira é encontrada morta em uma sacristia católica, em Toledo. Um padre é o principal suspeito, mas sem testemunhas e evidências, o caso esfria. Duas décadas depois, um informante e a moderna perícia forense reabrem o caso.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222231200 -0300" stop="20220223000000 -0300" channel="Discovery Science">
+    <title lang="pt">Perícia Criminal: Você Decide</title>
+    <desc lang="pt">O carro de um casal cai em um lago. A esposa se afoga, mas o marido consegue nadar até a margem. Marcas de pneu levam a polícia a suspeitar de um crime. Veja como os peritos forenses tentam obter evidências e decida se o marido é o assassino.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222221300 -0300" stop="20220222230500 -0300" channel="Discovery Turbo">
+    <title lang="pt">Invasão de Garagens</title>
+    <desc lang="pt">Este De Tomaso Pantera 1971 é mais uma pele do que realmente uma pantera. Uma carcaça de carro, ele precisa de quase tudo instalado antes que alguém possa ouvi-lo rosnar.(n)</desc>
+    <credits>
+      <director>Ted Lega</director>
+      <actor>Ron Gregurich</actor>
+      <actor>Cy Kellogg</actor>
+      <actor>Jeff King</actor>
+      <actor>Bruno Massel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222230500 -0300" stop="20220222235700 -0300" channel="Discovery Turbo">
+    <title lang="pt">Invasão de Garagens</title>
+    <desc lang="pt">Uma menina de cinco anos oferece suas economias para ajudar a concluir a restauração do Chevelle 1968 de seu pai. A equipe do programa recusa a oferta, mas hesita quando percebe que terá muito trabalho pela frente.(n)</desc>
+    <credits>
+      <director>Ted Lega</director>
+      <actor>Ron Gregurich</actor>
+      <actor>Cy Kellogg</actor>
+      <actor>Jeff King</actor>
+      <actor>Bruno Massel</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222235700 -0300" stop="20220223004900 -0300" channel="Discovery Turbo">
+    <title lang="pt">Texas Metal</title>
+    <desc lang="pt">Bill e a equipe consertam um F-350 2017 quebrado por outra oficina. Depois, um cliente contrata a equipe para customizar um trailer com churrasqueira e acabamento personalizado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222223200 -0300" stop="20220222230100 -0300" channel="H2">
+    <title lang="pt">Os Grandes Mitos Gregos</title>
+    <desc lang="pt">Zeus admirava seu filho, o deus Hermes. Mas, embora lhe confiasse várias missões, como mensageiro, intermediário entre vivos e mortos e promotor do comércio, o jovem era um deus difícil de entender.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230100 -0300" stop="20220222235200 -0300" channel="H2">
+    <title lang="pt">Cidades Ocultas</title>
+    <desc lang="pt">Em sua busca por descobrir novas evidências que iluminem os segredos do passado, Don se aventura em uma fortaleza dos Cavaleiros Templários na Turquia.(n)</desc>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222235200 -0300" stop="20220223004300 -0300" channel="H2">
+    <title lang="pt">A Maldição De Oak Island</title>
+    <desc lang="pt">Quando a equipe dos irmãos Lagina descobre uma passagem de pedra que passa por baixo da lama do pântano, a comunidade toma uma decisão que pode mudar o curso da escavação.(n)</desc>
+    <credits>
+      <director>Kevin Burns</director>
+      <actor>Robert Clotworthy</actor>
+      <actor>Rick Lagina</actor>
+      <actor>Marty Lagina</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222223200 -0300" stop="20220222230100 -0300" channel="H2 HD">
+    <title lang="pt">Os Grandes Mitos Gregos</title>
+    <desc lang="pt">Zeus admirava seu filho, o deus Hermes. Mas, embora lhe confiasse várias missões, como mensageiro, intermediário entre vivos e mortos e promotor do comércio, o jovem era um deus difícil de entender.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230100 -0300" stop="20220222235200 -0300" channel="H2 HD">
+    <title lang="pt">Cidades Ocultas</title>
+    <desc lang="pt">Em sua busca por descobrir novas evidências que iluminem os segredos do passado, Don se aventura em uma fortaleza dos Cavaleiros Templários na Turquia.(n)</desc>
+    <credits>
+      <actor>Don Wildman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222235200 -0300" stop="20220223004300 -0300" channel="H2 HD">
+    <title lang="pt">A Maldição De Oak Island</title>
+    <desc lang="pt">Quando a equipe dos irmãos Lagina descobre uma passagem de pedra que passa por baixo da lama do pântano, a comunidade toma uma decisão que pode mudar o curso da escavação.(n)</desc>
+    <credits>
+      <director>Kevin Burns</director>
+      <actor>Robert Clotworthy</actor>
+      <actor>Rick Lagina</actor>
+      <actor>Marty Lagina</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222221000 -0300" stop="20220222230000 -0300" channel="History Channel">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Rick vai até Boston para conferir uma coleção histórica de beisebol dos Red Sox. Corey se interessa por uma jaqueta da Segunda Guerra Mundial e, junto com Chum, aprende novos truques com um antigo kit de magia.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222235100 -0300" channel="History Channel">
+    <title lang="pt">O Melhor De... Trato Feito</title>
+    <desc lang="pt">Corey e Chum só pensam em salvar suas vidas quando o famoso Robosaurus de 31 toneladas aparece na loja. Rick tenta fazer um acordo para ficar com o jato de combate A6 Texan.(n)</desc>
+    <credits>
+      <director>Shannon Biggs</director>
+      <director>Jonathan Wyche</director>
+      <actor>Corey Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222235100 -0300" stop="20220223001900 -0300" channel="History Channel">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Muitos riscos e muitos dólares rolam quando os compradores participam do leilão de primeira classe em Arcadia na Califórnia. Dave tem Jarrod e Brandi na mira e as coisas esquentam!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222221000 -0300" stop="20220222230000 -0300" channel="History Channel HD">
+    <title lang="pt">Trato Feito</title>
+    <desc lang="pt">Rick vai até Boston para conferir uma coleção histórica de beisebol dos Red Sox. Corey se interessa por uma jaqueta da Segunda Guerra Mundial e, junto com Chum, aprende novos truques com um antigo kit de magia.(n)</desc>
+    <credits>
+      <actor>Corey Harrison</actor>
+      <actor>Richard Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222235100 -0300" channel="History Channel HD">
+    <title lang="pt">O Melhor De... Trato Feito</title>
+    <desc lang="pt">Corey e Chum só pensam em salvar suas vidas quando o famoso Robosaurus de 31 toneladas aparece na loja. Rick tenta fazer um acordo para ficar com o jato de combate A6 Texan.(n)</desc>
+    <credits>
+      <director>Shannon Biggs</director>
+      <director>Jonathan Wyche</director>
+      <actor>Corey Harrison</actor>
+      <actor>Rick Harrison</actor>
+      <actor>Brett K. Maly</actor>
+      <actor>Chris Richardson</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222235100 -0300" stop="20220223001900 -0300" channel="History Channel HD">
+    <title lang="pt">Quem dá Mais?</title>
+    <desc lang="pt">Muitos riscos e muitos dólares rolam quando os compradores participam do leilão de primeira classe em Arcadia na Califórnia. Dave tem Jarrod e Brandi na mira e as coisas esquentam!(n)</desc>
+    <credits>
+      <actor>Thom Beers</actor>
+      <actor>Dan Dotson</actor>
+      <actor>Laura Dotson</actor>
+      <actor>Darrell Sheets</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222224600 -0300" stop="20220222233300 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Clínica Animal com Dr. Pol</title>
+    <desc lang="pt">Este episódio está com muita pressa! O Dr. Pol e os veterinários costuram um cão mutilado, examinam adoráveis chinchilas e esvaziam um bezerro muito inchado.(n)</desc>
+    <credits>
+      <director>Tracy Rudolph</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222233300 -0300" stop="20220223002000 -0300" channel="Nat Geo Wild HD">
+    <title lang="pt">Dra. T: Clínica De Animais Exóticos</title>
+    <desc lang="pt">A Dra. T cuida de um canguru com um tornozelo machucado, de um lagarto traumatizado, de um coelho sem apetite e de um papagaio com uma protuberância misteriosa no peito.(n)</desc>
+    <credits>
+      <director>Dean Bushala</director>
+      <actor>Chris Payne Gilbert</actor>
+      <actor>Lauren Thielen</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222224400 -0300" stop="20220222233700 -0300" channel="National Geographic">
+    <title lang="pt">Mistérios da Antiguidade com Albert Lin</title>
+    <desc lang="pt">O explorador e cientista da National Geographic Albert Lin viaja para a Colômbia, na América do Sul, para descobrir a verdade por trás das lendas do El Dorado.(n)</desc>
+    <credits>
+      <director>Bernadette Mcdaid</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222233700 -0300" stop="20220223002900 -0300" channel="National Geographic">
+    <title lang="pt">Tutancâmon: A Vida do Faraó</title>
+    <desc lang="pt">A descoberta da tumba de Tutancâmon mostrada como nunca, graças às cores das notícias e às fotografias em preto e branco.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222221700 -0300" stop="20220222230800 -0300" channel="TLC">
+    <title lang="pt">Chantel e Pedro em Família</title>
+    <desc lang="pt">Pedro chega na República Dominicana para fazer as pazes entre a família, mas piora as coisas. Winter e Jah fazem um jantar para a família para revelar que estão noivos.(n)</desc>
+    <credits>
+      <actor>Chantel</actor>
+      <actor>Pedro</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222230800 -0300" stop="20220223000000 -0300" channel="TLC">
+    <title lang="pt">90 Dias na Cama: Chantel e Pedro em Família</title>
+    <desc lang="pt">Os participantes preferidos de "90 Dias para Casar" comentam o mais recente episódio de "Chantel e Pedro em Família". David e Annie, Dean e Rigin, Robert e Anny e Stephanie e Magda não poupam opiniões.(n)</desc>
+    <credits>
+      <actor>Chantel</actor>
+      <actor>Pedro</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Band News">
+    <title lang="pt">Capital e Mercado</title>
+    <desc lang="pt">Um programa que reúne os nomes mais importantes da economia brasileira para debater as questões centrais do país e do mundo. Ideias e propostas para ajudar na retomada do crescimento sustentado é um dos assuntos mais debatidos neste espaço.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Band News">
+    <title lang="pt">Jornal BandNews Edição da Noite</title>
+    <desc lang="pt">Tudo o que foi notícia e a análise dos principais fatos do dia, você encontra no Jornal BandNews: Edição da Noite.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="BBC World News">
+    <title lang="pt">Follow The Food</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="BBC World News">
+    <title lang="pt">BBC World News</title>
+    <desc lang="pt">As últimas notícias internacionais da BBC.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220222234500 -0300" channel="BBC World News">
+    <title lang="pt">Asia Business Report</title>
+    <desc lang="pt">Ao vivo de Singapura, informações essenciais de negócios, as informações que iram formar os negócios de hoje.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222234500 -0300" stop="20220223000000 -0300" channel="BBC World News">
+    <title lang="pt">Sport Today</title>
+    <desc lang="pt">Todas as últimas notícias e resultados esportivos de todo o mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20220222210000 -0300" stop="20220222230000 -0300" channel="Bloomberg">
+    <title lang="pt">Bloomberg Daybreak - Asia</title>
+    <desc lang="pt">Bloomberg Daybreak: Ásia. Ao vivo de Nova York e Hong Kong, trazendo para você as histórias essenciais do fechamento dos mercados dos EUA à abertura das negociações em toda a Ásia.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Bloomberg">
+    <title lang="pt">Bloomberg Markets</title>
+    <desc lang="pt">Mercados da Bloomberg: China Open é o guia definitivo para os mercados em Hong Kong e no continente. Rishaad Salamat, David Ingles, Tom Mackenzie e Yvonne Man trazem as últimas notícias e análises.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222231500 -0300" channel="CNN Brasil">
+    <title lang="pt">O Grande Debate</title>
+    <desc lang="pt">Convidados mostram seus pontos de vista diferentes em uma discussão sobre temas relevantes para a sociedade moderna.(n)</desc>
+    <credits>
+      <actor>Carol Nogueira</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220223001500 -0300" channel="CNN Brasil">
+    <title lang="pt">Agora CNN - Ao Vivo</title>
+    <desc lang="pt">O Agora CNN traz reportagens relevantes, as informações mais importantes do momento e tudo que aconteceu no Brasil e no mundo.(n)</desc>
+    <credits>
+      <actor>Muriel Porfiro</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="CNN Espanhol">
+    <title lang="pt">Panorama Mundial</title>
+    <desc lang="pt">O Panorama Mundial oferece reportagens e análises das notícias que fazem história, utilizando a rede global de correspondentes e repórteres da CNN em espanhol e os recursos que a CNN tem em todo o mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="CNN Espanhol">
+    <title lang="pt">Camilo</title>
+    <desc lang="pt">Um programa com um ambiente propício à confissão que acolhe as figuras mais importantes da política, cultura, ciência, desporto e entretenimento, onde a dignidade do entrevistado nunca será comprometida.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="CNN Internacional">
+    <title lang="pt">Cuomo Prime Time</title>
+    <desc lang="pt">Chris Cuomo questiona, com as perguntas mais difíceis, políticos e jornalistas de Washington e do resto do mundo.(n)</desc>
+    <credits>
+      <actor>Chris Cuomo</actor>
+      <actor>Don Lemon</actor>
+      <actor>Rick Santorum</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223010000 -0300" channel="CNN Internacional">
+    <title lang="pt">Don Lemon Tonight</title>
+    <desc lang="pt">Don Lemon apresenta as maiores histórias, novidades e conversas animadas do dia.(n)</desc>
+    <credits>
+      <actor>Don Lemon</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Deutsche Welle">
+    <title lang="pt">Der Tag</title>
+    <desc lang="pt">Acompanhe as últimas notícias direto da Alemanha.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222234500 -0300" channel="Deutsche Welle">
+    <title lang="pt">DokFilm</title>
+    <desc lang="pt">Histórias emocionantes, variedade de conteúdo, imagens fascinantes: informações de fundo cuidadosamente pesquisadas sobre política, negócios, ciência, cultura, natureza, história contemporânea, estilo de vida e esporte.(n)</desc>
+    <category lang="pt">Documentário</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222234500 -0300" stop="20220223001500 -0300" channel="Deutsche Welle">
+    <title lang="pt">FrauTV</title>
+    <desc lang="pt">Tópicos relevantes para mulheres - com charme e humor. A FrauTV representa a realidade de vida das mulheres e deseja incentivar as pessoas a desenvolverem seu próprio projeto de vida.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Debate</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Fox News">
+    <title lang="pt">Gutfeld!</title>
+    <desc lang="pt">Greg Gutfeld analisa as notícias do dia através de lentes satíricas fundidas com a cultura pop.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Fox News">
+    <title lang="pt">Special Report</title>
+    <desc lang="pt">As notícias mais recentes com ênfase na política de Washington, D.C.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222233000 -0300" channel="Globo News">
+    <title lang="pt">Jornal das Dez</title>
+    <desc lang="pt">Os bastidores e a informações exclusivas da política, economia e do noticiário internacional. O jornal traz análises do seu time de comentaristas e repórteres.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Globo News">
+    <title lang="pt">Roberto D'avila</title>
+    <desc lang="pt">Entrevistas com personagens da política, da economia e da cultura nacional. Também traz convidados internacionais de destaque em diversas áreas.(n)</desc>
+    <credits>
+      <director>Ali Kamel</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Tele Sur">
+    <title lang="pt">Enclave Política</title>
+    <desc lang="pt">A co-produção entre a The Telegraph e Telesur, traz para a tela, um programa de entrevistas, opinião e notícias de eventos políticos e sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Tele Sur">
+    <title lang="pt">Cruce de Palabras</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Tele Sur">
+    <title lang="pt">TeleSUR Noticias</title>
+    <desc lang="pt">25 minutos de noticias. Desde os diversos cenarios de América Latina até o resto del mundo, integrados em uma só voz informativa, TeleSUR Noticias.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222234500 -0300" channel="Band Rede">
+    <title lang="pt">1001 Perguntas</title>
+    <desc lang="pt">Sob o comando de Zeca Camargo, o game show celebra a cultura pop da forma mais divertida e descontraída que o público já viu.(n)</desc>
+    <credits>
+      <actor>Zeca Camargo</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Game Show</category>
+  </programme>
+  <programme start="20220222234500 -0300" stop="20220223002500 -0300" channel="Band Rede">
+    <title lang="pt">Jornal da Noite</title>
+    <desc lang="pt">Análises, entrevistas, matérias especiais e todos os fatos relevantes do dia no Brasil e no Mundo.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Canal 21">
+    <title lang="pt">Obreiros em Foco</title>
+    <desc lang="pt">O programa Obreiros em Foco é destinado às pessoas que fazem a Obra de Deus, com diversos quadros e conteúdos inéditos, o programa traz ensinamentos valiosos para todos os cristãos, destaca o Bispo Júlio Freitas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Canal 21">
+    <title lang="pt">Mensagem Amiga</title>
+    <desc lang="pt">Mensagem do Bispo Macedo, onde apresenta testemunho de pessoas que estavam com muitas dificuldades e através da fé conseguiram alcancar seus objetivos e molhorar suas vidas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="CNT">
+    <title lang="pt">CNT Esporte</title>
+    <desc lang="pt">Todo fim de noite o torcedor brasileiro vai para a cama inteirado sobre as últimas movimentações que envolvem o seu time. Preparativos para a rodada, treinos, alterações na escalação e a palavra do técnico.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222231500 -0300" channel="CNT">
+    <title lang="pt">CNT Notícias</title>
+    <desc lang="pt">Imagine o que acontece a cada minuto na maior cidade da América Latina e em toda a sua região. Decisões políticas, ocorrências policiais, movimentos culturais, moda, decoração, esportes e outros fatos que margeiam a curiosidade.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220223000000 -0300" channel="CNT">
+    <title lang="pt">Estilo Ramy</title>
+    <desc lang="pt">Estilo Ramy, como bem diz o nome, tem o estilo todo próprio do seu apresentador que não mede esforços em buscar para suas entrevistas pessoas de diferentes segmentos.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222224500 -0300" stop="20220222230000 -0300" channel="MTV">
+    <title lang="pt">MTVixe!</title>
+    <desc lang="pt">Gabi Prado, nossa eterna rainha, tece seus hilários comentários sobre os mais diversos assuntos em MTVixe!(n)</desc>
+    <credits>
+      <actor>Gabi Prado</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="MTV">
+    <title lang="pt">Adotada #TBT</title>
+    <desc lang="pt">Mareu sempre amou ser cupido e por isso vai conversar com duas famílias onde agiu em nome do amor. Na Família Salatiel, Mareu foi a própria pastora casamenteira e na Família Lima preparou um noivado pra lá de romântico.(n)</desc>
+    <credits>
+      <director>Fabio Cruanes</director>
+      <actor>Maria Eugênia Suconic</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220223003500 -0300" channel="Record">
+    <title lang="pt">Cine Record Especial: Anaconda 3</title>
+    <desc lang="pt">Após serem testadas em laboratório, duas cobras gigantescas conseguem fugir e ameaçam a civilização.(n)</desc>
+    <credits>
+      <director>Don E. Fauntleroy</director>
+      <actor>David Hasselhoff</actor>
+      <actor>Crystal Allen</actor>
+      <actor>John Rhys-Davies</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Terror</category>
+  </programme>
+  <programme start="20220222223700 -0300" stop="20220222231300 -0300" channel="Record News">
+    <title lang="pt">Zapping</title>
+    <desc lang="pt">O Zapping mostra as curiosidades e os bastidores da televisão, cinema, moda e música.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222231300 -0300" stop="20220222231500 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220222233800 -0300" channel="Record News">
+    <title lang="pt">Aldeia News</title>
+    <desc lang="pt">Turismo, esportes radicais e outras modalidades estão no Aldeia Global.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222233800 -0300" stop="20220222234000 -0300" channel="Record News">
+    <title lang="pt">Boletim Jornal da Record</title>
+    <desc lang="pt">Um novo cenário para o telejornal, com direito a grande interatividade com os telespectadores por meio das redes sociais.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222234000 -0300" stop="20220223002800 -0300" channel="Record News">
+    <title lang="pt">Aldeia News</title>
+    <desc lang="pt">Turismo, esportes radicais e outras modalidades estão no Aldeia Global.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222233000 -0300" channel="Rede TV">
+    <title lang="pt">Hervolution</title>
+    <desc lang="pt">O programa HERvolution traz o universo feminino, suas distintas realidades e direitos, como foco de histórias, debates, desafios, dilemas e dicas. Apesar de abordar temas sérios, o programa é apresentado com descontração.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223003000 -0300" channel="Rede TV">
+    <title lang="pt">João Kléber Show</title>
+    <desc lang="pt">Ancorado pelo consagrado apresentador João Kleber, o programa é uma revista de variedades. Trazendo atrações  para toda a família.(n)</desc>
+    <credits>
+      <actor>João Kléber</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20220222203000 -0300" stop="20220222230000 -0300" channel="Rede Vida">
+    <title lang="pt">Viva a Vida</title>
+    <desc lang="pt">O padre Alessandro Campos apresenta um programa cheio de alegria, com reflexões sobre a vida e mensagens de amor, fé e paz. Ele também recebe cantores renomados, que apresentam o que há de melhor na música sertaneja do país.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222232500 -0300" channel="Rede Vida">
+    <title lang="pt">Jornal da Vida</title>
+    <desc lang="pt">O "Jornal da Vida" apresenta para a sociedade a boa notícia, a informação, acompanhada de esperança e soluções.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222232500 -0300" stop="20220222233000 -0300" channel="Rede Vida">
+    <title lang="pt">Palavra Amorosa Com Andria Piai</title>
+    <desc lang="pt">A jornalista e terapeuta Andria Piai conduz uma conversa aberta, sensível e fraterna.(n)</desc>
+    <credits>
+      <actor>Andria Piai</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220222235900 -0300" channel="Rede Vida">
+    <title lang="pt">JCTV Edição da Noite</title>
+    <desc lang="pt">Notícias da Igreja no Brasil e no Mundo. A atualidade, o dinamismo e a valorização dos acontecimentos primordiais da Igreja Católica em todo o mundo. Meio importantíssimo de promoção e divulgação dos fatos da comunidade cristã.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222235900 -0300" stop="20220223020000 -0300" channel="Rede Vida">
+    <title lang="pt">Conta Comigo</title>
+    <desc lang="pt">CONTA COMIGO, um programa ao vivo repleto de espiritualidade, oração, esperança e fé. Um momento especial para você que busca uma luz para iluminar os passos. Um bom aconselhamento na hora de tomar uma decisão.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
+  </programme>
+  <programme start="20220222213000 -0300" stop="20220222231500 -0300" channel="SBT">
+    <title lang="pt">Copa Libertadores da América: Millonarios x Fluminense - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220223003000 -0300" channel="SBT">
+    <title lang="pt">Programa do Ratinho</title>
+    <desc lang="pt">Ratinho preocupado com as questões da população e com um jornalismo dinâmico, traz as principais notícias do dia. Não perca o Exame de DNA, o Jornal Rational e o Desafio do Ratinho com convidados especiais.(n)</desc>
+    <credits>
+      <director>Walter Scaramuzzi</director>
+      <director>Lucimara Parisi</director>
+      <actor>Valentina</actor>
+      <actor>Milene Pavorô Uehara</actor>
+      <actor>Eduardo Mascarenhas</actor>
+      <actor>Marquito</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220223001500 -0300" channel="TV Brasil">
+    <title lang="pt">Cine Retrô: Chofer de Praça</title>
+    <desc lang="pt">Para ajudar o filho a concluir os estudos de Medicina, um homem consegue um emprego de taxista num calhambeque caindo aos pedaços. Apesar do esforço, ele causa vergonha ao filho por suas barbeiragens no trânsito paulista.(n)</desc>
+    <credits>
+      <director>Milton Amaral</director>
+      <actor>Ana Maria Nabuco</actor>
+      <actor>Roberto Duval</actor>
+      <actor>Mazzaropi</actor>
+      <actor>Geny Prado</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="TV Brasil Central">
+    <title lang="pt">TBC Pop</title>
+    <desc lang="pt">Programa de variedades e entretenimento. O formato vai ter uma abordagem leve sobre temas variados, voltados para pessoas de todas as idades e classes sociais.(n)</desc>
+    <credits>
+      <actor>Mariana Gidrão</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="TV Brasil Central">
+    <title lang="pt">Boa Noite Goiás</title>
+    <desc lang="pt">Entrevistas, debates, opiniões e informações. Esses serão os pontos fortes do programa Boa Noite Goiás, que vai estrear na TV Brasil Central.(n)</desc>
+    <credits>
+      <actor>Paulo Beringhs</actor>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="TV Cultura">
+    <title lang="pt">#provoca</title>
+    <desc lang="pt">Em uma reformulação da atração eternizada por Antônio Abujamra, Marcelo Tas revisita o formato de entrevistas do programa que é firmado em três pilares básicos: entrevistas, filosofia e interação.(n)</desc>
+    <credits>
+      <actor>Marcelo Tas</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="TV Cultura">
+    <title lang="pt">Café Filosófico Expresso</title>
+    <desc lang="pt">"Café Filosófico Expresso", derivado do programa "Café Filosófico", reúne dois convidados em cenários itinerantes que servem como palco para que protagonizem reflexões relevantes para o pensamento contemporâneo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="TV Cultura">
+    <title lang="pt">Café Filosófico Expresso</title>
+    <desc lang="pt">"Café Filosófico Expresso", derivado do programa "Café Filosófico", reúne dois convidados em cenários itinerantes que servem como palco para que protagonizem reflexões relevantes para o pensamento contemporâneo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Entrevista</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="TV Gazeta">
+    <title lang="pt">Gazeta Shopping</title>
+    <desc lang="pt">O objetivo principal do programa é estabelecer a comunicação direta entre empreendedor e consumidor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223020000 -0300" channel="TV Gazeta">
+    <title lang="pt">Paz e Vida</title>
+    <desc lang="pt">Acompanhe pregação religiosa da comunidade cristã paz e vida.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222235000 -0300" channel="Globo SP">
+    <title lang="pt">Big Brother Brasil 22</title>
+    <desc lang="pt">Tadeu Schmidt comanda os participantes da 22ª edição do reality show da Globo.(n)</desc>
+    <credits>
+      <director>Rodrigo Dourado</director>
+      <actor>Tadeu Schmidt</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222235000 -0300" stop="20220223003000 -0300" channel="Globo SP">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">O Profissão Repórter revela os bastidores da notícia e mostra o processo de produção de reportagens, da reunião de pauta à edição, passando por apuração, entrevistas e gravação.(n)</desc>
+    <credits>
+      <director>Caco Barcellos</director>
+    </credits>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222000000 -0300" stop="20220222010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Gabi foge para o apartamento de Laura. Villar chega ao apartamento de Laura para interrogar Gabi, que conta o que houve na sua casa. Nando vai ao galpão tentar recuperar suas pranchas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222010000 -0300" stop="20220222021000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1951. O ano em que Álvaro mudou para Santa Cecília, para o terror de Dona Adalgisa.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222021000 -0300" stop="20220222023000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Luna 13 (?)</title>
+    <sub-title lang="pt">Luna 13</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Poucos dias após a morte de seu avô, o jovem Igor decide fazer um documentário sobre a história de sua família na tentativa de entender porque o seu avô, "seu" Guilhermino, era obcecado por fatos estranhos que haviam acontecido em sua cidade.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222023000 -0300" stop="20220222025200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Avoada (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mães que perderam seus filhos de forma violenta contam suas histórias, enquanto acompanhamos dois garotos que invadem uma casa para recuperarem uma uma pipa avoada.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220222025200 -0300" stop="20220222030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Memento Mori (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pesquisadora de antigas obras de arte prepara uma apresentação sobre o conjunto de pinturas "Vaidade Terrena e Salvação Divina", de Hans Memling, quando descobre que a impressão do quadro "Morte" foi esquecida pela gráfica.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222030000 -0300" stop="20220222043200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Filme Sobre Um Bom Fim (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220222043200 -0300" stop="20220222045000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Final da Linha (?)</title>
+    <sub-title lang="pt">Final da Linha</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lílian é uma jovem que passou no vestibular, porém sua faculdade é em outra cidade. Para chegar ao seu destino, ela se submete à rotina de pegar o ônibus e o trem, o trem e o ônibus. Aquilo que primeiro parecia a pior parte de seu dia, torna-se uma atividade interessante, quando a menina mostra um grande talento para fazer amizades.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220222045000 -0300" stop="20220222050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: A Rua Das Casas Surdas (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em uma vizinhança silenciosa, durante a ditadura dos anos 70, Carlos e Ernesto acompanham um jogo de futebol pelo rádio, até que resolvem aproveitar o intervalo do primeiro tempo para voltar ao trabalho.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222050000 -0300" stop="20220222060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Making Of (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A agitação no estúdio de "Calafrio" continua. Aquele pode ser o segundo dia dos últimos dias das vidas da equipe da série de terror mais amada e idolatrada do Brasil. E ninguém parece saber. O making of acompanha os atores no estúdio falando mal do diretor - que ouve tudo - e a chegada de Enzo, o ator que interpretava o Lobisomem, chega ao estúdio querendo gravar e descobre que foi demitido.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222060000 -0300" stop="20220222073100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220222073100 -0300" stop="20220222080000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: É Quase Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Esta é história do mendigo Aparício e seus amigos, entrevistados por uma equipe de filmagem. Aparício quer saber por que o cinema nacional só retrata e promove lá fora temas já conhecidos e amplamente divulgados.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222080000 -0300" stop="20220222081500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A população do Maranhão sempre foi muito politizada! Em 1951 irrompeu em São Luís uma revolta que ficou conhecida como a Greve de 51.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222081500 -0300" stop="20220222083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1971, a Rádio Difusora do Maranhão levou ao ar o programa Guerra dos Mundos, copiando Orson Wells, que fez o mesmo em 1938 em Nova York.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222083000 -0300" stop="20220222090000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dentre suas pedaladas matinais e um trabalho exigente, Ramiro não tem tempo a perder.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220222090000 -0300" stop="20220222093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Verona (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Juliana conta para Rodrigo sobre a ameaça de Téo e Rodrigo vai em busca de vingança. Uma briga trágica entre os dois emerge e os segredos e dramas das famílias são revelados, forçando todos a enfrentarem seus dilemas.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222093000 -0300" stop="20220222100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Busca de Kardec (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Brasil, há médiuns em toda parte e Karim os descobre - como o já falecido e famoso Chico Xavier.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220222100000 -0300" stop="20220222103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imagem Vinil (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Chico, um homem de 65 anos, viúvo, dono do botequim, mora sozinho em sua casa numa vila em São Cristóvão.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222103000 -0300" stop="20220222113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222113000 -0300" stop="20220222120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222120000 -0300" stop="20220222123000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Personagens dramáticos revelam um cinema voltado a diferentes questões sociais, como Três Minutos, da diretora Ana Luiza Azevedo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222123000 -0300" stop="20220222130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Gabriel Jardim traz para suas histórias elementos regionais da Paraíba sem deixar de mesclar com as demais questões universais, tornando seu trabalho um recorte preciso de umadas muitas brasilidades.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222130000 -0300" stop="20220222142400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Porto Alegre - Meu Canto no Mundo (?)</title>
+    <sub-title lang="pt">Porto Alegre - Meu Canto no Mundo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ficção e documentário se misturam em uma emocionante história contada por Luis Fernando Veríssimo, Luiz Antônio de Assis Brasil, Eva Sopher, Jaime Sirotsky, Moacyr Scliar e Giba Giba. Nasce uma Porto Alegre inédita, jamais vista através de imagens aéreas, filmes, fotos e ficção.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222142400 -0300" stop="20220222144400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Prometido (?)</title>
+    <sub-title lang="pt">Curta In Box: O Prometido</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220222144400 -0300" stop="20220222150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222150000 -0300" stop="20220222184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222184500 -0300" stop="20220222190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme Besouro foi inspirado em uma lenda na Bahia, onde havia um capoeirista tão bom, que voava, daí o seu nome.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220222190000 -0300" stop="20220222193000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222193000 -0300" stop="20220222200000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pare! Porque, agora, vamos fala da HQ que realmente impolta! Sim, chegou a hora dos irmãos Peter invadirem a Maurício de Souza Produções e conhecerem o mestre dos magos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222200000 -0300" stop="20220222203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Crítica (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220222203000 -0300" stop="20220222210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Daniel tenta acordar de um pesadelo febril que lhe revela a casa do PM, onde uma máquina está raspando as armas desviadas.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220222210000 -0300" stop="20220222220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222233700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Entrevistas do Sair à Luz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
   </programme>
 </tv>
