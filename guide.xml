@@ -247,182 +247,227 @@
   </channel>
   <channel id="Fox Sports">
     <display-name lang="pt">Fox Sports</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fsp.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Fox Sports 2">
     <display-name lang="pt">Fox Sports 2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fs2.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="OFF">
     <display-name lang="pt">OFF</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/off.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Premiere Clubes">
     <display-name lang="pt">Premiere Clubes</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/121.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rush HD">
     <display-name lang="pt">Rush HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rsh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Speed Channel">
     <display-name lang="pt">Speed Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/spe.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SporTV">
     <display-name lang="pt">SporTV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/spo.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SporTV 2">
     <display-name lang="pt">SporTV 2</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp2.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="SporTV 3">
     <display-name lang="pt">SporTV 3</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/sp3.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="The Golf Channel">
     <display-name lang="pt">The Golf Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tgc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV Corinthians">
     <display-name lang="pt">TV Corinthians</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/tco.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Baby TV">
     <display-name lang="pt">Baby TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bab.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Boomerang">
     <display-name lang="pt">Boomerang</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bmg.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Cartoon Network">
     <display-name lang="pt">Cartoon Network</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/car.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Discovery Kids">
     <display-name lang="pt">Discovery Kids</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dik.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney Channel">
     <display-name lang="pt">Disney Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dny.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney Channel HD">
     <display-name lang="pt">Disney Channel HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dnh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney Junior">
     <display-name lang="pt">Disney Junior</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/phd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Disney XD">
     <display-name lang="pt">Disney XD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/dxd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Gloob">
     <display-name lang="pt">Gloob</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gob.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Nick Jr.">
     <display-name lang="pt">Nick Jr.</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/njr.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Nickelodeon">
     <display-name lang="pt">Nickelodeon</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nic.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Tooncast">
     <display-name lang="pt">Tooncast</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/toc.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="TV RA TIM BUM">
     <display-name lang="pt">TV RA TIM BUM</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rtb.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Amazon Sat">
     <display-name lang="pt">Amazon Sat</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/amz.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Arte 1">
     <display-name lang="pt">Arte 1</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bq5.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="BBC Earth">
     <display-name lang="pt">BBC Earth</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/bhd.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Bis HD">
     <display-name lang="pt">Bis HD</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/msh.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal do Boi">
     <display-name lang="pt">Canal do Boi</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/boi.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canal Rural">
     <display-name lang="pt">Canal Rural</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rur.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Canção Nova">
     <display-name lang="pt">Canção Nova</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cnv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Casa Club TV">
     <display-name lang="pt">Casa Club TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/ccl.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Climatempo">
     <display-name lang="pt">Climatempo</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cli.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Comedy Central">
     <display-name lang="pt">Comedy Central</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/cce.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Concert Channel">
     <display-name lang="pt">Concert Channel</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/100.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="E! Entertainment Television">
     <display-name lang="pt">E! Entertainment Television</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/eet.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Futura">
     <display-name lang="pt">Futura</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fut.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Glitz*">
     <display-name lang="pt">Glitz*</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/fas.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="GNT">
     <display-name lang="pt">GNT</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/gnt.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Hiper TV">
     <display-name lang="pt">Hiper TV</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/htv.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Multishow">
     <display-name lang="pt">Multishow</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/msw.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="NBR">
     <display-name lang="pt">NBR</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nbr.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="NHK World">
     <display-name lang="pt">NHK World</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/nhk.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="RAI International">
     <display-name lang="pt">RAI International</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/rai.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="RBI">
     <display-name lang="pt">RBI</display-name>
+    <icon src="https://i.meuguia.tv/logos/new/mix.png" />
     <url>http://www.meuguia.tv</url>
   </channel>
   <channel id="Rede Boa Vontade">
@@ -1686,5 +1731,1084 @@
     <desc lang="pt">Os craques dos canais ESPN analisam o que aconteceu de melhor e pior ao redor do planeta bola: os lances mais polêmicos, a gangorra do sobe-desce dos campeonatos nacionais e internacionais.(n)</desc>
     <category lang="pt">Jornalismo</category>
     <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20220222211500 -0300" stop="20220222233000 -0300" channel="Fox Sports">
+    <title lang="pt">Copa da Liga Argentina: Racing Club x Argentinos Jrs. - Ao Vivo</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223011500 -0300" channel="Fox Sports">
+    <title lang="pt">Premier League: Crystal Palace x Chelsea</title>
+    <desc lang="pt">Grandes craques, estádios históricos, equipes de peso, torcedores fanáticos e técnicos renomados. A Premier League é a elite do futebol inglês e um dos melhores campeonatos de futebol do mundo.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20220222211500 -0300" stop="20220222231500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Português: Boavista x Benfica</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220223011500 -0300" channel="Fox Sports 2">
+    <title lang="pt">Campeonato Inglês: 2ª Divisão: Middlesbrough x West Bromwich</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="OFF">
+    <title lang="pt">Jornada Dupla</title>
+    <desc lang="pt">Acompanhamos a rotina de Marcelo Reis, publicitário e CEO de uma das agências mais conhecidas do Brasil, a Leo Burnett, que se divide entre a correria do escritório em São Paulo e as escapadinhas para praticar KiteSurf.(n)</desc>
+    <credits>
+      <director>Alex Miranda</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="OFF">
+    <title lang="pt">Kite Masters</title>
+    <desc lang="pt">Após uma retrospectiva da chegada do kitesurfe às Olimpíadas, o Campeonato Mundial de Formula Kite é realizado no Lago de Garda, na Itália, primeiro evento oficial desde que o kite se tornou esporte olímpico.(n)</desc>
+    <credits>
+      <director>Katrin Ender</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="OFF">
+    <title lang="pt">Kite Masters</title>
+    <desc lang="pt">A Copa do Mundo de KiteFoil 2019 foi realizada em uma série de 4 etapas, realizadas em Gizzeria (ITA), Pingtan e Weifang (CHN) e Cagliari (ITA). Neste episódio, a primeira etapa, disputada na praia de Hang Loose.(n)</desc>
+    <credits>
+      <director>Katrin Ender</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20220222211500 -0300" stop="20220223000000 -0300" channel="Premiere Clubes">
+    <title lang="pt">URT x América MG - Ao Vivo</title>
+    <desc lang="pt">No SporTV e Premiere o Estadual é clássico. Assista agora mais um grande jogo do Campeonato Mineiro. É o nosso futebol! SporTV: Somos Todos Campeões!(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Rush HD">
+    <title lang="pt">Trabant Trek</title>
+    <desc lang="pt">Megan suportará esta etapa? Com a saída de Gunther, ela se aproveita e se prepara mentalmente para ir para casa, após realizar os 200 quilômetros que a separam de Khoreg.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Radical</category>
+    <episode-num system="onscreen">S1 E11</episode-num>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Rush HD">
+    <title lang="pt">Young Guns Rising</title>
+    <desc lang="pt">Um duelo de conterrâneos nos espera no circuito de Sachsenring. Florian Alt e Oettl Philipp competem no circuito do seu país pelo título de melhor alemão. Enquanto isso, Danny Kent faz todo o esforço para ser aceito por Daniel Ruiz.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Rush HD">
+    <title lang="pt">Young Guns Rising</title>
+    <desc lang="pt">Mathew Scholz foi operado depois de sua queda e deve se recuperar em oito semanas. Decepcionado, fala sobre seus sonhos e seu lugar. Os dois vencedores do ano anterior, Sturla Fagerhaug e Jakub Kornfeil, contam piadas de novatos.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Radical</category>
+  </programme>
+  <programme start="20220222210000 -0300" stop="20220222233000 -0300" channel="SporTV">
+    <title lang="pt">Cascavel PR x Ponte Preta - Ao Vivo</title>
+    <desc lang="pt">Assista ao jogo da primeira fase da Copa do Brasil 2022.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Futebol</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223010000 -0300" channel="SporTV">
+    <title lang="pt">Troca de Passes - Ao Vivo</title>
+    <desc lang="pt">O programa recebe comentaristas e convidados para repercutir os jogos que acabaram de terminar! Muita informação sobre futebol no seu fim de noite.(n)</desc>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20220222211500 -0300" stop="20220222233000 -0300" channel="SporTV 2">
+    <title lang="pt">Superliga de Vôlei Feminino: Sesc-RJ/Flamengo x Praia Clube</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223013000 -0300" channel="SporTV 2">
+    <title lang="pt">Superliga de Vôlei Feminino: Brasília x Sesi-Bauru</title>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Vôlei Feminino</category>
+  </programme>
+  <programme start="20220222212500 -0300" stop="20220223003000 -0300" channel="SporTV 3">
+    <title lang="pt">UFC 268: Usman x Covington 2</title>
+    <desc lang="pt">O Ultimate Fighting Championship é uma organização de MMA que produz eventos ao redor de todo o mundo.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Luta</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222233000 -0300" channel="The Golf Channel">
+    <title lang="pt">Golf Central</title>
+    <desc lang="pt">Informações atualizadas sobre as últimas notícias do mundo do  golfe. Comentários, percepções, análises de especialistas e muito mais.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223020000 -0300" channel="The Golf Channel">
+    <title lang="pt">Golf's Greatest Rounds</title>
+    <desc lang="pt">Golf's Greatest Rounds - The Players.(n)</desc>
+    <category lang="pt">Esporte</category>
+    <category lang="pt">Golfe</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220223000000 -0300" channel="TV Corinthians">
+    <title lang="pt">Programação TV Corinthians</title>
+    <category lang="pt">Jornalismo</category>
+    <category lang="pt">Esportivo</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Baby TV">
+    <title lang="pt">Bons Sonhos</title>
+    <desc lang="pt">Um programa mágico que trará imagens para deliciar os seus sentidos, acompanhadas pelos sons de música suave.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+    <desc lang="pt">Um programa mágico que trará imagens para deliciar os seus sentidos, acompanhadas pelos sons de música suave.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Baby TV">
+    <title lang="pt">Noites Sonhadoras</title>
+    <desc lang="pt">Um programa mágico que trará imagens para deliciar os seus sentidos, acompanhadas pelos sons de música suave.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222224500 -0300" stop="20220222230000 -0300" channel="Boomerang">
+    <title lang="pt">Cleo &amp; Cuquin</title>
+    <desc lang="pt">Os irmãos Cleo e Cuquin experimentam diferentes profissões todos os dias para ajudar seus outros irmãos a resolver problemas e viver novas aventuras.(n)</desc>
+    <credits>
+      <director>Victor Lopez</director>
+      <actor>Joana Castro</actor>
+      <actor>Pedro Cardoso</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Boomerang">
+    <title lang="pt">Pocoyo</title>
+    <desc lang="pt">Pocoyo é uma série para crianças e seus pais que conta a história de um menino que descobre o mundo à sua volta. Tudo é novo para ele e há muitas surpresas e oportunidades para brincar e aprender.(n)</desc>
+    <credits>
+      <director>David Cantolla</director>
+      <director>Guillermo Garcia</director>
+      <actor>Stephen Fry</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222223700 -0300" stop="20220222225100 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Quando as outras crianças temem que Harold acidentalmente tenha se esvaziado no banheiro de Chef, elas viajam para o esgoto em uma missão de resgate. Mas eles encontrarão Harold antes que o mítico Rei Jacaré os prenda no subterrâneo para sempre?(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222225100 -0300" stop="20220222230000 -0300" channel="Cartoon Network">
+    <title lang="pt">Drama Total Kids</title>
+    <desc lang="pt">Seus participantes favoritos de Ilha dos Desafios estão de volta de uma forma que você nunca viu antes... como crianças de quatro anos de idade numa escolinha!(n)</desc>
+    <credits>
+      <director>Tom McGillis</director>
+      <actor>Wyatt White</actor>
+      <actor>Lilly Bartlam</actor>
+      <actor>Emilie-Claire Barlow</actor>
+      <actor>Katie Crown</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222231100 -0300" channel="Cartoon Network">
+    <title lang="pt">Looney Tunes</title>
+    <desc lang="pt">Os insetos são mais espertos que um inimigo / Marvin Martian tenta fincar sua bandeira / Patolino interfere na hora de dormir.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222231100 -0300" stop="20220222232700 -0300" channel="Cartoon Network">
+    <title lang="pt">Looney Tunes</title>
+    <desc lang="pt">O aquecedor de bancada de Gaguinho finalmente tem a chance de brilhar no lançamento.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222232700 -0300" stop="20220222233800 -0300" channel="Cartoon Network">
+    <title lang="pt">Looney Tunes</title>
+    <desc lang="pt">Gaguinho e Patolino entregam pacotes em uma mansão mal-assombrada. / O plano de Elmer de se disfarçar de coelho para atrair Bugs para fora de seu buraco não saiu como planejado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222233800 -0300" stop="20220222235300 -0300" channel="Cartoon Network">
+    <title lang="pt">Looney Tunes</title>
+    <desc lang="pt">Gaguinho e Patolino entregam pacotes em uma mansão mal-assombrada. / O plano de Elmer de se disfarçar de coelho para atrair Bugs para fora de seu buraco não saiu como planejado.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222235300 -0300" stop="20220223000000 -0300" channel="Cartoon Network">
+    <title lang="pt">Looney Tunes</title>
+    <desc lang="pt">Acompanhe os parceiros Pernalonga, Patolino e seus amigos nesta aventura muito doida, na qual cada um deles sempre arranja um parceiro muito louco para dividir a casa e morar nos subúrbios da Califórnia, com vizinhos mais loucos ainda!(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222213300 -0300" stop="20220222225800 -0300" channel="Discovery Kids">
+    <title lang="pt">Astro Boy</title>
+    <desc lang="pt">Na futurista Metro City, o Dr. Tenma perde seu filho e cria o robô Astro Boy para substituí-lo. O jovem robô possui superpoderes e logo sai em uma aventura para descobrir onde pertence.(n)</desc>
+    <credits>
+      <director>David Bowers</director>
+      <actor>Nicolas Cage</actor>
+      <actor>Kristen Bell</actor>
+      <actor>Samuel L. Jackson</actor>
+      <actor>Charlize Theron</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222225800 -0300" stop="20220222230900 -0300" channel="Discovery Kids">
+    <title lang="pt">My Little Pony: Pony Life</title>
+    <credits>
+      <actor>Ashleigh Ball</actor>
+      <actor>Andrea Libman</actor>
+      <actor>Tabitha St. Germain</actor>
+      <actor>Tara Strong</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222230900 -0300" stop="20220222232300 -0300" channel="Discovery Kids">
+    <title lang="pt">My Little Pony: Pony Life</title>
+    <credits>
+      <actor>Ashleigh Ball</actor>
+      <actor>Andrea Libman</actor>
+      <actor>Tabitha St. Germain</actor>
+      <actor>Tara Strong</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222232300 -0300" stop="20220222233400 -0300" channel="Discovery Kids">
+    <title lang="pt">Super Monstros Em Ação</title>
+    <desc lang="pt">A turma ajuda Frankie a desabafar sobre uma visita desastrosa ao museu.(n)</desc>
+    <credits>
+      <director>Jimmy Tu</director>
+      <actor>Erin Mathews</actor>
+      <actor>Alessandro Juliani</actor>
+      <actor>Vincent Tong</actor>
+      <actor>Andrea Libman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222233400 -0300" stop="20220222234500 -0300" channel="Discovery Kids">
+    <title lang="pt">Super Monstros Em Ação</title>
+    <desc lang="pt">Lobo não tem cuidado e perde os pertences favoritos de seus amigos.(n)</desc>
+    <credits>
+      <actor>Erin Mathews</actor>
+      <actor>Alessandro Juliani</actor>
+      <actor>Vincent Tong</actor>
+      <actor>Andrea Libman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222234500 -0300" stop="20220223000000 -0300" channel="Discovery Kids">
+    <title lang="pt">Super Monstros Em Ação</title>
+    <desc lang="pt">Katya não consegue escolher qual fruta usar para as bebidas da festa.(n)</desc>
+    <credits>
+      <director>Sylvain Blais</director>
+      <director>Jimmy Tu</director>
+      <actor>Erin Mathews</actor>
+      <actor>Alessandro Juliani</actor>
+      <actor>Vincent Tong</actor>
+      <actor>Andrea Libman</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Disney Channel">
+    <title lang="pt">Segredos em Sulphur Springs</title>
+    <desc lang="pt">Um menino e sua família mudam-se para um hotel abandonado em Sulpher Springs, Louisiana, onde ele faz amizade com uma garota curiosa chamada Harper.(n)</desc>
+    <credits>
+      <director>Ellen S. Pressman</director>
+      <director>Jennifer Phang</director>
+      <actor>Preston Oliver</actor>
+      <actor>Kyliegh Curran</actor>
+      <actor>Elle Graham</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Disney Channel">
+    <title lang="pt">Zack &amp; Cody: Gêmeos em Ação</title>
+    <desc lang="pt">Zack e Cody estão paquerando a mesma garota, Jolie.(n)</desc>
+    <credits>
+      <director>Danny Kallis</director>
+      <actor>Cole Sprouse</actor>
+      <actor>Dylan Sprouse</actor>
+      <actor>Brenda Song</actor>
+      <actor>Ashley Tisdale</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Disney Channel">
+    <title lang="pt">Sunny Entre Estrelas</title>
+    <desc lang="pt">Elisa Donovan faz uma ponta como uma blogueira fofoqueira que tece críticas sobre Sunny e Tawni..(n)</desc>
+    <credits>
+      <actor>Demi Lovato</actor>
+      <actor>Tiffany Thornton</actor>
+      <actor>Sterling Knight</actor>
+      <actor>Brandon Smith</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Segredos em Sulphur Springs</title>
+    <desc lang="pt">Um menino e sua família mudam-se para um hotel abandonado em Sulpher Springs, Louisiana, onde ele faz amizade com uma garota curiosa chamada Harper.(n)</desc>
+    <credits>
+      <director>Ellen S. Pressman</director>
+      <director>Jennifer Phang</director>
+      <actor>Preston Oliver</actor>
+      <actor>Kyliegh Curran</actor>
+      <actor>Elle Graham</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Aventura</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Zack &amp; Cody: Gêmeos em Ação</title>
+    <desc lang="pt">Zack e Cody estão paquerando a mesma garota, Jolie.(n)</desc>
+    <credits>
+      <director>Danny Kallis</director>
+      <actor>Cole Sprouse</actor>
+      <actor>Dylan Sprouse</actor>
+      <actor>Brenda Song</actor>
+      <actor>Ashley Tisdale</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Disney Channel HD">
+    <title lang="pt">Sunny Entre Estrelas</title>
+    <desc lang="pt">Elisa Donovan faz uma ponta como uma blogueira fofoqueira que tece críticas sobre Sunny e Tawni..(n)</desc>
+    <credits>
+      <actor>Demi Lovato</actor>
+      <actor>Tiffany Thornton</actor>
+      <actor>Sterling Knight</actor>
+      <actor>Brandon Smith</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222224500 -0300" stop="20220222231500 -0300" channel="Disney Junior">
+    <title lang="pt">Puppy Dog Pals</title>
+    <desc lang="pt">A animação apresenta uma divertida dupla de filhotinhos que está sempre pronta para uma nova aventura canina pela vizinhança.(n)</desc>
+    <credits>
+      <actor>Issac Ryan Brown</actor>
+      <actor>Sam Lavagnino</actor>
+      <actor>Harland Williams</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220222233000 -0300" channel="Disney Junior">
+    <title lang="pt">Rua Dálmatas 101</title>
+    <desc lang="pt">Os irmãos Dolly e Dylan embarcam em grandes aventuras e procuram seu lugar na maior, mais caótica e peluda família do mundo.(n)</desc>
+    <credits>
+      <director>Miklos Weigert</director>
+      <director>Jez Hall</director>
+      <actor>Josh Brener</actor>
+      <actor>Michaela Dietz</actor>
+      <actor>Rhashan Stone</actor>
+      <actor>Ella Kenion</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Disney Junior">
+    <title lang="pt">Junior Express</title>
+    <desc lang="pt">Topa, um capitão alegre e animado, viaja ao lado de uma tripulação incrível de amigos e se apresenta nas diferentes estações em que passa com o seu monotrilho.(n)</desc>
+    <credits>
+      <director>Fernandez Luis</director>
+      <actor>Stephie Camarena</actor>
+      <actor>Brian Cazeneuve</actor>
+      <actor>Joel Cazeneuve</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Programa</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Disney XD">
+    <title lang="pt">Trollhunters</title>
+    <desc lang="pt">Depois de descobrir um amuleto misterioso, um adolescente encontra uma civilização secreta de poderosos trolls sob a pequena cidade de Arcadia.(n)</desc>
+    <credits>
+      <director>Rodrigo Blaas</director>
+      <director>Andrew L. Schmidt</director>
+      <actor>Charlie Saxton</actor>
+      <actor>Lexi Medrano</actor>
+      <actor>Anton Yelchin</actor>
+      <actor>Kelsey Grammer</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222231500 -0300" channel="Disney XD">
+    <title lang="pt">Adolepeixes</title>
+    <desc lang="pt">Adolepeixes é uma comédia animada que apresenta as histórias de três amigos aquáticos que vivem em um aquário.(n)</desc>
+    <credits>
+      <director>Noah Jones</director>
+      <actor>Chelsea Kane</actor>
+      <actor>John Caparulo</actor>
+      <actor>John DiMaggio</actor>
+      <actor>Rachel Dratch</actor>
+    </credits>
+    <category lang="pt">Infantil</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222231500 -0300" stop="20220222233000 -0300" channel="Disney XD">
+    <title lang="pt">Minhoca do Futuro</title>
+    <desc lang="pt">A série apresenta as aventuras de Danny e Minhoca do Futuro, que viajam no tempo usando uma máquina do tempo em forma de lancheira.(n)</desc>
+    <credits>
+      <director>Pete Michels</director>
+      <actor>James Adomian</actor>
+      <actor>Andy Milonakis</actor>
+      <actor>Ryan Quincy</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220222234500 -0300" channel="Disney XD">
+    <title lang="pt">Picles e Amendoim</title>
+    <desc lang="pt">A animação mostra as aventuras dos melhores amigos Picles e Amendoim em seu último ano de escola, onde estão aproveitando ao máximo a possibilidade de se divertir o tempo todo antes das responsabilidades da vida adulta.(n)</desc>
+    <credits>
+      <actor>Johnny Pemberton</actor>
+      <actor>Jon Heder</actor>
+      <actor>Bennie Arthur</actor>
+      <actor>Michael Croner</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222234500 -0300" stop="20220223000000 -0300" channel="Disney XD">
+    <title lang="pt">Randy Cunningham - Ninja Total</title>
+    <desc lang="pt">As façanhas de Randy, um jovem estudante com seu traje super-humano de Ninja, os ensinamentos do "Ninja Nomicon", e a ajuda do seu melhor amigo, que percebe ser o único capaz de proteger a sua escola e o mundo da destruição total.(n)</desc>
+    <credits>
+      <director>Shaun Cashman</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222225000 -0300" channel="Gloob">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">A Sra. Mendeleiev é akumatizada e quer capturar Tikki e Plagg para provar ao mundo que essas criaturas mágicas são reais! Ladybug e Cat Noir terão que proteger seu segredo a todo custo!(n)</desc>
+    <credits>
+      <director>Jeremy Zag</director>
+      <actor>Cristina Valenzuela</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Brian Beacock Haviland Stillwell</actor>
+      <actor>Carrie Keranen</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222225000 -0300" stop="20220222231000 -0300" channel="Gloob">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Uma esgrimista misteriosa é akumatizada e transformada em Revanche. A vilã quer se vingar de Adrien depois de perder para ele em uma luta. Para protegê-lo, Ladybug terá que tirar uma espada da manga.(n)</desc>
+    <credits>
+      <director>Jeremy Zag</director>
+      <actor>Cristina Valenzuela</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Mela Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222231000 -0300" stop="20220222233000 -0300" channel="Gloob">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Novamente, Marinette procura por Manon. Ela fez suas bonecas parecidas com Ladybug e Cat Noir. Devido a um mal entendido, Manon se torna uma boneca e deseja todas as bonecas de Marinette para controlá-las.(n)</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+      <actor>Cristina Valenzuela</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Mela Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Gloob">
+    <title lang="pt">Miraculous - As Aventuras de Ladybug</title>
+    <desc lang="pt">Marinette Cheng, uma estudante de ensino médio tímida, herdou uns brincos em forma de joaninha, mágicos. Os ornamentos concedem o poder da sorte para quem os usa.(n)</desc>
+    <credits>
+      <director>Thomas Astruc</director>
+      <actor>Cristina Valenzuela</actor>
+      <actor>Bryce Papenbrook</actor>
+      <actor>Mela Lee</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Nick Jr.">
+    <title lang="pt">As Aventuras de Panddington</title>
+    <desc lang="pt">Paddington conhece Lucky, o cachorro do Mateo. Paddington tenta ensinar truques a ele, mas Lucky não se comporta. Paddington tem a missão de entregar cartões do dia do amor para seus amigos.(n)</desc>
+    <credits>
+      <director>Adam Shaw</director>
+      <director>Chris Dre</director>
+      <actor>Com  Sil Van Der Zwan</actor>
+      <actor>Sabrina Newton-Fisher</actor>
+      <actor>Ben Whishaw</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Nick Jr.">
+    <title lang="pt">As Aventuras de Panddington</title>
+    <desc lang="pt">Está um dia com muito vento e Jonathan quer empinar pipa com o pai. O Escala Calha rouba a aliança da Sra Brown. O Inspetor Brown está no rastro dele.(n)</desc>
+    <credits>
+      <director>Adam Shaw</director>
+      <director>Chris Dre</director>
+      <actor>Com  Sil Van Der Zwan</actor>
+      <actor>Sabrina Newton-Fisher</actor>
+      <actor>Ben Whishaw</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Nick Jr.">
+    <title lang="pt">As Aventuras de Panddington</title>
+    <desc lang="pt">Paddington solta sem querer o hamster mascote. /Jonathan e Paddington precisam conseguir seus distintivos de escoteiro.(n)</desc>
+    <credits>
+      <director>Adam Shaw</director>
+      <director>Chris Dre</director>
+      <actor>Com  Sil Van Der Zwan</actor>
+      <actor>Sabrina Newton-Fisher</actor>
+      <actor>Ben Whishaw</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Nickelodeon">
+    <title lang="pt">Os Thundermans</title>
+    <desc lang="pt">Hank e Phoebe pensam que a casa foi roubada, quando retornam ao lar e não encontram a mobília. Porém, Max admite que foi ele e os obriga a fazer as suas vontades, antes de Barb descobrir a verdade.(n)</desc>
+    <credits>
+      <actor>Rosa Blasi</actor>
+      <actor>Jack Griffo</actor>
+      <actor>Kira Kosarin</actor>
+      <actor>Addison Riecke</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Nickelodeon">
+    <title lang="pt">Henry Danger</title>
+    <desc lang="pt">Henry não é convidado para uma festa de aniversário porque ele é acusado de ter jogado a aniversariante do terraço no ano anterior. Capitão Man concorda em ajudar Henry a limpar seu nome.(n)</desc>
+    <credits>
+      <director>Adam Weissman</director>
+      <actor>Ella Anderson</actor>
+      <actor>Cooper Barnes</actor>
+      <actor>Riele Downs</actor>
+      <actor>Michael James Bell</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Nickelodeon">
+    <title lang="pt">Nickelodeon - Além Do Filtro</title>
+    <desc lang="pt">Esconda seus cérebros, esconda seus fraps! O apresentador Jay Pharoah apresenta duas celebridades misteriosas escondidas atrás de filtros animados em 3D.(n)</desc>
+    <credits>
+      <director>Bobby Burns</director>
+      <actor>Darci Lynne Farmer</actor>
+      <actor>Gabrielle Nevaeh Green</actor>
+      <actor>Lex Lumpkin</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Game Show</category>
+  </programme>
+  <programme start="20220222222400 -0300" stop="20220222224600 -0300" channel="Tooncast">
+    <title lang="pt">Loonatics Unleashed</title>
+    <desc lang="pt">Loonatics Unleashed, uma série de comédia e aventura ambientada no futuro, apresenta um elenco de super-heróis descendente dos Looney Tunes.(n)</desc>
+    <credits>
+      <director>Dan Fausett</director>
+      <actor>Charlie Schlatter</actor>
+      <actor>Jason Marsden</actor>
+      <actor>Jessica DiCicco</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222224600 -0300" stop="20220222231000 -0300" channel="Tooncast">
+    <title lang="pt">Loonatics Unleashed</title>
+    <desc lang="pt">Loonatics Unleashed, uma série de comédia, ação e aventura ambientada a centenas de anos no futuro, apresenta um elenco de super-heróis descendente dos Looney Tunes.(n)</desc>
+    <credits>
+      <actor>Charlie Schlatter</actor>
+      <actor>Jason Marsden</actor>
+      <actor>Jessica DiCicco</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222231000 -0300" stop="20220222233500 -0300" channel="Tooncast">
+    <title lang="pt">Duck Dodgers</title>
+    <desc lang="pt">Após ter passado 351 anos como picolé de pato, Duck Dodgers está de volta à temperatura ambiente e adquiriu uma nave espacial gigante, um tripulante e mais responsabilidade do que ele merece.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222233500 -0300" stop="20220222235800 -0300" channel="Tooncast">
+    <title lang="pt">Projeto Zeta</title>
+    <desc lang="pt">Um robô se rebela contra seu criador, recusando-se a matar, e por isso tem que fugir.(n)</desc>
+    <credits>
+      <director>Curt Geda</director>
+      <director>Bob Doucette</director>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Michael Rosenbaun</actor>
+      <actor>Kurtwood Smith</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222235800 -0300" stop="20220223002200 -0300" channel="Tooncast">
+    <title lang="pt">Projeto Zeta</title>
+    <desc lang="pt">Um robô se rebela contra seu criador, recusando-se a matar, e por isso tem que fugir.(n)</desc>
+    <credits>
+      <director>Curt Geda</director>
+      <director>Bob Doucette</director>
+      <actor>Diedrich Bader</actor>
+      <actor>Julie Nathanson</actor>
+      <actor>Michael Rosenbaun</actor>
+      <actor>Kurtwood Smith</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="TV RA TIM BUM">
+    <title lang="pt">Teatro Rá Tim Bum!: Viva Feliz e Contente, Transforme Pedra em Gente</title>
+    <desc lang="pt">Depois que a televisão foi inventada, o Circo Pararatimbum passou a ser cada vez menos freqüentado pelo público. Para que o circo não entrasse em falência, o dono passou a contratar as mais diversas atrações.(n)</desc>
+    <credits>
+      <director>Bete Rodrigues</director>
+    </credits>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Teatro</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223003000 -0300" channel="TV RA TIM BUM">
+    <title lang="pt">Era Uma Vez No Quintal</title>
+    <desc lang="pt">Muitas aventuras acontecem nesse quintal. Os amigos se divertem contando histórias, cantando, dançando e brincando até cansar! Os mais variados temas do universo infantil são abordados para entreter os pequenos.(n)</desc>
+    <credits>
+      <director>Elisabeth Rodrigues</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Infantil</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Amazon Sat">
+    <title lang="pt">Tribos do Sat</title>
+    <desc lang="pt">É o programa musical da Amazônia que mostra o trabalho em videoclipes dos artistas da região norte.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Amazon Sat">
+    <title lang="pt">Mundo Passaporte</title>
+    <desc lang="pt">Passaporte é um programa de turismo que leva você aos mais belos lugares do Brasil, com dicas de roteiro, passeios, serviços e peculiaridades do local.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Turismo</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Arte 1">
+    <title lang="pt">Minidocs</title>
+    <desc lang="pt">Neste episódio, Maria Beraldo fala através de sua música sobre imagem, sexualidade e busca por autonomia.(n)</desc>
+    <credits>
+      <director>Carlos Gayotto Rolim</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Arte 1">
+    <title lang="pt">Arte 1 Documenta: Adoradores de Jane Austen</title>
+    <desc lang="pt">Para celebrar os 200 anos de "Razão e Sensibilidade", o primeiro romance de Jane Austen, a professora Amanda Vickery analisa como e por quê a escritora conquistou diferentes gerações de leitores.(n)</desc>
+    <credits>
+      <director>Rupert Edwards</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222224600 -0300" stop="20220222230900 -0300" channel="BBC Earth">
+    <title lang="pt">Curiosidades da Natureza com David Attenborough</title>
+    <desc lang="pt">David Attenborough revela os animais mais intrigantes que conheceu na sua incomparável carreira. Cada episódio mostra duas espécies conectadas por uma distinta artimanha da evolução.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E4</episode-num>
+  </programme>
+  <programme start="20220222230900 -0300" stop="20220222233300 -0300" channel="BBC Earth">
+    <title lang="pt">Curiosidades da Natureza com David Attenborough</title>
+    <desc lang="pt">David Attenborough revela os animais mais intrigantes que conheceu na sua incomparável carreira. Cada episódio mostra duas espécies conectadas por uma distinta artimanha da evolução.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E5</episode-num>
+  </programme>
+  <programme start="20220222233300 -0300" stop="20220222235500 -0300" channel="BBC Earth">
+    <title lang="pt">Curiosidades da Natureza com David Attenborough</title>
+    <desc lang="pt">David Attenborough revela os animais mais intrigantes que conheceu na sua incomparável carreira. Cada episódio mostra duas espécies conectadas por uma distinta artimanha da evolução.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S3 E6</episode-num>
+  </programme>
+  <programme start="20220222235500 -0300" stop="20220223002200 -0300" channel="BBC Earth">
+    <title lang="pt">Curiosidades da Natureza com David Attenborough</title>
+    <desc lang="pt">Na segunda e mais longa temporada da sua popular série, Natural Curiosities, David Attenborough revela outro grupo de animais desconcertantes que o intrigam.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+    <episode-num system="onscreen">S2 E1</episode-num>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Bis HD">
+    <title lang="pt">Machine Gun Kelly With Migos</title>
+    <desc lang="pt">Show do rapper americano Machine Gun Kelly com participção do trio de hip hop Migos, realizado em fevereiro de 2018 em Minneapolis, nos EUA. Com hits como Bad Things" e "Home".".(n)</desc>
+    <credits>
+      <director>Phil Heyes</director>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Bis HD">
+    <title lang="pt">Experimente</title>
+    <desc lang="pt">Beto Lee convida o público para uma degustação musical, apresentando o trabalho de novas bandas. O programa se baseia no ecletismo musical e promove aos espectadores um verdadeiro mergulho em sons alternativos.(n)</desc>
+    <credits>
+      <director>Rafael Mellin</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Musical</category>
+  </programme>
+  <programme start="20220222200000 -0300" stop="20220223000000 -0300" channel="Canal do Boi">
+    <title lang="pt">Leilão de Corte Leilosul</title>
+    <desc lang="pt">Leilão de Corte Leilosul.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222203000 -0300" stop="20220223000000 -0300" channel="Canal Rural">
+    <title lang="pt">Leilão</title>
+    <desc lang="pt">O Canal Rural transmite os leilões mais importantes do setor.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220223000000 -0300" channel="Canção Nova">
+    <title lang="pt">PHN</title>
+    <desc lang="pt">Com muita música e descontração, o programa traz histórias de quem assumiu o PHN "Por/hoje/não" e mudaram suas vidas.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Casa Club TV">
+    <title lang="pt">Cook Yourself Thin</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Casa Club TV">
+    <title lang="pt">Moda Actual con Anna y Kristina</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Moda e Estilo</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Casa Club TV">
+    <title lang="pt">Detrás de las Grandes Marcas</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="Climatempo">
+    <title lang="pt">Onu Em Ação</title>
+    <desc lang="pt">As Nações Unidas são o principal fórum para tratar de questões que transcendem as fronteiras e não podemser resolvidas com ações isoladas de cada país.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Informativo</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Climatempo">
+    <title lang="pt">Os Amargos</title>
+    <desc lang="pt">Uma comédia que dá o que falar ao apresentar de forma nua e crua a chatice dos politicamente corretos.(n)</desc>
+    <credits>
+      <director>Carla Albuquerque</director>
+      <actor>Gabriela Nery</actor>
+      <actor>Mauricio Ludewig</actor>
+      <actor>Rodrigo Pessin</actor>
+      <actor>ariana Rosa</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Climatempo">
+    <title lang="pt">Os C&amp;D</title>
+    <desc lang="pt">"Os C&amp;D" é a série de TV que mistura uma família de ficção vivendo um programa de realidade.(n)</desc>
+    <credits>
+      <director>Medialand</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222222500 -0300" stop="20220222225000 -0300" channel="Comedy Central">
+    <title lang="pt">A Boa Vizinhança</title>
+    <desc lang="pt">Os Butlers e os Johnsons se unem quando um membro da comunidade se torna vítima de injustiça racial.(n)</desc>
+    <credits>
+      <director>Mark Cendrowski</director>
+      <actor>Cedric The Entertainer</actor>
+      <actor>Max Greenfield</actor>
+      <actor>Sheaun McKinney</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222225000 -0300" stop="20220222231000 -0300" channel="Comedy Central">
+    <title lang="pt">Todo Mundo Odeia O Chris</title>
+    <desc lang="pt">O treinador Thurman vê Chris sendo agredido por Caruso e sugere que ele aprenda a lutar boxe para se defender. Julius chama a atenção de uma bela mulher na vizinhança, que passa a fazer danças sensuais para ele da janela do quarto dela.(n)</desc>
+    <credits>
+      <director>Ken Whittingham</director>
+      <actor>Chris Rock</actor>
+      <actor>Terry Crews</actor>
+      <actor>Tichina Arnold</actor>
+      <actor>Tequan Richmond</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222231000 -0300" stop="20220222233000 -0300" channel="Comedy Central">
+    <title lang="pt">Um Maluco no Pedaço</title>
+    <desc lang="pt">Um milionário anônimo está interessado em comprar a casa dos Banks. Enquanto a família pensa na oferta, eles lembram dos bons momentos que eles viveram na casa.(n)</desc>
+    <credits>
+      <director>Shelley Jensen</director>
+      <actor>Will Smith</actor>
+      <actor>James Avery</actor>
+      <actor>Janet Hubert-Whitten</actor>
+      <actor>Alfonso Ribeiro</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Comedy Central">
+    <title lang="pt">South Park</title>
+    <desc lang="pt">O humor abusado da galerinha mais louca da televisão continua agitando a pacata cidade de South Park.(n)</desc>
+    <credits>
+      <actor>Trey Parker</actor>
+      <actor>Matt Stone</actor>
+      <actor>Mona Marshall</actor>
+      <actor>Isaac Hayes</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Animação</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Concert Channel">
+    <title lang="pt">Soundstage/Specials - Chris Isaak Christmas: A Soundstage Special Event</title>
+    <desc lang="pt">Fã do rockabilly e com onze discos de estúdio, Chris Isakk é muito mais que o autor da famosa música 'Wicked Game'. Descubra-o neste imperdível show do músico, que contou com convidados como Michael Bublé e Stevie Nicks.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Concert Channel">
+    <title lang="pt">Andrea Bocelli Concerto: One Night In Central Park</title>
+    <desc lang="pt">Uma fria e chuvosa noite no Central Park de Nova Iorque é o palco para um concerto inesquecível. O aclamado tenor Andrea Bocelli nos traz uma das melhores apresentações de sua carreira, com convidados importantes como Celine Dion.(n)</desc>
+    <category lang="pt">Espetáculo</category>
+    <category lang="pt">Show</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222225000 -0300" channel="E! Entertainment Television">
+    <title lang="pt">Juju Bootcamp</title>
+    <desc lang="pt">Começa agora o Boot Camp! Enquanto as participantes se aquecem com agachamentos, uma reviravolta exige a presença dos paramédicos. Outra surpresa: uma participante é punida por uma falta grave.(n)</desc>
+    <credits>
+      <director>Thiago Cordeiro Margarido</director>
+      <director>Marina Previato</director>
+      <actor>Juju Salimeni</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222225000 -0300" stop="20220222233500 -0300" channel="E! Entertainment Television">
+    <title lang="pt">Juju Bootcamp</title>
+    <desc lang="pt">A vaga da desistente é preenchida por uma das candidatas eliminadas nos episódios iniciais. O nutrólogo Arthur Rasqueri propõe um desafio que exige raciocínio lógico, conhecimento e ousadia.(n)</desc>
+    <credits>
+      <director>Thiago Cordeiro Margarido</director>
+      <director>Marina Previato</director>
+      <actor>Juju Salimeni</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222233500 -0300" stop="20220223000000 -0300" channel="E! Entertainment Television">
+    <title lang="pt">Luana é de Lua</title>
+    <desc lang="pt">Primeiro episódio abordou fantasias sexuais.(n)</desc>
+    <credits>
+      <director>Paula Crispiniano</director>
+      <actor>Luana Piovani</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222224000 -0300" stop="20220222225500 -0300" channel="Futura">
+    <title lang="pt">Show da História</title>
+    <desc lang="pt">Dom Pedro I, filho de Carlota Joaquina e Dom João VI, é o grande proclamador da nossa independência. Mas será que nossa independência foi tão grandiosa assim? Nosso primeiro Pedro irá contar essa história para nós.(n)</desc>
+    <credits>
+      <director>Tom Hamburger</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Educativo</category>
+  </programme>
+  <programme start="20220222225500 -0300" stop="20220222230000 -0300" channel="Futura">
+    <title lang="pt">Autores</title>
+    <desc lang="pt">A atriz e roteirista Renata Di Carmo apresenta seu livro 'Anele: A Menina Dos Olhos De Mundo', uma aventura que fala sobre representatividade e emociona as mentes jovens, de qualquer idade.(n)</desc>
+    <credits>
+      <director>Marcio Vianna</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Documentário</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222233000 -0300" channel="Futura">
+    <title lang="pt">Mutatis Mutandis</title>
+    <desc lang="pt">Nesse episódio o apresentador Du Sarto e o seu parceiro "o Deus da Voz (OFF)" descobrem a importância dos polímeros e sua utilização no mundo, e apresentam projetos e pesquisas científicas realizadas pela UFOP sobre este tema.(n)</desc>
+    <credits>
+      <director>Adriano Medeiros Da Rocha</director>
+      <director>Fernanda Luiza Teixeira Lima</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Ciência</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223000000 -0300" channel="Futura">
+    <title lang="pt">Futurando</title>
+    <desc lang="pt">O programa de ciência, meio ambiente e tecnologia da Deutsche Welle mostra, a cada semana, de forma simples e descontraída, projetos inovadores e pesquisas feitas por cientistas de destaque internacional.(n)</desc>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222233000 -0300" channel="Glitz*">
+    <title lang="pt">Namorados Para Sempre</title>
+    <desc lang="pt">Casados há vários anos e com uma filha, Cindy (Michelle Williams) e Dean (Ryan Gosling) são jovens da classe trabalhadora que passam por um momento de crise, vendo o relacionamento ser contaminado por uma série de incertezas.(n)</desc>
+    <credits>
+      <director>Derek Cianfrance</director>
+      <actor>Ryan Gosling</actor>
+      <actor>Michelle Williams</actor>
+      <actor>Faith Wladyka</actor>
+      <actor>John Doman</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20220222233000 -0300" stop="20220223010000 -0300" channel="Glitz*">
+    <title lang="pt">As Aventuras do Garoto Comida</title>
+    <desc lang="pt">Um adolescente se surpreende ao descobrir que possui o superpoder de fazer comida aparecer em suas mãos.(n)</desc>
+    <credits>
+      <director>Dane  Cannon</director>
+      <actor>Lucas Grabeel</actor>
+      <actor>Kunal Sharma</actor>
+      <actor>Brittany Curran</actor>
+      <actor>Jeff Braine</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220222230000 -0300" channel="GNT">
+    <title lang="pt">Tempero de Família</title>
+    <desc lang="pt">Rodrigo faz um porta temperos a partir de um móvel antigo na oficina e na cozinha prepara canapé de grão de bico, rillete de sardinha e batatardinha reaproveitando alimentos e ingredientes.(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Culinária</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220222235000 -0300" channel="GNT">
+    <title lang="pt">The Good Doctor: O Bom Doutor</title>
+    <desc lang="pt">Shaun Murphy, um jovem cirurgião no espectro do autismo e com a síndrome de Savant, é recrutado para a unidade cirúrgica de um hospital de prestígio.(n)</desc>
+    <credits>
+      <director>Mike Listo</director>
+      <actor>Antonia Thomas</actor>
+      <actor>Christina Chang</actor>
+      <actor>Hill Harper</actor>
+      <actor>Richard Schiff</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Drama</category>
+  </programme>
+  <programme start="20220222235000 -0300" stop="20220223011000 -0300" channel="GNT">
+    <title lang="pt">Que História é essa, Porchat?</title>
+    <desc lang="pt">Porchat recebe os atores Caio Castro e Leandro Ramos e a apresentadora Christina Rocha. Na plateia, mistério de uma mensagem escrita à sangue e um noite de sexo inusitada.(n)</desc>
+    <credits>
+      <director>Gigi Soares</director>
+      <actor>Fábio Porchat</actor>
+    </credits>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Talk Show</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220222230000 -0300" channel="Hiper TV">
+    <title lang="pt">Hiper TV</title>
+    <desc lang="pt">Programação do canal Hiper TV.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222230000 -0300" stop="20220223000000 -0300" channel="Hiper TV">
+    <title lang="pt">Hiper TV</title>
+    <desc lang="pt">Programação do canal Hiper TV.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222221200 -0300" stop="20220222230400 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Terezinha fica sabendo que estão abertas as inscrições para um reality show e resolve se inscrever. Os ex-bbbs Maria e Daniel, amigos de Lacraia, vão à pensão procurá-lo.(n)</desc>
+    <credits>
+      <director>César Rodrigues</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222230400 -0300" stop="20220222235000 -0300" channel="Multishow">
+    <title lang="pt">Vai Que Cola</title>
+    <desc lang="pt">Começa a circular no zap do Méier que uma cobra fugiu quando estavam levando para o Zoológico e está na região da pensão da Dona Jô. Todos ficam morrendo de medo da cobra aparecer.(n)</desc>
+    <credits>
+      <director>Carlos Milani</director>
+      <actor>Luis Lobianco</actor>
+      <actor>Mauricio Manfrini</actor>
+      <actor>Nando Rodrigues</actor>
+      <actor>Pedroca Monteiro</actor>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222235000 -0300" stop="20220223003800 -0300" channel="Multishow">
+    <title lang="pt">Big Brother Brasil 22 - Ao Vivo</title>
+    <desc lang="pt">Mais 45 minutos de Big Brother Brasil ao vivo, no Multishow, após a exibição da TV Globo.(n)</desc>
+    <credits>
+      <director>Tatiana Costa</director>
+    </credits>
+    <category lang="pt">Séries</category>
+    <category lang="pt">Reality Show</category>
+  </programme>
+  <programme start="20220222223000 -0300" stop="20220223001500 -0300" channel="NBR">
+    <title lang="pt">Cine Retrô: Chofer de Praça</title>
+    <desc lang="pt">Para ajudar o filho a concluir os estudos de Medicina, um homem consegue um emprego de taxista num calhambeque caindo aos pedaços. Apesar do esforço, ele causa vergonha ao filho por suas barbeiragens no trânsito paulista.(n)</desc>
+    <credits>
+      <director>Milton Amaral</director>
+      <actor>Ana Maria Nabuco</actor>
+      <actor>Roberto Duval</actor>
+      <actor>Mazzaropi</actor>
+      <actor>Geny Prado</actor>
+    </credits>
+    <category lang="pt">Filme</category>
+    <category lang="pt">Comédia</category>
+  </programme>
+  <programme start="20220222220500 -0300" stop="20220222225000 -0300" channel="NHK World">
+    <title lang="pt">Song Concert</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222225000 -0300" stop="20220222231800 -0300" channel="NHK World">
+    <title lang="pt">Design Talks Plus</title>
+    <desc lang="pt">Design Talks está ganhando um upgrade! O programa explora as tradições do design de renome mundial do Japão a partir de todos os tipos de ângulos fascinantes. Hoje: Flores.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222231800 -0300" stop="20220222234800 -0300" channel="NHK World">
+    <title lang="pt">Win The Regular Program Slot</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222234800 -0300" stop="20220222235800 -0300" channel="NHK World">
+    <title lang="pt">Points at Issue</title>
+    <desc lang="pt">Especialistas de diferentes áreas vão fazer comentários sobre questões de eventos atuais.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222235800 -0300" stop="20220223000000 -0300" channel="NHK World">
+    <title lang="pt">World Weather</title>
+    <desc lang="pt">Informações sobre o tempo das diferentes áreas ao redor do mundo.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222224500 -0300" stop="20220223011500 -0300" channel="RAI International">
+    <title lang="pt">Cartabianca</title>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Diversos</category>
+  </programme>
+  <programme start="20220222220000 -0300" stop="20220223000000 -0300" channel="RBI">
+    <title lang="pt">Igreja Paz e Vida</title>
+    <desc lang="pt">Igreja Paz e Vida.(n)</desc>
+    <category lang="pt">Variedades</category>
+    <category lang="pt">Religião</category>
   </programme>
 </tv>
