@@ -782,190 +782,6 @@
     <display-name lang="pt">Star HIts 2</display-name>
     <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/foa.gif" />
   </channel>
-  <programme start="20220423005500 -0300" stop="20220423024500 -0300" channel="AMC">
-    <title lang="pt">O Homem da Máfia</title>
-    <desc lang="pt">Uma gangue decide roubar um jogo de pôquer clandestino da máfia. O assalto causa muitos problemas para os mafiosos, que decidem chamar Jackie Cogan, um eficiente assassino de aluguel.(n)</desc>
-    <credits>
-      <director>Andrew Dominik</director>
-      <actor>Brad Pitt</actor>
-      <actor>James Gandolfini</actor>
-      <actor>Ray Liotta</actor>
-      <actor>Scoot McNairy</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20220423024500 -0300" stop="20220423044000 -0300" channel="AMC">
-    <title lang="pt">Código de Honra</title>
-    <desc lang="pt">Os advogados idealistas Mike Weiss e Paul Danziger defendem Vicky Rogers, uma enfermeira que contraiu AIDS acidentalmente com uma agulha por causa de um paciente violento.(n)</desc>
-    <credits>
-      <director>Adam Kassen</director>
-      <director>Mark Kassen</director>
-      <actor>Chris Evans</actor>
-      <actor>Mark Kassen</actor>
-      <actor>Vinessa Shaw</actor>
-      <actor>Marshall Bell</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220423044000 -0300" stop="20220423063000 -0300" channel="AMC">
-    <title lang="pt">Assombrada Pelo Passado</title>
-    <desc lang="pt">Lisa descobre que ela e sua família estão mortos e condenados a repetir o último dia que viveram eternamente. Perseguida por uma assombração, ela tenta desvendar o misterioso passado do local e quem realmente o assusta.(n)</desc>
-    <credits>
-      <director>Vincenzo Natali</director>
-      <actor>Peter Outerbridge</actor>
-      <actor>Abigail Breslin</actor>
-      <actor>Michelle Nolden</actor>
-      <actor>Stephen McHattie</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220423063000 -0300" stop="20220423070000 -0300" channel="AMC">
-    <title lang="pt">Action Zone VII</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220423070000 -0300" stop="20220423073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone VII</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220423073000 -0300" stop="20220423080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone VII</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220423080000 -0300" stop="20220423090000 -0300" channel="AMC">
-    <title lang="pt">Fear The Walking Dead</title>
-    <desc lang="pt">O grupo vai perdendo a esperança enquanto procuram uma saída. Alicia e Charlie encontram seus amigos.(n)</desc>
-    <credits>
-      <director>David Barrett</director>
-      <actor>Lennie James</actor>
-      <actor>Alycia Debnam-Carey</actor>
-      <actor>Maggie Grace</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220423090000 -0300" stop="20220423100000 -0300" channel="AMC">
-    <title lang="pt">Fear The Walking Dead</title>
-    <desc lang="pt">Morgan tenta encontrar forças para ajudar amigos em apuros, antes que seja tarde demais.(n)</desc>
-    <credits>
-      <director>Michael E. Satrazemis</director>
-      <actor>Lennie James</actor>
-      <actor>Alycia Debnam-Carey</actor>
-      <actor>Maggie Grace</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220423100000 -0300" stop="20220423102500 -0300" channel="AMC">
-    <title lang="pt">The Collapse</title>
-    <desc lang="pt">Uma auxiliar de enfermagem que se recusou a deixar os residentes do asilo de idosos enfrenta um dilema quando seu estoque de suprimentos é roubado.(n)</desc>
-    <credits>
-      <actor>Bastien Ughetto</actor>
-      <actor>Catherine Salviat</actor>
-      <actor>Christelle Cornil</actor>
-      <actor>Philippe Rebbot</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220423102500 -0300" stop="20220423121500 -0300" channel="AMC">
-    <title lang="pt">Inimigos de Sangue</title>
-    <desc lang="pt">O criminoso Jacob Sternwood é obrigado a voltar para Londres quando seu filho acaba ferido durante um sequestro malsucedido. Com isso, o detetive Max Lewinsky, que não conseguiu capturá-lo, ganha uma segunda chance de prendê-lo.(n)</desc>
-    <credits>
-      <director>Eran Creevy</director>
-      <actor>James McAvoy</actor>
-      <actor>Andrea Riseborough</actor>
-      <actor>Daniel Kaluuya</actor>
-      <actor>Mark Strong</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220423121500 -0300" stop="20220423135000 -0300" channel="AMC">
-    <title lang="pt">Veículo 19</title>
-    <desc lang="pt">Após sair da prisão em liberdade condicional, Michael Woods pega o veículo errado em uma locadora e descobre uma mulher amarrada no porta-malas. Agora, os dois se tornam alvos de policiais corruptos.(n)</desc>
-    <credits>
-      <director>Mukunda Dewil</director>
-      <actor>Paul Walker</actor>
-      <actor>Gys De Villiers</actor>
-      <actor>Naima McLean</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220423135000 -0300" stop="20220423160000 -0300" channel="AMC">
-    <title lang="pt">O Poder e a Lei</title>
-    <desc lang="pt">Michael é um advogado que adora ganhar dinheiro fácil. Quando ele é contratado para defender um jovem acusado de tentativa de estupro e agressão, pensa ser o caso de sua vida. Porém, o que parecia garantido começa a se mostrar perigoso.(n)</desc>
-    <credits>
-      <director>Brad Furman</director>
-      <actor>Matthew McConaughey</actor>
-      <actor>Ryan Phillippe</actor>
-      <actor>Marisa Tomei</actor>
-      <actor>William H. Macy</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220423160000 -0300" stop="20220423180000 -0300" channel="AMC">
-    <title lang="pt">Morte por Encomenda</title>
-    <desc lang="pt">Um detetive particular é contratado para investigar o desaparecimento de uma dançarina striper. Porém o caso começa ficar complicado quando todas as pessoas que ele interroga aparecem mortas, deixando um rastro de violência.(n)</desc>
-    <credits>
-      <director>Tony Krantz</director>
-      <actor>Antonio Banderas</actor>
-      <actor>Sam Elliott</actor>
-      <actor>Thomas Kretschmann</actor>
-      <actor>William Fichtner</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220423180000 -0300" stop="20220423195000 -0300" channel="AMC">
-    <title lang="pt">Triplo X 2 - Estado de Emergência</title>
-    <desc lang="pt">Um grupo de rebeldes, dentro do exército norte-americano, ameaça a vida do Presidente. O programa XXX decide mandar a Washington seu novo agente, Darius Stone. Seu passado e habilidades serão suas armas para deter o inimigo.(n)</desc>
-    <credits>
-      <director>Lee Tamahori</director>
-      <actor>Ice Cube</actor>
-      <actor>Willem Dafoe</actor>
-      <actor>Samuel L.Peter Strauss</actor>
-      <actor>Jackson</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220423195000 -0300" stop="20220423220000 -0300" channel="AMC">
-    <title lang="pt">O Vingador do Futuro</title>
-    <desc lang="pt">Douglas Quaid é um trabalhador que busca um pouco de emoção em sua vida monótona. Ele procura ajuda na empresa Rekall e acaba descobrindo que existe uma tênue linha ente suas fantasias e a realidade.(n)</desc>
-    <credits>
-      <director>Len Wiseman</director>
-      <actor>Colin Farrell</actor>
-      <actor>Kate Beckinsale</actor>
-      <actor>John Cho</actor>
-      <actor>Bill Nighy</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220423220000 -0300" stop="20220424000000 -0300" channel="AMC">
-    <title lang="pt">Elysium</title>
-    <desc lang="pt">No ano de 2154, a população da Terra está dividida em duas classes: os ricos, que vivem na estação espacial Elysium, e o resto, que vive na Terra arruinada. Mas um homem pode ser a esperança para trazer igualdade.(n)</desc>
-    <credits>
-      <director>Neill Blomkamp</director>
-      <actor>Matt Damon</actor>
-      <actor>Jodie Foster</actor>
-      <actor>Sharlto Copley</actor>
-      <actor>Alice Braga</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
   <programme start="20220424000000 -0300" stop="20220424022000 -0300" channel="AMC">
     <title lang="pt">Expresso Do Amanhã</title>
     <desc lang="pt">Quando um experimento para impedir o aquecimento global falha, uma nova era do gelo toma conta do planeta Terra. Os únicos sobreviventes estão a bordo de uma imensa máquina chamada Snowpiercer.(n)</desc>
@@ -1156,49 +972,49 @@
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20220423000000 -0300" stop="20220423013500 -0300" channel="Prime Box Brasil">
+  <programme start="20220424000000 -0300" stop="20220424013500 -0300" channel="Prime Box Brasil">
     <title lang="pt">Prime.Doc: Baderna (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Baderna é uma cidade no interior do Brasil. Fundada em 1871, formou-se a partir da cultura dos negros escravizados e hoje segue emancipa-da do estado brasileiro.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220423013500 -0300" stop="20220423015000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424013500 -0300" stop="20220424015000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Curta In Box: Entre Nós (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Mathias é um escritor à deriva. Depois da morte de sua esposa Natália, ele inicia um processo de auto destruição movido por um sentimento de culpa com o qual não consegue lidar.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220423015000 -0300" stop="20220423020000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424015000 -0300" stop="20220424020000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Curta In Box: A Rua Das Casas Surdas (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Em uma vizinhança silenciosa, durante a ditadura dos anos 70, Carlos e Ernesto acompanham um jogo de futebol pelo rádio, até que resolvem aproveitar o intervalo do primeiro tempo para voltar ao trabalho.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220423020000 -0300" stop="20220423021500 -0300" channel="Prime Box Brasil">
+  <programme start="20220424020000 -0300" stop="20220424021500 -0300" channel="Prime Box Brasil">
     <title lang="pt">Por Trás das Câmeras (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme Aparecida, a Padroeira do Brasil pintava ser mais um blockbuster do cinema brasileiro, dado o histórico de sucesso dos filmes religiosos lançados antes e depois dele.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220423021500 -0300" stop="20220423023000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424021500 -0300" stop="20220424023000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;António Lobo foi um intelectual tão importante que a Academia Maranhense de Letras ficou conhecida como Cas de António Lobo.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423023000 -0300" stop="20220423030000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424023000 -0300" stop="20220424030000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Amélio, O Homem de Verdade (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Para que Fabi não desconfie da despedida de solteiro. Amélio, Xico e Julinho vestem as camisas do Botafogo, e dizem para Fabi que vão assistir o jogo.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220423030000 -0300" stop="20220423043000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424030000 -0300" stop="20220424043000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Sessão Prime Box: Largou As Botas e Mergulhou no Céu (?)</title>
     <sub-title lang="pt">Largou as Botas e Mergulhou no Céu</sub-title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Dilemas e conflitos entre ficar ou partir, permanecer ou mudar, sagrado ou profano são costurados por personagens reais e ficticios entre o Natal e o Carnaval, o período sabático do Brasil. A região é o Nordeste.(n)</desc>
@@ -1206,42 +1022,42 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423043000 -0300" stop="20220423044700 -0300" channel="Prime Box Brasil">
+  <programme start="20220424043000 -0300" stop="20220424044700 -0300" channel="Prime Box Brasil">
     <title lang="pt">Curta In Box: Exílio (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;História de amor sobre os profundos sentimentos existentes na relação Antonio e sua televisão.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423044700 -0300" stop="20220423050000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424044700 -0300" stop="20220424050000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Curta In Box: Respeita Nosso Sagrado (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando as teias de aranha se juntam elas podem amarrar um leão, diz o provérbio africano. No florescer da primavera carioca, mais de 500 objetos sagrados das religiões afro-brasileiras foram transferidos para o Museu da República.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423050000 -0300" stop="20220423053000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424050000 -0300" stop="20220424053000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Crítica (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423053000 -0300" stop="20220423054500 -0300" channel="Prime Box Brasil">
+  <programme start="20220424053000 -0300" stop="20220424054500 -0300" channel="Prime Box Brasil">
     <title lang="pt">Histórias Maranhenses (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;António Guimarães dedica sua vida a colecionar fotografias e postais. Contar a história de seu trabalho é contar um pouco da história da cidade de São Luís e também do Maranhão.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423054500 -0300" stop="20220423060000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424054500 -0300" stop="20220424060000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Histórias Maranhenses (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;António Guimarães dedica sua vida a colecionar fotografias e postais. Contar a história de seu trabalho é contar um pouco da história da cidade de São Luís e também do Maranhão.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423060000 -0300" stop="20220423072400 -0300" channel="Prime Box Brasil">
+  <programme start="20220424060000 -0300" stop="20220424072400 -0300" channel="Prime Box Brasil">
     <title lang="pt">Prime.doc: Porto Alegre - Meu Canto no Mundo (?)</title>
     <sub-title lang="pt">Porto Alegre - Meu Canto no Mundo</sub-title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Ficção e documentário se misturam em uma emocionante história contada por Luis Fernando Veríssimo, Luiz Antônio de Assis Brasil, Eva Sopher, Jaime Sirotsky, Moacyr Scliar e Giba Giba. Nasce uma Porto Alegre inédita, jamais vista através de imagens aéreas, filmes, fotos e ficção.(n)</desc>
@@ -1249,350 +1065,100 @@
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423072400 -0300" stop="20220423072700 -0300" channel="Prime Box Brasil">
+  <programme start="20220424072400 -0300" stop="20220424072700 -0300" channel="Prime Box Brasil">
     <title lang="pt">Curta In Box: Isolation (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Isolation, de forma experimental é um filme que explora uma nova realidade, apresentando a mídia e a informação como nosso meio de escape.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220423072700 -0300" stop="20220423080000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424072700 -0300" stop="20220424080000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Curta In Box: Copan - Cidade Vertical (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário apresenta a história e curiosidades da maior estrutura de concreto armado do país, o edifício Copan, localizado na Av. Ipiranga, coração de São Paulo.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423080000 -0300" stop="20220423090000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424080000 -0300" stop="20220424090000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Submersos (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Leo visita o primo Gordo. Branco parte pra Argentina com a missão de encontrar Nando. Belli mostra Gabi no reality aos policiais que a interrogam na boate. Comissario Villar conversa com Guerra.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423090000 -0300" stop="20220423100000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424090000 -0300" stop="20220424100000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Cidades de Cinema (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220423100000 -0300" stop="20220423103000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424100000 -0300" stop="20220424103000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Adoção mostra o lado bom da relação entre humanos e animais, mas também alerta os candidatos a tutores sobre as responsabilidades de se ter um animal, que, as vezes chega, a viver por até  15 anos, e quais os requisitos para se dar um lar para um animal. Neste episódio, contamos duas histórias de adoção, uma delas onde os cães têm necessidades especiais, revelando até onde pode chegar o grau de dedicação de um tutor quando seu animal fica velho, doente, ou tem alguma necessidade especial. Abordamos também a dificuldade que é a  "vivência pet friendly" e como de fato a sociedade ainda não está preparada para incluir os pets em sua rotina.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423103000 -0300" stop="20220423110000 -0300" channel="Prime Box Brasil">
+  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Mulheres Mix (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423110000 -0300" stop="20220423113000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">G.i.b.i.s. (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;E chegou a hora da reunião mais épica do planeta! Onde estrelas de Hollywood desfilam por tapetes vermelhos, marcas constroem estandes que mais parecem palácios, mas onde os quadrinhos são o centro do evento.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423113000 -0300" stop="20220423120000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Assombrações lendárias e personagens folclóricos são as inspirações para pernambucana Roberta Cirne criar histórias em quadrinhos de terror.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220423120000 -0300" stop="20220423123000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423123000 -0300" stop="20220423130000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423130000 -0300" stop="20220423133000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423133000 -0300" stop="20220423140000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423140000 -0300" stop="20220423143000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423143000 -0300" stop="20220423150000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423150000 -0300" stop="20220423184500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">1001 Noites (?)</title>
-    <sub-title lang="pt">1001 Noites</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423184500 -0300" stop="20220423190000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Entre os fundadores da Academia havia um jovem negro que lutou muito, estudou, se formou, foi bibliotecário e escritor: Astolfo Marques.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423190000 -0300" stop="20220423202300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Entre dois Mundos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Euller Miller é um jovem indígena brasileiro da etnia kaiwá que sai de sua pequena aldeia nos arredores de Dourados (MS) para cursar odontologia em uma universidade pública na populosa capital do estado do Paraná. O filme acompanha sua complexa transição entre dois mundos contrastantes e a busca de novos horizontes que não impliquem na perda de suas raízes indígenas.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423202300 -0300" stop="20220423203900 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423203900 -0300" stop="20220423210000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn (?)</title>
-    <sub-title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423210000 -0300" stop="20220423210600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Festa No Apartamento Da Suzana (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Augusto é convidado para uma festa no apartamento de uma colega de faculdade.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423210600 -0300" stop="20220423211000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Em Cartaz (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Interprogramas. Shot de informações sobre estreias fílmicas.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423211000 -0300" stop="20220423213700 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Paranóia Doce (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quatro jovens viajam para uma cidade litorânea buscando diversão. Após uma noite de bebedeira, jogos e pegação, encontram uma gosma rosada e viscosa, que inexplicavelmente os seduz. Um a um, os jovens começam a morrer.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220423213700 -0300" stop="20220423220000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Laços Do Ofício (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Laços do Ofício" é um documentário gravado durante oficinas de música e poesia realizadas em escolas e instituições de Porto Alegre e região metropolitana. Com foco nas relações sensíveis entre os professsores e crianças em situação de vulnerabilidade e deficientes intelectuais o filme destaca a importância da música e da arte no processo.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220423220000 -0300" stop="20220423233600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: Entrevistas do Sair à Luz (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220423233600 -0300" stop="20220423235400 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Final da Linha (?)</title>
-    <sub-title lang="pt">Final da Linha</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lílian é uma jovem que passou no vestibular, porém sua faculdade é em outra cidade. Para chegar ao seu destino, ela se submete à rotina de pegar o ônibus e o trem, o trem e o ônibus. Aquilo que primeiro parecia a pior parte de seu dia, torna-se uma atividade interessante, quando a menina mostra um grande talento para fazer amizades.(n)</desc>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20220423235400 -0300" stop="20220424000000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Amiga Virtual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ana é uma jovem que vive em função de suas redes sociais e se disponibiliza a fazer companhia, virtualmente, para pessoas que entram em contato buscando alguém para estar junto.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sempre Poa (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220424010000 -0300" stop="20220424013000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Para que Fabi não desconfie da despedida de solteiro. Amélio, Xico e Julinho vestem as camisas do Botafogo, e dizem para Fabi que vão assistir o jogo.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220424013000 -0300" stop="20220424020000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Em Busca de Kardec (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com grande enraizamento social e com diferentes visões e perspectivas, o espiritismo no Brasil é muito diferente daquele que Kardec fundou na França.(n)</desc>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20220424020000 -0300" stop="20220424030000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Submersos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Leo visita o primo Gordo. Branco parte pra Argentina com a missão de encontrar Nando. Belli mostra Gabi no reality aos policiais que a interrogam na boate. Comissario Villar conversa com Guerra.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220424030000 -0300" stop="20220424050000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: O Acre Existe (?)</title>
-    <sub-title lang="pt">O Acre Existe</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com o intuito de desconstruir um certo "mito" que tomou conta das redes sociais nos últimos anos, quatro cineastas percorrem 10 mil quilômetros cruzando cidades, florestas e seringais para mostrar que sim, o Acre existe.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220424050000 -0300" stop="20220424053000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Verona (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rodrigo e Juliana, dois jovens apaixonados, vivem um amor proibido devido ao ódio entre suas famílias.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220424053000 -0300" stop="20220424060000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220424060000 -0300" stop="20220424071800 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Entre Paredes (?)</title>
-    <sub-title lang="pt">Entre Paredes</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A história gira em torno do obscuro ciúme que toma posse de um homem. Atormentado pela possibilidade de traição, o marido se perde em alucinações, imaginando sua bela mulher com outros homens.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220424071800 -0300" stop="20220424073700 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Um Verão Em Vênus (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A passagem de Vênus pelo Sol pode reaproximar um casal com o amor desgastado.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424073700 -0300" stop="20220424080000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Luiz Carlos Felizardo, Um Fotógrafo na Estrada (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Luiz Carlos Felizardo, nasceu em Porto Alegre/RS, em 05 de julho de 1949. No documentário, ele faz uma visita à Reserva Técnica do MARGS onde revê e comenta fotos que fazem parte do acervo do museu.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424080000 -0300" stop="20220424081500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424081500 -0300" stop="20220424083000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;José Sarney é mais conhecido por ter sido presidente do Brasil, mas aqui veremos muito mais sobre o grande escritor e homem de cultura que ele é.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424083000 -0300" stop="20220424084500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Histórias Maranhenses (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filho do cônsul de Portugal em São Luís do Maranhão, Fernando Silva conhecia todas as histórias sobre as mais antigas empresas comerciais da cidade e os prédios onde elas funcionavam.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424084500 -0300" stop="20220424090000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Histórias Maranhenses (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filho do cônsul de Portugal em São Luís do Maranhão, Fernando Silva conhecia todas as histórias sobre as mais antigas empresas comerciais da cidade e os prédios onde elas funcionavam.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424090000 -0300" stop="20220424093000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Assombrações lendárias e personagens folclóricos são as inspirações para pernambucana Roberta Cirne criar histórias em quadrinhos de terror.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220424093000 -0300" stop="20220424103000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Cidades de Cinema (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220424103000 -0300" stop="20220424110000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">G.i.b.i.s. (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;E chegou a hora da reunião mais épica do planeta! Onde estrelas de Hollywood desfilam por tapetes vermelhos, marcas constroem estandes que mais parecem palácios, mas onde os quadrinhos são o centro do evento.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
   <programme start="20220424110000 -0300" stop="20220424113000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Mulheres Mix (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;E chegou a hora da reunião mais épica do planeta! Onde estrelas de Hollywood desfilam por tapetes vermelhos, marcas constroem estandes que mais parecem palácios, mas onde os quadrinhos são o centro do evento.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
   <programme start="20220424113000 -0300" stop="20220424120000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Banalidade do Mal (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Renata e Postiga atendem a outro chamado, um policial militar assassinado na porta de casa. .(n)</desc>
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Assombrações lendárias e personagens folclóricos são as inspirações para pernambucana Roberta Cirne criar histórias em quadrinhos de terror.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20220424120000 -0300" stop="20220424130000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Making Of (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Se Aurélio Loucão serviu como diretor, ninguém sabe. Mas que colocou #CalafrioBaby nos top tradings mundiais, ah... Isso colocou. E o canal gostou. E a imprensa gostou. Se a audiência gostou? Isso não é importante.(n)</desc>
+  <programme start="20220424120000 -0300" stop="20220424123000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220424130000 -0300" stop="20220424141300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: Quem Tem Medo de Luciene Carvalho? (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Abordando os aspectos do autobiográfico e da autoficção foram utilizadas linguagens artísticas, trazendo a poesia de Luciene, primeira preta imortal da academia mato-grossense de Letras.(n)</desc>
+  <programme start="20220424123000 -0300" stop="20220424130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220424141300 -0300" stop="20220424145100 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Nas Pegadas do Sertão (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nas pegadas do sertão é uma iniciativa que teve como finalidade realizar pesquisa e preservação da história da população cabocla do Oeste Catarinense.(n)</desc>
+  <programme start="20220424130000 -0300" stop="20220424133000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220424145100 -0300" stop="20220424150000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Memento Mori (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pesquisadora de antigas obras de arte prepara uma apresentação sobre o conjunto de pinturas "Vaidade Terrena e Salvação Divina", de Hans Memling, quando descobre que a impressão do quadro "Morte" foi esquecida pela gráfica.(n)</desc>
+  <programme start="20220424133000 -0300" stop="20220424140000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220424140000 -0300" stop="20220424143000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220424143000 -0300" stop="20220424150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
@@ -1605,217 +1171,246 @@
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220424184500 -0300" stop="20220424203000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">A3 (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;1927. Adalgisa e Rodolfo acabam de se casar, e mudam para Santa Cecília. Ela tem o desejo de construir uma família feliz, ele, o de se tornar um homem rico graças ao sogro.(n)</desc>
+  <programme start="20220424184500 -0300" stop="20220424190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Entre os fundadores da Academia havia um jovem negro que lutou muito, estudou, se formou, foi bibliotecário e escritor: Astolfo Marques.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220424203000 -0300" stop="20220424210000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Via Pública (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em um domingo muito quente e pra lá de excepcional, Sandra é obrigada a, pedalando,  trabalhar entregando galões d´água.(n)</desc>
+  <programme start="20220424190000 -0300" stop="20220424202300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Entre dois Mundos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Euller Miller é um jovem indígena brasileiro da etnia kaiwá que sai de sua pequena aldeia nos arredores de Dourados (MS) para cursar odontologia em uma universidade pública na populosa capital do estado do Paraná. O filme acompanha sua complexa transição entre dois mundos contrastantes e a busca de novos horizontes que não impliquem na perda de suas raízes indígenas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220424202300 -0300" stop="20220424203900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220424203900 -0300" stop="20220424210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn (?)</title>
+    <sub-title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220424210000 -0300" stop="20220424210600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Festa No Apartamento Da Suzana (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Augusto é convidado para uma festa no apartamento de uma colega de faculdade.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220424210600 -0300" stop="20220424211000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Cartaz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Interprogramas. Shot de informações sobre estreias fílmicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220424211000 -0300" stop="20220424213700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Paranóia Doce (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quatro jovens viajam para uma cidade litorânea buscando diversão. Após uma noite de bebedeira, jogos e pegação, encontram uma gosma rosada e viscosa, que inexplicavelmente os seduz. Um a um, os jovens começam a morrer.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220424213700 -0300" stop="20220424220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Laços Do Ofício (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Laços do Ofício" é um documentário gravado durante oficinas de música e poesia realizadas em escolas e instituições de Porto Alegre e região metropolitana. Com foco nas relações sensíveis entre os professsores e crianças em situação de vulnerabilidade e deficientes intelectuais o filme destaca a importância da música e da arte no processo.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220424220000 -0300" stop="20220424233600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Entrevistas do Sair à Luz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220424210000 -0300" stop="20220424213000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Maus-tratos não mostra cenas de animais sendo maltratados, mas sim, faz uma reflexão através linha do tempo da evolução da mobilização da sociedade com a causa animal. A partir de  casos de grande repercussão nacional, como o caso  do Instituto Royal em 2013, do caso Dalva, do caso da Manchinha em 2018, da rinha de Pitbulls em 2019 e do caso Sansão em 2020, nossos entrevistados comentam como esses eventos que mobilizaram a sociedade culminaram na aprovação da lei que aumenta as penas para casos de maus tratos de 3 para 5 anos de cadeia. Além disso esse episódio alerta a sociedade sobre a Teoria do Elo, formulada a partir um longo estudo americano do FBI,  que provou de forma incontestável a relação entre maus-tratos aos animais e assassinos em série e outros tipos de criminosos que usam os animais como uma "escada" para evolução de seus crimes, numa reflexão preventiva afirmando que quem maltrata animais, invariavelmente já maltratou, abusou, cometeu ou vai cometer algum crime contra humanos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424213000 -0300" stop="20220424220000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Crítica (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220424220000 -0300" stop="20220424233000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
+  <programme start="20220424233600 -0300" stop="20220424235400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Final da Linha (?)</title>
+    <sub-title lang="pt">Final da Linha</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lílian é uma jovem que passou no vestibular, porém sua faculdade é em outra cidade. Para chegar ao seu destino, ela se submete à rotina de pegar o ônibus e o trem, o trem e o ônibus. Aquilo que primeiro parecia a pior parte de seu dia, torna-se uma atividade interessante, quando a menina mostra um grande talento para fazer amizades.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220424233000 -0300" stop="20220425000000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A narrativa do documentário é construída a partir do depoimento e do protagonismo das mães e familiares vítimas da violência de Estado da Baixada Fluminense.(n)</desc>
+  <programme start="20220424235400 -0300" stop="20220425000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Amiga Virtual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ana é uma jovem que vive em função de suas redes sociais e se disponibiliza a fazer companhia, virtualmente, para pessoas que entram em contato buscando alguém para estar junto.(n)</desc>
     <rating system="BR">
-      <value>12</value>
+      <value>livre</value>
     </rating>
   </programme>
   <programme start="20220425000000 -0300" stop="20220425010000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Submersos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Leo visita o primo Gordo. Branco parte pra Argentina com a missão de encontrar Nando. Belli mostra Gabi no reality aos policiais que a interrogam na boate. Comissario Villar conversa com Guerra.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220425010000 -0300" stop="20220425024500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">A3 (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;1927. Adalgisa e Rodolfo acabam de se casar, e mudam para Santa Cecília. Ela tem o desejo de construir uma família feliz, ele, o de se tornar um homem rico graças ao sogro.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220425024500 -0300" stop="20220425025600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Destroços de Candura (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto luta por sobrevivência durante um confronto civil, Sam se depara com uma criança solitária.(n)</desc>
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três filhos que foram embora de Porto Alegre há anos por diferentes motivos,voltam à cidade para o velório de seu pai, o Toninho do Alto da Bronze, figura emblemática do centro da cidade.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220425025600 -0300" stop="20220425030000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo (?)</title>
-    <sub-title lang="pt">Com Supremo, Com Tudo</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Serviço Secreto de Segurança Nacional espiona um grupo de delinquentes que discute a conjuntura do crime durante um jogo de cartas. Uma paródia dos tempos modernos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220425030000 -0300" stop="20220425041000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: 88 Fonte do Amanhã (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filme documental sobre o processo constituinte de 1988, no qual gerou a mais avançada e popular constituição ja feita no Brasil.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220425041000 -0300" stop="20220425043300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Éter Godzilla (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Marina, 20 anos, é uma menina de família rica que se arrisca por diversão com o amigo mais velho, Abismo, num boteco em uma região perigosa da cidade.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220425043300 -0300" stop="20220425044000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Maria (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Duas amigas conversam pela internet sobre filmes de terror, até que Júlia desafia Carol a uma brincadeira que levará elas ao um caminho sem volta.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220425044000 -0300" stop="20220425050000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Luna 13 (?)</title>
-    <sub-title lang="pt">Luna 13</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Poucos dias após a morte de seu avô, o jovem Igor decide fazer um documentário sobre a história de sua família na tentativa de entender porque o seu avô, "seu" Guilhermino, era obcecado por fatos estranhos que haviam acontecido em sua cidade.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220425050000 -0300" stop="20220425060000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Making Of (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Se Aurélio Loucão serviu como diretor, ninguém sabe. Mas que colocou #CalafrioBaby nos top tradings mundiais, ah... Isso colocou. E o canal gostou. E a imprensa gostou. Se a audiência gostou? Isso não é importante.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220425060000 -0300" stop="20220425075700 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: Os Sonâmbulos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Era um pequeno grupo de demolidores de mundo. Perdidos na multidão, mas ligados uns aos outros, viviam na solidão da clandestinidade, às voltas com suas contradições.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220425075700 -0300" stop="20220425080000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Isolation (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Isolation, de forma experimental é um filme que explora uma nova realidade, apresentando a mídia e a informação como nosso meio de escape.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220425080000 -0300" stop="20220425083000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Via Pública (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em um domingo muito quente e pra lá de excepcional, Sandra é obrigada a, pedalando,  trabalhar entregando galões d´água.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220425083000 -0300" stop="20220425090000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Verona (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rodrigo e Juliana, dois jovens apaixonados, vivem um amor proibido devido ao ódio entre suas famílias.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Maus-tratos não mostra cenas de animais sendo maltratados, mas sim, faz uma reflexão através linha do tempo da evolução da mobilização da sociedade com a causa animal. A partir de  casos de grande repercussão nacional, como o caso  do Instituto Royal em 2013, do caso Dalva, do caso da Manchinha em 2018, da rinha de Pitbulls em 2019 e do caso Sansão em 2020, nossos entrevistados comentam como esses eventos que mobilizaram a sociedade culminaram na aprovação da lei que aumenta as penas para casos de maus tratos de 3 para 5 anos de cadeia. Além disso esse episódio alerta a sociedade sobre a Teoria do Elo, formulada a partir um longo estudo americano do FBI,  que provou de forma incontestável a relação entre maus-tratos aos animais e assassinos em série e outros tipos de criminosos que usam os animais como uma "escada" para evolução de seus crimes, numa reflexão preventiva afirmando que quem maltrata animais, invariavelmente já maltratou, abusou, cometeu ou vai cometer algum crime contra humanos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220425093000 -0300" stop="20220425100000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Em Busca de Kardec (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com grande enraizamento social e com diferentes visões e perspectivas, o espiritismo no Brasil é muito diferente daquele que Kardec fundou na França.(n)</desc>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20220425100000 -0300" stop="20220425103000 -0300" channel="Prime Box Brasil">
+  <programme start="20220425010000 -0300" stop="20220425013000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Amélio, O Homem de Verdade (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Para que Fabi não desconfie da despedida de solteiro. Amélio, Xico e Julinho vestem as camisas do Botafogo, e dizem para Fabi que vão assistir o jogo.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220425103000 -0300" stop="20220425113000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Cidades de Cinema (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
+  <programme start="20220425013000 -0300" stop="20220425020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Busca de Kardec (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com grande enraizamento social e com diferentes visões e perspectivas, o espiritismo no Brasil é muito diferente daquele que Kardec fundou na França.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220425020000 -0300" stop="20220425030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Leo visita o primo Gordo. Branco parte pra Argentina com a missão de encontrar Nando. Belli mostra Gabi no reality aos policiais que a interrogam na boate. Comissario Villar conversa com Guerra.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220425030000 -0300" stop="20220425050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: O Acre Existe (?)</title>
+    <sub-title lang="pt">O Acre Existe</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com o intuito de desconstruir um certo "mito" que tomou conta das redes sociais nos últimos anos, quatro cineastas percorrem 10 mil quilômetros cruzando cidades, florestas e seringais para mostrar que sim, o Acre existe.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220425050000 -0300" stop="20220425053000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Verona (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rodrigo e Juliana, dois jovens apaixonados, vivem um amor proibido devido ao ódio entre suas famílias.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="Prime Box Brasil">
+  <programme start="20220425053000 -0300" stop="20220425060000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Retratos do Cárcere (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220425120000 -0300" stop="20220425123000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">O Cinema e as Cidades (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O cinema fantástico realizado em Porto Alegre é o tema do terceiro episódio da série.(n)</desc>
+  <programme start="20220425060000 -0300" stop="20220425071800 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Entre Paredes (?)</title>
+    <sub-title lang="pt">Entre Paredes</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A história gira em torno do obscuro ciúme que toma posse de um homem. Atormentado pela possibilidade de traição, o marido se perde em alucinações, imaginando sua bela mulher com outros homens.(n)</desc>
     <rating system="BR">
-      <value>14</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220425123000 -0300" stop="20220425130000 -0300" channel="Prime Box Brasil">
+  <programme start="20220425071800 -0300" stop="20220425073700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Um Verão Em Vênus (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A passagem de Vênus pelo Sol pode reaproximar um casal com o amor desgastado.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425073700 -0300" stop="20220425080000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Luiz Carlos Felizardo, Um Fotógrafo na Estrada (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Luiz Carlos Felizardo, nasceu em Porto Alegre/RS, em 05 de julho de 1949. No documentário, ele faz uma visita à Reserva Técnica do MARGS onde revê e comenta fotos que fazem parte do acervo do museu.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425080000 -0300" stop="20220425081500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425081500 -0300" stop="20220425083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;José Sarney é mais conhecido por ter sido presidente do Brasil, mas aqui veremos muito mais sobre o grande escritor e homem de cultura que ele é.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425083000 -0300" stop="20220425084500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filho do cônsul de Portugal em São Luís do Maranhão, Fernando Silva conhecia todas as histórias sobre as mais antigas empresas comerciais da cidade e os prédios onde elas funcionavam.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425084500 -0300" stop="20220425090000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filho do cônsul de Portugal em São Luís do Maranhão, Fernando Silva conhecia todas as histórias sobre as mais antigas empresas comerciais da cidade e os prédios onde elas funcionavam.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425090000 -0300" stop="20220425093000 -0300" channel="Prime Box Brasil">
     <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Assombrações lendárias e personagens folclóricos são as inspirações para pernambucana Roberta Cirne criar histórias em quadrinhos de terror.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220425130000 -0300" stop="20220425141600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: 30 Dias Um Carnaval Entre a Alegria e a Desilusão (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Como fazer um desfile acontecer sem verba? Como a escola de samba sobrevive? Quais os percalços que uma escola enfrenta até chegar no grande dia de seu desfile na Sapucaí?(n)</desc>
+  <programme start="20220425093000 -0300" stop="20220425103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
     <rating system="BR">
-      <value>12</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220425141600 -0300" stop="20220425143300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Longe de Casa (?)</title>
-    <sub-title lang="pt">Longe de Casa</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma menina do interior escreve cartas para o seu irmão que fugiu de casa. Sua esperança é de que ele volte para tirá-la da vida que leva ao lado de sua mãe e de seu padrasto. Os conflitos desse relacionamento a forçam a um dilema, no qual uma decisão precisará ser tomada.(n)</desc>
+  <programme start="20220425103000 -0300" stop="20220425110000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;E chegou a hora da reunião mais épica do planeta! Onde estrelas de Hollywood desfilam por tapetes vermelhos, marcas constroem estandes que mais parecem palácios, mas onde os quadrinhos são o centro do evento.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220425143300 -0300" stop="20220425144300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Memórias de Aço (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Durante a ditadura civil-militar, o antigo 1° Batalhão de Infantaria Blindada do Exército, em Barra Mansa, foi palco de graves violações aos direitos humanos na região sul fluminense.(n)</desc>
+  <programme start="20220425110000 -0300" stop="20220425113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
     <rating system="BR">
-      <value>12</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220425144300 -0300" stop="20220425150000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Quarto de Letus (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Letus, na intenção de levar seu pai idoso, Don, para morar consigo, vai até sua casa e os dois passam a tarde em meio a recordações.(n)</desc>
+  <programme start="20220425113000 -0300" stop="20220425120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Renata e Postiga atendem a outro chamado, um policial militar assassinado na porta de casa. .(n)</desc>
     <rating system="BR">
-      <value>10</value>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220425120000 -0300" stop="20220425130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Making Of (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Se Aurélio Loucão serviu como diretor, ninguém sabe. Mas que colocou #CalafrioBaby nos top tradings mundiais, ah... Isso colocou. E o canal gostou. E a imprensa gostou. Se a audiência gostou? Isso não é importante.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220425130000 -0300" stop="20220425141300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Quem Tem Medo de Luciene Carvalho? (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Abordando os aspectos do autobiográfico e da autoficção foram utilizadas linguagens artísticas, trazendo a poesia de Luciene, primeira preta imortal da academia mato-grossense de Letras.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425141300 -0300" stop="20220425145100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Nas Pegadas do Sertão (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nas pegadas do sertão é uma iniciativa que teve como finalidade realizar pesquisa e preservação da história da população cabocla do Oeste Catarinense.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425145100 -0300" stop="20220425150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Memento Mori (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pesquisadora de antigas obras de arte prepara uma apresentação sobre o conjunto de pinturas "Vaidade Terrena e Salvação Divina", de Hans Memling, quando descobre que a impressão do quadro "Morte" foi esquecida pela gráfica.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20220425150000 -0300" stop="20220425184500 -0300" channel="Prime Box Brasil">
@@ -1826,288 +1421,509 @@
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220425184500 -0300" stop="20220425190000 -0300" channel="Prime Box Brasil">
+  <programme start="20220425184500 -0300" stop="20220425203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1927. Adalgisa e Rodolfo acabam de se casar, e mudam para Santa Cecília. Ela tem o desejo de construir uma família feliz, ele, o de se tornar um homem rico graças ao sogro.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220425203000 -0300" stop="20220425210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em um domingo muito quente e pra lá de excepcional, Sandra é obrigada a, pedalando,  trabalhar entregando galões d´água.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220425210000 -0300" stop="20220425213000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Maus-tratos não mostra cenas de animais sendo maltratados, mas sim, faz uma reflexão através linha do tempo da evolução da mobilização da sociedade com a causa animal. A partir de  casos de grande repercussão nacional, como o caso  do Instituto Royal em 2013, do caso Dalva, do caso da Manchinha em 2018, da rinha de Pitbulls em 2019 e do caso Sansão em 2020, nossos entrevistados comentam como esses eventos que mobilizaram a sociedade culminaram na aprovação da lei que aumenta as penas para casos de maus tratos de 3 para 5 anos de cadeia. Além disso esse episódio alerta a sociedade sobre a Teoria do Elo, formulada a partir um longo estudo americano do FBI,  que provou de forma incontestável a relação entre maus-tratos aos animais e assassinos em série e outros tipos de criminosos que usam os animais como uma "escada" para evolução de seus crimes, numa reflexão preventiva afirmando que quem maltrata animais, invariavelmente já maltratou, abusou, cometeu ou vai cometer algum crime contra humanos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425213000 -0300" stop="20220425220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Crítica (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220425220000 -0300" stop="20220425233000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220425233000 -0300" stop="20220426000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Nossos Mortos Tem Voz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A narrativa do documentário é construída a partir do depoimento e do protagonismo das mães e familiares vítimas da violência de Estado da Baixada Fluminense.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426000000 -0300" stop="20220426010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Leo visita o primo Gordo. Branco parte pra Argentina com a missão de encontrar Nando. Belli mostra Gabi no reality aos policiais que a interrogam na boate. Comissario Villar conversa com Guerra.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220426010000 -0300" stop="20220426024500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1927. Adalgisa e Rodolfo acabam de se casar, e mudam para Santa Cecília. Ela tem o desejo de construir uma família feliz, ele, o de se tornar um homem rico graças ao sogro.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220426024500 -0300" stop="20220426025600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Destroços de Candura (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto luta por sobrevivência durante um confronto civil, Sam se depara com uma criança solitária.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426025600 -0300" stop="20220426030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Com Supremo, Com Tudo (?)</title>
+    <sub-title lang="pt">Com Supremo, Com Tudo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Serviço Secreto de Segurança Nacional espiona um grupo de delinquentes que discute a conjuntura do crime durante um jogo de cartas. Uma paródia dos tempos modernos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220426030000 -0300" stop="20220426041000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: 88 Fonte do Amanhã (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Filme documental sobre o processo constituinte de 1988, no qual gerou a mais avançada e popular constituição ja feita no Brasil.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220426041000 -0300" stop="20220426043300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Éter Godzilla (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Marina, 20 anos, é uma menina de família rica que se arrisca por diversão com o amigo mais velho, Abismo, num boteco em uma região perigosa da cidade.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220426043300 -0300" stop="20220426044000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Maria (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Duas amigas conversam pela internet sobre filmes de terror, até que Júlia desafia Carol a uma brincadeira que levará elas ao um caminho sem volta.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426044000 -0300" stop="20220426050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Luna 13 (?)</title>
+    <sub-title lang="pt">Luna 13</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Poucos dias após a morte de seu avô, o jovem Igor decide fazer um documentário sobre a história de sua família na tentativa de entender porque o seu avô, "seu" Guilhermino, era obcecado por fatos estranhos que haviam acontecido em sua cidade.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220426050000 -0300" stop="20220426060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Making Of (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Se Aurélio Loucão serviu como diretor, ninguém sabe. Mas que colocou #CalafrioBaby nos top tradings mundiais, ah... Isso colocou. E o canal gostou. E a imprensa gostou. Se a audiência gostou? Isso não é importante.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220426060000 -0300" stop="20220426075700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Os Sonâmbulos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Era um pequeno grupo de demolidores de mundo. Perdidos na multidão, mas ligados uns aos outros, viviam na solidão da clandestinidade, às voltas com suas contradições.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220426075700 -0300" stop="20220426080000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Isolation (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Isolation, de forma experimental é um filme que explora uma nova realidade, apresentando a mídia e a informação como nosso meio de escape.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426080000 -0300" stop="20220426083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em um domingo muito quente e pra lá de excepcional, Sandra é obrigada a, pedalando,  trabalhar entregando galões d´água.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426083000 -0300" stop="20220426090000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Verona (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rodrigo e Juliana, dois jovens apaixonados, vivem um amor proibido devido ao ódio entre suas famílias.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220426090000 -0300" stop="20220426093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Maus-tratos não mostra cenas de animais sendo maltratados, mas sim, faz uma reflexão através linha do tempo da evolução da mobilização da sociedade com a causa animal. A partir de  casos de grande repercussão nacional, como o caso  do Instituto Royal em 2013, do caso Dalva, do caso da Manchinha em 2018, da rinha de Pitbulls em 2019 e do caso Sansão em 2020, nossos entrevistados comentam como esses eventos que mobilizaram a sociedade culminaram na aprovação da lei que aumenta as penas para casos de maus tratos de 3 para 5 anos de cadeia. Além disso esse episódio alerta a sociedade sobre a Teoria do Elo, formulada a partir um longo estudo americano do FBI,  que provou de forma incontestável a relação entre maus-tratos aos animais e assassinos em série e outros tipos de criminosos que usam os animais como uma "escada" para evolução de seus crimes, numa reflexão preventiva afirmando que quem maltrata animais, invariavelmente já maltratou, abusou, cometeu ou vai cometer algum crime contra humanos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220426093000 -0300" stop="20220426100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Busca de Kardec (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com grande enraizamento social e com diferentes visões e perspectivas, o espiritismo no Brasil é muito diferente daquele que Kardec fundou na França.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220426100000 -0300" stop="20220426103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Para que Fabi não desconfie da despedida de solteiro. Amélio, Xico e Julinho vestem as camisas do Botafogo, e dizem para Fabi que vão assistir o jogo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220426103000 -0300" stop="20220426113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220426113000 -0300" stop="20220426120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220426120000 -0300" stop="20220426123000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O cinema fantástico realizado em Porto Alegre é o tema do terceiro episódio da série.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220426123000 -0300" stop="20220426130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Assombrações lendárias e personagens folclóricos são as inspirações para pernambucana Roberta Cirne criar histórias em quadrinhos de terror.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426130000 -0300" stop="20220426141600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: 30 Dias Um Carnaval Entre a Alegria e a Desilusão (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Como fazer um desfile acontecer sem verba? Como a escola de samba sobrevive? Quais os percalços que uma escola enfrenta até chegar no grande dia de seu desfile na Sapucaí?(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426141600 -0300" stop="20220426143300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Longe de Casa (?)</title>
+    <sub-title lang="pt">Longe de Casa</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma menina do interior escreve cartas para o seu irmão que fugiu de casa. Sua esperança é de que ele volte para tirá-la da vida que leva ao lado de sua mãe e de seu padrasto. Os conflitos desse relacionamento a forçam a um dilema, no qual uma decisão precisará ser tomada.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220426143300 -0300" stop="20220426144300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Memórias de Aço (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Durante a ditadura civil-militar, o antigo 1° Batalhão de Infantaria Blindada do Exército, em Barra Mansa, foi palco de graves violações aos direitos humanos na região sul fluminense.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220426144300 -0300" stop="20220426150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Quarto de Letus (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Letus, na intenção de levar seu pai idoso, Don, para morar consigo, vai até sua casa e os dois passam a tarde em meio a recordações.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220426150000 -0300" stop="20220426184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220426184500 -0300" stop="20220426190000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Por Trás das Câmeras (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;A sequência Se eu fosse você 2 dirigida por Daniel Filho atraiu 10 milhões de espectadores e foi a grande motivadora de várias produtoras partirem para comédias.(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220425190000 -0300" stop="20220425193000 -0300" channel="Prime Box Brasil">
+  <programme start="20220426190000 -0300" stop="20220426193000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Mulheres Mix (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220425193000 -0300" stop="20220425200000 -0300" channel="Prime Box Brasil">
+  <programme start="20220426193000 -0300" stop="20220426200000 -0300" channel="Prime Box Brasil">
     <title lang="pt">G.i.b.i.s. (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;E chegou a hora da reunião mais épica do planeta! Onde estrelas de Hollywood desfilam por tapetes vermelhos, marcas constroem estandes que mais parecem palácios, mas onde os quadrinhos são o centro do evento.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220425200000 -0300" stop="20220425203000 -0300" channel="Prime Box Brasil">
+  <programme start="20220426200000 -0300" stop="20220426203000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Crítica (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;A trajetória da mulher na crítica de cinema.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220425203000 -0300" stop="20220425210000 -0300" channel="Prime Box Brasil">
+  <programme start="20220426203000 -0300" stop="20220426210000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Banalidade do Mal (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Daniel encontra um amigo do Ministério Público, a quem vaza informações para que o inquérito volte para a Polícia Civil.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220425210000 -0300" stop="20220425220000 -0300" channel="Prime Box Brasil">
+  <programme start="20220426210000 -0300" stop="20220426220000 -0300" channel="Prime Box Brasil">
     <title lang="pt">Sempre Poa (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;"Junior está em reunião em seu escritório em São Paulo e rejeita várias vezes a ligação de sua mãe, Maricota. Flávia, namorada de Laura, descobre que ela estava traindo e no meio de uma briga entre as duas, Laura atende Maricota e recebe a notícia. Caio acaba de despedir o estagiário em seu restaurante no Recife e também recebe a ligação. O pai deles, Toninho, acabava de falecer".(n)</desc>
     <rating system="BR">
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220425220000 -0300" stop="20220425235700 -0300" channel="Prime Box Brasil">
+  <programme start="20220426220000 -0300" stop="20220426235700 -0300" channel="Prime Box Brasil">
     <title lang="pt">Sessão Prime: O Cara Que Não Aglomerava (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Vilnei Collares, um cineasta frustrado, tenta sobreviver produzindo filmes sem orçamento, contando com pequenos apoios de comerciantes locais. Enquanto se esforça para salvar seu casamento, não ir preso e conquistar um prêmio no festival de cinema de Tupanciretã, Vilnei prepara-se para produzir seu polêmico longa dramático "Filhotinho de Bukowski", com a esperança de não precisar se envolver com a política local, nem pegar covid.(n)</desc>
     <rating system="BR">
       <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423000800 -0300" stop="20220423005200 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O assassinato de Victor comove toda Buenos Aires, além de impactar a amizade entre Georgina e Gabriel. Eles poderão manter o foco em sua busca por justiça em meio às consequências da tragédia?(n)</desc>
+  <programme start="20220426235700 -0300" stop="20220427000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Cartaz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Interprogramas. Shot de informações sobre estreias fílmicas.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423005200 -0300" stop="20220423015000 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <sub-title lang="pt">Impuros</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro negocia com os Urquiza pois perdeu um carregamento de drogas. Para piorar, os irmãos descobrem sobre o laboratório de Evandro. Sentindo-se traído, Arturo fecha um negócio com Salvador, o que pode colocar Evandro e sua família em risco. Morello recebe uma mala de grampo e consegue monitorar o telefone do piloto Jorge, peça importante no tráfico internacional.(n)</desc>
+  <programme start="20220427000000 -0300" stop="20220427013200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: A Tecnologia Social (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20220423015000 -0300" stop="20220423022800 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Apresenta a história de Cadu, um defensor público que vê sua vida mudar após ser confundido com um traficante e acabar preso.(n)</desc>
+  <programme start="20220427013200 -0300" stop="20220427014500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Lar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O trabalho e o drama dos voluntários da "Amigo Animal", que cuidam de mais de 1.500 cães e gatos em Curitiba e região metropolitana.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423022800 -0300" stop="20220423032400 -0300" channel="Star Hits 1">
-    <title lang="pt">Aqui na Terra (?)</title>
-    <sub-title lang="pt">Aqui na Terra</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos viaja até o Canadá em busca de respostas enquanto a família de Adão participa de um jantar que o governador Rocha oferece a Rufino, em agradecimento por todos os serviços prestados.(n)</desc>
+  <programme start="20220427014500 -0300" stop="20220427020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Entre Nós (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mathias é um escritor à deriva. Depois da morte de sua esposa Natália, ele inicia um processo de auto destruição movido por um sentimento de culpa com o qual não consegue lidar.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>10</value>
     </rating>
   </programme>
-  <programme start="20220423032400 -0300" stop="20220423040600 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
+  <programme start="20220427020000 -0300" stop="20220427030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sempre Poa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Junior está em reunião em seu escritório em São Paulo e rejeita várias vezes a ligação de sua mãe, Maricota. Flávia, namorada de Laura, descobre que ela estava traindo e no meio de uma briga entre as duas, Laura atende Maricota e recebe a notícia. Caio acaba de despedir o estagiário em seu restaurante no Recife e também recebe a ligação. O pai deles, Toninho, acabava de falecer".(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20220423040600 -0300" stop="20220423044400 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
+  <programme start="20220427030000 -0300" stop="20220427052600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: De Cabral a George Floyd Onde Arde o Fogo Sagrado da Liberdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme traça uma linha narrativa entre a construção do racismo no Brasil e nos Estados Unidos.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423044400 -0300" stop="20220423052700 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três dançarinos de mesa russos sonham em ir a Las Vegas para se tornarem famosos. Mas, Romulo, o dono do clube local, tem outros planos para eles.(n)</desc>
+  <programme start="20220427052600 -0300" stop="20220427053000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Cartaz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Interprogramas. Shot de informações sobre estreias fílmicas.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423052700 -0300" stop="20220423060600 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
+  <programme start="20220427053000 -0300" stop="20220427060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Maus-tratos não mostra cenas de animais sendo maltratados, mas sim, faz uma reflexão através linha do tempo da evolução da mobilização da sociedade com a causa animal. A partir de  casos de grande repercussão nacional, como o caso  do Instituto Royal em 2013, do caso Dalva, do caso da Manchinha em 2018, da rinha de Pitbulls em 2019 e do caso Sansão em 2020, nossos entrevistados comentam como esses eventos que mobilizaram a sociedade culminaram na aprovação da lei que aumenta as penas para casos de maus tratos de 3 para 5 anos de cadeia. Além disso esse episódio alerta a sociedade sobre a Teoria do Elo, formulada a partir um longo estudo americano do FBI,  que provou de forma incontestável a relação entre maus-tratos aos animais e assassinos em série e outros tipos de criminosos que usam os animais como uma "escada" para evolução de seus crimes, numa reflexão preventiva afirmando que quem maltrata animais, invariavelmente já maltratou, abusou, cometeu ou vai cometer algum crime contra humanos.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220423060600 -0300" stop="20220423065400 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O violento assassinato de Charles repercute em todo o mundo. Morello recebe carta branca para caçar seu alvo, Evandro. Arlete, Geise e Aírton são levados para longe do morro contra a própria vontade. Sem o apoio do Comando, Evandro foge para a Bolívia. Mas para se estabelecer no país, ele precisará lidar com os Irmãos Urquiza e a caçada de Morello.(n)</desc>
+  <programme start="20220427060000 -0300" stop="20220427070000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Partiu?! (?)</title>
+    <sub-title lang="pt">Partiu?!</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Samuel é amigo de Andressa, que após a trágica perda do pai resolve ir procurar seu avô. A única pista é um pingente em forma de navio, que o pai da garota lhe deu antes de morrer.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20220423065400 -0300" stop="20220423074000 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423074000 -0300" stop="20220423082200 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423082200 -0300" stop="20220423090400 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423090400 -0300" stop="20220423094900 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina descobre a verdade sobre Nico e os eventos tomam um rumo terrível. A lealdade de Jeff é testada. Irina está prestes a desmoronar quando as suspeitas da família crescem.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423094900 -0300" stop="20220423103500 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com Irina gravemente doente, Georgina vê o dano que as suas atitudes causaram à família. Adriana se irrita e recorre aos Eltham, enquanto Christos começa a desvendar as mentiras de Georgina.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423103500 -0300" stop="20220423112000 -0300" channel="Star Hits 1">
-    <title lang="pt">Mrs. America (?)</title>
-    <sub-title lang="pt">Mrs. America</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Shirley Chisholm concorre historicamente à presidência, enquanto Gloria luta para fazer política na Convenção Nacional Democrata.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423112000 -0300" stop="20220423122100 -0300" channel="Star Hits 1">
-    <title lang="pt">Godfather of Harlem (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após voltar de Alcatraz, Bumpy Johnson busca recuperar o controle do Harlem.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423122100 -0300" stop="20220423131200 -0300" channel="Star Hits 1">
-    <title lang="pt">Harlots (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Todos do Soho estão se preparando para uma festa ilícita na casa de Lady Fitz. Porém, com Lydia fora de Bedlam, Blayne de volta e os Pincher decididos a selar um acordo lucrativo, a tensão aumenta. A chegada de um velho amigo revive as rivalidades.(n)</desc>
+  <programme start="20220427070000 -0300" stop="20220427070800 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Memento Mori (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pesquisadora de antigas obras de arte prepara uma apresentação sobre o conjunto de pinturas "Vaidade Terrena e Salvação Divina", de Hans Memling, quando descobre que a impressão do quadro "Morte" foi esquecida pela gráfica.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220423131200 -0300" stop="20220423140600 -0300" channel="Star Hits 1">
-    <title lang="pt">Godfather of Harlem (?)</title>
-    <sub-title lang="pt">Godfather of Harlem</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bumpy, de repente, se encontra ao lado de Elise depois que a prisão dela por furto e abuso subsequente se torna o catalisador de um protesto onde interesses conflitantes causam tensões.(n)</desc>
+  <programme start="20220427070800 -0300" stop="20220427072400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Eternidade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um casal separado pela morte é capaz de qualquer coisa para se reencontrar. Até mesmo invocar a Deusa da Eternidade. Baseado no cinema expressionista alemão.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220427072400 -0300" stop="20220427074100 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Quem é Rogério Carlos? (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Quem é Rogério Carlos? " narra história de Adelino, Fã fanático de Rogério Carlos, não consegue aceitar que as pessoas acreditem que o rei da música brasileira é Amado Batista.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220427074100 -0300" stop="20220427080000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Curinga (?)</title>
+    <sub-title lang="pt">O Curinga</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um homem dentro de um apartamento, aparentemente sozinho, começa a sacar cartas de um baralho. A cada carta, uma teoria diferente, as 10 pragas do Egito e os problemas do mundo estão entre seus principais pontos de reflexão. Porém as cartas estão acabando e o seu tempo também.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220427080000 -0300" stop="20220427090000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220427090000 -0300" stop="20220427093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Assombrações lendárias e personagens folclóricos são as inspirações para pernambucana Roberta Cirne criar histórias em quadrinhos de terror.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220427093000 -0300" stop="20220427094500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A sequência Se eu fosse você 2 dirigida por Daniel Filho atraiu 10 milhões de espectadores e foi a grande motivadora de várias produtoras partirem para comédias.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220427094500 -0300" stop="20220427100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Entre outras coisas Barbosa de Godois é o autor da letra do Hino do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Verona (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rodrigo e Juliana, dois jovens apaixonados, vivem um amor proibido devido ao ódio entre suas famílias.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220427103000 -0300" stop="20220427110000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220427110000 -0300" stop="20220427120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Leo visita o primo Gordo. Branco parte pra Argentina com a missão de encontrar Nando. Belli mostra Gabi no reality aos policiais que a interrogam na boate. Comissario Villar conversa com Guerra.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423140600 -0300" stop="20220423145500 -0300" channel="Star Hits 1">
-    <title lang="pt">Godfather of Harlem (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cassius Clay luta contra o herói do boxe Doug Jones. Mayme insiste que Bumpy defenda Jones, um apoiador da sua organização, mas Malcolm pede que Bumpy apoie Clay.(n)</desc>
+  <programme start="20220427120000 -0300" stop="20220427123000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Daniel encontra um amigo do Ministério Público, a quem vaza informações para que o inquérito volte para a Polícia Civil.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423145500 -0300" stop="20220423154800 -0300" channel="Star Hits 1">
-    <title lang="pt">Godfather of Harlem (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na tentativa de quebrar o banco de Bumpy, Chin faz uma aposta. Como resultado, Bumpy deve aos vencedores mais do que ele pode cobrir.(n)</desc>
+  <programme start="20220427123000 -0300" stop="20220427130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;E chegou a hora da reunião mais épica do planeta! Onde estrelas de Hollywood desfilam por tapetes vermelhos, marcas constroem estandes que mais parecem palácios, mas onde os quadrinhos são o centro do evento.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427130000 -0300" stop="20220427142000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Caxias do Sul - Tradição e Inovação de um Povo (?)</title>
+    <sub-title lang="pt">Caxias do Sul - Tradição e Inovação de um Povo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário conta como surgiu, como se desenvolveu, os fatos mais importantes, as figuras proeminentes, as influências sociais, econômicas, políticas e culturais que formaram a Caxias de hoje.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427142000 -0300" stop="20220427143800 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Toda Sombra Parece Viva (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma mulher sai de casa. No trabalho, no metrô, no carro, na rua, o suspense do cotidiano. Ela está com algo.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220427143800 -0300" stop="20220427150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Avoada (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mães que perderam seus filhos de forma violenta contam suas histórias, enquanto acompanhamos dois garotos que invadem uma casa para recuperarem uma uma pipa avoada.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220427150000 -0300" stop="20220427184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">1001 Noites (?)</title>
+    <sub-title lang="pt">1001 Noites</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427184500 -0300" stop="20220427190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A população do Maranhão sempre foi muito politizada! Em 1951 irrompeu em São Luís uma revolta que ficou conhecida como a Greve de 51.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427193000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Crítica (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A trajetória da mulher na crítica de cinema.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427193000 -0300" stop="20220427200000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma vez por mês, Fabi e as amigas Renatinha e Silmara se encontram para jogar poker, enquanto Amélio fica encarregado de cozinhar os petiscos e servir a cerveja.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Busca de Kardec (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ao final de sua jornada, Karim recebe um presente mediúnico. Mas também descobre documentos inéditos, manuscritos de Kardec, que trazem uma revelação surpreendente.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220427203000 -0300" stop="20220427210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Making Of (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Achou que tudo de mais esquisito podia já ter acontecido? Imagina! Ainda faltam 7 dias para acabar tudo. E se uma série de terror já virou programa de Youtube, sitcom, diretor saiu, diretor voltou... O que mais falta?(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423154800 -0300" stop="20220423163100 -0300" channel="Star Hits 1">
-    <title lang="pt">Devs (?)</title>
-    <sub-title lang="pt">Devs</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lily volta ao trabalho em Amaya e explica as suas suspeitas para Jen e Anya. Já Forest é visitada por Laine, um poderoso senador que faz perguntas sobre o projeto Devs.(n)</desc>
+  <programme start="20220427220000 -0300" stop="20220427233200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Filme Sobre Um Bom Fim (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
     <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423163100 -0300" stop="20220423171600 -0300" channel="Star Hits 1">
-    <title lang="pt">Devs (?)</title>
-    <sub-title lang="pt">Devs</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após o comportamento de Lily em Amaya, Kenton a obriga a procurar um psiquiatra. Enquanto isso, a equipe de desenvolvedores discorda sobre a ética da sua invenção, e Forest afirma o seu compromisso com o projeto.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423171600 -0300" stop="20220423180500 -0300" channel="Star Hits 1">
-    <title lang="pt">Devs (?)</title>
-    <sub-title lang="pt">Devs</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kenton faz uma visita a Jamie para garantir o seu silêncio enquanto Katie explora secretamente o sistema Devs para os seus próprios fins.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423180500 -0300" stop="20220423184300 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;El Paco tenta matar Cadu, mas China impede e acaba em poder dos bandidos. Cadu consegue fugir com Carolina.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423184300 -0300" stop="20220423193900 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423193900 -0300" stop="20220423202700 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423202700 -0300" stop="20220423211200 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu consegue convencer Pepe a lhe dar uma chance. Passa a morar na sua fazenda e entender melhor o seu negócio e sua família. Em Brasília, todos acreditam que ele está morto - menos Téo.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423211200 -0300" stop="20220423215900 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Telma sugere que ela e Malu coloquem o Sítio Roma para funcionar novamente, essa é a única maneira de se conseguir dinheiro e informações valiosas para tirar Téo da cadeia.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423215900 -0300" stop="20220423225800 -0300" channel="Star Hits 1">
-    <title lang="pt">Godfather of Harlem (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após voltar de Alcatraz, Bumpy Johnson busca recuperar o controle do Harlem.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423225800 -0300" stop="20220423235300 -0300" channel="Star Hits 1">
-    <title lang="pt">Godfather of Harlem (?)</title>
-    <sub-title lang="pt">Godfather of Harlem</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bumpy, de repente, se encontra ao lado de Elise depois que a prisão dela por furto e abuso subsequente se torna o catalisador de um protesto onde interesses conflitantes causam tensões.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220423235300 -0300" stop="20220424004400 -0300" channel="Star Hits 1">
-    <title lang="pt">Godfather of Harlem (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cassius Clay luta contra o herói do boxe Doug Jones. Mayme insiste que Bumpy defenda Jones, um apoiador da sua organização, mas Malcolm pede que Bumpy apoie Clay.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
   <programme start="20220424004400 -0300" stop="20220424013600 -0300" channel="Star Hits 1">
@@ -2777,172 +2593,212 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220423000000 -0300" stop="20220423010000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220426235700 -0300" stop="20220427002400 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Por que Paper Boi é sempre tão arrogante? Ele é rico, certo? É por isso que não é possível se sentir mal por essas celebridades.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423010000 -0300" stop="20220423020000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427002400 -0300" stop="20220427005700 -0300" channel="Star Hits 1">
+    <title lang="pt">Atlanta (?)</title>
+    <sub-title lang="pt">Atlanta</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Talvez a gente tenha que fazer aquela jogada hoje à noite. Ouvi dizer que há uma festa do pijama e o Paper Boi vai estar lá.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423020000 -0300" stop="20220423030000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427005700 -0300" stop="20220427014700 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pepita, China e Juan conseguem escapar vivos do ataque à fazenda de Pepe e Cadu e Pepe, muito ferido, os encontra para se esconderem de Paco, juntos. Malu pede ajuda de Gael para esconder o corpo do Juiz.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423030000 -0300" stop="20220423040000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427014700 -0300" stop="20220427023400 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas enquanto ele engata um namoro com Geise. Morello segue as trilhas de Evandro com perspicácia e começa a decifrar a engenhosidade de seu rival.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423040000 -0300" stop="20220423050000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427023400 -0300" stop="20220427033100 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos viaja até o Canadá em busca de respostas enquanto a família de Adão participa de um jantar que o governador Rocha oferece a Rufino, em agradecimento por todos os serviços prestados.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423050000 -0300" stop="20220423060000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427033100 -0300" stop="20220427041500 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Gama e Morris tentam salvar a Wendy antes que seja tarde enquanto a disputa da praça entre o Dragón e Natividad segue.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423060000 -0300" stop="20220423070000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427041500 -0300" stop="20220427045700 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três jovens cineastas chegam a Naco para filmar um documentário sobre a fronteira e ficam presos no meio da disputa entre os narcotraficantes.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423070000 -0300" stop="20220423080000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427045700 -0300" stop="20220427075100 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A equipe infantil de beisebol de Naco deverá cruzar até os Estados Unidos para disputar a final contra um time gringo. Sem vistos ou recursos, eles deverão confiar na sagacidade de Gama e Morris para chegar a tempo para a partida.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423080000 -0300" stop="20220423090000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427075100 -0300" stop="20220427083800 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Mariana volta ao Dendé. Arlete acorda de seu coma, confundindo Evandro com seu falecido filho Zeca, tratando-o com amor e carinho.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423090000 -0300" stop="20220423100000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427083800 -0300" stop="20220427093800 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">Impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro vai fazer de tudo para ver o nascimento do filho, mesmo com a polícia de tocaia no hospital. Enquanto isso, na cadeia, Afonso foge, Salvador sai em condicional e Bagdá toma a ala da Segunda Armada, fortalecendo os Irmãos dos Irmãos. Morello descobre que Inês usa cocaína e Arlete reconhece o homem que lhe assaltou e espancou.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423100000 -0300" stop="20220423110000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427093800 -0300" stop="20220427102400 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423110000 -0300" stop="20220423120000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427102400 -0300" stop="20220427110500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423120000 -0300" stop="20220423130000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427110500 -0300" stop="20220427114700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423130000 -0300" stop="20220423140000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427114700 -0300" stop="20220427123100 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina descobre a verdade sobre Nico e os eventos tomam um rumo terrível. A lealdade de Jeff é testada. Irina está prestes a desmoronar quando as suspeitas da família crescem.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423140000 -0300" stop="20220423150000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427123100 -0300" stop="20220427131700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com Irina gravemente doente, Georgina vê o dano que as suas atitudes causaram à família. Adriana se irrita e recorre aos Eltham, enquanto Christos começa a desvendar as mentiras de Georgina.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423150000 -0300" stop="20220423160000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427131700 -0300" stop="20220427140200 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A nova vida de Georgina como especialista em restituição de arte muda de repente quando seu colega Gabriel, involuntariamente, os envolve em uma conspiração sombria e perigosa.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423160000 -0300" stop="20220423170000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427140200 -0300" stop="20220427145000 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina se surpreende quando fica cara a cara com velhos amigos, e inimigos, enquanto ela e Gabriel tentam descobrir a verdade.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423170000 -0300" stop="20220423180000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427145000 -0300" stop="20220427153300 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423180000 -0300" stop="20220423190000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427153300 -0300" stop="20220427162200 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423190000 -0300" stop="20220423200000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427162200 -0300" stop="20220427170500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina e Gabriel conseguem fugir, porém, os seus inimigos, agora estão cientes de que estão se aproximando da verdade. Por quanto tempo eles ficarão fora de perigo?(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423200000 -0300" stop="20220423210000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427170500 -0300" stop="20220427180400 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voltamos ao passado para descobrir alguns dos mistérios que cercam o personagem de Pía e Pájaro, e como Rocha, Landa e Hurtado estão envolvidos em uma rede sombria de interesses políticos nas entranhas do poder.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423210000 -0300" stop="20220423220000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427180400 -0300" stop="20220427185400 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos e Elisa viajam para a Patagônia em busca de Pía Landa, que confirma a Carlos suas suspeitas mais densas. Enquanto isso, Rufino intercede com Rocha para tirar Adán da prisão, e a polícia dá um golpe duro no movimento de San Marcos.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423220000 -0300" stop="20220423230000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427185400 -0300" stop="20220427195300 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após voltar de Alcatraz, Bumpy Johnson busca recuperar o controle do Harlem.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220423230000 -0300" stop="20220424000000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220427195300 -0300" stop="20220427204800 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ao perceber que uma fonte consistente de heroína é vital para recuperar o Harlem, Bumpy se empenha em uma busca para encontrar um fornecedor de drogas independente dos italianos.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220427204800 -0300" stop="20220427214500 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <sub-title lang="pt">Godfather of Harlem</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bumpy, de repente, se encontra ao lado de Elise depois que a prisão dela por furto e abuso subsequente se torna o catalisador de um protesto onde interesses conflitantes causam tensões.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220427214500 -0300" stop="20220427223400 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cassius Clay luta contra o herói do boxe Doug Jones. Mayme insiste que Bumpy defenda Jones, um apoiador da sua organização, mas Malcolm pede que Bumpy apoie Clay.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220427223400 -0300" stop="20220427232600 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na tentativa de quebrar o banco de Bumpy, Chin faz uma aposta. Como resultado, Bumpy deve aos vencedores mais do que ele pode cobrir.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
   <programme start="20220424000000 -0300" stop="20220424010000 -0300" channel="Star Hits 2">
@@ -3401,6 +3257,174 @@
     </rating>
   </programme>
   <programme start="20220426220000 -0300" stop="20220426230000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220426230000 -0300" stop="20220427000000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427000000 -0300" stop="20220427010000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427010000 -0300" stop="20220427020000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427020000 -0300" stop="20220427030000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427030000 -0300" stop="20220427040000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427040000 -0300" stop="20220427050000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427050000 -0300" stop="20220427060000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427060000 -0300" stop="20220427070000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427070000 -0300" stop="20220427080000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427080000 -0300" stop="20220427090000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427090000 -0300" stop="20220427100000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427100000 -0300" stop="20220427110000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427110000 -0300" stop="20220427120000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427120000 -0300" stop="20220427130000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427130000 -0300" stop="20220427140000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427140000 -0300" stop="20220427150000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427150000 -0300" stop="20220427160000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427160000 -0300" stop="20220427170000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427170000 -0300" stop="20220427180000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427180000 -0300" stop="20220427190000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427190000 -0300" stop="20220427200000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427200000 -0300" stop="20220427210000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427210000 -0300" stop="20220427220000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220427220000 -0300" stop="20220427230000 -0300" channel="Star Hits 2">
     <title lang="pt">Programação Eventual (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
     <rating system="BR">
