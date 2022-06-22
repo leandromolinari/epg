@@ -782,194 +782,6 @@
     <display-name lang="pt">Star HIts 2</display-name>
     <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/foa.gif" />
   </channel>
-  <programme start="20220621003500 -0300" stop="20220621014000 -0300" channel="AMC">
-    <title lang="pt">Anna</title>
-    <desc lang="pt">Depois de cuidar do pequeno Astor, Anna sai em busca de mantimentos, como faz todos os dias. Mas então ela decide ir procurar Pietro, que vive como um eremita nas margens de um lago, onde cultiva tomates.(n)</desc>
-    <credits>
-      <director>Niccoló Ammaniti</director>
-      <actor>Giulia Dragotto</actor>
-      <actor>Alessandro Pecorella</actor>
-      <actor>Clara Tramontano</actor>
-      <actor>Giovanni Mavilla</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621014000 -0300" stop="20220621035000 -0300" channel="AMC">
-    <title lang="pt">A Perseguição</title>
-    <desc lang="pt">Após o acidente de avião no Alasca, seis trabalhadores do petróleo são liderados por um caçador habilidoso à sobrevivência, mas um bando de lobos impiedosos assombra todos os seus passos.(n)</desc>
-    <credits>
-      <director>Joe Carnahan</director>
-      <actor>Liam Neeson</actor>
-      <actor>Dermot Mulroney</actor>
-      <actor>Frank Grillo</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621035000 -0300" stop="20220621054000 -0300" channel="AMC">
-    <title lang="pt">Super</title>
-    <desc lang="pt">Após sua esposa trocá-lo por um charmoso traficante de drogas, Frank decide que é hora de agir. Ele se transforma em um super-herói com a ajuda de Libby, que passa a ser sua parceira na luta contra o crime.(n)</desc>
-    <credits>
-      <director>James Gunn</director>
-      <actor>Rainn Wilson</actor>
-      <actor>Ellen Page</actor>
-      <actor>Liv Tyler</actor>
-      <actor>Kevin Bacon</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621054000 -0300" stop="20220621060500 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621060500 -0300" stop="20220621063000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621063000 -0300" stop="20220621070000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621070000 -0300" stop="20220621073000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621073000 -0300" stop="20220621080000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621080000 -0300" stop="20220621083000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621083000 -0300" stop="20220621090000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621090000 -0300" stop="20220621093000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621093000 -0300" stop="20220621100000 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621100000 -0300" stop="20220621120500 -0300" channel="AMC">
-    <title lang="pt">Promessa de Guerra</title>
-    <desc lang="pt">Um australiano viaja para a Turquia após a Batalha de Gallipoli para tentar localizar seus três filhos desaparecidos.(n)</desc>
-    <credits>
-      <director>Russell Crowe</director>
-      <actor>Russell Crowe</actor>
-      <actor>Olga Kurylenko</actor>
-      <actor>Jai Courtney</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621120500 -0300" stop="20220621142500 -0300" channel="AMC">
-    <title lang="pt">Jobs</title>
-    <desc lang="pt">Steve Jobs foi um dos empreendedores mais visionários da história recente. O filme conta como um garoto meio hippie com pouco foco nos estudos se tornou o poderoso presidente da Apple.(n)</desc>
-    <credits>
-      <director>Joshua Michael Stern</director>
-      <actor>Dermot Mulroney</actor>
-      <actor>Ashton Kutcher</actor>
-      <actor>Josh Gad</actor>
-      <actor>Lukas Haas</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621142500 -0300" stop="20220621145500 -0300" channel="AMC">
-    <title lang="pt">Action Zone 2021</title>
-    <desc lang="pt">Action Zone é uma série de TV de 25 minutos que mantém os espectadores completamente atualizados com os filmes mais recentes, efeitos especiais surpreendentes e muitas informações.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621145500 -0300" stop="20220621170000 -0300" channel="AMC">
-    <title lang="pt">Maré Negra</title>
-    <desc lang="pt">Passando por problemas financeiros, Kate aceita uma proposta de um milionário para mergulhar novamente, mas para isso ela terá que enfrentar seu antigo medo.(n)</desc>
-    <credits>
-      <director>John Stockwel</director>
-      <actor>Halle Berry</actor>
-      <actor>Olivier Martinez</actor>
-      <actor>Ralph Brown</actor>
-      <actor>Luke Tyler</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20220621170000 -0300" stop="20220621185000 -0300" channel="AMC">
-    <title lang="pt">Fogo Contra Fogo</title>
-    <desc lang="pt">Após presenciar um duplo homicídio, o bombeiro Jeremy Coleman é forçado a entrar para o programa de proteção à testemunha. Entretanto, quando sua nova identidade é comprometida, Jeremy deve agir por conta própria para salvar sua vida.(n)</desc>
-    <credits>
-      <director>David Barrett</director>
-      <actor>Josh Duhamel</actor>
-      <actor>Rosario Dawson</actor>
-      <actor>Bruce Willis</actor>
-      <actor>Vincent D'Onofrio</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621185000 -0300" stop="20220621202500 -0300" channel="AMC">
-    <title lang="pt">O Fio da Meada</title>
-    <desc lang="pt">Catharina e seu marido, o engenheiro civil Álvaro Lima resolvem mudar de moradia, procurando uma casa mais próxima à empresa onde Álvaro trabalha.(n)</desc>
-    <credits>
-      <director>Luciano Santiago Dos Santos</director>
-      <director>Anderson Santos</director>
-      <actor>Flaviano Oliveira</actor>
-      <actor>Alana Sousa</actor>
-      <actor>Alexandre Barillari</actor>
-    </credits>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621202500 -0300" stop="20220621220000 -0300" channel="AMC">
-    <title lang="pt">Motoqueiro Fantasma: Espírito de Vingança</title>
-    <desc lang="pt">Depois de um tempo recluso na Europa, Johnny Blaze precisa impedir que o próprio Demônio encarnado sequestre um garoto de 10 anos que pode ser a única esperança da humanidade contra as trevas.(n)</desc>
-    <credits>
-      <director>Mark Neveldine</director>
-      <director>Brian Taylor</director>
-      <actor>Nicolas Cage</actor>
-      <actor>Violante Placido</actor>
-      <actor>Ciarán Hinds</actor>
-      <actor>Johnny Whitworth</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621220000 -0300" stop="20220622000500 -0300" channel="AMC">
-    <title lang="pt">À Procura</title>
-    <desc lang="pt">Oito anos após o desaparecimento de Cassandra, alguns incidentes perturbadores parecem indicar que ela ainda está viva. A polícia, os pais e a própria Cassandra tentarão desvendar o mistério do seu desaparecimento.(n)</desc>
-    <credits>
-      <director>Atom Egoyan</director>
-      <actor>Ryan Reynolds</actor>
-      <actor>Scott Speedman</actor>
-      <actor>Rosario Dawson</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
   <programme start="20220622000500 -0300" stop="20220622014000 -0300" channel="AMC">
     <title lang="pt">Presa Na Escuridão</title>
     <desc lang="pt">Uma ex-fotojornalista, reclusa e cega vive tranquilamente em uma cobertura em Nova York, até que um criminoso procura uma fortuna escondida, entra em sua vida.(n)</desc>
@@ -1331,249 +1143,6 @@
       <actor>Jamie Bell</actor>
       <actor>Tilda Swinton</actor>
       <actor>Kang-ho Song</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621000000 -0300" stop="20220621001500 -0300" channel="Canal Brasil">
-    <title lang="pt">Transmissão - Hilton Lacerda</title>
-    <desc lang="pt">"O que te incomoda hoje no mundo?" O cineasta Hilton Lacerda comenta o seu processo de criação cinematográfico e discute sobre o falso pudor em relação à liberdade dos corpos no audiovisual.(n)</desc>
-    <credits>
-      <director>Claudia Priscilla</director>
-      <director>Kiko Goifman</director>
-    </credits>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20220621001500 -0300" stop="20220621003000 -0300" channel="Canal Brasil">
-    <title lang="pt">Sobrepostas</title>
-    <desc lang="pt">SOBREPOSTAS é um convite para mulheres de todas as idades resgatarem suas próprias memórias da iniciação sexual, passando pelos momentos de excitação, frustração, auto-conhecimento, desejo e fantasias.(n)</desc>
-    <credits>
-      <director>Livia Cheibub</director>
-      <director>Martina Sonksen</director>
-    </credits>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-  </programme>
-  <programme start="20220621003000 -0300" stop="20220621013000 -0300" channel="Canal Brasil">
-    <title lang="pt">Relatos do Front - A Outra Face do Cartão Postal</title>
-    <desc lang="pt">O Rio de Janeiro vivencia em seu cotidiano o genocídio da população negra e pobre em um projeto de horror que opera em uma lógica de violência na outra face do cartão postal do Brasil.(n)</desc>
-    <credits>
-      <director>Renato Martins</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621013000 -0300" stop="20220621025500 -0300" channel="Canal Brasil">
-    <title lang="pt">Estrela Nua</title>
-    <desc lang="pt">Atriz iniciante identifica-se com a personagem que deve representar: uma atriz que se suicidou no auge do sucesso.(n)</desc>
-    <credits>
-      <director>Ícaro Martins</director>
-      <director>José Antônio Garcia</director>
-      <actor>Carla Camuratti</actor>
-      <actor>Cristina Aché</actor>
-      <actor>Patricio Bisso</actor>
-      <actor>Selma Egrei</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621025500 -0300" stop="20220621042500 -0300" channel="Canal Brasil">
-    <title lang="pt">Nós, Os Canalhas</title>
-    <desc lang="pt">José Cláudio abandona a cidade natal e deixa para trás Cláudio José, o irmão gêmeo, para tentar a sorte no Rio de Janeiro. Ao chegar, começa a trabalhar para um mafioso que domina o bairro da Leopoldina, no subúrbio.(n)</desc>
-    <credits>
-      <director>Jece Valadão</director>
-      <actor>Newton Martins</actor>
-      <actor>Rubens de Falco</actor>
-      <actor>Vera Gimenez</actor>
-      <actor>Jece Valadão</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Policial</category>
-  </programme>
-  <programme start="20220621042500 -0300" stop="20220621060000 -0300" channel="Canal Brasil">
-    <title lang="pt">Solidão - Uma Linda História de Amor</title>
-    <desc lang="pt">Mesmo casada com Rodrigo, Joana não consegue deixar os amantes, que incluem um homem mais velho e um padre. A situação piora quando conhece Pedro, ex-feirante com uma carreira em ascensão no jogo do bicho.(n)</desc>
-    <credits>
-      <director>Victor Di Mello</director>
-      <actor>Luciana Vendramini</actor>
-      <actor>Pelé</actor>
-      <actor>Tarcísio Meira</actor>
-      <actor>Luma de Oliveira</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621060000 -0300" stop="20220621072000 -0300" channel="Canal Brasil">
-    <title lang="pt">Mussum - Um Filme do Cacildis</title>
-    <desc lang="pt">A trajetória do humorista e sambista Antônio Carlos Bernades Gomes, o Mussum, é contada por diferentes ângulos. São reveladas facetas da figura que foi eternizada no imaginário popular por Os Trapalhões.(n)</desc>
-    <credits>
-      <director>Susanna Lira</director>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Biografia</category>
-  </programme>
-  <programme start="20220621072000 -0300" stop="20220621091000 -0300" channel="Canal Brasil">
-    <title lang="pt">Vermelho Sol</title>
-    <desc lang="pt">Claudio leva uma vida calma em uma pequena cidade da Argentina nos anos 1970. Quando um detetive particular aparece para localizar um estranho com quem ele brigou, seu mundo vira de cabeça pra baixo.(n)</desc>
-    <credits>
-      <director>Benjamín Naishtat</director>
-      <actor>Alfredo Castro</actor>
-      <actor>Andrea Frigerio</actor>
-      <actor>Darío Grandinetti</actor>
-      <actor>Laura Grandinetti</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Suspense</category>
-  </programme>
-  <programme start="20220621091000 -0300" stop="20220621104000 -0300" channel="Canal Brasil">
-    <title lang="pt">Chacrinha - Eu Vim para Confundir e não para Explicar</title>
-    <desc lang="pt">A trajetória de um dos maiores comunicadores do rádio e da televisão brasileiros. O Velho Guerreiro é compreendido desde o início de sua carreira, passando pelos tempos difíceis até chegar à consagração nacional.(n)</desc>
-    <credits>
-      <director>Claudio Manoel</director>
-      <director>Micael Langer</director>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621104000 -0300" stop="20220621123000 -0300" channel="Canal Brasil">
-    <title lang="pt">E Aí, Comeu?</title>
-    <desc lang="pt">Três amigos passam por fases diferentes em seus relacionamentos: Fernando tenta lidar com um divórcio, Honório desconfia de uma traição de sua mulher, e Afonsinho quer vencer seu bloqueio com namoros.(n)</desc>
-    <credits>
-      <director>Felipe Joffily</director>
-      <actor>Bruno Mazzeo</actor>
-      <actor>Marcos Palmeira</actor>
-      <actor>Emílio Orciollo Neto</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621123000 -0300" stop="20220621130000 -0300" channel="Canal Brasil">
-    <title lang="pt">(des) Encontros</title>
-    <desc lang="pt">Rafael e Felipe mantêm um relacionamento discreto. A chegada de uma terceira pessoa coloca os sentimentos do casal à prova, e eles precisarão tomar importantes decisões se quiserem ficar juntos.(n)</desc>
-    <credits>
-      <director>Rodrigo Bernardo</director>
-      <actor>Duda Nagle</actor>
-      <actor>Gil Coelho</actor>
-      <actor>Jacqueline Sato</actor>
-      <actor>Julianne Trevisol</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Romance</category>
-  </programme>
-  <programme start="20220621130000 -0300" stop="20220621131600 -0300" channel="Canal Brasil">
-    <title lang="pt">Curta na Tela: E Quem É O Pai?</title>
-    <desc lang="pt">Carol e Manu estão esperando um bebê. Dani e Lamlam vivem juntas com as filhas do casamento anterior. As quatro mulheres contam suas dificuldades e desejos sobre a família que cada casal pretende constituir.(n)</desc>
-    <credits>
-      <director>Daniela Diniz</director>
-      <director>Luana Miguel</director>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621131600 -0300" stop="20220621133000 -0300" channel="Canal Brasil">
-    <title lang="pt">Curta na Tela: O Órfão</title>
-    <desc lang="pt">Jonathas, um menino órfão, é adotado por uma nova família. Porém, logo depois, o garoto é devolvido ao orfananto com a justificativa de que ele age de um jeito feminino.(n)</desc>
-    <credits>
-      <director>Carolina Markowicz</director>
-      <actor>Clarisse Abujamra</actor>
-      <actor>Georgina Castro</actor>
-      <actor>Ivo Müller</actor>
-      <actor>Julia Costa</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621133000 -0300" stop="20220621140000 -0300" channel="Canal Brasil">
-    <title lang="pt">Transgente</title>
-    <desc lang="pt">"O meu corpo não me faz mulher, e sim como me coloco no mundo". Alexya se declara desertora de gênero e denuncia a higienização cultural promovida pelo incentivo à morte de transgêneros.(n)</desc>
-    <credits>
-      <director>Adriana Dutra</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621140000 -0300" stop="20220621154500 -0300" channel="Canal Brasil">
-    <title lang="pt">O Auto da Compadecida</title>
-    <desc lang="pt">Sem eira nem beira, os nordestinos João Grilo e Chicó se valem da esperteza para sobreviver no sertão. Empregados pelo padeiro da cidade, eles se veem numa confusão quando a cachorra da mulher do patrão morre.(n)</desc>
-    <credits>
-      <director>Guel Arraes</director>
-      <actor>Bruno Garcia</actor>
-      <actor>Denise Fraga</actor>
-      <actor>Diogo Vilela</actor>
-      <actor>Luís Melo</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621154500 -0300" stop="20220621173000 -0300" channel="Canal Brasil">
-    <title lang="pt">Colegas</title>
-    <desc lang="pt">Três amigos viviam em um instituto para portadores da síndrome de Down até que resolvem fugir para realizar os seus sonhos. Inspirados pelos filmes que assistiam, eles roubam um carro e começam uma nova aventura.(n)</desc>
-    <credits>
-      <director>Marcelo Galvão</director>
-      <actor>Ariel Goldenberg</actor>
-      <actor>Lima Duarte</actor>
-      <actor>Rita Pokk</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621173000 -0300" stop="20220621180000 -0300" channel="Canal Brasil">
-    <title lang="pt">Amigos, Sons e Palavras</title>
-    <desc lang="pt">Não é o que eu prefiro fazer, é o que o telespectador tem o direito de saber. Juca Kfouri critica a glamourização e a falta de seriedade do jornalismo esportivo brasileiro.(n)</desc>
-    <credits>
-      <director>Letícia Muhana</director>
-    </credits>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Entrevista</category>
-  </programme>
-  <programme start="20220621180000 -0300" stop="20220621182000 -0300" channel="Canal Brasil">
-    <title lang="pt">Transmissão - Hilton Lacerda</title>
-    <desc lang="pt">"O que te incomoda hoje no mundo?" O cineasta Hilton Lacerda comenta o seu processo de criação cinematográfico e discute sobre o falso pudor em relação à liberdade dos corpos no audiovisual.(n)</desc>
-    <credits>
-      <director>Claudia Priscilla</director>
-      <director>Kiko Goifman</director>
-    </credits>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20220621182000 -0300" stop="20220621204500 -0300" channel="Canal Brasil">
-    <title lang="pt">8 Presidentes 1 Juramento - A História De Um Tempo Presente</title>
-    <desc lang="pt">Através de materiais de arquivo de diferentes mídias, nacionais e internacionais, o filme revive o período da redemocratização brasileira, do movimento das Diretas Já à posse de Jair Bolsonaro.(n)</desc>
-    <credits>
-      <director>Carla Camurati</director>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Documentário</category>
-    <episode-num system="onscreen">s 1</episode-num>
-  </programme>
-  <programme start="20220621204500 -0300" stop="20220621210000 -0300" channel="Canal Brasil">
-    <title lang="pt">Cinejornal</title>
-    <desc lang="pt">O Cinejornal traz as notícias mais importantes do mercado cinematográfico direto de premiações, estreias e festivais. Onde tem cinema, tem Cinejornal.(n)</desc>
-    <credits>
-      <director>Erika Rodrigues</director>
-    </credits>
-    <category lang="pt">Jornalismo</category>
-    <category lang="pt">Informativo</category>
-  </programme>
-  <programme start="20220621210000 -0300" stop="20220621220000 -0300" channel="Canal Brasil">
-    <title lang="pt">Relatos do Front - A Outra Face do Cartão Postal</title>
-    <desc lang="pt">O Rio de Janeiro vivencia em seu cotidiano o genocídio da população negra e pobre em um projeto de horror que opera em uma lógica de violência na outra face do cartão postal do Brasil.(n)</desc>
-    <credits>
-      <director>Renato Martins</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621220000 -0300" stop="20220622002000 -0300" channel="Canal Brasil">
-    <title lang="pt">Estrangeiro Film Festival: Uma Mulher Alta</title>
-    <desc lang="pt">Na Leningrado de 1945, Iya e Masha são jovens em busca de esperança em meio aos destroços deixados na Rússia após a Segunda Guerra. Reconstruir suas vidas se torna uma situação permeada por morte e trauma.(n)</desc>
-    <credits>
-      <director>Kantemir Balagov</director>
-      <actor>Konstantin Balakirev</actor>
-      <actor>Ksenia Kutepova</actor>
-      <actor>Vasilisa Perelygina</actor>
-      <actor>Andrey Bykov</actor>
     </credits>
     <category lang="pt">Filme</category>
     <category lang="pt">Drama</category>
@@ -2167,176 +1736,6 @@
     <category lang="pt">Filme</category>
     <category lang="pt">Suspense</category>
   </programme>
-  <programme start="20220621002500 -0300" stop="20220621020000 -0300" channel="Cinemax">
-    <title lang="pt">Reencontrando a Felicidade</title>
-    <desc lang="pt">Esse sensível drama mostra a história de um casal que precisa superar a morte do filho de quatro anos. O roteiro caminha pela tristeza do pai e da mãe, e a forma de superar uma tragédia para cada um.(n)</desc>
-    <credits>
-      <director>John Cameron Mitchell</director>
-      <actor>Nicole Kidman</actor>
-      <actor>Aaron Eckhart</actor>
-      <actor>Dianne Wiest</actor>
-      <actor>Miles Teller</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621020000 -0300" stop="20220621034500 -0300" channel="Cinemax">
-    <title lang="pt">O Maestro</title>
-    <desc lang="pt">O compositor Jerry Herst (Leo Marks) se muda para Los Angeles para estudar com Mario Castelnuovo-Tedesco (Xander Berkeley), compositor da música de mais de 200 filmes de Hollywood nas décadas de 40 e 50, apesar de receber crédito por apenas 7.(n)</desc>
-    <credits>
-      <director>Adam Cushman</director>
-      <actor>Leo Marks</actor>
-      <actor>Xander Berkeley</actor>
-      <actor>Mackenzie Astin</actor>
-      <actor>Kristen Gutoskie</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Biografia</category>
-  </programme>
-  <programme start="20220621034500 -0300" stop="20220621060000 -0300" channel="Cinemax">
-    <title lang="pt">Michael - Anjo e Sedutor</title>
-    <desc lang="pt">Dois repórteres de Chicago são enviados para investigar a afirmação de uma senhora idosa de que ela mora em um hotel com um anjo de verdade.(n)</desc>
-    <credits>
-      <director>Nora Ephron</director>
-      <actor>John Travolta</actor>
-      <actor>Andie MacDowell</actor>
-      <actor>William Hurt</actor>
-      <actor>Bob Hoskins</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621060000 -0300" stop="20220621064500 -0300" channel="Cinemax">
-    <title lang="pt">Clubversão Latino</title>
-    <desc lang="pt">Clubversão Latino convida cantores e músicos de toda a América Latina para um registro inédito de encontros com artistas brasileiros. Neste episódio, Mart'nália, Black Alien e Luísa Maita.(n)</desc>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Musical</category>
-  </programme>
-  <programme start="20220621064500 -0300" stop="20220621082500 -0300" channel="Cinemax">
-    <title lang="pt">Elsa &amp; Fred</title>
-    <desc lang="pt">Shirley MacLaine e Christopher Plummer dão vida a duas pessoas idosas que descobrem que nunca é tarde demais para o amor.(n)</desc>
-    <credits>
-      <director>Michael Radford</director>
-      <actor>Shirley MacLaine</actor>
-      <actor>Christopher Plummer</actor>
-      <actor>Marcia Gay Harden</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Romance</category>
-  </programme>
-  <programme start="20220621082500 -0300" stop="20220621103900 -0300" channel="Cinemax">
-    <title lang="pt">O Espaço Entre Nós</title>
-    <desc lang="pt">Aos 16 anos de idade, Gardner, o primeiro ser humano nascido em Marte, vem à Terra em busca de respostas sobre suas origens. Ele também espera se encontrar com Tulsa, uma garota que conheceu na Internet.(n)</desc>
-    <credits>
-      <director>Peter Chelsom</director>
-      <actor>Gary Oldman</actor>
-      <actor>Asa Butterfield</actor>
-      <actor>Carla Gugino</actor>
-      <actor>Britt Robertson</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Aventura</category>
-  </programme>
-  <programme start="20220621103900 -0300" stop="20220621123000 -0300" channel="Cinemax">
-    <title lang="pt">HBO Movies</title>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Cinema</category>
-  </programme>
-  <programme start="20220621123000 -0300" stop="20220621150400 -0300" channel="Cinemax">
-    <title lang="pt">Menina de Ouro</title>
-    <desc lang="pt">Oscar de melhor filme de 2005. Frank Dunn é um enérgico treinador que tem sua vida transformada após aceitar o desafio de treinar Maggie, uma jovem determinada a ser uma campeã nos ringues. Vencedor de 4 Oscars.(n)</desc>
-    <credits>
-      <director>Clint Eastwood</director>
-      <actor>Clint Eastwood</actor>
-      <actor>Hilary Swank</actor>
-      <actor>Morgan Freeman</actor>
-      <actor>Jay Baruchel</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621150400 -0300" stop="20220621163500 -0300" channel="Cinemax">
-    <title lang="pt">Intrusos</title>
-    <desc lang="pt">A história se passa em Madrid e em Londres. Dois meninos com muita imaginação começam a ser perseguidos por um monstro sem rosto. Pais, psicólogos e detetives rejeitam seus medos, quando percebem será tarde demais.(n)</desc>
-    <credits>
-      <director>Juan Carlos Fresnadillo</director>
-      <actor>Clive Owen</actor>
-      <actor>Daniel Brühl</actor>
-      <actor>Carice van Houten</actor>
-      <actor>Pilar López de Ayala</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220621163500 -0300" stop="20220621183500 -0300" channel="Cinemax">
-    <title lang="pt">Fahrenheit 451</title>
-    <desc lang="pt">Em um futuro alternativo nos EUA, brigadas de bombeiros saem em missões televisionadas para incendiar livros.(n)</desc>
-    <credits>
-      <director>Ramin Bahrani</director>
-      <actor>Michael B. Jordan</actor>
-      <actor>Sofia Boutella</actor>
-      <actor>Michael Shannon</actor>
-      <actor>Keir Dullea</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621183500 -0300" stop="20220621202500 -0300" channel="Cinemax">
-    <title lang="pt">Sem Direito a Resgate</title>
-    <desc lang="pt">"Mickey Dawson é sequestrada e seu rico marido, que está com a amante se recusa a pagar o resgate exigido pelos criminosos.".(n)</desc>
-    <credits>
-      <director>Daniel Schechter</director>
-      <actor>Jennifer Aniston</actor>
-      <actor>Yasiin Bey</actor>
-      <actor>Isla Fisher</actor>
-      <actor>Will Forte</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621202500 -0300" stop="20220621221500 -0300" channel="Cinemax">
-    <title lang="pt">Amizade Colorida</title>
-    <desc lang="pt">Uma caça-talentos convence um jovem criativo a aceitar uma proposta de trabalho em Nova York. Eles ficam amigos e a coisa começa a se complicar quando o relacionamento torna-se íntimo.(n)</desc>
-    <credits>
-      <director>Will Gluck</director>
-      <actor>Justin Timberlake</actor>
-      <actor>Mila Kunis</actor>
-      <actor>Will Gluck</actor>
-      <actor>Patricia Clarkson</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621221500 -0300" stop="20220621231500 -0300" channel="Cinemax">
-    <title lang="pt">O Negócio</title>
-    <desc lang="pt">Antes que Karin a processe, a pirata exige que Karin pare de usar a marca Oceano Azul. Seu advogado sugere que ela tente entrar em um acordo com a pirata, mas nem tudo acontece como o previsto.(n)</desc>
-    <credits>
-      <director>Júlia Jordão</director>
-      <director>Michel Tikhomiroff</director>
-      <actor>Rafaela Mandelli</actor>
-      <actor>Juliana Schalch</actor>
-      <actor>Michelle Batista</actor>
-      <actor>João Gabriel Vasconcellos</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-    <episode-num system="onscreen">E3</episode-num>
-  </programme>
-  <programme start="20220621231500 -0300" stop="20220622001500 -0300" channel="Cinemax">
-    <title lang="pt">O Negócio</title>
-    <desc lang="pt">Karin e a pirata travam uma batalha na Justiça e usam de todas as armas de que dispõem para votarem a favor delas no tribunal.(n)</desc>
-    <credits>
-      <director>Júlia Jordão</director>
-      <director>Michel Tikhomiroff</director>
-      <actor>Rafaela Mandelli</actor>
-      <actor>Juliana Schalch</actor>
-      <actor>Michelle Batista</actor>
-      <actor>João Gabriel Vasconcellos</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-    <episode-num system="onscreen">E4</episode-num>
-  </programme>
   <programme start="20220622001500 -0300" stop="20220622021500 -0300" channel="Cinemax">
     <title lang="pt">O Amor Acontece</title>
     <desc lang="pt">Burke Ryan escreveu um livro de autoajuda que faz grande sucesso. Diferente do que escreve, ele ainda não conseguiu aceitar a morte da esposa. Ele conhece Eloise, a mulher certa que o ajudará a esquecer as perdas do passado.(n)</desc>
@@ -2655,186 +2054,6 @@
       <actor>Pablo Schreiber</actor>
       <actor>O'Shea Jackson Jr.</actor>
       <actor>50 Cent</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621000000 -0300" stop="20220621003500 -0300" channel="HBO">
-    <title lang="pt">Last Week Tonight With John Oliver</title>
-    <desc lang="pt">John Oliver está de volta para uma nova temporada de sua aclamada série que lança um olhar satírico e perspicaz sobre os eventos atuais nos EUA e no mundo, juntamente com uma variedade de estrelas convidadas e segmentos especiais.(n)</desc>
-    <credits>
-      <director>Paul Pennolino</director>
-      <actor>John Oliver</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621003500 -0300" stop="20220621013000 -0300" channel="HBO">
-    <title lang="pt">2022</title>
-    <desc lang="pt">A partir dos versos, uma narrativa sobre o Brasil é formada: sua fundação, o caos colonizador, o preto, os povos nativos, as florestas, a cidade, a desigualdade, a fome, a favela, o racismo, a luta, a esperança e a imaginação.(n)</desc>
-    <credits>
-      <director>Monique Gardenberg</director>
-      <director>Felipe Hirsch</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621013000 -0300" stop="20220621023500 -0300" channel="HBO">
-    <title lang="pt">2022</title>
-    <desc lang="pt">"Primeiro é nunca matar. Segundo, jamais ferir." Os versos do Baiana System abrem este ato que fala sobre a luta contra a violência e pela liberdade do povo através da música.(n)</desc>
-    <credits>
-      <director>Monique Gardenberg</director>
-      <director>Felipe Hirsch</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621023500 -0300" stop="20220621042000 -0300" channel="HBO">
-    <title lang="pt">Horas de Desespero</title>
-    <desc lang="pt">Jack Dwyner é um empresário americano que vive no sudeste asiático com sua família. Um golpe de Estado os pegará de surpresa, assim Jack e sua família tentarão escapar por todos os meios dos rebeldes que atacam a cidade.(n)</desc>
-    <credits>
-      <director>John Erick Dowdle</director>
-      <actor>Owen Wilson</actor>
-      <actor>Lake Bell</actor>
-      <actor>Pierce Brosnan</actor>
-      <actor>Sterling Jerins</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621042000 -0300" stop="20220621060000 -0300" channel="HBO">
-    <title lang="pt">Resident Evil 5 - Retribuição</title>
-    <desc lang="pt">O vírus criado pela corporação Umbrella transformou quase toda a população em mortos-vivos e a última esperança da humanidade, Alice, acorda na Umbrella, onde seu passado cobrará sua vida.(n)</desc>
-    <credits>
-      <director>Paul W.S. Anderson</director>
-      <actor>Sienna Guillory</actor>
-      <actor>Milla Jovovich</actor>
-      <actor>Boris Kodjoe</actor>
-      <actor>Michelle Rodríguez</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220621060000 -0300" stop="20220621071500 -0300" channel="HBO">
-    <title lang="pt">Bill Maher: #adulting</title>
-    <desc lang="pt">Bill Maher vê o aclamado comediante, apresentador e satirista subir ao palco para uma hora hilária e contundente de seu comentário exclusivo sobre as últimas questões quentes.(n)</desc>
-    <credits>
-      <director>Ryan Polito</director>
-      <actor>Bill Maher</actor>
-    </credits>
-    <category lang="pt">Variedades</category>
-    <category lang="pt">Diversos</category>
-  </programme>
-  <programme start="20220621071500 -0300" stop="20220621091000 -0300" channel="HBO">
-    <title lang="pt">É o Fim</title>
-    <desc lang="pt">O que acontece quando James Franco organiza uma festa com Seth Rogen, Jonah Hill e Jay Baruchel? Chega o fim do mundo e os jovens atores devem enfrentar a morte junto com uma agressiva Emma Watson.(n)</desc>
-    <credits>
-      <director>Evan Goldberg</director>
-      <director>Seth Rogen</director>
-      <actor>Jonah Hill</actor>
-      <actor>Seth Rogen</actor>
-      <actor>Jay Baruchel</actor>
-      <actor>Danny McBride</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621091000 -0300" stop="20220621105500 -0300" channel="HBO">
-    <title lang="pt">A Casa do Lago</title>
-    <desc lang="pt">Uma médica solitária e um arquiteto frustrado vivem na mesma casa, separados por um espaço de tempo de dois anos. Misteriosamente eles se comunicam através de cartas que colocam na caixa de correio da residência.(n)</desc>
-    <credits>
-      <director>Alejandro  Agresti</director>
-      <actor>Keanu Reeves</actor>
-      <actor>Sandra Bullok</actor>
-      <actor>Dylan Walsh</actor>
-      <actor>Christopher Plummer</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621105500 -0300" stop="20220621123000 -0300" channel="HBO">
-    <title lang="pt">Os Estranhos: Caçada Noturna</title>
-    <desc lang="pt">A sequência de The Strangers, sucesso do terror slasher de 2008, traz de volta a desesperança e tensão que chocou audiências do mundo todo. O brutal trio de assassinos mascarados desta vez fará de presa uma família que chega a um parque de trailers.(n)</desc>
-    <credits>
-      <director>Johannes Roberts</director>
-      <actor>Bailee Madison</actor>
-      <actor>Christina Hendricks</actor>
-      <actor>Martin Henderson</actor>
-      <actor>Lewis Pullman</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220621123000 -0300" stop="20220621150500 -0300" channel="HBO">
-    <title lang="pt">Tenet</title>
-    <desc lang="pt">Christopher Nolan apresenta esta ficção científica não sobre viagem no tempo, mas sobre sua inversão, estrelado por John David Washington.(n)</desc>
-    <credits>
-      <director>Christopher Nolan</director>
-      <actor>John David Washington</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621150500 -0300" stop="20220621161000 -0300" channel="HBO">
-    <title lang="pt">A Mulher do Viajante no Tempo</title>
-    <credits>
-      <director>David Nutter</director>
-      <actor>Rose Leslie</actor>
-      <actor>Theo James</actor>
-      <actor>Jason David</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621161000 -0300" stop="20220621180000 -0300" channel="HBO">
-    <title lang="pt">Aqueles Que Me Desejam a Morte</title>
-    <desc lang="pt">Uma bombeira deve usar todas as suas habilidades de sobrevivência para ajudar um menino a escapar de dois assassinos no meio de um incêndio.(n)</desc>
-    <credits>
-      <director>Taylor Sheridan</director>
-      <actor>Angelina Jolie</actor>
-      <actor>Nicholas Hoult</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621180000 -0300" stop="20220621191000 -0300" channel="HBO">
-    <title lang="pt">Rompendo o Silêncio</title>
-    <desc lang="pt">O episódio explora as perseguições sofridas por grupos negros e LGBTs e a responsabilidade das universidades frente a esses casos.(n)</desc>
-    <credits>
-      <director>Marina Person</director>
-      <director>Giuliano Cedroni</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621191000 -0300" stop="20220621210500 -0300" channel="HBO">
-    <title lang="pt">Resident Evil: Bem-vindo a Raccoon City</title>
-    <desc lang="pt">Esta história de origem, ambientada em 1998, explora os segredos da misteriosa Mansão Spencer e da malfadada Raccoon City.(n)</desc>
-    <credits>
-      <director>Johannes Roberts</director>
-      <actor>Kaya Scodelario</actor>
-      <actor>Robbie Amell</actor>
-      <actor>Hannah John-Kamen</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220621210500 -0300" stop="20220621220000 -0300" channel="HBO">
-    <title lang="pt">30 Segundos</title>
-    <desc lang="pt">No último episódio, a série reflete sobre uma sociedade cada vez mais digitalizada, segmentada em bolhas de cultura e comportamento, e com a TV perdendo espaço para celulares e computadores. À publicidade só resta se reinventar.(n)</desc>
-    <credits>
-      <director>João Daniel Tikhomiroff</director>
-      <director>Nikolas Fonseca</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621220000 -0300" stop="20220622004000 -0300" channel="HBO">
-    <title lang="pt">Tenet</title>
-    <desc lang="pt">Christopher Nolan apresenta esta ficção científica não sobre viagem no tempo, mas sobre sua inversão, estrelado por John David Washington.(n)</desc>
-    <credits>
-      <director>Christopher Nolan</director>
-      <actor>John David Washington</actor>
     </credits>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
@@ -3212,186 +2431,6 @@
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
   </programme>
-  <programme start="20220621003500 -0300" stop="20220621023500 -0300" channel="HBO 2">
-    <title lang="pt">Silk Road: Mercado Clandestino</title>
-    <desc lang="pt">Ross Ulbricht, um filósofo de vinte e poucos anos, cria o Silk Road, um website escuro que vende drogas, enquanto o agente da DEA Rick Bowden vai disfarçado para derrubá-lo.(n)</desc>
-    <credits>
-      <director>Tiller Russell</director>
-      <actor>Nick Robinson</actor>
-      <actor>Jennifer Yun</actor>
-      <actor>Jimmi Simpson</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621023500 -0300" stop="20220621041000 -0300" channel="HBO 2">
-    <title lang="pt">Insanatório - Quem Entra, Não Sai</title>
-    <desc lang="pt">Um homem arma um plano para entrar num hospital de doentes mentais para resgatar sua irmã. Ele descobre que um médico está transformando pacientes em assassinos sedentos por sangue.(n)</desc>
-    <credits>
-      <director>Jeff Buhler</director>
-      <actor>Jesse Metcalfe</actor>
-      <actor>Dale Waddington Horowitz</actor>
-      <actor>Olivia Munn</actor>
-      <actor>Molly Bryant</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Terror</category>
-  </programme>
-  <programme start="20220621041000 -0300" stop="20220621060000 -0300" channel="HBO 2">
-    <title lang="pt">É o Fim</title>
-    <desc lang="pt">O que acontece quando James Franco organiza uma festa com Seth Rogen, Jonah Hill e Jay Baruchel? Chega o fim do mundo e os jovens atores devem enfrentar a morte junto com uma agressiva Emma Watson.(n)</desc>
-    <credits>
-      <director>Evan Goldberg</director>
-      <director>Seth Rogen</director>
-      <actor>Jonah Hill</actor>
-      <actor>Seth Rogen</actor>
-      <actor>Jay Baruchel</actor>
-      <actor>Danny McBride</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621060000 -0300" stop="20220621075000 -0300" channel="HBO 2">
-    <title lang="pt">Quero Matar Meu Chefe 2</title>
-    <desc lang="pt">Após o trauma vivido no filme anterior, os amigos Nick (Jason Bateman), Dale (Charlie Day) e Kurt (Jason Sudeikis) resolvem abrir seu próprio negócio, de forma que eles mesmos sejam seus chefes.(n)</desc>
-    <credits>
-      <director>Sean Anders</director>
-      <actor>Jason Bateman</actor>
-      <actor>Jason Sudeikis</actor>
-      <actor>Charlie Day</actor>
-      <actor>Jennifer Aniston</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-    <episode-num system="onscreen">s 2</episode-num>
-  </programme>
-  <programme start="20220621075000 -0300" stop="20220621095500 -0300" channel="HBO 2">
-    <title lang="pt">Amor a Toda Prova</title>
-    <desc lang="pt">A vida de um homem de meia idade muda drasticamente quando sua esposa pede o divórcio. Tentará redescobrir sua masculinidade com a ajuda de um novo amigo, Jacob, aprendendo a conquistar mulheres nos bares.(n)</desc>
-    <credits>
-      <director>Glenn Ficarra</director>
-      <director>John Requa</director>
-      <actor>Steve Carell</actor>
-      <actor>Ryan Gosling</actor>
-      <actor>Julianne Moore</actor>
-      <actor>Emma Stone</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621095500 -0300" stop="20220621113000 -0300" channel="HBO 2">
-    <title lang="pt">O Que Será de Nozes 2</title>
-    <desc lang="pt">O esquilo Surly e seus amigos vivem no bem-bom numa loja de nozes abandonada. Certo dia, após um acidente, precisam deixar seu lar e voltar para as árvores do Liberty Park.(n)</desc>
-    <credits>
-      <director>Cal Brunker</director>
-      <actor>Will Arnett</actor>
-      <actor>Maya Rudolph</actor>
-      <actor>Bobby Cannavale</actor>
-      <actor>Bobby Moynihan</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Animação</category>
-  </programme>
-  <programme start="20220621113000 -0300" stop="20220621131000 -0300" channel="HBO 2">
-    <title lang="pt">Pedro Coelho 2: O Fugitivo</title>
-    <desc lang="pt">O travesso Peter Rabbit escapa para a grande cidade, onde encontra personagens sombrios e acaba criando o caos para toda a família.(n)</desc>
-    <credits>
-      <director>Will Gluck</director>
-      <actor>Rose Byrne</actor>
-      <actor>Domhnall Gleeson</actor>
-      <actor>David Oyelow</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621131000 -0300" stop="20220621140500 -0300" channel="HBO 2">
-    <title lang="pt">2022</title>
-    <desc lang="pt">A partir dos versos, uma narrativa sobre o Brasil é formada: sua fundação, o caos colonizador, o preto, os povos nativos, as florestas, a cidade, a desigualdade, a fome, a favela, o racismo, a luta, a esperança e a imaginação.(n)</desc>
-    <credits>
-      <director>Monique Gardenberg</director>
-      <director>Felipe Hirsch</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621140500 -0300" stop="20220621151000 -0300" channel="HBO 2">
-    <title lang="pt">2022</title>
-    <desc lang="pt">"Primeiro é nunca matar. Segundo, jamais ferir." Os versos do Baiana System abrem este ato que fala sobre a luta contra a violência e pela liberdade do povo através da música.(n)</desc>
-    <credits>
-      <director>Monique Gardenberg</director>
-      <director>Felipe Hirsch</director>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621151000 -0300" stop="20220621181000 -0300" channel="HBO 2">
-    <title lang="pt">Batman</title>
-    <desc lang="pt">Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas profundezas mais sombrias de Gotham City.(n)</desc>
-    <credits>
-      <director>Matt Reeves</director>
-      <actor>Robert Pattinson</actor>
-      <actor>Zoë Kravitz</actor>
-      <actor>Jeffrey Wright</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621181000 -0300" stop="20220621190000 -0300" channel="HBO 2">
-    <title lang="pt">It's a Sin</title>
-    <desc lang="pt">Setembro de 1981. As vidas de cinco amigos se cruzam em um apartamento em Londres, mas uma ameaça distante deixa entrever como a vida é valiosa nos anos 80.(n)</desc>
-    <credits>
-      <director>Peter Hoar</director>
-      <actor>Keeley Hawes</actor>
-      <actor>Shaun Dooley</actor>
-      <actor>Lydia West</actor>
-      <actor>Olly Alexander</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Drama</category>
-  </programme>
-  <programme start="20220621190000 -0300" stop="20220621193500 -0300" channel="HBO 2">
-    <title lang="pt">Greg News Com Gregório Duvivier</title>
-    <desc lang="pt">Com humor afiado, Gregório Duvivier vai direto ao ponto na interpretação das principais notícias na quinta temporada de Greg News.(n)</desc>
-    <credits>
-      <director>Alessandra Orofino</director>
-      <actor>Gregório Duvivier</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621193500 -0300" stop="20220621210000 -0300" channel="HBO 2">
-    <title lang="pt">Odilon - Réu de si Mesmo</title>
-    <desc lang="pt">Documentário sobre o juiz federal Odilon de Oliveira, cuja incisiva atuação contra grandes cabeças do crime organizado no Brasil o levou a ter a cabeça a prêmio e viver sob escolta armada 24 horas por dia.(n)</desc>
-    <credits>
-      <director>Leandro Lima</director>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Documentário</category>
-  </programme>
-  <programme start="20220621210000 -0300" stop="20220621220000 -0300" channel="HBO 2">
-    <title lang="pt">Irma Vep</title>
-    <credits>
-      <director>Olivier Assayas</director>
-      <actor>Adria Arjona</actor>
-      <actor>Jeanne Balibar</actor>
-      <actor>Byron Bowers</actor>
-    </credits>
-    <category lang="pt">Séries</category>
-    <category lang="pt">Comédia</category>
-  </programme>
-  <programme start="20220621220000 -0300" stop="20220622004000 -0300" channel="HBO 2">
-    <title lang="pt">Batman Vs Superman: A Origem da Justiça</title>
-    <desc lang="pt">Dois anos depois da destruição de Metropolis, a humanidade ainda tenta determinar o papel do Superman no mundo. Para evitar que as ações do Homem de Ferro fiquem impunes, Batman enfrenta Superman, enquanto uma ameaça surge das sombras.(n)</desc>
-    <credits>
-      <director>Zack Snyder</director>
-      <actor>Ben Affleck</actor>
-      <actor>Henry Cavill</actor>
-      <actor>Amy Adams</actor>
-      <actor>Jesse Eisenberg</actor>
-    </credits>
-    <category lang="pt">Filme</category>
-    <category lang="pt">Ação</category>
-  </programme>
   <programme start="20220622004000 -0300" stop="20220622022500 -0300" channel="HBO 2">
     <title lang="pt">Dreamland</title>
     <desc lang="pt">Uma ladra fugitiva se refugia na casa de um jovem caçador de recompensas durante a Grande Depressão.(n)</desc>
@@ -3739,234 +2778,6 @@
     </credits>
     <category lang="pt">Filme</category>
     <category lang="pt">Ação</category>
-  </programme>
-  <programme start="20220621000000 -0300" stop="20220621013200 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: A Tecnologia Social (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220621013200 -0300" stop="20220621020000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: É Quase Verdade (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Esta é história do mendigo Aparício e seus amigos, entrevistados por uma equipe de filmagem. Aparício quer saber por que o cinema nacional só retrata e promove lá fora temas já conhecidos e amplamente divulgados.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621020000 -0300" stop="20220621023000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Via Pública (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em um domingo muito quente e pra lá de excepcional, Sandra é obrigada a, pedalando,  trabalhar entregando galões d´água.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220621023000 -0300" stop="20220621030000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Verona (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rodrigo e Juliana, dois jovens apaixonados, vivem um amor proibido devido ao ódio entre suas famílias.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621030000 -0300" stop="20220621052600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: De Cabral a George Floyd Onde Arde o Fogo Sagrado da Liberdade (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme traça uma linha narrativa entre a construção do racismo no Brasil e nos Estados Unidos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621052600 -0300" stop="20220621053000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Em Cartaz: Em Cartaz (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Shot de informações sobre estreias fílmicas.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621053000 -0300" stop="20220621054500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621054500 -0300" stop="20220621060000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Vieira da Silva e Correia de Araújo são dos mais jovens entre os fundadores da Academia Maranhense de Letras.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621060000 -0300" stop="20220621070000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: S.O.S. (?)</title>
-    <sub-title lang="pt">Zuzu Angel</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;André é um homem atormentado por fantasmas do passado, especialmente os relacionados com seu casamento, que não teve o fim que ele imaginava. Após sofrer por muito tempo, decide se refugiar na chácara da família para tentar cicatrizar suas feridas, no entanto, em mais um dia normal na sua vida bucólica algo acontece e André parece ter sido deixado sozinho no mundo. Ele procura por toda a cidade mas aparentemente todos sumiram sem deixar vestígios. A única companhia dele são suas frustrações e André fica esperando alguém para salvá-lo dessa situação, mas parece que ninguém quer ouvir seu pedido de socorro.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220621070000 -0300" stop="20220621072600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Manu Baunilha, Bia Chocolate (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Deco marca acidentalmente um encontro com duas amigas. De dia se encontrará com Manu, de noite com Bia.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220621072600 -0300" stop="20220621074400 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Super Blue (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;De coração partido graças ao fim de um namoro, Giba caminha sem direção. Ao acaso, encontra seu amigo Conrado, que lhe apresenta Bia.(n)</desc>
-    <rating system="BR">
-      <value>10</value>
-    </rating>
-  </programme>
-  <programme start="20220621074400 -0300" stop="20220621080000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621080000 -0300" stop="20220621093600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">A3 (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;1958. Dona Adalgisa não consegue esconder a felicidade plena: seu herdeiro, Rogério, chegou com a noiva perfeita para o porta-retrato da entrada da casa, Tatiana.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220621093600 -0300" stop="20220621094000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo (?)</title>
-    <sub-title lang="pt">Com Supremo, Com Tudo</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Serviço Secreto de Segurança Nacional espiona um grupo de delinquentes que discute a conjuntura do crime durante um jogo de cartas. Uma paródia dos tempos modernos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621094000 -0300" stop="20220621100000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Surf Surf (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bruna quer ficar com André, antes que ele viaje para a praia. Depois de encontrá-lo, a jovem passa o resto do dia com o melhor amigo Jota.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220621100000 -0300" stop="20220621103000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Abandono aprofunda a análise sobre o que leva um humano a abandonar um animal, quais as consequências para os animais e para a saúde pública,  fala das mudanças no manejo dos animais pela Prefeitura de São Paulo ao longo das ultimas décadas, da superlotação dos abrigos e da importância da posse responsável e do que é preciso ter em mente para adotar um animal e das mudanças na legislação legislação.Alessandro Desco, protetor especializado em pitbulls fala de sua trajetória resgatando esses animais e como é especificamente difícil para um pitbull sobreviver nas ruas ao ser abandonado.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621103000 -0300" stop="20220621113000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Cidades de Cinema (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A pesquisadora Celina Alvetti resume em cinco as etapas do cinema paranaense, começando com as primeiras exibições cinematográficas entre 1897 e 1930.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621113000 -0300" stop="20220621120000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Retratos do Cárcere (?)</title>
-    <sub-title lang="pt">Retratos Do Cárcere</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621120000 -0300" stop="20220621123000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">O Cinema e as Cidades (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O cinema fantástico realizado em Porto Alegre é o tema do terceiro episódio da série.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621123000 -0300" stop="20220621130000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Criador de HQs de super-heróis brasileiros, o quadrinista Arthur Garcia é também um dos precursores na utilização do formato mangá.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621130000 -0300" stop="20220621142400 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: Porto Alegre - Meu Canto no Mundo (?)</title>
-    <sub-title lang="pt">Porto Alegre - Meu Canto no Mundo</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ficção e documentário se misturam em uma emocionante história contada por Luis Fernando Veríssimo, Luiz Antônio de Assis Brasil, Eva Sopher, Jaime Sirotsky, Moacyr Scliar e Giba Giba. Nasce uma Porto Alegre inédita, jamais vista através de imagens aéreas, filmes, fotos e ficção.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621142400 -0300" stop="20220621144700 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Éter Godzilla (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Marina, 20 anos, é uma menina de família rica que se arrisca por diversão com o amigo mais velho, Abismo, num boteco em uma região perigosa da cidade.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621144700 -0300" stop="20220621150000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Lar (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O trabalho e o drama dos voluntários da "Amigo Animal", que cuidam de mais de 1.500 cães e gatos em Curitiba e região metropolitana.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621150000 -0300" stop="20220621184500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Infomercial (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621184500 -0300" stop="20220621190000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Por Trás das Câmeras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baseado no livro de Guilherme Fiuza Jr, conta a história de João Guilherme Estrella, o Johny , um jovem de classe média, da Zona Sul, com boa família, que se envolve com drogas até ser preso por tráfico internacional.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220621190000 -0300" stop="20220621193000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Onde Está O Cinema Brasileiro? (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série traça um recorte contemporâneo da produção audiovisual independente brasileira. Para conhecer essa produção e quem a faz a equipe percorreu festivais de cinema do circuito nacional para encontrar os realizadores, o público que vai aos festivais, entender a relação estabelecida com o território que acontece os festivais, conhecer as realidades de produção e os filmes que estão sendo produzidos e exibidos. A partir de uma narrativa dinâmica e de metacinema, pelo protagonismo da equipe, ilustrando a representação de um processo de realização audiovisual que a série foi produzida. Nos permitindo conhecer o que se intitula "cinema independente", um cinema que não vemos nas salas comerciais,só nos festivais de cinema pelos cantos do país.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621193000 -0300" stop="20220621200000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">G.i.b.i.s. (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;E chegou a hora da reunião mais épica do planeta! Onde estrelas de Hollywood desfilam por tapetes vermelhos, marcas constroem estandes que mais parecem palácios, mas onde os quadrinhos são o centro do evento.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220621200000 -0300" stop="20220621203000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um dia após a briga do casal. Fabi está na casa da mãe, e Amélio decide fazer uma festinha em casa com o amigo Xico.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621203000 -0300" stop="20220621210000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Banalidade do Mal (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O corpo de um segurança é encontrado, Renata e Postiga percebem que é a mesma empresa dos policiais que estavam na casa do PM em que a arma encontrada com o segurança tem aquela mesma raspagem.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220621210000 -0300" stop="20220621220000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Submersos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Branco e Nando discutem na prisão. Branco é dispensado pelo telefone por Oliveira. Nando é liberado e sai de carro com a Cônsul. Villar descobre que Nando foi liberado, mas aceita sair com Flávia.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220621220000 -0300" stop="20220621235700 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: Os Sonâmbulos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Era um pequeno grupo de demolidores de mundo. Perdidos na multidão, mas ligados uns aos outros, viviam na solidão da clandestinidade, às voltas com suas contradições.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621235700 -0300" stop="20220622000000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Isolation (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Isolation, de forma experimental é um filme que explora uma nova realidade, apresentando a mídia e a informação como nosso meio de escape.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
   </programme>
   <programme start="20220622000000 -0300" stop="20220622020000 -0300" channel="Prime Box Brasil">
     <title lang="pt">O Acre Existe (?)</title>
@@ -4682,200 +3493,278 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220621005300 -0300" stop="20220621014200 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O violento assassinato de Charles repercute em todo o mundo. Morello recebe carta branca para caçar seu alvo, Evandro. Arlete, Geise e Aírton são levados para longe do morro contra a própria vontade. Sem o apoio do Comando, Evandro foge para a Bolívia. Mas para se estabelecer no país, ele precisará lidar com os Irmãos Urquiza e a caçada de Morello.(n)</desc>
+  <programme start="20220624220000 -0300" stop="20220625002600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: De Cabral a George Floyd Onde Arde o Fogo Sagrado da Liberdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme traça uma linha narrativa entre a construção do racismo no Brasil e nos Estados Unidos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625002600 -0300" stop="20220625003000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Cartaz: Em Cartaz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Shot de informações sobre estreias fílmicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625003000 -0300" stop="20220625010000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nos anos 80 e 90, a editora Abril passou a publicar compilações de histórias dos super-heróis mais conhecidos do planeta em formatos menores, quer dizer, mais compactos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625010000 -0300" stop="20220625023600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1958. Dona Adalgisa não consegue esconder a felicidade plena: seu herdeiro, Rogério, chegou com a noiva perfeita para o porta-retrato da entrada da casa, Tatiana.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621014200 -0300" stop="20220621024000 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro tenta se estabelecer na Bolívia com ajuda dos Irmãos Urquiza. Em uma operação extraordinária, Morello finalmente prende Evandro. Detido em Bangu, ele recebe a visita da mãe, que agora sabe do seu real papel na morte do irmão Zeca. Em meio à uma rebelião liderada por Bruninho Bagdá e Salvador, Evandro se surpreende com a reaparição de um velho amigo como um possível aliado para poder seguir com vida.(n)</desc>
+  <programme start="20220625023600 -0300" stop="20220625025200 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Eternidade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um casal separado pela morte é capaz de qualquer coisa para se reencontrar. Até mesmo invocar a Deusa da Eternidade. Baseado no cinema expressionista alemão.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220625025200 -0300" stop="20220625030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Noite Longa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após ficar até mais tarde no escritório, Veronica acaba perdendo o último ônibus para casa e agora não tem outra alternativa senão enfrentar os perigos que a noite lhe reserva.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625030000 -0300" stop="20220625042000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Caxias do Sul - Tradição e Inovação de um Povo (?)</title>
+    <sub-title lang="pt">Caxias do Sul - Tradição e Inovação de um Povo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário conta como surgiu, como se desenvolveu, os fatos mais importantes, as figuras proeminentes, as influências sociais, econômicas, políticas e culturais que formaram a Caxias de hoje.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625042000 -0300" stop="20220625043900 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Um Verão Em Vênus (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A passagem de Vênus pelo Sol pode reaproximar um casal com o amor desgastado.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625043900 -0300" stop="20220625050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn (?)</title>
+    <sub-title lang="pt">Curta In Box: O Outro Lado: A Sinfonia de Eric Pahn</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220625050000 -0300" stop="20220625053000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Amélio, O Homem de Verdade (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um dia após a briga do casal. Fabi está na casa da mãe, e Amélio decide fazer uma festinha em casa com o amigo Xico.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20220625053000 -0300" stop="20220625060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O corpo de um segurança é encontrado, Renata e Postiga percebem que é a mesma empresa dos policiais que estavam na casa do PM em que a arma encontrada com o segurança tem aquela mesma raspagem.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621024000 -0300" stop="20220621032400 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+  <programme start="20220625060000 -0300" stop="20220625072400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: Porto Alegre - Meu Canto no Mundo (?)</title>
+    <sub-title lang="pt">Porto Alegre - Meu Canto no Mundo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ficção e documentário se misturam em uma emocionante história contada por Luis Fernando Veríssimo, Luiz Antônio de Assis Brasil, Eva Sopher, Jaime Sirotsky, Moacyr Scliar e Giba Giba. Nasce uma Porto Alegre inédita, jamais vista através de imagens aéreas, filmes, fotos e ficção.(n)</desc>
     <rating system="BR">
-      <value>14</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621032400 -0300" stop="20220621040700 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+  <programme start="20220625072400 -0300" stop="20220625074300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Dois Amores (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Michel que era um jovem amargo, conhece Marcela, uma menina doce.(n)</desc>
     <rating system="BR">
-      <value>14</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621040700 -0300" stop="20220621045200 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621045200 -0300" stop="20220621053500 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Malik observa Randall no trabalho. Kevin se esforça para se aproximar do novo diretor de seu filme. Já Jack e Rebecca lutam para conseguir pôr os bebês para dormir.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621053500 -0300" stop="20220621100900 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kate confronta o seu passado. A fama de Randall após o vídeo viral o leva a uma descoberta inesperada. Além disso, Kevin pensa no seu futuro e decide qual é o melhor caminho a seguir.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621100900 -0300" stop="20220621103200 -0300" channel="Star Hits 1">
-    <title lang="pt">Bless This Mess (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto limpa o porão, Rio brinca com o fato de Mike sempre abandonar os seus hobbies e vários projetos. Preocupado com esse comentário, Mike tenta provar que Rio está errada. Já Constance tenta terminar os seus empenhos românticos com o pastor Paul.(n)</desc>
+  <programme start="20220625074300 -0300" stop="20220625080000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Quem é Rogério Carlos? (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Quem é Rogério Carlos? " narra história de Adelino, Fã fanático de Rogério Carlos, não consegue aceitar que as pessoas acreditem que o rei da música brasileira é Amado Batista.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220621103200 -0300" stop="20220621112300 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
+  <programme start="20220625080000 -0300" stop="20220625083000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>10</value>
     </rating>
   </programme>
-  <programme start="20220621112300 -0300" stop="20220621120700 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina e Gabriel conseguem fugir, porém, os seus inimigos, agora estão cientes de que estão se aproximando da verdade. Por quanto tempo eles ficarão fora de perigo?(n)</desc>
+  <programme start="20220625083000 -0300" stop="20220625090000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">HQuem - A Arte de Desenhar Histórias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A expressão feminina do humor irreverente e escrachado do cotidiano nas tiras de quadrinhos dos jornais e nas HQs é a essência da arte da cartunista gaúcha Fabiane Langona.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>12</value>
     </rating>
   </programme>
-  <programme start="20220621120700 -0300" stop="20220621124900 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+  <programme start="20220625090000 -0300" stop="20220625093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Verona (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após Juliana tomar uma atitude inesperada e Rodrigo tentar ajudá-la, o namoro deles é descoberto por Diva e João, dois trabalhadores da fazenda de Juliana.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621124900 -0300" stop="20220621133400 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
+  <programme start="20220625093000 -0300" stop="20220625100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <sub-title lang="pt">Retratos Do Cárcere</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621133400 -0300" stop="20220621141800 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+  <programme start="20220625100000 -0300" stop="20220625103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Onde Está O Cinema Brasileiro? (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série traça um recorte contemporâneo da produção audiovisual independente brasileira. Para conhecer essa produção e quem a faz a equipe percorreu festivais de cinema do circuito nacional para encontrar os realizadores, o público que vai aos festivais, entender a relação estabelecida com o território que acontece os festivais, conhecer as realidades de produção e os filmes que estão sendo produzidos e exibidos. A partir de uma narrativa dinâmica e de metacinema, pelo protagonismo da equipe, ilustrando a representação de um processo de realização audiovisual que a série foi produzida. Nos permitindo conhecer o que se intitula "cinema independente", um cinema que não vemos nas salas comerciais,só nos festivais de cinema pelos cantos do país.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625103000 -0300" stop="20220625110000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">O Cinema e as Cidades (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A partir de produções mais recentes, o último episódio revela temas urgentes do cinema contemporâneo brasileiro.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621141800 -0300" stop="20220621150400 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Candace e Carol levam Cookie em uma viagem de meninas a Miami para se divertir e deixar de pensar em Lucious. Após uma visita de Leah, Lucious tem de lidar com autoanálise.(n)</desc>
+  <programme start="20220625110000 -0300" stop="20220625111500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baseado no livro de Guilherme Fiuza Jr, conta a história de João Guilherme Estrella, o Johny , um jovem de classe média, da Zona Sul, com boa família, que se envolve com drogas até ser preso por tráfico internacional.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220625111500 -0300" stop="20220625113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Jomar Moraes foi um soldado de polícia que sempre quis ser escritor. Foi um pesquisador incansável. Durante vinte e três anos presidiu a Academia Maranhense de Letras.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625113000 -0300" stop="20220625120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625120000 -0300" stop="20220625123000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <sub-title lang="pt">Retratos Do Cárcere</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621150400 -0300" stop="20220621155200 -0300" channel="Star Hits 1">
-    <title lang="pt">The New Pope (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma rádio faz a transmissão da respiração de Pio XIII, agora regular e apenas interrompida por suspiros estranhos.(n)</desc>
+  <programme start="20220625123000 -0300" stop="20220625130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nos anos 80 e 90, a editora Abril passou a publicar compilações de histórias dos super-heróis mais conhecidos do planeta em formatos menores, quer dizer, mais compactos.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621155200 -0300" stop="20220621165000 -0300" channel="Star Hits 1">
-    <title lang="pt">The New Pope (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voiello se curvou enquanto as políticas de seu sucessor, Assente, minam a credibilidade da Igreja e a ameaça terrorista se torna cada vez mais ameaçadora.(n)</desc>
+  <programme start="20220625130000 -0300" stop="20220625133000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após a invasão de animes no final dos anos 90, o mangá foi o formato de revista japonês que explodiu no Brasil!(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621165000 -0300" stop="20220621175000 -0300" channel="Star Hits 1">
-    <title lang="pt">The New Pope (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voiello descobre o segredo de João Paulo III. Enquanto isso, Lenny Belardo voltou secretamente ao Vaticano.(n)</desc>
+  <programme start="20220625133000 -0300" stop="20220625140000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após uma tarde de reflexão dos Irmãos Peter, uma pergunta vem à tona: Como o brasileiro é representado nos quadrinhos made in USA?(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621175000 -0300" stop="20220621184000 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pepita, China e Juan conseguem escapar vivos do ataque à fazenda de Pepe e Cadu e Pepe, muito ferido, os encontra para se esconderem de Paco, juntos. Malu pede ajuda de Gael para esconder o corpo do Juiz.(n)</desc>
+  <programme start="20220625140000 -0300" stop="20220625143000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;É sexta-feira 13, ou quase, e os nossos irmãos decidem ir atrás das revistas mais aterrorizantes já escritas na história dos quadrinhos.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621184000 -0300" stop="20220621192700 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas enquanto ele engata um namoro com Geise. Morello segue as trilhas de Evandro com perspicácia e começa a decifrar a engenhosidade de seu rival.(n)</desc>
+  <programme start="20220625143000 -0300" stop="20220625150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">G.i.b.i.s. (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bem-vindo a um mundo de espadas e magias. Sim, você não leu errado. No universo que você está prestes a adentrar, um grande Orc que segue ordens de mago lariquento tem que enfrentar uma grande aventura.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621192700 -0300" stop="20220621201600 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
+  <programme start="20220625150000 -0300" stop="20220625184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Infomercial (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621201600 -0300" stop="20220621205900 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina e Gabriel conseguem fugir, porém, os seus inimigos, agora estão cientes de que estão se aproximando da verdade. Por quanto tempo eles ficarão fora de perigo?(n)</desc>
+  <programme start="20220625184500 -0300" stop="20220625190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Entre os fundadores da Academia havia um jovem negro que lutou muito, estudou, se formou, foi bibliotecário e escritor: Astolfo Marques.(n)</desc>
     <rating system="BR">
-      <value>16</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220621205900 -0300" stop="20220621214200 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
+  <programme start="20220625190000 -0300" stop="20220625203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
+    <rating system="BR">
+      <value>10</value>
+    </rating>
+  </programme>
+  <programme start="20220625203000 -0300" stop="20220625204800 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Como Se Voasse Para Casa (?)</title>
+    <sub-title lang="pt">Como Se Voasse Para Casa</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma criança descobre uma forma mágica de ver o mundo. Como se Voasse para Casa é um filme sobre o amor e a mágica do olhar. Um filme sobre relações, aceitação e doação. Uma forma de reencontro...(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625204800 -0300" stop="20220625210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Destroços de Candura (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto luta por sobrevivência durante um confronto civil, Sam se depara com uma criança solitária.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20220625210000 -0300" stop="20220625220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1965 estreou nos cinemas de Belém o primeiro longa-metragem de produção paraense, "Um Dia Qualquer", de Líbero Luxardo.(n)</desc>
     <rating system="BR">
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621214200 -0300" stop="20220621222700 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621222700 -0300" stop="20220621231100 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621231100 -0300" stop="20220621235700 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Candace e Carol levam Cookie em uma viagem de meninas a Miami para se divertir e deixar de pensar em Lucious. Após uma visita de Leah, Lucious tem de lidar com autoanálise.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220621235700 -0300" stop="20220622002400 -0300" channel="Star Hits 1">
-    <title lang="pt">Atlanta (?)</title>
-    <sub-title lang="pt">Atlanta</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Por que Paper Boi é sempre tão arrogante? Ele é rico, certo? É por isso que não é possível se sentir mal por essas celebridades.(n)</desc>
+  <programme start="20220625220000 -0300" stop="20220625230000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: S.O.S. (?)</title>
+    <sub-title lang="pt">Zuzu Angel</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;André é um homem atormentado por fantasmas do passado, especialmente os relacionados com seu casamento, que não teve o fim que ele imaginava. Após sofrer por muito tempo, decide se refugiar na chácara da família para tentar cicatrizar suas feridas, no entanto, em mais um dia normal na sua vida bucólica algo acontece e André parece ter sido deixado sozinho no mundo. Ele procura por toda a cidade mas aparentemente todos sumiram sem deixar vestígios. A única companhia dele são suas frustrações e André fica esperando alguém para salvá-lo dessa situação, mas parece que ninguém quer ouvir seu pedido de socorro.(n)</desc>
     <rating system="BR">
       <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625230000 -0300" stop="20220625233300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Copan - Cidade Vertical (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário apresenta a história e curiosidades da maior estrutura de concreto armado do país, o edifício Copan, localizado na Av. Ipiranga, coração de São Paulo.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625233300 -0300" stop="20220625233700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Com Supremo, Com Tudo (?)</title>
+    <sub-title lang="pt">Com Supremo, Com Tudo</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Serviço Secreto de Segurança Nacional espiona um grupo de delinquentes que discute a conjuntura do crime durante um jogo de cartas. Uma paródia dos tempos modernos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
     </rating>
   </programme>
   <programme start="20220622002400 -0300" stop="20220622005700 -0300" channel="Star Hits 1">
@@ -5556,137 +4445,239 @@
       <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621000000 -0300" stop="20220621010000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220624232200 -0300" stop="20220625000800 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious busca um contrato de gravação para Yana, mas recebe uma resposta surpreendente dos executivos da gravadora.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621010000 -0300" stop="20220621020000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625000800 -0300" stop="20220625005200 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O assassinato de Victor comove toda Buenos Aires, além de impactar a amizade entre Georgina e Gabriel. Eles poderão manter o foco em sua busca por justiça em meio às consequências da tragédia?(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621020000 -0300" stop="20220621080000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625005200 -0300" stop="20220625015000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <sub-title lang="pt">Impuros</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro negocia com os Urquiza pois perdeu um carregamento de drogas. Para piorar, os irmãos descobrem sobre o laboratório de Evandro. Sentindo-se traído, Arturo fecha um negócio com Salvador, o que pode colocar Evandro e sua família em risco. Morello recebe uma mala de grampo e consegue monitorar o telefone do piloto Jorge, peça importante no tráfico internacional.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621080000 -0300" stop="20220621090000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625015000 -0300" stop="20220625022800 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Apresenta a história de Cadu, um defensor público que vê sua vida mudar após ser confundido com um traficante e acabar preso.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621090000 -0300" stop="20220621100000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625022800 -0300" stop="20220625032400 -0300" channel="Star Hits 1">
+    <title lang="pt">Aqui na Terra (?)</title>
+    <sub-title lang="pt">Aqui na Terra</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carlos viaja até o Canadá em busca de respostas enquanto a família de Adão participa de um jantar que o governador Rocha oferece a Rufino, em agradecimento por todos os serviços prestados.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621100000 -0300" stop="20220621110000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625032400 -0300" stop="20220625040600 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621110000 -0300" stop="20220621120000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625040600 -0300" stop="20220625044400 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621120000 -0300" stop="20220621130000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625044400 -0300" stop="20220625052700 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Três dançarinos de mesa russos sonham em ir a Las Vegas para se tornarem famosos. Mas, Romulo, o dono do clube local, tem outros planos para eles.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621130000 -0300" stop="20220621140000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625052700 -0300" stop="20220625060600 -0300" channel="Star Hits 1">
+    <title lang="pt">Run Coyote Run (?)</title>
+    <sub-title lang="pt">Run Coyote Run</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621140000 -0300" stop="20220621150000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625060600 -0300" stop="20220625065400 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O violento assassinato de Charles repercute em todo o mundo. Morello recebe carta branca para caçar seu alvo, Evandro. Arlete, Geise e Aírton são levados para longe do morro contra a própria vontade. Sem o apoio do Comando, Evandro foge para a Bolívia. Mas para se estabelecer no país, ele precisará lidar com os Irmãos Urquiza e a caçada de Morello.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621150000 -0300" stop="20220621160000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625065400 -0300" stop="20220625074000 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina confessa a verdade para Jeff. Enquanto ele confronta Irina, o segredo de Cassandra finalmente é revelado. Georgina fica cara a cara com Constantine.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621160000 -0300" stop="20220621170000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625074000 -0300" stop="20220625082200 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina usa o memorial de Raoul para canalizar a sua tristeza pela morte de Constantine. Enquanto isso, Nico fica de olho no império Clios e solta uma bomba que ameaça a família. Já Georgina descobre que Noah não é o que parece ser.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621170000 -0300" stop="20220621180000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625082200 -0300" stop="20220625090400 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina tem que revelar a verdade sobre Constantino para tentar proteger o império de Nico. O caos leva Georgina a recorrer a medidas desesperadas.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621180000 -0300" stop="20220621190000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625090400 -0300" stop="20220625094900 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina descobre a verdade sobre Nico e os eventos tomam um rumo terrível. A lealdade de Jeff é testada. Irina está prestes a desmoronar quando as suspeitas da família crescem.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621190000 -0300" stop="20220621200000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625094900 -0300" stop="20220625103500 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Com Irina gravemente doente, Georgina vê o dano que as suas atitudes causaram à família. Adriana se irrita e recorre aos Eltham, enquanto Christos começa a desvendar as mentiras de Georgina.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621200000 -0300" stop="20220621210000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625103500 -0300" stop="20220625112000 -0300" channel="Star Hits 1">
+    <title lang="pt">Mrs. America (?)</title>
+    <sub-title lang="pt">Mrs. America</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Shirley Chisholm concorre historicamente à presidência, enquanto Gloria luta para fazer política na Convenção Nacional Democrata.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621210000 -0300" stop="20220621220000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625112000 -0300" stop="20220625122100 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após voltar de Alcatraz, Bumpy Johnson busca recuperar o controle do Harlem.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220621220000 -0300" stop="20220621230000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625122100 -0300" stop="20220625131200 -0300" channel="Star Hits 1">
+    <title lang="pt">Harlots (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Todos do Soho estão se preparando para uma festa ilícita na casa de Lady Fitz. Porém, com Lydia fora de Bedlam, Blayne de volta e os Pincher decididos a selar um acordo lucrativo, a tensão aumenta. A chegada de um velho amigo revive as rivalidades.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220621230000 -0300" stop="20220622000000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20220625131200 -0300" stop="20220625140600 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <sub-title lang="pt">Godfather of Harlem</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bumpy, de repente, se encontra ao lado de Elise depois que a prisão dela por furto e abuso subsequente se torna o catalisador de um protesto onde interesses conflitantes causam tensões.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625140600 -0300" stop="20220625145500 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cassius Clay luta contra o herói do boxe Doug Jones. Mayme insiste que Bumpy defenda Jones, um apoiador da sua organização, mas Malcolm pede que Bumpy apoie Clay.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625145500 -0300" stop="20220625154800 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na tentativa de quebrar o banco de Bumpy, Chin faz uma aposta. Como resultado, Bumpy deve aos vencedores mais do que ele pode cobrir.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625154800 -0300" stop="20220625163100 -0300" channel="Star Hits 1">
+    <title lang="pt">Devs (?)</title>
+    <sub-title lang="pt">Devs</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lily volta ao trabalho em Amaya e explica as suas suspeitas para Jen e Anya. Já Forest é visitada por Laine, um poderoso senador que faz perguntas sobre o projeto Devs.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625163100 -0300" stop="20220625171600 -0300" channel="Star Hits 1">
+    <title lang="pt">Devs (?)</title>
+    <sub-title lang="pt">Devs</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após o comportamento de Lily em Amaya, Kenton a obriga a procurar um psiquiatra. Enquanto isso, a equipe de desenvolvedores discorda sobre a ética da sua invenção, e Forest afirma o seu compromisso com o projeto.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625171600 -0300" stop="20220625180500 -0300" channel="Star Hits 1">
+    <title lang="pt">Devs (?)</title>
+    <sub-title lang="pt">Devs</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kenton faz uma visita a Jamie para garantir o seu silêncio enquanto Katie explora secretamente o sistema Devs para os seus próprios fins.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625180500 -0300" stop="20220625184300 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;El Paco tenta matar Cadu, mas China impede e acaba em poder dos bandidos. Cadu consegue fugir com Carolina.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625184300 -0300" stop="20220625193900 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625193900 -0300" stop="20220625202700 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu está sozinho. Malu o abandonou e Téo está preso no reformatório. Parece que quanto mais ele tenta salvar seu filho e sua família, pior fica a situação deles.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625202700 -0300" stop="20220625211200 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu consegue convencer Pepe a lhe dar uma chance. Passa a morar na sua fazenda e entender melhor o seu negócio e sua família. Em Brasília, todos acreditam que ele está morto - menos Téo.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625211200 -0300" stop="20220625215900 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Telma sugere que ela e Malu coloquem o Sítio Roma para funcionar novamente, essa é a única maneira de se conseguir dinheiro e informações valiosas para tirar Téo da cadeia.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625215900 -0300" stop="20220625225800 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após voltar de Alcatraz, Bumpy Johnson busca recuperar o controle do Harlem.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20220625225800 -0300" stop="20220625235300 -0300" channel="Star Hits 1">
+    <title lang="pt">Godfather of Harlem (?)</title>
+    <sub-title lang="pt">Godfather of Harlem</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bumpy, de repente, se encontra ao lado de Elise depois que a prisão dela por furto e abuso subsequente se torna o catalisador de um protesto onde interesses conflitantes causam tensões.(n)</desc>
+    <rating system="BR">
+      <value>16</value>
     </rating>
   </programme>
   <programme start="20220622000000 -0300" stop="20220622010000 -0300" channel="Star Hits 2">
@@ -6180,6 +5171,174 @@
     </rating>
   </programme>
   <programme start="20220624220000 -0300" stop="20220624230000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220624230000 -0300" stop="20220625000000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625000000 -0300" stop="20220625010000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625010000 -0300" stop="20220625020000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625020000 -0300" stop="20220625030000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625030000 -0300" stop="20220625040000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625040000 -0300" stop="20220625050000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625050000 -0300" stop="20220625060000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625060000 -0300" stop="20220625070000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625070000 -0300" stop="20220625080000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625080000 -0300" stop="20220625090000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625090000 -0300" stop="20220625100000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625100000 -0300" stop="20220625110000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625110000 -0300" stop="20220625120000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625120000 -0300" stop="20220625130000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625130000 -0300" stop="20220625140000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625140000 -0300" stop="20220625150000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625150000 -0300" stop="20220625160000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625160000 -0300" stop="20220625170000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625170000 -0300" stop="20220625180000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625180000 -0300" stop="20220625190000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625190000 -0300" stop="20220625200000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625200000 -0300" stop="20220625210000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625210000 -0300" stop="20220625220000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20220625220000 -0300" stop="20220625230000 -0300" channel="Star Hits 2">
     <title lang="pt">Programação Eventual (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
     <rating system="BR">
