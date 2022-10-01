@@ -782,240 +782,6 @@
     <display-name lang="pt">Star HIts 2</display-name>
     <icon src="http://vcfaz.tv/revel/gifs/novos_gifs/foa.gif" />
   </channel>
-  <programme start="20220930000000 -0300" stop="20220930022600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: De Cabral a George Floyd Onde Arde o Fogo Sagrado da Liberdade (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O filme traça uma linha narrativa entre a construção do racismo no Brasil e nos Estados Unidos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930022600 -0300" stop="20220930023000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Com Supremo, Com Tudo (?)</title>
-    <sub-title lang="pt">Com Supremo, Com Tudo</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Serviço Secreto de Segurança Nacional espiona um grupo de delinquentes que discute a conjuntura do crime durante um jogo de cartas. Uma paródia dos tempos modernos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930023000 -0300" stop="20220930030000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Série De Documentário: Finding Josef A Série Por Trás Da Cena (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Neste episódio o desafio da produção independente. A Produção chega a Capital do Brasil. Mais de 500 figurantes na cena da Torre de TV. Fernanda Brum revela a semelhança do Personagem com a sua vó e Daniela Escobar fala como foi sua participação no Filme Finding Josef.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930030000 -0300" stop="20220930043000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: Largou As Botas e Mergulhou no Céu (?)</title>
-    <sub-title lang="pt">Largou as Botas e Mergulhou no Céu</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dilemas e conflitos entre ficar ou partir, permanecer ou mudar, sagrado ou profano são costurados por personagens reais e ficticios entre o Natal e o Carnaval, o período sabático do Brasil. A região é o Nordeste.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930043000 -0300" stop="20220930050000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Marias (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Reflexões, medos íntimos revelados, angústias e denúncias... Frutos criados por fortes verdades e gritos silenciosos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930050000 -0300" stop="20220930060000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Submersos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Nando relembra o acidente que matou sua mãe e que quase o vitimou. Gordo fiscaliza a produção das pranchas de surf recheadas de anfetaminas. Luiz  sobe nas pesquisas para governador do estado.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930060000 -0300" stop="20220930073200 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.doc: A Tecnologia Social (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Prime.Doc todas as histórias e todas as personagens são reais. Nele você assiste os mais recentes e marcantes documentários do cinema brasileiro.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220930073200 -0300" stop="20220930075100 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Um Verão Em Vênus (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A passagem de Vênus pelo Sol pode reaproximar um casal com o amor desgastado.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930075100 -0300" stop="20220930075500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930075500 -0300" stop="20220930080000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Bastidores Prime (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando as luzes se voltam para o que acontece além das gravações, é hora de Bastidores Prime!(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930080000 -0300" stop="20220930083000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Conexão Juventudes (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Contraturno é um documentário que acompanha a vida de Vitor e Renata, dois adolescentes que estudam e trabalham na cidade de Urutai, interior de Goiás durante a retomada das aulas presenciais. Mas, para eles, há um desafio em especial: conciliar a rotina da adolescência, os estudos e o trabalho. O filme aborda alguns dos motivos de abandono e evasão, a crise que a pandemia projetou na educação, e a jornada dupla de adolescentes e como os marcadores raciais atravessam tudo isso.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930083000 -0300" stop="20220930090000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Onde Está O Cinema Brasileiro? (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série traça um recorte contemporâneo da produção audiovisual independente brasileira. Para conhecer essa produção e quem a faz a equipe percorreu festivais de cinema do circuito nacional para encontrar os realizadores, o público que vai aos festivais, entender a relação estabelecida com o território que acontece os festivais, conhecer as realidades de produção e os filmes que estão sendo produzidos e exibidos. A partir de uma narrativa dinâmica e de metacinema, pelo protagonismo da equipe, ilustrando a representação de um processo de realização audiovisual que a série foi produzida. Nos permitindo conhecer o que se intitula "cinema independente", um cinema que não vemos nas salas comerciais,só nos festivais de cinema pelos cantos do país.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930090000 -0300" stop="20220930103500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">A3 (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;1958. Dona Adalgisa não consegue esconder a felicidade plena: seu herdeiro, Rogério, chegou com a noiva perfeita para o porta-retrato da entrada da casa, Tatiana.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930103500 -0300" stop="20220930105500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Sena, Os Fios Em Prosa (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma pequena sala de projeção reconstitui os cinemas tradicionais: nove poltronas e uma cortina vermelha que se abrirá depois que um gongo soar três vezes anunciando o espetáculo. Neste espaço simbólico, construído dentro de sua própria casa, Antônio Carlos Sena relembra, através de uma conversa - prosa - algumas passagens de sua vida, onde memórias pessoais se misturam com fatos marcantes da história recente do Brasil.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930105500 -0300" stop="20220930110000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: David Está Morto (?)</title>
-    <sub-title lang="pt">David Está Morto</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;David está dentro de mim, está por toda parte. Mas David está morto.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930110000 -0300" stop="20220930113000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Mulheres Mix (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930113000 -0300" stop="20220930120000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Humanos e Animais, fala das origens dessa relação única entre duas espécies, fala do amor dos humanos pelos animais e dos problemas criados por essa relação, principalmente sobre grave problema do abandono de animais tentando entender suas causas e consequências. Tem também a historia da patrícia, mãe do Arthur, que tem Síndrome de Down e da relação do Arthur e da família ao adotarem o Davi, um cão de abrigo que foi adotado pela família.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930120000 -0300" stop="20220930130000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Cidades de Cinema (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Desde sempre, uma cidade com um cinema abusado e inconformista.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930130000 -0300" stop="20220930143600 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Sessão Prime Box: Entrevistas do Sair à Luz (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O documentário é um projeto que apresenta a profissão de ilustrador de uma forma ampla, geral e cristalina.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220930143600 -0300" stop="20220930150000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Terror Noturno (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após uma festa com muita bebedeira, casal desperta no dia seguinte sem lembrar dos eventos da noite anterior. É quando encontram vestígios de um provável atropelamento no para-choque do carro.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930150000 -0300" stop="20220930184500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Infomercial: 1001 Noites (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930184500 -0300" stop="20220930185200 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Festival Passaporte Prime: Mestres Da Tradição (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O papel Xuan é um papel tradicional chinês usado para caligrafia e pinturas. Este papel tem uma história de mais de 1.000 anos. Rachel vai ao condado de Jing, da província de Anhui. onde o papel Xuan segue sendo feito nos dias de hoje.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930185200 -0300" stop="20220930190000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Festival Passaporte Prime: Mestres Da Tradição (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um doce local, especial, feito na província de Anhui. Cada pedaço de doce tem um caractere chinês único, com um significado de prosperidade. Rachel chega em uma balsa de bambu no condado de Qimen, em Huangshan para conhecer o mestre doceiro Li.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930190000 -0300" stop="20220930191500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Por Trás das Câmeras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baseado, ou inspirado no livro da mãe de Cazuza, Lucinha Araújo, narra os bastidores da criação do roteiro, do longo processo de escolha e preparação do ator Daniel de Oliveira.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220930191500 -0300" stop="20220930193000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;José Sarney é mais conhecido por ter sido presidente do Brasil, mas aqui veremos muito mais sobre o grande escritor e homem de cultura que ele é.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930193000 -0300" stop="20220930200000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Banalidade do Mal (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Atendendo ao chamado de um assassinato em uma lanchonete, Daniel, Renata e Postiga iniciam a investigação sobre a morte de Vitor, garoto executado com 11 tiros.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930200000 -0300" stop="20220930203000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">O Cinema e as Cidades (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Personagens dramáticos revelam um cinema voltado a diferentes questões sociais, como Três Minutos, da diretora Ana Luiza Azevedo.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930203000 -0300" stop="20220930210000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Via Pública (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após passar por um evento traumático com sua bicicleta, Antônio passa a se sentir ameaçado pela cidade em que vive.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220930210000 -0300" stop="20220930213000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">G.i.b.i.s. (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pare! Porque, agora, vamos fala da HQ que realmente impolta! Sim, chegou a hora dos irmãos Peter invadirem a Maurício de Souza Produções e conhecerem o mestre dos magos.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930213000 -0300" stop="20220930220000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Série De Documentário: A Pedra E A Palavra: Padre Antônio Vieira (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;A vida de Vieira foi muito marcada pelo holandeses, seja pelo fato deles terem invadido o Brasil, e Vieira presenciou esses acontecimentos, seja por eles terem sido decisivos nos negócios diplomáticos nos quais Vieira se envolveu.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930220000 -0300" stop="20220930233500 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Prime.Doc: Baderna (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baderna é uma cidade no interior do Brasil. Fundada em 1871, formou-se a partir da cultura dos negros escravizados e hoje segue emancipa-da do estado brasileiro.(n)</desc>
-    <rating system="BR">
-      <value>12</value>
-    </rating>
-  </programme>
-  <programme start="20220930233500 -0300" stop="20220930235300 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Dois Amores (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em um encontro às cegas, Michel, um jovem amargo e insatisfeito com a vida que vem levando, conhece Marcela, uma garota doce e de espírito livre que estava de passagem. Agora, essa inesperada ligação vai ser assolada pela despedida e o que o acaso juntou vai ser separado pelo destino.(n)</desc>
-    <rating system="BR">
-      <value>livre</value>
-    </rating>
-  </programme>
-  <programme start="20220930235300 -0300" stop="20221001000000 -0300" channel="Prime Box Brasil">
-    <title lang="pt">Curta In Box: Fuga (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Perder um filho é algo extremamente triste, especialmente quando você não sabe o que aconteceu com ele, às vezes é até melhor fugir da realidade para não encarar monstros ainda piores.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
   <programme start="20221001000000 -0300" stop="20221001001500 -0300" channel="Prime Box Brasil">
     <title lang="pt">Histórias Maranhenses (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Em 1971, a Rádio Difusora do Maranhão levou ao ar o programa Guerra dos Mundos, copiando Orson Wells, que fez o mesmo em 1938 em Nova York.(n)</desc>
@@ -1831,233 +1597,281 @@
       <value>12</value>
     </rating>
   </programme>
-  <programme start="20220930003700 -0300" stop="20220930012500 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Morello salva Inês de ser presa pela PM e a leva de volta para a clínica de reabilitação. Disposto a pegar Evandro a qualquer custo, o policial obriga o traficante Júlio a plantar um grampo no barracão do Dendê. Evandro monta um laboratório no Brasil, mas Morello, com o grampo, escuta todos os seus planos, esperando a hora de atacar.(n)</desc>
+  <programme start="20221003233200 -0300" stop="20221004000000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Sala de Roteiristas (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Qual a diferença entre uma história e uma boa história? Neste curta documentário dez dos maiores roteiristas do Brasil respondem essa e outras perguntas.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221004000000 -0300" stop="20221004013500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.Doc: Baderna (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baderna é uma cidade no interior do Brasil. Fundada em 1871, formou-se a partir da cultura dos negros escravizados e hoje segue emancipa-da do estado brasileiro.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221004013500 -0300" stop="20221004014000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Bastidores Prime (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando as luzes se voltam para o que acontece além das gravações, é hora de Bastidores Prime!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004014000 -0300" stop="20221004020000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Prometido (?)</title>
+    <sub-title lang="pt">Curta In Box: O Prometido</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004020000 -0300" stop="20221004021700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Exílio (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;História de amor sobre os profundos sentimentos existentes na relação Antonio e sua televisão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004021700 -0300" stop="20221004022700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Memórias de Aço (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Durante a ditadura civil-militar, o antigo 1° Batalhão de Infantaria Blindada do Exército, em Barra Mansa, foi palco de graves violações aos direitos humanos na região sul fluminense.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221004022700 -0300" stop="20221004023000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Em Cartaz: Em Cartaz (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Shot de informações sobre estreias fílmicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004023000 -0300" stop="20221004024500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Em toda cidade existem pessoas que são referências, que são admiradas por todos indistintamente.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004024500 -0300" stop="20221004030000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Histórias Maranhenses (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;São Luís, Encantos e Magias, apresenta a capital do Maranhão de forma simples e verdadeira, permitindo sabermos como ela realmente é, e fazendo se ter vontade de visitar essa cidade tão hospitaleira, bela e rica em tradições e cultura.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004030000 -0300" stop="20221004045700 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Os Sonâmbulos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Era um pequeno grupo de demolidores de mundo. Perdidos na multidão, mas ligados uns aos outros, viviam na solidão da clandestinidade, às voltas com suas contradições.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004045700 -0300" stop="20221004050000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: A Cartomante (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Quando queremos saber sobre nosso futuro temos sempre a opção de visitar uma cartomante, mas nem sempre ela acerta!(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004050000 -0300" stop="20221004053000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Série De Documentário: Finding Josef A Série Por Trás Da Cena (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Neste episódio o desafio da produção independente. A Produção chega a Capital do Brasil. Mais de 500 figurantes na cena da Torre de TV. Fernanda Brum revela a semelhança do Personagem com a sua vó e Daniela Escobar fala como foi sua participação no Filme Finding Josef.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004053000 -0300" stop="20221004054500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004054500 -0300" stop="20221004060000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Imortais da Academia Maranhense de Letras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série Imortais da Academia Maranhense de Letras apresenta a história dos doze escritores que fundaram aquela que é a mais importante instituição cultural do Maranhão.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004060000 -0300" stop="20221004070000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Partiu?! (?)</title>
+    <sub-title lang="pt">Partiu?!</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Samuel é amigo de Andressa, que após a trágica perda do pai resolve ir procurar seu avô. A única pista é um pingente em forma de navio, que o pai da garota lhe deu antes de morrer.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221004070000 -0300" stop="20221004070500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Interprograma: Armazém Pop (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Armazém Pop é o lugar onde todo amante do cinema, dos quadrinhos, dos games, da música e das nerdices em geral pode se sentir em casa. Aqui você encontrará curiosidades sobre todos esses assuntos e as novidades do mundo das artes e entretenimento.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004070500 -0300" stop="20221004074300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman (?)</title>
+    <sub-title lang="pt">Curta In Box: O Depoimento de Ivo Zimmerman</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Curtas-metragens dramáticos,românticos ou hilários. Qual você prefere? O Curta in Box tem todos e aqui eles são a atração principal.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004074300 -0300" stop="20221004080000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Por Conta da Casa (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Para ir para a faculdade e voltar para casa, uma jovem precisa pegar o trem e o ônibus. Aquilo que primeiro parecia ser a pior parte de seu dia, torna-se uma atividade interessante, quando a menina mostra um grande talento para fazer amizades.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004080000 -0300" stop="20221004092400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">A3 (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;1953. Dona Adalgisa e Rodolfo recebem visitas especiais para o fim de semana: seus inquilinos Leonor e seu marido, Genésio.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930012500 -0300" stop="20220930020300 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cadu conseguiu que o diretor o transferisse para outro presídio, onde estaria bem mais seguro. Porém, o preço desse favor foi alto, e Malu é obrigada a hipotecar a casa.(n)</desc>
+  <programme start="20221004092400 -0300" stop="20221004093000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Amiga Virtual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ana é uma jovem que vive em função de suas redes sociais e se disponibiliza a fazer companhia, virtualmente, para pessoas que entram em contato buscando alguém para estar junto.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004093000 -0300" stop="20221004100000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Marias (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Reflexões, medos íntimos revelados, angústias e denúncias... Frutos criados por fortes verdades e gritos silenciosos.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004100000 -0300" stop="20221004103000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Série De Documentário: Animais Sem Lar (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Abandono aprofunda a análise sobre o que leva um humano a abandonar um animal, quais as consequências para os animais e para a saúde pública,  fala das mudanças no manejo dos animais pela Prefeitura de São Paulo ao longo das ultimas décadas, da superlotação dos abrigos e da importância da posse responsável e do que é preciso ter em mente para adotar um animal e das mudanças na legislação legislação.Alessandro Desco, protetor especializado em pitbulls fala de sua trajetória resgatando esses animais e como é especificamente difícil para um pitbull sobreviver nas ruas ao ser abandonado.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004103000 -0300" stop="20221004113000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Cidades de Cinema (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;João Acaiabe apresenta a cidade de São Paulo, uma sociedade ascendente, florescente, rica e com muita influência da migração.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004113000 -0300" stop="20221004120000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Retratos do Cárcere (?)</title>
+    <sub-title lang="pt">Retratos Do Cárcere</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;As deficiências do sistema penitenciário brasileiro e seus reflexos na criminalidade organizada e na própria sociedade são temas da série documental RETRATOS DO CÁRCERE.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004120000 -0300" stop="20221004123000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Conexão Juventudes (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Contraturno é um documentário que acompanha a vida de Vitor e Renata, dois adolescentes que estudam e trabalham na cidade de Urutai, interior de Goiás durante a retomada das aulas presenciais. Mas, para eles, há um desafio em especial: conciliar a rotina da adolescência, os estudos e o trabalho. O filme aborda alguns dos motivos de abandono e evasão, a crise que a pandemia projetou na educação, e a jornada dupla de adolescentes e como os marcadores raciais atravessam tudo isso.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004123000 -0300" stop="20221004130000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Mulheres Mix (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Carla e Cláudia convidam mulheres com idades, profissões e experiências diferentes para debater temas atuais e de interesse das mulheres.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004130000 -0300" stop="20221004141600 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Prime.doc: 30 Dias Um Carnaval Entre a Alegria e a Desilusão (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Como fazer um desfile acontecer sem verba? Como a escola de samba sobrevive? Quais os percalços que uma escola enfrenta até chegar no grande dia de seu desfile na Sapucaí?(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221004141600 -0300" stop="20221004144400 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Para Minha Gata Mieze (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Francisco é um jovem veterinário que em horas vagas cuida de gatos abandonados. Um dia ele começa a ser perseguido por homofóbicos.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930020300 -0300" stop="20220930025700 -0300" channel="Star Hits 1">
-    <title lang="pt">Aqui na Terra (?)</title>
-    <sub-title lang="pt">Aqui na Terra</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Rocha se recusa a negociar com seus rivais e ganha novos inimigos. Carlos descobre uma pessoa do passado de seu pai e recupera a esperança de descobrir a verdade.(n)</desc>
+  <programme start="20221004144400 -0300" stop="20221004150000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Invasão Drag (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Retratando o surgimento de uma nova geração de Drag queens oriundas de diversas classes sociais pautadas no impacto das novas tecnologias em suas vivências e que buscam cada vez mais visibilidade na sociedade, Invasão Drag pretende dar voz a uma cultura sempre deixada ao largo das representações políticas, sociais, econômicas.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004150000 -0300" stop="20221004184500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Infomercial: 1001 Noites (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Programa de venda de jóias.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004184500 -0300" stop="20221004190000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Por Trás das Câmeras (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Baseado no livro de Fernando Moraes relata a vida da espiã Olga, vivida por Camila Morgado, com cenas relativas à Alemanha onde nasceu.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221004190000 -0300" stop="20221004193000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Onde Está O Cinema Brasileiro? (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A série traça um recorte contemporâneo da produção audiovisual independente brasileira. Para conhecer essa produção e quem a faz a equipe percorreu festivais de cinema do circuito nacional para encontrar os realizadores, o público que vai aos festivais, entender a relação estabelecida com o território que acontece os festivais, conhecer as realidades de produção e os filmes que estão sendo produzidos e exibidos. A partir de uma narrativa dinâmica e de metacinema, pelo protagonismo da equipe, ilustrando a representação de um processo de realização audiovisual que a série foi produzida. Nos permitindo conhecer o que se intitula "cinema independente", um cinema que não vemos nas salas comerciais,só nos festivais de cinema pelos cantos do país.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004193000 -0300" stop="20221004200000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Série De Documentário: A Pedra E A Palavra: Padre Antônio Vieira (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;A vida de Vieira foi muito marcada pelo holandeses, seja pelo fato deles terem invadido o Brasil, e Vieira presenciou esses acontecimentos, seja por eles terem sido decisivos nos negócios diplomáticos nos quais Vieira se envolveu.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004200000 -0300" stop="20221004203000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Via Pública (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Dentre suas pedaladas matinais e um trabalho exigente, Ramiro não tem tempo a perder.(n)</desc>
+    <rating system="BR">
+      <value>12</value>
+    </rating>
+  </programme>
+  <programme start="20221004203000 -0300" stop="20221004210000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Banalidade do Mal (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Atendendo ao chamado de um assassinato em uma lanchonete, Daniel, Renata e Postiga iniciam a investigação sobre a morte de Vitor, garoto executado com 11 tiros.(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930025700 -0300" stop="20220930033700 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Conhecemos um primeiro cliente: jogador de baseball cubano buscando entrar para jogar nas grandes ligas americanas, mas não antes de servir como um jogador escondido de substituição para os Naco Coyotes, o time local de Gamaliel e Morris.(n)</desc>
+  <programme start="20221004210000 -0300" stop="20221004220000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Submersos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;"Branco investiga Nando e descobre sua relação com Lobo, comparsa de Mendes no tráfico, associando Nando ao negócio. Flávia também investiga Mendes e discute com Nando sobre sua ida para a Argentina.".(n)</desc>
     <rating system="BR">
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930033700 -0300" stop="20220930041700 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O dono de um circo deve levar seu tigre através da fronteira para ver um veterinário estando o animal exposto ao tempo...o qual deve ou não ser porque ele traz cocaína escondida dentro de seu corpo.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930041700 -0300" stop="20220930050200 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um político mexicano está em fuga (uma raridade), enquanto é procurado em seu estado natal por fraude que soma milhões, e agora que ele procura atravessar a fronteira aos EUA onde ele pode desaparecer.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930050200 -0300" stop="20220930054600 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Tere, uma bonita mulher de fora da cidade, está tentando cruzar a fronteira para reunir-se com seu marido, que apenas acaba de começar uma vida com uma nova família. Gamaliel se apaixona perdidamente por ela.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930054600 -0300" stop="20220930062500 -0300" channel="Star Hits 1">
-    <title lang="pt">Run Coyote Run (?)</title>
-    <sub-title lang="pt">Run Coyote Run</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O grupo sinaloense de música "Colmillo de Plata" tem um show agendado em Texas e deve atravessar a fronteira 9-1-1. Existe apenas um detalhe pequeno, dos 16 da banda, somente 2 possuem visto.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930062500 -0300" stop="20220930064900 -0300" channel="Star Hits 1">
-    <title lang="pt">Bless This Mess (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Um tornado atinge Bucksnort. Mike e Beau ainda discordam sobre os seus negócios de ovos e quem ganhará o contrato do restaurante de Dolores.(n)</desc>
+  <programme start="20221004220000 -0300" stop="20221004233000 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Sessão Prime Box: Finding Josef (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O polonês Ian Kowalski vem ao Brasil procurar Josef, o irmão perdido. Sem falar português e sem dinheiro vira andarilho pelo nordeste.(n)</desc>
     <rating system="BR">
       <value>10</value>
     </rating>
   </programme>
-  <programme start="20220930064900 -0300" stop="20220930074500 -0300" channel="Star Hits 1">
-    <title lang="pt">Harlots (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Os eventos desastrosos da noite anterior deixam toda a cidade em apuros. À medida que mais detalhes são descobertos, a suspeita começa a se espalhar pelo Soho. Quem é o culpado por essa tragédia?(n)</desc>
+  <programme start="20221004233000 -0300" stop="20221004233500 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Interprograma: Armazém Pop (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O Armazém Pop é o lugar onde todo amante do cinema, dos quadrinhos, dos games, da música e das nerdices em geral pode se sentir em casa. Aqui você encontrará curiosidades sobre todos esses assuntos e as novidades do mundo das artes e entretenimento.(n)</desc>
     <rating system="BR">
-      <value>14</value>
+      <value>livre</value>
     </rating>
   </programme>
-  <programme start="20220930074500 -0300" stop="20220930083900 -0300" channel="Star Hits 1">
-    <title lang="pt">Harlots (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Margaret decide se vingar, e a sua família se pergunta o até onde ela irá para fazer justiça por aqueles que ela ama. Será que North e Lucy poderão correr contra o tempo e protegê-la da lei?(n)</desc>
+  <programme start="20221004233500 -0300" stop="20221004235300 -0300" channel="Prime Box Brasil">
+    <title lang="pt">Curta In Box: Super Blue (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;De coração partido graças ao fim de um namoro, Giba caminha sem direção. Ao acaso, encontra seu amigo Conrado, que lhe apresenta Bia.(n)</desc>
     <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930083900 -0300" stop="20220930093000 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Após reverter o golpe de Bruninho Bagdá, Evandro se torna líder do tráfico no Morro do Dendê. Seguindo de perto a escalada do traficante, Morello invade o morro na operação para travar a entrada de drogas e armas. Em meio ao tiroteio, Evandro é ajudado por Geise, enquanto Arlete encontra na delegada Andreia, parceira de Morello, uma possível aliada para salvar o filho dele mesmo.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930093000 -0300" stop="20220930101600 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;No Paraguai, afim de eliminar os intermediários das drogas e armas, Evandro orquestra um sofisticado plano de tráfico internacional e acaba descobrindo a cocaína mais pura do mercado: o "ouro branco". Arrependida por denunciar o destino do filho, Arlete se afasta da polícia, mas Morello, utilizando estratégias nada convencionais, persegue os rastros de Evandro e chega cada vez mais perto do traficante.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930101600 -0300" stop="20220930110600 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Na operação chefiada por Morello para prender Evandro, uma civil é morta e o policial é suspenso da Federal. Já os negócios no Dendê, agora capitaneados pelo "ouro branco" vindo da Bolívia, se expandem. Enquanto Morello investiga o traficante por conta própria, Evandro se consolida como um dos maiores traficantes da cidade, deixando sua família vulnerável, especialmente a mãe Arlete.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930110600 -0300" stop="20220930115100 -0300" channel="Star Hits 1">
-    <title lang="pt">Riviera (?)</title>
-    <sub-title lang="pt">Riviera</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O assassinato de Victor comove toda Buenos Aires, além de impactar a amizade entre Georgina e Gabriel. Eles poderão manter o foco em sua busca por justiça em meio às consequências da tragédia?(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930115100 -0300" stop="20220930123400 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930123400 -0300" stop="20220930131900 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930131900 -0300" stop="20220930140300 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930140300 -0300" stop="20220930144700 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cookie se frustra com Lucious que luta para aceitar que o seu relacionamento acabou.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930144700 -0300" stop="20220930153100 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O mundo dos Lyon vira de cabeça para baixo quando eles enfrentam uma perda, o que força um deles a lidar com um trauma.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930153100 -0300" stop="20220930161700 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious busca um contrato de gravação para Yana, mas recebe uma resposta surpreendente dos executivos da gravadora.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930161700 -0300" stop="20220930170500 -0300" channel="Star Hits 1">
-    <title lang="pt">The New Pope (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma rádio faz a transmissão da respiração de Pio XIII, agora regular e apenas interrompida por suspiros estranhos.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930170500 -0300" stop="20220930180500 -0300" channel="Star Hits 1">
-    <title lang="pt">The New Pope (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voiello se curvou enquanto as políticas de seu sucessor, Assente, minam a credibilidade da Igreja e a ameaça terrorista se torna cada vez mais ameaçadora.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930180500 -0300" stop="20220930190200 -0300" channel="Star Hits 1">
-    <title lang="pt">Impuros (?)</title>
-    <sub-title lang="pt">Impuros</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro negocia com os Urquiza pois perdeu um carregamento de drogas. Para piorar, os irmãos descobrem sobre o laboratório de Evandro. Sentindo-se traído, Arturo fecha um negócio com Salvador, o que pode colocar Evandro e sua família em risco. Morello recebe uma mala de grampo e consegue monitorar o telefone do piloto Jorge, peça importante no tráfico internacional.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930190200 -0300" stop="20220930194000 -0300" channel="Star Hits 1">
-    <title lang="pt">1 Contra Todos (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Apresenta a história de Cadu, um defensor público que vê sua vida mudar após ser confundido com um traficante e acabar preso.(n)</desc>
-    <rating system="BR">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20220930194000 -0300" stop="20220930202300 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930202300 -0300" stop="20220930210800 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930210800 -0300" stop="20220930215300 -0300" channel="Star Hits 1">
-    <title lang="pt">This Is Us (?)</title>
-    <sub-title lang="pt">This Is Us</sub-title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930215300 -0300" stop="20220930223900 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Cookie se frustra com Lucious que luta para aceitar que o seu relacionamento acabou.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930223900 -0300" stop="20220930232200 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;O mundo dos Lyon vira de cabeça para baixo quando eles enfrentam uma perda, o que força um deles a lidar com um trauma.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
-    </rating>
-  </programme>
-  <programme start="20220930232200 -0300" stop="20221001000800 -0300" channel="Star Hits 1">
-    <title lang="pt">Empire (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious busca um contrato de gravação para Yana, mas recebe uma resposta surpreendente dos executivos da gravadora.(n)</desc>
-    <rating system="BR">
-      <value>14</value>
+      <value>10</value>
     </rating>
   </programme>
   <programme start="20221001000800 -0300" stop="20221001005200 -0300" channel="Star Hits 1">
@@ -2767,172 +2581,199 @@
       <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930000000 -0300" stop="20220930010000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221003231000 -0300" stop="20221004005300 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;De volta à Federal, Morello executa uma operação na igreja do Dendê e Arlete acaba sequestrada por Britto. Evandro, com as contas do Comando bloqueadas pela PF, se vê em uma encruzilhada. Seguro de que Morello é o mandante do sequestro, Evandro ameaça sua família. Mesmo após a liberação de Arlete, Evandro se arriscará em um golpe perverso que mudará a jornada do policial federal.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930010000 -0300" stop="20220930020000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004005300 -0300" stop="20221004014200 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;O violento assassinato de Charles repercute em todo o mundo. Morello recebe carta branca para caçar seu alvo, Evandro. Arlete, Geise e Aírton são levados para longe do morro contra a própria vontade. Sem o apoio do Comando, Evandro foge para a Bolívia. Mas para se estabelecer no país, ele precisará lidar com os Irmãos Urquiza e a caçada de Morello.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930020000 -0300" stop="20220930030000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004014200 -0300" stop="20221004024000 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Evandro tenta se estabelecer na Bolívia com ajuda dos Irmãos Urquiza. Em uma operação extraordinária, Morello finalmente prende Evandro. Detido em Bangu, ele recebe a visita da mãe, que agora sabe do seu real papel na morte do irmão Zeca. Em meio à uma rebelião liderada por Bruninho Bagdá e Salvador, Evandro se surpreende com a reaparição de um velho amigo como um possível aliado para poder seguir com vida.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930030000 -0300" stop="20220930040000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004024000 -0300" stop="20221004032400 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930040000 -0300" stop="20220930050000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004032400 -0300" stop="20221004040700 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930050000 -0300" stop="20220930060000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004040700 -0300" stop="20221004045200 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930060000 -0300" stop="20220930070000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004045200 -0300" stop="20221004053500 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Malik observa Randall no trabalho. Kevin se esforça para se aproximar do novo diretor de seu filme. Já Jack e Rebecca lutam para conseguir pôr os bebês para dormir.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930070000 -0300" stop="20220930080000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004053500 -0300" stop="20221004100900 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kate confronta o seu passado. A fama de Randall após o vídeo viral o leva a uma descoberta inesperada. Além disso, Kevin pensa no seu futuro e decide qual é o melhor caminho a seguir.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930080000 -0300" stop="20220930090000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004100900 -0300" stop="20221004103200 -0300" channel="Star Hits 1">
+    <title lang="pt">Bless This Mess (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Enquanto limpa o porão, Rio brinca com o fato de Mike sempre abandonar os seus hobbies e vários projetos. Preocupado com esse comentário, Mike tenta provar que Rio está errada. Já Constance tenta terminar os seus empenhos românticos com o pastor Paul.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>10</value>
     </rating>
   </programme>
-  <programme start="20220930090000 -0300" stop="20220930100000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004103200 -0300" stop="20221004112300 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930100000 -0300" stop="20220930110000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004112300 -0300" stop="20221004120700 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina e Gabriel conseguem fugir, porém, os seus inimigos, agora estão cientes de que estão se aproximando da verdade. Por quanto tempo eles ficarão fora de perigo?(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930110000 -0300" stop="20220930120000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004120700 -0300" stop="20221004124900 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930120000 -0300" stop="20220930130000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004124900 -0300" stop="20221004133400 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930130000 -0300" stop="20220930140000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004133400 -0300" stop="20221004141800 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930140000 -0300" stop="20220930150000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004141800 -0300" stop="20221004150400 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Candace e Carol levam Cookie em uma viagem de meninas a Miami para se divertir e deixar de pensar em Lucious. Após uma visita de Leah, Lucious tem de lidar com autoanálise.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930150000 -0300" stop="20220930160000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004150400 -0300" stop="20221004155200 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Uma rádio faz a transmissão da respiração de Pio XIII, agora regular e apenas interrompida por suspiros estranhos.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930160000 -0300" stop="20220930170000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004155200 -0300" stop="20221004165000 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voiello se curvou enquanto as políticas de seu sucessor, Assente, minam a credibilidade da Igreja e a ameaça terrorista se torna cada vez mais ameaçadora.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930170000 -0300" stop="20220930180000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004165000 -0300" stop="20221004175000 -0300" channel="Star Hits 1">
+    <title lang="pt">The New Pope (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Voiello descobre o segredo de João Paulo III. Enquanto isso, Lenny Belardo voltou secretamente ao Vaticano.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930180000 -0300" stop="20220930190000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004175000 -0300" stop="20221004184000 -0300" channel="Star Hits 1">
+    <title lang="pt">1 Contra Todos (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Pepita, China e Juan conseguem escapar vivos do ataque à fazenda de Pepe e Cadu e Pepe, muito ferido, os encontra para se esconderem de Paco, juntos. Malu pede ajuda de Gael para esconder o corpo do Juiz.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930190000 -0300" stop="20220930200000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004184000 -0300" stop="20221004192700 -0300" channel="Star Hits 1">
+    <title lang="pt">Impuros (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Bruninho Bagdá, chefe do tráfico no Parque Royal, arma um esquema com o policial civil Britto para levar uma grana e culpar Evandro perante o Comando. Prevendo o destino arriscado do filho, Arlete tenta dissuadi-lo das escolhas erradas enquanto ele engata um namoro com Geise. Morello segue as trilhas de Evandro com perspicácia e começa a decifrar a engenhosidade de seu rival.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930200000 -0300" stop="20220930210000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004192700 -0300" stop="20221004201600 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Determinada a descobrir a verdade sobre a conspiração mortal envolvendo Alex, Ellen e Alsina-Suarez, a busca de Georgina é lançada ao caos.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930210000 -0300" stop="20220930220000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004201600 -0300" stop="20221004205900 -0300" channel="Star Hits 1">
+    <title lang="pt">Riviera (?)</title>
+    <sub-title lang="pt">Riviera</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Georgina e Gabriel conseguem fugir, porém, os seus inimigos, agora estão cientes de que estão se aproximando da verdade. Por quanto tempo eles ficarão fora de perigo?(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>16</value>
     </rating>
   </programme>
-  <programme start="20220930220000 -0300" stop="20220930230000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004205900 -0300" stop="20221004214200 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Ganhadora do Globo de Ouro, do Emmy e do Critics Choice Awards. "This Is Us" é a história de um grupo de pessoas cuja vida e os caminhos se cruzam de maneira inesperada.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
     </rating>
   </programme>
-  <programme start="20220930230000 -0300" stop="20221001000000 -0300" channel="Star Hits 2">
-    <title lang="pt">Programação Eventual (?)</title>
-    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+  <programme start="20221004214200 -0300" stop="20221004222700 -0300" channel="Star Hits 1">
+    <title lang="pt">This Is Us (?)</title>
+    <sub-title lang="pt">This Is Us</sub-title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Kevin e Madison passam pelos desafios de seu noivado enquanto Kate e Toby dão um grande passo na sua jornada de adoção. Já Jack e Rebecca se preparam para o lidar com a puberdade.(n)</desc>
     <rating system="BR">
-      <value>livre</value>
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004222700 -0300" stop="20221004231100 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Lucious, ainda obcecado com o seu passado, tenta fazer as pazes com um velho amigo. Cookie tenta tomar controle da casa.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
+    </rating>
+  </programme>
+  <programme start="20221004231100 -0300" stop="20221004235700 -0300" channel="Star Hits 1">
+    <title lang="pt">Empire (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Candace e Carol levam Cookie em uma viagem de meninas a Miami para se divertir e deixar de pensar em Lucious. Após uma visita de Leah, Lucious tem de lidar com autoanálise.(n)</desc>
+    <rating system="BR">
+      <value>14</value>
     </rating>
   </programme>
   <programme start="20221001000000 -0300" stop="20221001010000 -0300" channel="Star Hits 2">
@@ -3426,6 +3267,139 @@
     </rating>
   </programme>
   <programme start="20221003220000 -0300" stop="20221003230000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221003230000 -0300" stop="20221004000000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004000000 -0300" stop="20221004010000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004010000 -0300" stop="20221004020000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004020000 -0300" stop="20221004080000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004080000 -0300" stop="20221004090000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004090000 -0300" stop="20221004100000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004100000 -0300" stop="20221004110000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004110000 -0300" stop="20221004120000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004120000 -0300" stop="20221004130000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004130000 -0300" stop="20221004140000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004140000 -0300" stop="20221004150000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004150000 -0300" stop="20221004160000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004160000 -0300" stop="20221004170000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004170000 -0300" stop="20221004180000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004180000 -0300" stop="20221004190000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004190000 -0300" stop="20221004200000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004200000 -0300" stop="20221004210000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004210000 -0300" stop="20221004220000 -0300" channel="Star Hits 2">
+    <title lang="pt">Programação Eventual (?)</title>
+    <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
+    <rating system="BR">
+      <value>livre</value>
+    </rating>
+  </programme>
+  <programme start="20221004220000 -0300" stop="20221004230000 -0300" channel="Star Hits 2">
     <title lang="pt">Programação Eventual (?)</title>
     <desc lang="pt">&lt;div style="font-size:16px"&gt;Sinopse Não Disponível.(n)</desc>
     <rating system="BR">
